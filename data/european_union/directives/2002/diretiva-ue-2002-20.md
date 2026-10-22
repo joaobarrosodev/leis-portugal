@@ -35,6 +35,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-12-21'
+version_history:
+  file: diretiva-ue-2002-20.versoes.json
+  count: 3
+  source_lastmod: '2020-12-21'
+  versions:
+  - date: '2002-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-19'
+    amending: eu:celex:32009L0140:por
+    amending_title: DIRECTIVA 2009/140/CE DO PARLAMENTO EUROPEU E DO CONSELHO, Texto relevante para efeitos do EEE de 25 de
+      Novembro de 2009,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Autorização geral de redes e serviços de comunicações electrónicas
+    - Altera Artigo 4.º — Lista mínima de direitos decorrentes da autorização geral
+    - Altera Artigo 5.º — Direitos de utilização de radiofrequências e números
+    - Altera Artigo 6.º — Condições associadas à autorização geral e aos direitos de utilização de radiofrequências e de números,
+      e obrigações específicas
+    - Altera Artigo 7.º — Procedimento aplicável à limitação do número de direitos de utilização de radiofrequências a conceder
+    - Altera Artigo 10.º — Respeito das condições da autorização geral ou dos direitos de utilização e das obrigações específicas
+    - Altera Artigo 11.º — Informações exigidas no âmbito da autorização geral, dos direitos de utilização e das obrigações
+      específicas
+    - Altera Artigo 14.º — Alteração dos direitos e obrigações
+    - Altera Artigo 15.º — Publicação de informações
+    - Altera Artigo 17.º — Autorizações existentes
+    - Altera Artigo 20.º — Destinatários
+    - Altera ANEXO
+    - Adita A. Condições que podem ser associadas à autorização geral
+    - Adita B. Condições que podem ser associadas aos direitos de utilização de radiofrequências
+    - Adita C. Condições que podem ser associadas aos direitos de utilização de números
+    - Adita Notas
+  - date: '2020-12-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Autorização geral de redes e serviços de comunicações electrónicas
+    - Suprime Artigo 4.º — Lista mínima de direitos decorrentes da autorização geral
+    - Suprime Artigo 5.º — Direitos de utilização de radiofrequências e números
+    - Suprime Artigo 6.º — Condições associadas à autorização geral e aos direitos de utilização de radiofrequências e de
+      números, e obrigações específicas
+    - Suprime Artigo 7.º — Procedimento aplicável à limitação do número de direitos de utilização de radiofrequências a conceder
+    - Suprime Artigo 8.º — Consignação harmonizada de radiofrequências
+    - Suprime Artigo 9.º — Declarações destinadas a facilitar o exercício dos direitos de instalar recursos e dos direitos
+      de interligação
+    - Suprime Artigo 10.º — Respeito das condições da autorização geral ou dos direitos de utilização e das obrigações específicas
+    - Suprime Artigo 11.º — Informações exigidas no âmbito da autorização geral, dos direitos de utilização e das obrigações
+      específicas
+    - Suprime Artigo 12.º — Encargos administrativos
+    - Suprime Artigo 13.º — Taxas aplicáveis aos direitos de utilização e direitos de instalação de recursos
+    - Suprime Artigo 14.º — Alteração dos direitos e obrigações
+    - Suprime Artigo 15.º — Publicação de informações
+    - Suprime Artigo 16.º — Procedimentos de análise
+    - Suprime Artigo 17.º — Autorizações existentes
+    - Suprime Artigo 18.º — Transposição
+    - Suprime Artigo 19.º — Entrada em vigor
+    - Suprime Artigo 20.º — Destinatários
+    - Suprime ANEXO
+    - Suprime A. Condições que podem ser associadas à autorização geral
+    - Suprime B. Condições que podem ser associadas aos direitos de utilização de radiofrequências
+    - Suprime C. Condições que podem ser associadas aos direitos de utilização de números
+    - Suprime Notas
 identifiers:
   celex: 32002L0020
   eli: http://data.europa.eu/eli/dir/2002/20/oj
@@ -49,7 +116,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e4802bcd-0e9b-44ca-ab07-7d8118c695d6.0010
   content_url: http://publications.europa.eu/resource/cellar/de18bed9-33db-11eb-b27b-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0020-20201221
-  retrieved_at: '2026-10-22T02:42:30Z'
+  retrieved_at: '2026-10-22T14:51:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-31T10:17:58.151+01:00'
 integrity:
@@ -58,9 +125,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:30Z'
-  notes: Texto consolidado 02002L0020-20201221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:51:21Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2002-20.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -285,16 +352,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:30Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:51:21Z'
+  warnings: []
   errors: []
 ---
 

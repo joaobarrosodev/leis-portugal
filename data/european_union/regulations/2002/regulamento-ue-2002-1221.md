@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: regulamento-ue-2002-1221.versoes.json
+  count: 2
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2002-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0517:por
+    amending_title: REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 5.º — Calendário para a transmissão dos dados trimestrais
+    - Altera Artigo 6.º — Transmissão de dados retrospectivos
+    - Altera Artigo 10.º — Entrada em vigor
+    - Adita ANEXO
+    - Adita CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS
+    - Adita Notas
+    - Suprime ANEXO — CONTEÚDO DAS CONTAS NÃO FINANCEIRAS TRIMESTRAIS DAS ADMINISTRAÇÕES PÚBLICAS
 identifiers:
   celex: 32002R1221
   eli: http://data.europa.eu/eli/reg/2002/1221/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e702a4bb-a600-4015-92eb-52940034704a.0010
   content_url: http://publications.europa.eu/resource/cellar/88a42fc9-b40e-11e3-86f9-01aa75ed71a1.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1221-20130701
-  retrieved_at: '2026-10-22T02:47:29Z'
+  retrieved_at: '2026-10-22T14:52:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T10:34:19.851+01:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:47:29Z'
-  notes: Texto consolidado 02002R1221-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:53Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2002-1221.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,29 +155,19 @@ relationships:
   date: '2023-04-05'
 article_structure:
   article_count: 10
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:47:29Z'
+  checked_at: '2026-10-22T14:52:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 1221/2002 do Parlamento Europeu e do Conselho, de 10 de Junho de 2002
-
-> 2002R1221 — PT — 01.07.2013 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013R0517) — [REGULAMENTO (UE) N.º 517/2013 DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0517) — L 158 — 1 — 10.6.2013
-
-## REGULAMENTO (CE) N.º 1221/2002 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de Junho de 2002
 

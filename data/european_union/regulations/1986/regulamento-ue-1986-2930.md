@@ -33,6 +33,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2017-07-20'
+version_history:
+  file: regulamento-ue-1986-2930.versoes.json
+  count: 3
+  source_lastmod: '2017-07-20'
+  versions:
+  - date: '1986-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-12-29'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º — Disposição geral
+    - Adita Artigo 2.º — Comprimento
+    - Adita Artigo 3.º — Largura
+    - Adita Artigo 4.º — Arqueação
+    - Adita Artigo 5.º — Potência do motor
+    - Adita Artigo 6.º — Data de entrada em serviço
+    - Adita Artigo 7.º — Disposições finais
+    - Adita ANEXO — Novos navios < 15 metros de comprimento de fora a fora
+    - Suprime Artigo 1º — Disposição geral
+    - Suprime Artigo 2º — Comprimento
+    - Suprime Artigo 3º — Largura
+    - Suprime Artigo 4º — Arqueação
+    - Suprime Artigo 5º — Potência do motor
+    - Suprime Artigo 6º — Data de entrada em serviço
+    - Suprime Artigo 7º — Disposições finais
+  - date: '2017-07-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Disposição geral
+    - Suprime Artigo 2.º — Comprimento
+    - Suprime Artigo 3.º — Largura
+    - Suprime Artigo 4.º — Arqueação
+    - Suprime Artigo 5.º — Potência do motor
+    - Suprime Artigo 6.º — Data de entrada em serviço
+    - Suprime Artigo 7.º — Disposições finais
+    - Suprime ANEXO — Novos navios < 15 metros de comprimento de fora a fora
 identifiers:
   celex: 31986R2930
   eli: http://data.europa.eu/eli/reg/1986/2930/oj
@@ -47,7 +89,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fcbc23d3-dfb8-4fa7-bf15-62f2cafb04bf.0011
   content_url: http://publications.europa.eu/resource/cellar/b4e3ca31-3e77-4f17-9cbf-04e3883b42bc.0015.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01986R2930-20170720
-  retrieved_at: '2026-10-22T02:44:03Z'
+  retrieved_at: '2026-10-22T14:34:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T13:17:21.042+01:00'
 integrity:
@@ -56,9 +98,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:03Z'
-  notes: Texto consolidado 01986R2930-20170720.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:34:59Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-1986-2930.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,16 +163,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:03Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T14:34:59Z'
+  warnings: []
   errors: []
 ---
 

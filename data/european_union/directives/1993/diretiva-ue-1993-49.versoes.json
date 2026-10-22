@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993L0049:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993L0049-20230102",
+ "dre_path": null,
+ "source_lastmod": "2023-01-02",
+ "versions": [
+  {
+   "date": "1993-10-07",
+   "future": false,
+   "celex": "31993L0049",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cdb655b5dace06c6",
+    "d3febd8c18284f12",
+    "88f4ad0982be95fb",
+    "064775f3ae8c336a",
+    "dfa7395c51d7e1b9",
+    "2ccb5aff1dfe665f",
+    "4f20bd87a2289d66",
+    "134d36514be38ed1",
+    "6f6b016f9444ee86",
+    "ebe738130f84ab11",
+    "9b741dda84f1a0aa"
+   ]
+  },
+  {
+   "date": "1999-12-31",
+   "future": false,
+   "celex": "01993L0049-19991231",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime ANEXO — /* Quadros: ver JO */"
+   ],
+   "fragments": [
+    "4e10d3e43eff02bb",
+    "31075d06b60af578",
+    "6210514ad2b39f18",
+    "c77233f192e693b1",
+    "b53e6c5dd3b6bbb1",
+    "b01ab9fc5035bd76",
+    "43611dbdb9b681e7"
+   ]
+  },
+  {
+   "date": "2018-10-01",
+   "future": false,
+   "celex": "01993L0049-20181001",
+   "acts": [
+    {
+     "id": "eu:celex:31999L0067:por",
+     "title": "DIRECTIVA 1999/67/CE DA COMISSÃO de 28 de Junho de 1999",
+     "published": null,
+     "celex": "31999L0067"
+    },
+    {
+     "id": "eu:celex:32018L0484:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2018/484 DA COMISSÃO de 21 de março de 2018",
+     "published": null,
+     "celex": "32018L0484"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Adita Artigo 3.º-A",
+    "Adita ANEXO",
+    "Adita LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+    "Adita Notas",
+    "Suprime ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE"
+   ],
+   "fragments": [
+    "53cc260bb74bc9d4",
+    "4586662c8735bc15",
+    "f9aca776fdde2448",
+    "a87bbe616c2594bb",
+    "b310bec28080ff1c",
+    "b53e6c5dd3b6bbb1",
+    "b01ab9fc5035bd76",
+    "10220b9774fa9034",
+    "5746c01e0483066d",
+    "3e67df6e4aa43a1c"
+   ]
+  },
+  {
+   "date": "2020-02-16",
+   "future": false,
+   "celex": "01993L0049-20200216",
+   "acts": [
+    {
+     "id": "eu:celex:32020L0177:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020",
+     "published": null,
+     "celex": "32020L0177"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera ANEXO",
+    "Altera Notas",
+    "Suprime Artigo 3.º-A",
+    "Suprime LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE"
+   ],
+   "fragments": [
+    "53cc260bb74bc9d4",
+    "884519bf04549743",
+    "a87bbe616c2594bb",
+    "f1e5c9fad0455053",
+    "b53e6c5dd3b6bbb1",
+    "b01ab9fc5035bd76",
+    "d815bdcdd3c36c3d",
+    "b5ed11a52614e526"
+   ]
+  },
+  {
+   "date": "2023-01-02",
+   "future": false,
+   "celex": "01993L0049-20230102",
+   "acts": [
+    {
+     "id": "eu:celex:32022L2438:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2022/2438 DA COMISSÃO de 12 de dezembro de 2022",
+     "published": null,
+     "celex": "32022L2438"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera ANEXO",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "53cc260bb74bc9d4",
+    "4d8eebe6276411f7",
+    "a87bbe616c2594bb",
+    "9b5b8a2b40842709",
+    "b53e6c5dd3b6bbb1",
+    "b01ab9fc5035bd76",
+    "1c2ebf0eb0e092ab",
+    "813fcb82d2f177c8"
+   ]
+  }
+ ],
+ "fragments": {
+  "cdb655b5dace06c6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 93/49/CEE da Comissão, de 23 de Junho de 1993, que estabelece a ficha contendo as condições a satisfazer pelas plantas ornamentais e materiais de propagação de plantas ornamentais, em conformidade com a Directiva 91/682/CEE do Conselho** *Jornal Oficial nº L 250 de 07/10/1993 p. 0009 - 0018 Edição especial finlandesa: Capítulo 3 Fascículo 52 p. 0238 Edição especial sueca: Capítulo 3 Fascículo 52 p. 0238*\n\nDIRECTIVA 93/49/CEE DA COMISSÃO de 23 de Junho de 1993 que estabelece a ficha contendo as condições a satisfazer pelas plantas ornamentais e materiais de propagação de plantas ornamentais, em conformidade com a Directiva 91/682/CEE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 91/682/CEE do Conselho, de 19 de Dezembro de 1991, relativa à comercialização de plantas ornamentais e materiais de propagação de plantas ornamentais(1), e, nomeadamente, o seu artigo 4o,\n\nConsiderando que, para efeitos da aplicação do disposto na presente directiva, é conveniente atender aos ciclos de produção dos vários materiais;\n\nConsiderando que, dadas as actuais condições de produção na Comunidade, as exigências fixadas na presente directiva devem ser consideradas, nesta fase, as normas mínimas aceitáveis; que estas exigências serão gradualmente desenvolvidas e aperfeiçoadas a fim de atingir níveis de qualidade mais elevados;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité dos materiais de propagação e das plantas ornamentais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "d3febd8c18284f12": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva estabelece a ficha referida no artigo 4o da Directiva 91/682/CEE, incluindo as exigências relativas à marcação previstas no terceiro parágrafo do artigo 11o da mesma.\n\n2. A ficha diz respeito à cultura, aos materiais de propagação de plantas ornamentais (incluindo porta-enxertos) e às plantas ornamentais deles derivadas de todos os géneros e espécies referidos no anexo II da Directiva 91/682/CEE, bem como aos porta-enxertos de outros géneros e espécies referidos no no 2 do artigo 4o da mesma, independentemente do sistema de propagação utilizado, a seguir denominados «materiais».\n\n3. O disposto na presente directiva será aplicado gradualmente, tendo em conta os ciclos de produção dos materiais referidos no no 2."
+  },
+  "88f4ad0982be95fb": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSe for caso disso, os materiais devem satisfazer as condições fitossanitárias aplicáveis na matéria estabelecidas na Directiva 77/93/CEE do Conselho(2)."
+  },
+  "064775f3ae8c336a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Sem prejuízo do disposto no artigo 2o, os materiais devem, pelo menos através de um exame visual, estar substancialmente isentos de quaisquer organismos prejudiciais e doenças com incidência significativa na qualidade, bem como dos respectivos sinais e sintomas, que reduzam a eficácia dos materiais de propagação ou das plantas ornamentais e, em especial, dos constantes em anexo, relativamente aos géneros ou espécies em causa.\n\n2. Todos os materiais que apresentem sinais ou sintomas visíveis dos organismos prejudiciais ou doenças referidos no no 1 durante o período vegetativo serão tratados de modo adequado imediatamente após o aparecimento dos mesmos ou, se for caso disso, retirados.\n\n3. No caso dos materiais de citrinos, devem ser respeitadas, igualmente, as seguintes exigências:\n\ni) Devem ser provenientes de materiais de origem que tenham sido controlados e considerados sem sintomas dos respectivos vírus, organismos similares ou doenças constantes em anexo,\n\nii) Devem ter sido controlados e considerados substancialmente isentos desses vírus, organismos similares ou doenças, desde o início do ciclo vegetativo; e\n\niii) Na última enxertia, devem ter sido enxertados em porta-enxertos não sensíveis a viróides.\n\n4. No caso dos bolbos de flores, devem ser respeitadas, igualmente, as seguintes exigências: o material de propagação deve provir directamente de material que, durante o período vegetativo, tenha sido controlado e considerado substancialmente isento de quaisquer organismos prejudiciais e doenças, bem como dos respectivos sinais e sintomas, referidos no no 1 e, em especial, dos constantes em anexo."
+  },
+  "dfa7395c51d7e1b9": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os materiais devem ter a identidade e a pureza adequadas relativamente ao género e à espécie ou, se for caso disso, ao grupo de plantas e, quando comercializados ou destinados à comercialização, com referência à variedade, nos termos do no 1 do artigo 9o da Directiva 91/682/CEE, devem, igualmente, ter a identidade e a pureza adequadas em relação à variedade.\n\n2. No caso das variedades de conhecimento geral referidas no no 2, primeiro travessão, do artigo 9o da Directiva 91/682/CEE, o fornecedor deve utilizar a designação oficial da variedade.\n\n3. No caso das variedades já objecto de um pedido no âmbito dos direitos dos obtentores, ou de um registo oficial referido no no 2, primeiro travessão, do artigo 9o da Directiva 91/682/CEE, deve ser utilizada a referência dos obtentores ou a designação proposta, até que seja concedida a autorização.\n\n4. No caso das variedades inscritas em listas mantidas pelos fornecedores nos termos do no 2, segundo travessão, do artigo 9o da Directiva 91/682/CEE, a exigência referida no no 1 relativamente à variedade deve basear-se nas descrições pormenorizadas constantes das referidas listas."
+  },
+  "2ccb5aff1dfe665f": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Os materiais devem estar substancialmente isentos de quaisquer defeitos susceptíveis de prejudicar a sua qualidade enquanto materiais de propagação ou de plantação.\n\n2. Os materiais devem apresentar o vigor e as dimensões apropriados à sua utilização como material de propagação e plantas ornamentais. Além disso, deve ser garantido um equilíbrio adequado entre as raízes, o caule e as folhas.\n\n3. No caso das sementes, além das exigências previstas no no 1, a capacidade de germinação deve ser satisfatória."
+  },
+  "4f20bd87a2289d66": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O documento redigido pelo fornecedor referido no artigo 11o da Directiva 91/682/CEE deve ser estabelecido num material adequado que não tenha sido previamente utilizado, e impresso, pelo menos, numa das línguas oficiais da Comunidade. Do documento constarão as seguintes informações:\n\ni) Indicação «Qualidade CEE»;\n\nii) Indicação do código do Estado-membro CEE;\n\niii) Indicação do organismo oficial responsável ou do respectivo código;\n\niv) Número de registo ou de acreditação;\n\nv) Nome do fornecedor;\n\nvi) Número individual de série, semana ou lote;\n\nvii) Data de emissão do documento do fornecedor;\n\nviii) Nome botânico;\n\nix) Denominação da variedade, se for caso disso. No caso dos porta-enxertos, denominação da variedade ou respectiva designação;\n\nx) Denominação do grupo de plantas, se for caso disso;\n\nxi) Quantidade;\n\nxii) No caso das importações de países terceiros nos termos do no 2 do artigo 16o da Directiva 91/682/CEE, nome do país de colheita.\n\n2. No caso de, nos termos da Directiva 92/105/CEE da Comissão(3), os materiais serem acompanhados de um passaporte fitossanitário, este constituirá, se o fornecedor assim o desejar, o documento do fornecedor referido no no 1. Não obstante, é obrigatória a menção «Qualidade CEE», bem como uma indicação do organismo oficial responsável nos termos da Directiva 91/682/CEE e a referência à denominação da variedade, do porta-enxerto ou do grupo de plantas. No caso das importações de países terceiros nos termos do no 2 do artigo 16o da Directiva 91/682/CEE, deve ser igualmente indicado o nome do país de colheita. Esta informação pode constar do mesmo documento que o passaporte fitossanitário, mas deve ser claramente separada."
+  },
+  "134d36514be38ed1": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente directiva é aplicável sem prejuízo do disposto no Regulamento (CEE) no 315/68 do Conselho(4)."
+  },
+  "6f6b016f9444ee86": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As regras relativas a essa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "ebe738130f84ab11": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 23 de Junho de 1993.\n\nPela Comissão René STEICHEN Membro da Comissão\n\n(1) JO no L 376 de 31. 12. 1991, p. 21.\n\n(2) JO no L 26 de 31. 1. 1977, p. 20.\n\n(3) JO no L 4 de 8. 1. 1993, p. 22.\n\n(4) JO no L 71 de 21. 3. 1968, p. 1."
+  },
+  "9b741dda84f1a0aa": {
+   "fragment_id": "ANEXO — /* Quadros: ver JO */",
+   "type": "divisao",
+   "heading": "ANEXO — /* Quadros: ver JO */",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — /* Quadros: ver JO */"
+  },
+  "4e10d3e43eff02bb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1993L0049 — PT — 31.12.1999 — 002.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT) [DIRECTIVA 93/49/CEE DA COMISSÃO de 23 de Junho de 1993 que estabelece a ficha contendo as condições a satisfazer pelas plantas ornamentais e materiais de propagação de plantas ornamentais, em conformidade com a Directiva 91/682/CEE do Conselho](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT) (JO L 250, 7.10.1993, p.9)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:PT:NOT) | [Directiva 1999/67/CE da Comissão de 28 de Junho de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:PT:NOT) | L 164 | 78 | 30.6.1999 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT)\n\nDIRECTIVA 93/49/CEE DA COMISSÃO\n\nde 23 de Junho de 1993\n\nque estabelece a ficha contendo as condições a satisfazer pelas plantas ornamentais e materiais de propagação de plantas ornamentais, em conformidade com a Directiva 91/682/CEE do Conselho\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 91/682/CEE do Conselho, de 19 de Dezembro de 1991, relativa à comercialização de plantas ornamentais e materiais de propagação de plantas ornamentais ([1](http://publications.europa.eu/resource/cellar/249fc644-ede0-4488-bdab-82a8cd3c954e.0018.02/DOC_1#E0001)), e, nomeadamente, o seu artigo 4.o,\n\nConsiderando que, para efeitos da aplicação do disposto na presente directiva, é conveniente atender aos ciclos de produção dos vários materiais;\n\nConsiderando que, dadas as actuais condições de produção na Comunidade, as exigências fixadas na presente directiva devem ser consideradas, nesta fase, as normas mínimas aceitáveis; que estas exigências serão gradualmente desenvolvidas e aperfeiçoadas a fim de atingir níveis de qualidade mais elevados;\n\nConsiderando que as medidas previstas na presente directiva estão em conformidade com o parecer do Comité dos materiais de propagação e das plantas ornamentais,\n\nADOPTOU A PRESENTE DIRECTIVA:\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT)"
+  },
+  "31075d06b60af578": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do disposto no artigo 2.o, os materiais devem, pelo menos através de um exame visual, estar substancialmente isentos de quaisquer organismos prejudiciais e doenças com incidência significativa na qualidade, bem como dos respectivos sinais e sintomas, que reduzam a eficácia dos materiais de propagação ou das plantas ornamentais e, em especial, dos constantes em anexo, relativamente aos géneros ou espécies em causa.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT)"
+  },
+  "6210514ad2b39f18": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os materiais devem ter a identidade e a pureza adequadas relativamente ao género e à espécie ou, se for caso disso, ao grupo de plantas e, quando comercializados ou destinados à comercialização, com referência à variedade, nos termos do n.o 1 do artigo 9.o da Directiva 91/682/CEE, devem, igualmente, ter a identidade e a pureza adequadas em relação à variedade.\n\n[▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0067:PT:NOT) —————\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31993L0049:PT:NOT)"
+  },
+  "c77233f192e693b1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva é aplicável sem prejuízo do disposto no Regulamento (CEE) n.o 315/68 do Conselho ([2](http://publications.europa.eu/resource/cellar/249fc644-ede0-4488-bdab-82a8cd3c954e.0018.02/DOC_1#E0004))."
+  },
+  "b53e6c5dd3b6bbb1": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1993. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As regras relativas a essa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "b01ab9fc5035bd76": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "43611dbdb9b681e7": {
+   "fragment_id": "ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE\n\n| Género ou espécie | Organismos prejudiciais e doenças específicas |\n| --- | --- |\n| — Begonia x hiemalis Fotsch | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Aleurodidae, em especial Bemisia tabaci — Aphelenchoides spp. — Ditylenchus destructor — Meloidogyne spp. — Myzus ornatus — Otiorrhynchus sulcatus — Sciara — Thysanoptera, em especial: — Frankliniella occidentalis |\n| Bactérias — Erwinia chrysanthemi — Rhodococcus fascians — Xanthomonas campestris pv. begoniae |  |\n| Fungos — Oídio — Fungos da podridão do colo (Phytophthora spp., Pythium spp. en Rhizoctonia spp.) |  |\n| Vírus e organismos similares e em especial — Leafcurl disease — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — Citrus | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Aleurothrixus floccosus (Mashell) — Meloidogyne spp. — Parabemisia myricae (Kuwana) — Tylenchulus semipenetrans |\n| Fungos Phytophthora spp. |  |\n| Vírus e organismos similares e em especial — Viróides como exocortis, cache-xiaxyloporosis — Doenças indutoras de sintomas idênticos aos da psorose nas folhas jovens, como: psorosis, ring spot, cristacortis, impietratura, concave gum — Infectious variegation — Citrus leaf rugose |  |\n| — Dendranthema x Grandiflorum (Ramat) Kitam | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Agromyzidae — Aleurodidae, em especial Bemisia tabaci — Aphelencoides spp. — Diarthronomia chrysanthemi — Lepidoptera, em especial: — Cacoecimorpha pronubana, Epichoristodes Acerbella — Thysanoptera, em especial: — Frankliniella occidentalis |\n| Bactérias — Agrobacterium tumefaciens — Erwinia chrysanthemi |  |\n| Fungos — Fusarium oxisporum spp. chrysanthemi — Puccinia chrysanthemi — Pythium spp. — Rhizoctonia solani — Verticillium spp. |  |\n| Vírus e organismos similares e em especial — Chrysanthemum B mosaic virus — Tomato aspermy cucumovirus |  |\n| — Dianthus Caryophyllus L. e híbridos | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Agromyzidae — Aleurodidae, em especial: — Bemisia tabaci — Thysanoptera, em especial: — Frankliniella occidentalis — Lepidoptera, em especial: — Cacoecimorpha pronubana, Epichoristodes acerbella |\n| Fungos — Alternaria dianthi — Alternaria dianthicola — Fusarium oxisporum f. spp. dianthi — Mycosphaerella dianthi — Phytophthora nicotiana sp. parasitica — Rhizoctonia solani — Podridão do colo: Fusarium spp. e Pythium spp. — Uromyces dianthi |  |\n| Vírus e organismos similares e em especial — Carnation etched ring caulimovirus — Carnation mottle carmovirus — Carnation necrotic fleck closterovirus — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — Euphorbia pulcherrima (Wild ex Kletzch) | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento Aleurodidae, em especial Bemisia tabaci |\n| Bactérias — Erwinia chrysanthemi |  |\n| Fungos — Fusarium spp. — Pythium ultimum — Phytophthora spp. — Rhizoctonia solani — Thielaviopsis basicola |  |\n| Vírus e organismos similares e em especial Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — Gerbera L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Agromyzidae — Aleurodidae, em especial: — Bemisia tabaci — Aphelenchoides spp. — Lepidoptera — Meloidogyne — Thysanoptera, em especial: — Frankliniella occidentalis |\n| Fungos — Fusarium spp. — Phytophthora cryptogea — Oídio — Rhizoctonia solani — Verticillium spp. |  |\n| Vírus e organismos similares e em especial Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — Gladiolus L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Ditylenchus dipsaci — Thysanoptera, em especial: — Frankliniella occidentalis |\n| Bactérias — Pseudomonas marginata — Rhodococcus fascians |  |\n| Fungos — Botrytis gladiolorum — Curvularia trifolii — Fusarium oxisporum spp. gladioli — Penicillium gladioli — Sclerotinia spp. — Septoria gladioli — Urocystis gladiolicola — Uromyces trasversalis |  |\n| Vírus e organismos similares e em especial — Aster yellow mycoplasm — Corky pit agent — Cucumber mosaic virus — Gladiolus ringspot virus (syn. Narcissus latent virus) — Tobacco rattle virus |  |\n| Outros organismos prejudiciais — Cyperus esculentus |  |\n| — Lilium L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Aphelenchoides spp. — Rhyzoglyphus spp. — Pratylenchus penetrans — Rotylenchus robustus — Thysanoptera, em especial: — Frankliniella occidentalis |\n| Bactérias — Erwinia carotovora subsp. carotovora — Rhodococcus fascians |  |\n| Fungos — Cylindrocarpon destructans — Fusarium oxisporum f. sp. lilii — Pythium spp. — Rhizoctonia spp. — Rhizopus spp. — Sclerotium spp. |  |\n| Vírus e organismos similares e em especial — Cucumber mosaic virus — Lily symptomless virus — Lily virus x — Tobacco rattle virus — Tulip breaking virus |  |\n| Outros organismos prejudiciais — Cyperus esculentus |  |\n| — Malus Miller | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Anarsia lineatella — Eriosoma lanigerum — Cochonilhas-diaspíneas (escamas), em especial: — Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |\n| Bactérias — Agrobacterium tumefaciens — Pseudomonas syringae pv. syringae |  |\n| Fungos — Armillariella mellea — Chondrostereum purpureum — Nectria galligena — Phytophthora cactorum — Rosellinia necatrix — Venturia spp. — Verticillium spp. |  |\n| Vírus e organismos similares Todos |  |\n| — Narcissus L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Aphelenchoides subtenuis — Ditylenchus destructor — Eumerus spp. — Merodon equestris — Pratylenchus penetrans — Rhizoglyphidae — Tarsonemidae |\n| Fungos — Fusarium oxysporum f. sp. narcissi — Sclerotinia spp. — Sclerotium bulborum |  |\n| Vírus e organismos similares e em especial — Tobacco rattle virus — Narcissus white streak agent — Narcissus yellow stripe virus |  |\n| Outros organismos prejudiciais — Cyperus esculentus |  |\n| — Pelargonium L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Aleurodidae, em especial Bemisia tabaci — Lepidoptera — Thysanoptera, em especial Frankliniella occidentalis |\n| Bactérias — Rhodococcus fascians — Xanthomonas campestris pv. pelargonii |  |\n| Fungos — Puccinia pelargonii zonalis — Fungos da podridão do colo ( Botrytis spp. e Pythium spp.) — Verticillium spp. |  |\n| Vírus e organismos similares e em especial — Pelargonium flower break carmovirus — Pelargonium leaf curl tombusvirus — Pelargonium line pattern virus — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — Phoenix | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Thysanoptera |\n| Fungos — Exosporium palmivorum — Gliocladium wermoeseni — Graphiola phoenicis — Pestalozzia phoenicis — Pythium spp. |  |\n| Vírus e organismos similares Todos |  |\n| — Pinus nigra | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Blastophaga spp. — Rhyacionia buoliana |\n| Fungos — Lophodermium seditiosum |  |\n| Vírus e organismos similares Todos |  |\n| — Prunus L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Capnodis tenebrionis — Meloidogyne spp. — Cochonilhas-diaspíneas (escamas), em especial: — Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |\n| Bactérias — Agrobacterium tumefaciens — Pseudomonas syringae pv. mors prunorum — Pseudomonas syringae pv. syringae |  |\n| Fungos — Armillariella mellea — Chondrostereum purpureum — Nectria galligena — Rosellinia necatrix — Taphrina deformans — Verticillium spp. |  |\n| Vírus e organismos similares e em especial — Prune dwarf virus — Prunus necrotic ringspot virus |  |\n| — Pyrus L. | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Anarsia lineatella — Eriosoma lanigerum — Cochonilhas-diaspíneas (escamas), em especial: — Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus |\n| Bactérias — Agrobacterium tumefaciens — Pseudomonas syringae pv. syringae |  |\n| Fungos — Armillariella mellea — Chondrostereum purpureum — Nectria galligena — Phytophthora spp. — Rosellinia necatrix — Verticillium spp. |  |\n| Vírus e organismos similares Todos |  |\n| — Rosa | Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento — Lepidoptera, em especial: — Epichoristodes — acerbella, Cacoecimorpha pronubana — Meloidogyne spp. — Pratylenchus spp. — Tetranychus urticae |\n| Bactérias — Agrobacterium tumefaciens |  |\n| Fungos — Chondrostereum purpureum — Coniothyrium spp. — Diplocarpon rosae — Peronospora sparsa — Phragmidium spp. — Rosellinia necatrix — Sphaeroteca pannosa — Verticillium spp. |  |\n| Vírus e organismos similares e em especial — Apple mosaic virus — Arabis mosaic nepovirus — Prunus necrotic ringspot virus |  |\n\n([1](http://publications.europa.eu/resource/cellar/249fc644-ede0-4488-bdab-82a8cd3c954e.0018.02/DOC_1#src.E0001)) JO n.o L 376 de 31. 12. 1991, p. 21.\n\n([2](http://publications.europa.eu/resource/cellar/249fc644-ede0-4488-bdab-82a8cd3c954e.0018.02/DOC_1#src.E0004)) JO n.o L 71 de 21. 3. 1968, p. 1."
+  },
+  "53cc260bb74bc9d4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 1993\n\nque estabelece a ficha contendo as condições a satisfazer pelas plantas ornamentais e materiais de propagação de plantas ornamentais, em conformidade com a Directiva 91/682/CEE do Conselho"
+  },
+  "4586662c8735bc15": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do disposto no artigo 2.º, os materiais devem, pelo menos através de um exame visual, estar substancialmente isentos de quaisquer organismos prejudiciais e doenças com incidência significativa na qualidade, bem como dos respectivos sinais e sintomas, que reduzam a eficácia dos materiais de propagação ou das plantas ornamentais e, em especial, dos constantes em anexo, relativamente aos géneros ou espécies em causa."
+  },
+  "f9aca776fdde2448": {
+   "fragment_id": "Artigo 3.º-A",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A\n\nOs materiais de propagação de *Palmae* pertencentes aos géneros e espécies referidos no anexo e com um diâmetro da base do caule superior a 5 cm devem cumprir um dos seguintes requisitos:\n\na) Devem ter sido cultivados durante todo o seu ciclo de vida numa área que foi definida como isenta de *Rhynchophorus ferrugineus* (Olivier) pelo organismo oficial responsável, em conformidade com as normas internacionais pertinentes relativas às medidas fitossanitárias;\n\nb) Devem ter sido cultivados nos dois anos que precederam a sua comercialização num local situado na União com uma proteção física completa contra a introdução de *Rhynchophorus ferrugineus* (Olivier), ou num local na União onde foram aplicados tratamentos preventivos adequados em relação a esse organismo prejudicial. Devem ser sujeitos a inspeções visuais efetuadas pelo menos uma vez de quatro em quatro meses, confirmando que os materiais estão isentos de *Rhynchophorus ferrugineus* (Olivier).\n\nO presente artigo é aplicável sem prejuízo das regras em matéria de zonas protegidas adotadas nos termos do artigo 2.º, n.º 1, alínea h), e do artigo 5.º, n.º 3, da Diretiva 2000/29/CE."
+  },
+  "a87bbe616c2594bb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os materiais devem ter a identidade e a pureza adequadas relativamente ao género e à espécie ou, se for caso disso, ao grupo de plantas e, quando comercializados ou destinados à comercialização, com referência à variedade, nos termos do n.º 1 do artigo 9.º da Directiva 91/682/CEE, devem, igualmente, ter a identidade e a pureza adequadas em relação à variedade."
+  },
+  "b310bec28080ff1c": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva é aplicável sem prejuízo do disposto no Regulamento (CEE) n.º 315/68 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e0375a6c-8aca-441a-8d27-eb3390cc5e15.0014.02/DOC_1#E0003))."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "5746c01e0483066d": {
+   "fragment_id": "LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+   "type": "divisao",
+   "heading": "LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DE ORGANISMOS PREJUDICIAIS E DOENÇAS ESPECÍFICAS COM INCIDÊNCIA SIGNIFICATIVA NA QUALIDADE\n\n| Género ou espécie | Organismos prejudiciais e doenças específicas |\n| --- | --- |\n| — *Begonia x hiemalis* Fotsch | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Aleurodidae, em especial *Bemisia tabaci* — *Aphelenchoides* spp. — *Ditylenchus destructor* — *Meloidogyne* spp. — *Myzus ornatus* — *Otiorrhynchus sulcatus* — *Sciara* — Thysanoptera, em especial: — *Frankliniella occidentalis* |\n| **Bactérias** — *Erwinia chrysanthemi* — *Rhodococcus fascians* — *Xanthomonas campestris* pv. *begoniae* |  |\n| **Fungos** — Oídio — Fungos da podridão do colo (*Phytophthora* spp., *Pythium* spp. en *Rhizoctonia* spp.) |  |\n| **Vírus e organismos similares e em especial** — Leafcurl disease — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — *Citrus* | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Aleurothrixus floccosus* (Mashell) — *Meloidogyne* spp. — *Parabemisia myricae* (Kuwana) — *Tylenchulus semipenetrans* |\n| **Fungos** *Phytophthora* spp. |  |\n| **Vírus e organismos similares e em especial** — Viróides como exocortis, cache-xiaxyloporosis — Doenças indutoras de sintomas idênticos aos da psorose nas folhas jovens, como: psorosis, ring spot, cristacortis, impietratura, concave gum — Infectious variegation — Citrus leaf rugose |  |\n| — *Dendranthema x Grandiflorum* (Ramat) Kitam | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Agromyzidae — Aleurodidae, em especial *Bemisia tabaci* — *Aphelencoides* spp. — *Diarthronomia chrysanthemi* — Lepidoptera, em especial: — *Cacoecimorpha pronubana, Epichoristodes Acerbella* — Thysanoptera, em especial: — *Frankliniella occidentalis* |\n| **Bactérias** — *Agrobacterium tumefaciens* — *Erwinia chrysanthemi* |  |\n| **Fungos** — *Fusarium oxisporum* spp. *chrysanthemi* — *Puccinia chrysanthemi* — *Pythium* spp. — *Rhizoctonia solani* — *Verticillium* spp. |  |\n| **Vírus e organismos similares e em especial** — Chrysanthemum B mosaic virus — Tomato aspermy cucumovirus |  |\n| — *Dianthus Caryophyllus* L. e híbridos | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Agromyzidae — Aleurodidae, em especial: — *Bemisia tabaci* — Thysanoptera, em especial: — *Frankliniella occidentalis* — Lepidoptera, em especial: — *Cacoecimorpha pronubana, Epichoristodes acerbella* |\n| **Fungos** — *Alternaria dianthi* — *Alternaria dianthicola* — *Fusarium oxisporum* f. spp. *dianthi* — *Mycosphaerella dianthi* — *Phytophthora nicotiana* sp. *parasitica* — *Rhizoctonia solani* — Podridão do colo: *Fusarium* spp. e *Pythium* spp. — *Uromyces dianthi* |  |\n| **Vírus e organismos similares e em especial** — Carnation etched ring caulimovirus — Carnation mottle carmovirus — Carnation necrotic fleck closterovirus — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — *Euphorbia pulcherrima* (Wild ex Kletzch) | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** Aleurodidae, em especial *Bemisia tabaci* |\n| **Bactérias** — *Erwinia chrysanthemi* |  |\n| **Fungos** — *Fusarium* spp. — *Pythium ultimum* — *Phytophthora* spp. — *Rhizoctonia solani* — *Thielaviopsis basicola* |  |\n| **Vírus e organismos similares e em especial** Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — *Gerbera* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Agromyzidae — Aleurodidae, em especial: — *Bemisia tabaci* — *Aphelenchoides* spp. — *Lepidoptera* — *Meloidogyne* — Thysanoptera, em especial: — *Frankliniella occidentalis* |\n| **Fungos** — *Fusarium* spp. — *Phytophthora cryptogea* — Oídio — *Rhizoctonia solani* — *Verticillium* spp. |  |\n| **Vírus e organismos similares e em especial** Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — *Gladiolus* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Ditylenchus dipsaci* — Thysanoptera, em especial: — *Frankliniella occidentalis* |\n| **Bactérias** — *Pseudomonas marginata* — *Rhodococcus fascians* |  |\n| **Fungos** — *Botrytis gladiolorum* — *Curvularia trifolii* — *Fusarium oxisporum* spp. *gladioli* — *Penicillium gladioli* — *Sclerotinia* spp. — *Septoria gladioli* — *Urocystis gladiolicola* — *Uromyces trasversalis* |  |\n| **Vírus e organismos similares e em especial** — Aster yellow mycoplasm — Corky pit agent — Cucumber mosaic virus — Gladiolus ringspot virus (syn. Narcissus latent virus) — Tobacco rattle virus |  |\n| **Outros organismos prejudiciais** — *Cyperus esculentus* |  |\n| — *Lilium* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Aphelenchoides* spp. — *Rhyzoglyphus* spp. — *Pratylenchus penetrans* — *Rotylenchus robustus* — Thysanoptera, em especial: — *Frankliniella occidentalis* |\n| **Bactérias** — *Erwinia carotovora* subsp. *carotovora* — *Rhodococcus fascians* |  |\n| **Fungos** — *Cylindrocarpon destructans* — *Fusarium oxisporum* f. sp. *lilii* — *Pythium* spp. — *Rhizoctonia* spp. — *Rhizopus* spp. — *Sclerotium* spp. |  |\n| **Vírus e organismos similares e em especial** — Cucumber mosaic virus — Lily symptomless virus — Lily virus x — Tobacco rattle virus — Tulip breaking virus |  |\n| **Outros organismos prejudiciais** — *Cyperus esculentus* |  |\n| — *Malus* Miller | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Anarsia lineatella* — *Eriosoma lanigerum* — Cochonilhas-diaspíneas (escamas), em especial: — *Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus* |\n| **Bactérias** — *Agrobacterium tumefaciens* — *Pseudomonas syringae* pv. *syringae* |  |\n| **Fungos** — *Armillariella mellea* — *Chondrostereum purpureum* — *Nectria galligena* — *Phytophthora cactorum* — *Rosellinia necatrix* — *Venturia* spp. — *Verticillium* spp. |  |\n| **Vírus e organismos similares** Todos |  |\n| — *Narcissus* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Aphelenchoides subtenuis* — *Ditylenchus destructor* — *Eumerus* spp. — *Merodon equestris* — *Pratylenchus penetrans* — Rhizoglyphidae — Tarsonemidae |\n| **Fungos** — *Fusarium oxysporum* f. sp. *narcissi* — *Sclerotinia* spp. — *Sclerotium bulborum* |  |\n| **Vírus e organismos similares e em especial** — Tobacco rattle virus — Narcissus white streak agent — Narcissus yellow stripe virus |  |\n| **Outros organismos prejudiciais** — *Cyperus esculentus* |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32018L0484) |  |\n| — ***Palmae*, no que diz respeito aos seguintes géneros e espécies** — *Areca catechu* L. — *Syagrus romanzoffiana* (Cham.) Glassman — *Arenga pinnata* (Wurmb) Merr. — *Bismarckia* Hildebr. & H.Wendl. — *Borassus flabellifer* L. — *Brahea armata* S. Watson — *Brahea edulis* H.Wendl. — *Butia capitata* (Mart.) Becc. — *Calamus merrillii* Becc. — *Caryota maxima* Blume — *Caryota cumingii* Lodd. ex Mart. — *Chamaerops humilis* L. — *Cocos nucifera* L. — *Corypha utan* Lam. — *Copernicia* Mart. — *Elaeis guineensis* Jacq. — *Howea forsteriana* Becc. — *Jubaea chilensis* (Molina) Baill. — *Livistona australis* C. Martius — *Livistona decora* (W. Bull) Dowe — *Livistona rotundifolia* (Lam.) Mart. — *Metroxylon sagu* Rottb. — *Roystonea regia* (Kunth) O.F. Cook — *Phoenix canariensis* Chabaud — *Phoenix dactylifera* L. — *Phoenix reclinata* Jacq. — *Phoenix roebelenii* O'Brien — *Phoenix sylvestris* (L.) Roxb. — *Phoenix theophrasti* Greuter — *Pritchardia* Seem. & H.Wendl. — *Ravenea rivularis* Jum. & H.Perrier — *Sabal* *palmetto* (Walter) Lodd. ex Schult. & Schult.f. — *Trachycarpus fortunei* (Hook.) H. Wendl. — *Washingtonia* H. Wendl. | **Insetos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Rhynchophorus ferrugineus* (Olivier) |\n| [▼B](http://publications.europa.eu/resource/celex/31993L0049) |  |\n| — *Pelargonium* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Aleurodidae, em especial *Bemisia tabaci* — Lepidoptera — Thysanoptera, em especial *Frankliniella occidentalis* |\n| **Bactérias** — *Rhodococcus fascians* — *Xanthomonas campestris* pv. *pelargonii* |  |\n| **Fungos** — *Puccinia pelargonii zonalis* — Fungos da podridão do colo ( *Botrytis* spp. e *Pythium* spp.) — *Verticillium* spp. |  |\n| **Vírus e organismos similares e em especial** — Pelargonium flower break carmovirus — Pelargonium leaf curl tombusvirus — Pelargonium line pattern virus — Tospoviruses (Tomato spotted wilt virus, Impatiens necrotic spot virus) |  |\n| — *Phoenix* | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Thysanoptera |\n| **Fungos** — *Exosporium palmivorum* — *Gliocladium wermoeseni* — *Graphiola phoenicis* — *Pestalozzia phoenicis* — *Pythium* spp. |  |\n| **Vírus e organismos similares** Todos |  |\n| — *Pinus nigra* | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Blastophaga* spp. — *Rhyacionia buoliana* |\n| **Fungos** — *Lophodermium seditiosum* |  |\n| **Vírus e organismos similares** Todos |  |\n| — *Prunus* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Capnodis tenebrionis* — *Meloidogyne* spp. — Cochonilhas-diaspíneas (escamas), em especial: — *Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus* |\n| **Bactérias** — *Agrobacterium tumefaciens* — *Pseudomonas syringae* pv. *mors prunorum* — *Pseudomonas syringae* pv. *syringae* |  |\n| **Fungos** — *Armillariella mellea* — *Chondrostereum purpureum* — *Nectria galligena* — *Rosellinia necatrix* — *Taphrina deformans* — *Verticillium* spp. |  |\n| **Vírus e organismos similares e em especial** — Prune dwarf virus — Prunus necrotic ringspot virus |  |\n| — *Pyrus* L. | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — *Anarsia lineatella* — *Eriosoma lanigerum* — Cochonilhas-diaspíneas (escamas), em especial: — *Epidiaspis leperii, Pseudaulacaspis pentagona, Quadraspidiotus perniciosus* |\n| **Bactérias** — *Agrobacterium tumefaciens* — *Pseudomonas syringae* pv. *syringae* |  |\n| **Fungos** — *Armillariella mellea* — *Chondrostereum purpureum* — *Nectria galligena* — *Phytophthora* spp. — *Rosellinia necatrix* — *Verticillium* spp. |  |\n| **Vírus e organismos similares** Todos |  |\n| — *Rosa* | **Insectos, ácaros e nemátodos em todas as fases do seu desenvolvimento** — Lepidoptera, em especial: — *Epichoristodes* — *acerbella, Cacoecimorpha pronubana* — *Meloidogyne* spp. — *Pratylenchus* spp. — *Tetranychus urticae* |\n| **Bactérias** — *Agrobacterium tumefaciens* |  |\n| **Fungos** — *Chondrostereum purpureum* — *Coniothyrium* spp. — *Diplocarpon rosae* — *Peronospora sparsa* — *Phragmidium* spp. — *Rosellinia necatrix* — *Sphaeroteca pannosa* — *Verticillium* spp. |  |\n| **Vírus e organismos similares e em especial** — Apple mosaic virus — Arabis mosaic nepovirus — Prunus necrotic ringspot virus |  |\n\n---"
+  },
+  "3e67df6e4aa43a1c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e0375a6c-8aca-441a-8d27-eb3390cc5e15.0014.02/DOC_1#src.E0003)) JO n.º L 71 de 21. 3. 1968, p. 1."
+  },
+  "884519bf04549743": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais de propagação de plantas ornamentais devem, pelo menos através de uma inspeção visual, ser considerados, no local de produção, praticamente isentos de todas as pragas enumeradas no anexo no que diz respeito aos respetivos materiais de propagação de plantas ornamentais.\n\nA presença de pragas regulamentadas não sujeitas a quarentena (RNQP) nos materiais de propagação de plantas ornamentais comercializados não deve, pelo menos através de uma inspeção visual, exceder os respetivos limiares estabelecidos no anexo.\n\nOs materiais de propagação de plantas ornamentais devem, pelo menos através de uma inspeção visual, estar praticamente isentos de quaisquer pragas, com exceção das pragas enumeradas no anexo no que diz respeito aos materiais de propagação de plantas ornamentais específicos, que reduzam a utilidade e a qualidade desse material, ou de quaisquer sinais ou sintomas ligados a essas pragas.\n\nOs materiais devem também cumprir os requisitos relativos às pragas de quarentena da União, às pragas de quarentena de zonas protegidas e às RNQP estabelecidos nos atos de execução adotados nos termos do Regulamento (UE) 2016/2031 ([^1^](http://publications.europa.eu/resource/cellar/e9aaa6fb-62b1-11ea-b735-01aa75ed71a1.0018.02/DOC_1#E0002)), bem como as medidas adotadas nos termos do artigo 30.º, n.º 1, do mesmo regulamento."
+  },
+  "f1e5c9fad0455053": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva é aplicável sem prejuízo do disposto no Regulamento (CEE) n.º 315/68 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/e9aaa6fb-62b1-11ea-b735-01aa75ed71a1.0018.02/DOC_1#E0004))."
+  },
+  "d815bdcdd3c36c3d": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| **Bactérias** |  |  |\n| --- | --- | --- |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Erwinia amylovora* (Burrill) Winslow *et al*. [ERWIAM] | Material de propagação de plantas ornamentais, com exceção de sementes *Amelanchier* Medik., *Chaenomeles* Lindl., *Cotoneaster* Medik., *Crataegus* Tourn. ex L., *Cydonia* Mill., *Eriobtrya* Lindl., *Malus* Mill., *Mespilus* Bosc ex Spach, *Photinia davidiana* Decne., *Pyracantha* M. Roem., *Pyrus* L., *Sorbus* L. | 0 % |\n| *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus persica* (L.) Batsch, *Prunus salicina* Lindl. | 0 % |\n| *Spiroplasma citri* Saglio *et al.* [SPIRCI] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Xanthomonas arboricola pv. pruni* (Smith) Vauterin *et al*. [XANTPR] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus* L. | 0 % |\n| *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas gardneri (ex Šutič) Jones et al.* [XANTGA] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas perforans* Jones *et al*. [XANTPF] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L. | 0 % |\n| **Fungos e oomicetas** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Cryphonectria parasitica* (Murrill) Barr [ENDOPA] | Material de propagação de plantas ornamentais, com exceção de sementes *Castanea* L. | 0 % |\n| *Dothistroma pini* Hulbary [DOTSPI] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA] | Sementes *Helianthus annuus* L. | 0 % |\n| *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Puccinia horiana* P. Hennings [PUCCHN] | Material de propagação de plantas ornamentais, com exceção de sementes *Chrysanthemum* L. | 0 % |\n| **Insetos e ácaros** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Aculops fuchsiae* Keifer [ACUPFU] | Material de propagação de plantas ornamentais, com exceção de sementes *Fuchsia* L. | 0 % |\n| *Opogona sacchari* Bojer [OPOGSC] | Material de propagação de plantas ornamentais, com exceção de sementes *Beaucarnea* Lem., *Bougainvillea* Comm. ex Juss., *Crassula* L., *Crinum* L*., Dracaena* Vand. ex L., *Ficus* L., *Musa* L., *Pachira* Aubl., *Palmae, Sansevieria* Thunb., *Yucca* L. | 0 % |\n| *Rhynchophorus ferrugineus* (Olivier) [RHYCFE] | Material de propagação de plantas ornamentais, com exceção das sementes de *Palmae*, no que diz respeito aos seguintes géneros e espécies *Areca catechu* L., *Arenga pinnata* (Wurmb) Merr., *Bismarckia* Hildebr. & H. Wendl., *Borassus flabellifer* L., *Brahea armata* S. Watson, *Brahea edulis* H.Wendl., *Butia capitata* (Mart.) Becc*., Calamus merrillii* Becc., *Caryota maxima* Blume, *Caryota cumingii* Lodd. ex Mart., *Chamaerops humilis* L., *Cocos nucifera* L., *Corypha utan* Lam., *Copernicia* Mart., *Elaeis guineensis* Jacq., *Howea forsteriana* Becc., *Jubaea chilensis* (Molina) Baill., *Livistona australis* C. Martius, *Livistona decora* (W. Bull) Dowe, *Livistona rotundifolia* (Lam.) Mart., *Metroxylon sagu* Rottb., *Phoenix canariensis* Chabaud, *Phoenix dactylifera* L., *Phoenix reclinata* Jacq., *Phoenix roebelenii* O’Brien, *Phoenix sylvestris* (L.) Roxb., *Phoenix theophrasti* Greuter, *Pritchardia* Seem. & H. Wendl., *Ravenea rivularis* Jum. & H. Perrier, *Roystonea regia* (Kunth) O.F. Cook, *Sabal palmetto* (Walter) Lodd. ex Schult. & Schult.f., *Syagrus romanzoffiana* (Cham.) Glassman, *Trachycarpus fortunei* (Hook.) H. Wendl., *Washingtonia* H. Wendl. | 0 % |\n| **Nemátodes** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium* L. | 0 % |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | Material de propagação de plantas ornamentais, com exceção de sementes *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston, *Galanthus* L., *Hyacinthus* Tourn. ex L, *Hymenocallis* Salisb., *Muscari* Mill., *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Sternbergia* Waldst. & Kit., *Tulipa* L. | 0 % |\n| **Vírus, viroides, doenças similares a vírus e fitoplasmas** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Candidatus* Phytoplasma mali Seemüller & Schneider [PHYPMA] | Material de propagação de plantas ornamentais, com exceção de sementes *Malus* Mill. | 0 % |\n| *Candidatus* Phytoplasma prunorum Seemüller & Schneider [PHYPPR] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus* L. | 0 % |\n| *Candidatus* Phytoplasma pyri Seemüller & Schneider [PHYPPY] | Material de propagação de plantas ornamentais, com exceção de sementes *Pyrus* L. | 0 % |\n| *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO] | Material de propagação de plantas ornamentais, com exceção de sementes *Lavandula* L. | 0 % |\n| *Chrysanthemum stunt viroid* [CSVD00] | Material de propagação de plantas ornamentais, com exceção de sementes *Argyranthemum* Webb ex Sch.Bip*., Chrysanthemum* L. | 0 % |\n| *Citrus exocortis viroid* [CEVD00] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L. | 0 % |\n| *Citrus tristeza virus* [CTV000] (isolados da UE) | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Impatiens necrotic spot tospovirus* [INSV00] | Material de propagação de plantas ornamentais, com exceção de sementes *Begonia x hiemalis* Fotsch, híbridos de *Impatiens* L. New Guinea | 0 % |\n| *Potato spindle tuber viroid* [PSTVD0] | *Capsicum annuum* L., | 0 % |\n| *Plum pox virus* [PPV000] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus armeniaca* L., *Prunus blireiana* Andre, *Prunus brigantina* Vill., *Prunus cerasifera* Ehrh., *Prunus cistena* Hansen, *Prunus curdica* Fenzl and Fritsch., *Prunus domestica* L., *Prunus domestica* ssp. *insititia* (L.) C.K. Schneid, *Prunus domestica* ssp. *italica* (Borkh.) Hegi., *Prunus dulcis* (Miller) Webb, *Prunus glandulosa* Thunb., *Prunus holosericea* Batal., *Prunus hortulana* Bailey, *Prunus japonica* Thunb., *Prunus mandshurica* (Maxim.) Koehne, *Prunus maritima* Marsh., *Prunus mume* Sieb. and Zucc., *Prunus nigra* Ait., *Prunus persica* (L.) Batsch, *Prunus salicina* L., *Prunus sibirica* L., *Prunus simonii* Carr., *Prunus spinosa* L., *Prunus tomentosa* Thunb., *Prunus triloba* Lindl. — outras espécies de *Prunus* L. sensíveis ao *Plum Pox virus* | 0 % |\n| *Tomato spotted wilt tospovirus* [TSWV00] | Material de propagação de plantas ornamentais, com exceção de sementes *Begonia x hiemalis* Fotsch, *Capsicum annuum* L., *Chrysanthemum* L., *Gerbera* L., híbridos de *Impatiens* L. New Guinea, *Pelargonium* L. | 0 % |\n\n---"
+  },
+  "b5ed11a52614e526": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e9aaa6fb-62b1-11ea-b735-01aa75ed71a1.0018.02/DOC_1#src.E0002)) Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO L 317 de 23.11.2016, p. 4).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e9aaa6fb-62b1-11ea-b735-01aa75ed71a1.0018.02/DOC_1#src.E0004)) JO n.º L 71 de 21. 3. 1968, p. 1."
+  },
+  "4d8eebe6276411f7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais de propagação de plantas ornamentais devem, pelo menos através de uma inspeção visual, ser considerados, no local de produção, praticamente isentos de todas as pragas enumeradas no anexo no que diz respeito aos respetivos materiais de propagação de plantas ornamentais.\n\nA presença de pragas regulamentadas não sujeitas a quarentena (RNQP) nos materiais de propagação de plantas ornamentais comercializados não deve, pelo menos através de uma inspeção visual, exceder os respetivos limiares estabelecidos no anexo.\n\nOs materiais de propagação de plantas ornamentais devem, pelo menos através de uma inspeção visual, estar praticamente isentos de quaisquer pragas, com exceção das pragas enumeradas no anexo no que diz respeito aos materiais de propagação de plantas ornamentais específicos, que reduzam a utilidade e a qualidade desse material, ou de quaisquer sinais ou sintomas ligados a essas pragas.\n\nOs materiais devem também cumprir os requisitos relativos às pragas de quarentena da União, às pragas de quarentena de zonas protegidas e às RNQP estabelecidos nos atos de execução adotados nos termos do Regulamento (UE) 2016/2031 ([^1^](http://publications.europa.eu/resource/cellar/aa508175-912a-11ed-b508-01aa75ed71a1.0018.02/DOC_1#E0002)), bem como as medidas adotadas nos termos do artigo 30.º, n.º 1, do mesmo regulamento."
+  },
+  "9b5b8a2b40842709": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA presente directiva é aplicável sem prejuízo do disposto no Regulamento (CEE) n.º 315/68 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/aa508175-912a-11ed-b508-01aa75ed71a1.0018.02/DOC_1#E0004))."
+  },
+  "1c2ebf0eb0e092ab": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| **Bactérias** |  |  |\n| --- | --- | --- |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Erwinia amylovora* (Burrill) Winslow *et al*. [ERWIAM] | Material de propagação de plantas ornamentais, com exceção de sementes *Amelanchier* Medik., *Chaenomeles* Lindl., *Cotoneaster* Medik., *Crataegus* Tourn. ex L., *Cydonia* Mill., *Eriobtrya* Lindl., *Malus* Mill., *Mespilus* Bosc ex Spach, *Photinia davidiana* Decne., *Pyracantha* M. Roem., *Pyrus* L., *Sorbus* L. | 0 % |\n| [▼M4](http://publications.europa.eu/resource/celex/32022L2438) |  |  |\n| *Pseudomonas syringae* pv. *actinidiae* Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto [PSDMAK] | Vegetais para plantação, com exceção de sementes *Actinidia* Lindl. | 0 % |\n| [▼M3](http://publications.europa.eu/resource/celex/32020L0177) |  |  |\n| *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus persica* (L.) Batsch, *Prunus salicina* Lindl. | 0 % |\n| *Spiroplasma citri* Saglio *et al.* [SPIRCI] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Xanthomonas arboricola pv. pruni* (Smith) Vauterin *et al*. [XANTPR] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus* L. | 0 % |\n| *Xanthomonas euvesicatoria* Jones *et al*. [XANTEU] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas gardneri (ex Šutič) Jones et al.* [XANTGA] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas perforans* Jones *et al*. [XANTPF] | *Capsicum annuum* L. | 0 % |\n| *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al*. [XANTVE] | *Capsicum annuum* L. | 0 % |\n| **Fungos e oomicetas** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Cryphonectria parasitica* (Murrill) Barr [ENDOPA] | Material de propagação de plantas ornamentais, com exceção de sementes *Castanea* L. | 0 % |\n| *Dothistroma pini* Hulbary [DOTSPI] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC] | Material de propagação de plantas ornamentais, com exceção de sementes *Pinus* L. | 0 % |\n| [▼M4](http://publications.europa.eu/resource/celex/32022L2438) |  |  |\n| *Phytophthora ramorum* (isolados da UE) Werres, De Cock & Man in ‘t Veld [PHYTRA] | Vegetais para plantação, com exceção de pólen e de sementes *Camellia* L., *Castanea sativa* Mill., *Fraxinus excelsior* L., *Larix decidua* Mill., *Larix kaempferi* (Lamb.) Carrière, *Larix × eurolepis* A. Henry, *Pseudotsuga menziesii* (Mirb.) Franco, *Quercus cerris* L., *Quercus ilex* L., *Quercus rubra* L., *Rhododendron* L. que não *R. simsii* L., *Viburnum* L. | 0 % |\n| [▼M3](http://publications.europa.eu/resource/celex/32020L0177) |  |  |\n| *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA] | Sementes *Helianthus annuus* L. | 0 % |\n| *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Puccinia horiana* P. Hennings [PUCCHN] | Material de propagação de plantas ornamentais, com exceção de sementes *Chrysanthemum* L. | 0 % |\n| **Insetos e ácaros** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Aculops fuchsiae* Keifer [ACUPFU] | Material de propagação de plantas ornamentais, com exceção de sementes *Fuchsia* L. | 0 % |\n| *Opogona sacchari* Bojer [OPOGSC] | Material de propagação de plantas ornamentais, com exceção de sementes *Beaucarnea* Lem., *Bougainvillea* Comm. ex Juss., *Crassula* L., *Crinum* L*., Dracaena* Vand. ex L., *Ficus* L., *Musa* L., *Pachira* Aubl., *Palmae, Sansevieria* Thunb., *Yucca* L. | 0 % |\n| *Rhynchophorus ferrugineus* (Olivier) [RHYCFE] | Material de propagação de plantas ornamentais, com exceção das sementes de *Palmae*, no que diz respeito aos seguintes géneros e espécies *Areca catechu* L., *Arenga pinnata* (Wurmb) Merr., *Bismarckia* Hildebr. & H. Wendl., *Borassus flabellifer* L., *Brahea armata* S. Watson, *Brahea edulis* H.Wendl., *Butia capitata* (Mart.) Becc*., Calamus merrillii* Becc., *Caryota maxima* Blume, *Caryota cumingii* Lodd. ex Mart., *Chamaerops humilis* L., *Cocos nucifera* L., *Corypha utan* Lam., *Copernicia* Mart., *Elaeis guineensis* Jacq., *Howea forsteriana* Becc., *Jubaea chilensis* (Molina) Baill., *Livistona australis* C. Martius, *Livistona decora* (W. Bull) Dowe, *Livistona rotundifolia* (Lam.) Mart., *Metroxylon sagu* Rottb., *Phoenix canariensis* Chabaud, *Phoenix dactylifera* L., *Phoenix reclinata* Jacq., *Phoenix roebelenii* O’Brien, *Phoenix sylvestris* (L.) Roxb., *Phoenix theophrasti* Greuter, *Pritchardia* Seem. & H. Wendl., *Ravenea rivularis* Jum. & H. Perrier, *Roystonea regia* (Kunth) O.F. Cook, *Sabal palmetto* (Walter) Lodd. ex Schult. & Schult.f., *Syagrus romanzoffiana* (Cham.) Glassman, *Trachycarpus fortunei* (Hook.) H. Wendl., *Washingtonia* H. Wendl. | 0 % |\n| **Nemátodes** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium* L. | 0 % |\n| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | Material de propagação de plantas ornamentais, com exceção de sementes *Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston, *Galanthus* L., *Hyacinthus* Tourn. ex L, *Hymenocallis* Salisb., *Muscari* Mill., *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Sternbergia* Waldst. & Kit., *Tulipa* L. | 0 % |\n| **Vírus, viroides, doenças similares a vírus e fitoplasmas** |  |  |\n| RNQP ou sintomas causados por RNQP | Género ou espécie de material de propagação de plantas ornamentais | Limiar para a presença de RNQP no material de propagação de plantas ornamentais |\n| *Candidatus* Phytoplasma mali Seemüller & Schneider [PHYPMA] | Material de propagação de plantas ornamentais, com exceção de sementes *Malus* Mill. | 0 % |\n| *Candidatus* Phytoplasma prunorum Seemüller & Schneider [PHYPPR] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus* L. | 0 % |\n| *Candidatus* Phytoplasma pyri Seemüller & Schneider [PHYPPY] | Material de propagação de plantas ornamentais, com exceção de sementes *Pyrus* L. | 0 % |\n| *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO] | Material de propagação de plantas ornamentais, com exceção de sementes *Lavandula* L. | 0 % |\n| *Chrysanthemum stunt viroid* [CSVD00] | Material de propagação de plantas ornamentais, com exceção de sementes *Argyranthemum* Webb ex Sch.Bip*., Chrysanthemum* L. | 0 % |\n| *Citrus exocortis viroid* [CEVD00] | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L. | 0 % |\n| *Citrus tristeza virus* [CTV000] (isolados da UE) | Material de propagação de plantas ornamentais, com exceção de sementes *Citrus* L., híbridos de *Citrus* L., *Fortunella* Swingle., híbridos de *Fortunella* Swingle., *Poncirus* Raf., híbridos de *Poncirus* Raf. | 0 % |\n| *Impatiens necrotic spot tospovirus* [INSV00] | Material de propagação de plantas ornamentais, com exceção de sementes *Begonia x hiemalis* Fotsch, híbridos de *Impatiens* L. New Guinea | 0 % |\n| *Potato spindle tuber viroid* [PSTVD0] | *Capsicum annuum* L., | 0 % |\n| *Plum pox virus* [PPV000] | Material de propagação de plantas ornamentais, com exceção de sementes *Prunus armeniaca* L., *Prunus blireiana* Andre, *Prunus brigantina* Vill., *Prunus cerasifera* Ehrh., *Prunus cistena* Hansen, *Prunus curdica* Fenzl and Fritsch., *Prunus domestica* L., *Prunus domestica* ssp. *insititia* (L.) C.K. Schneid, *Prunus domestica* ssp. *italica* (Borkh.) Hegi., *Prunus dulcis* (Miller) Webb, *Prunus glandulosa* Thunb., *Prunus holosericea* Batal., *Prunus hortulana* Bailey, *Prunus japonica* Thunb., *Prunus mandshurica* (Maxim.) Koehne, *Prunus maritima* Marsh., *Prunus mume* Sieb. and Zucc., *Prunus nigra* Ait., *Prunus persica* (L.) Batsch, *Prunus salicina* L., *Prunus sibirica* L., *Prunus simonii* Carr., *Prunus spinosa* L., *Prunus tomentosa* Thunb., *Prunus triloba* Lindl. — outras espécies de *Prunus* L. sensíveis ao *Plum Pox virus* | 0 % |\n| *Tomato spotted wilt tospovirus* [TSWV00] | Material de propagação de plantas ornamentais, com exceção de sementes *Begonia x hiemalis* Fotsch, *Capsicum annuum* L., *Chrysanthemum* L., *Gerbera* L., híbridos de *Impatiens* L. New Guinea, *Pelargonium* L. | 0 % |\n\n---"
+  },
+  "813fcb82d2f177c8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aa508175-912a-11ed-b508-01aa75ed71a1.0018.02/DOC_1#src.E0002)) Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho (JO L 317 de 23.11.2016, p. 4).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/aa508175-912a-11ed-b508-01aa75ed71a1.0018.02/DOC_1#src.E0004)) JO n.º L 71 de 21. 3. 1968, p. 1."
+  }
+ }
+}

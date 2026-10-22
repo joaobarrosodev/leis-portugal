@@ -36,6 +36,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-02-15'
+version_history:
+  file: diretiva-ue-2002-96.versoes.json
+  count: 2
+  source_lastmod: '2014-02-15'
+  versions:
+  - date: '2003-02-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-02-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime Artigo 3.º — Definições
+    - Suprime Artigo 4.º — Concepção dos produtos
+    - Suprime Artigo 5.º — Recolha separada
+    - Suprime Artigo 6.º — Tratamento
+    - Suprime Artigo 7.º — Valorização
+    - Suprime Artigo 8.º — Financiamento para REEE provenientes de particulares
+    - Suprime Artigo 9.º — Financiamento para os REEE provenientes de utilizadores não particulares
+    - Suprime Artigo 10.º — Informação dos utilizadores
+    - Suprime Artigo 11.º — Informação para instalações de tratamento
+    - Suprime Artigo 12.º — Informações e apresentação de relatórios
+    - Suprime Artigo 13.º — Adaptação ao progresso científico e técnico
+    - Suprime Artigo 14.º — Comité
+    - Suprime Artigo 15.º — Sanções
+    - Suprime Artigo 16.º — Inspecção e controlo
+    - Suprime Artigo 17.º — Transposição
+    - Suprime Artigo 18.º — Entrada em vigor
+    - Suprime Artigo 19.º — Destinatários
+    - Suprime ANEXO I A — Categorias de equipamentos eléctricos e electrónicos abrangidos pela presente directiva
+    - Suprime ANEXO I B — Lista dos produtos e funções que deverão ser considerados para efeitos da presente directiva e que
+      estão abrangidos pelas categorias do anexo I A
+    - Suprime ANEXO II — Tratamento selectivo de materiais e componentes de resíduos de equipamentos eléctricos e electrónicos
+      (REEE) nos termos do n.o 1 do artigo 6.o
+    - Suprime ANEXO III — Requisitos técnicos em conformidade com o n.o 3 do artigo 6.o
+    - Suprime ANEXO IV — Símbolo para marcação dos equipamentos eléctricos e electrónicos
+    - Suprime Artigo 9.º — Financiamento no que respeita aos REEE provenientes de outros utilizadores que não os particulares
 identifiers:
   celex: 32002L0096
   eli: http://data.europa.eu/eli/dir/2002/96/oj
@@ -50,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ac89e64f-a4a5-4c13-8d96-1fd1d6bcaa49.0010
   content_url: http://publications.europa.eu/resource/cellar/f9be99a9-fd3e-4e1e-8b09-8799250623bf.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0096-20140215
-  retrieved_at: '2026-10-22T02:40:32Z'
+  retrieved_at: '2026-10-22T14:52:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-02-10T16:15:39.693+01:00'
 integrity:
@@ -59,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:32Z'
-  notes: Texto consolidado 02002L0096-20140215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:30Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2002-96.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -229,16 +270,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:32Z'
+  checked_at: '2026-10-22T14:52:30Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002L0096-20031231: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002L0096-20080321: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0096-20090112: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02002L0096-20101201: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

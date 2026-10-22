@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-02-27'
+version_history:
+  file: diretiva-ue-2008-6.versoes.json
+  count: 1
+  source_lastmod: '2008-02-27'
+  versions:
+  - date: '2008-02-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32008L0006
   eli: http://data.europa.eu/eli/dir/2008/6/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d7c8f8da-ebb0-4cbc-9bdc-4d03a5b4c08b.0018
   content_url: http://publications.europa.eu/resource/cellar/0cb83392-10f3-4158-9906-e23fde467cc4.0017.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0006-20080227
-  retrieved_at: '2026-10-22T02:39:07Z'
+  retrieved_at: '2026-10-22T15:12:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T21:27:22.583+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:07Z'
-  notes: Texto consolidado 02008L0006-20080227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:12:31Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2008-6.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -203,29 +212,19 @@ relationships:
   source: null
 article_structure:
   article_count: 5
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:07Z'
+  checked_at: '2026-10-22T15:12:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2008/6/CE do Parlamento Europeu e do Conselho, de 20 de Fevereiro de 2008
-
-> 2008L0006 — PT — 27.02.2008 — 000.002
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32008L0006R%2803%29) — [Rectificação, JO L 225, 28.8.2015, p. 49 (2008/6/CE)](http://publications.europa.eu/resource/celex/32008L0006R%2803%29)
-
-## DIRECTIVA 2008/6/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de Fevereiro de 2008
 

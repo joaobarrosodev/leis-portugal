@@ -36,6 +36,98 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-02-03'
+version_history:
+  file: regulamento-ue-2002-1019.versoes.json
+  count: 9
+  source_lastmod: '2012-02-03'
+  versions:
+  - date: '2002-06-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-01'
+    amending: eu:celex:32002R1964:por
+    amending_title: M1; REGULAMENTO (CE) N. o 1176/2003 DA COMISSÃO de 1 de Julho de 2003; REGULAMENTO (CE) N. o 406/2004
+      DA COMISSÃO de 4 de Março de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Adita Notas
+  - date: '2004-10-12'
+    amending: eu:celex:32004R1750:por
+    amending_title: REGULAMENTO (CE) N. o 1750/2004 DA COMISSÃO de 8 de Outubro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Notas
+  - date: '2006-07-11'
+    amending: eu:celex:32006R1044:por
+    amending_title: REGULAMENTO (CE) N. o 1044/2006 DA COMISSÃO de 7 de Julho de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Notas
+  - date: '2008-07-01'
+    amending: eu:celex:32008R0632:por
+    amending_title: REGULAMENTO (CE) N. o 632/2008 DA COMISSÃO de 2 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Notas
+  - date: '2008-11-30'
+    amending: eu:celex:32008R1183:por
+    amending_title: REGULAMENTO (CE) N. o 1183/2008 DA COMISSÃO de 28 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Notas
+  - date: '2009-07-01'
+    amending: eu:celex:32009R0182:por
+    amending_title: REGULAMENTO (CE) N. o 182/2009 DA COMISSÃO de 6 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Notas
+  - date: '2010-07-11'
+    amending: eu:celex:32010R0596:por
+    amending_title: REGULAMENTO (UE) N. o 596/2010 DA COMISSÃO de 7 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Notas
+  - date: '2012-02-03'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime Artigo 5.º
+    - Suprime Artigo 6.º
+    - Suprime Artigo 7.º
+    - Suprime Artigo 8.º
+    - Suprime Artigo 9.º
+    - Suprime Artigo 10.º
+    - Suprime Artigo 11.º
+    - Suprime Artigo 12.º
+    - Suprime Notas
 identifiers:
   celex: 32002R1019
   eli: http://data.europa.eu/eli/reg/2002/1019/oj
@@ -50,7 +142,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/21d17b6d-86c1-4bc9-91c1-d4de96dad085.0010
   content_url: http://publications.europa.eu/resource/cellar/cf49e81e-326d-4dfd-bd55-6144e84563f4.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R1019-20120203
-  retrieved_at: '2026-10-22T02:42:31Z'
+  retrieved_at: '2026-10-22T14:52:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T02:16:10.613+01:00'
 integrity:
@@ -59,9 +151,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:31Z'
-  notes: Texto consolidado 02002R1019-20120203.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:52:54Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2002-1019.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,16 +300,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:31Z'
+  checked_at: '2026-10-22T14:52:54Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02002R1019-20020621: versão indisponível (Sem expressão na língua por para CELEX 02002R1019-20020621.)'
+  - '02002R1019-20021108: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02002R1019-20030705: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

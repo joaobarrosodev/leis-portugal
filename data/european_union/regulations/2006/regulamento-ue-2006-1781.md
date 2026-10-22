@@ -36,6 +36,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: regulamento-ue-2006-1781.versoes.json
+  count: 1
+  source_lastmod: '2006-12-28'
+  versions:
+  - date: '2006-12-08'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32006R1781
   eli: http://data.europa.eu/eli/reg/2006/1781/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c5b36740-e520-4dfe-b3c9-924e623de180.0017
   content_url: http://publications.europa.eu/resource/cellar/c5b36740-e520-4dfe-b3c9-924e623de180.0017.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:41:30Z'
+  retrieved_at: '2026-10-22T15:05:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T01:09:19.822+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:30Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:10Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2006-1781.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -138,21 +147,20 @@ relationships:
   date: '2015-06-05'
 article_structure:
   article_count: 20
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:30Z'
+  checked_at: '2026-10-22T15:05:10Z'
   warnings:
-  - Versão consolidada 02006R1781-20061228 indisponível (Sem expressão na língua por para CELEX 02006R1781-20061228.); usado
-    o texto do JO.
+  - '02006R1781-20061228: versão indisponível (Sem expressão na língua por para CELEX 02006R1781-20061228.)'
   errors: []
 ---
 
-# REGULAMENTO (CE) N.º 1781/2006 DO PARLAMENTO EUROPEU E DO CONSELHO
+# Regulamento (CE) n. o 1781/2006 do Parlamento Europeu e do Conselho, de 15 de Novembro de 2006
 
 de 15 de Novembro de 2006
 

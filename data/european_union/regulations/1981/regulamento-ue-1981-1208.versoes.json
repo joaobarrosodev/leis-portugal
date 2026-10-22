@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31981R1208:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01981R1208-20060824",
+ "dre_path": null,
+ "source_lastmod": "2006-08-24",
+ "versions": [
+  {
+   "date": "1991-04-29",
+   "future": false,
+   "celex": "01981R1208-19910429",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cc7ccc7821f7e181",
+    "da5188b3d22478eb",
+    "451a05bfa42f69fc",
+    "0965898c2a41862d",
+    "fee7dc56d9faedab",
+    "8eef21b8b97e1747",
+    "f45e05871ce5d683",
+    "507613c0ab0a50c1",
+    "d664376e2a8dcecd",
+    "d174d19a353d0ade",
+    "852174729551523b",
+    "507d9dfb4d94ae30",
+    "7da15fd525479a71"
+   ]
+  },
+  {
+   "date": "2006-08-24",
+   "future": false,
+   "celex": "01981R1208-20060824",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime ANEXO I",
+    "Suprime CONFORMAÇÃO",
+    "Suprime ANEXO II",
+    "Suprime ESTADO DA GORDURA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "461ab0e4811a1638"
+   ]
+  }
+ ],
+ "fragments": {
+  "cc7ccc7821f7e181": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Abril de 1981\n\nque estabelece a grelha comunitária de classificação das carcaças de bovinos adultos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 805/68 do Conselho de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector da carne de bovino ([^1^](http://publications.europa.eu/resource/cellar/93689f58-80b1-4b3c-8ac3-5d193303284f.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pelo Acto de Adesão de 1979,\n\nTendo em conta o Regulamento (CEE) n.º 1358/80 do Conselho, de 5 de Junho de 1980, que fixa, para a campanha de comercialização de 1980/1981, o preço de orientação e o preço de intervenção dos bovinos adultos e relativo ao estabelecimento de uma grelha comunitária de classificação das carcaças de bovinos adultos ([^2^](http://publications.europa.eu/resource/cellar/93689f58-80b1-4b3c-8ac3-5d193303284f.0017.03/DOC_1#E0002)) e, nomeadamente, o n.º 1 do seu artigo 4.º,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o Regulamento (CEE) n.º 1358/80 previu que as verificações de cotações e as medidas de intervenção no sector da carne de bovino são efectuadas a partir de uma grelha comunitária de classificação das carcaças dos bovinos adultos;\n\nConsiderando que a classificação deve ser efectuada com base na conformação e no estado da gordura; que a utilização combinada destes dois critérios permite dividir as carcaças de bovinos adultos em classes; que as carcaças assim classificadas devem ser objecto de uma identificação;\n\nConsiderando que, com vista a garantir que o presente regulamento será homogeneamente aplicado na Comunidade, é necessário prever verificações in *loco por* um comité de controlo comunitário;\n\nConsiderando que, dados os problemas práticos suscitados pela concretização nos Estados-membros da grelha comunitária de classificação, é necessário prever que seja aplicada progressivamente,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "da5188b3d22478eb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece a grelha comunitária de classificação das carcaças de bovinos adultos."
+  },
+  "451a05bfa42f69fc": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Na acepção do presente regulamento, entende-se por:\n\na) *Carcaça:* o corpo inteiro do animal abatido tal como se apresenta após as operações de sangria, de evisceração e de esfola, apresentado:\n\n— sem a cabeça e sem os pés; a cabeça é separada da carcaça ao nível da articulação atlóido-occipital, os pés, seccionados ao nível das articulações carpo-metacárpicas ou tarso-metatársicas,\n\n— sem os órgãos contidos nas cavidades torácica e abdominal com ou sem os rins, a gordura dos rins, bem como a gordura da bacia,\n\n— sem os órgãos genitais e os músculos contíguos, sem tetas e sem a gordura mamária;\n\nb) *Meia-carcaça:* o produto obtido por separação da carcaça referida na alínea a) segundo em plano de simetria que passa pelo meio de cada vértebra cervical, dorsal, lombar e sagrada, pelo meio do esterno e da sínfise ísquio-púbica.\n\n2. Além disso, para as verificações dos preços de mercado, a carcaça será apresentada sem remoção:\n\n— sem a rilada e a gordura da cavidade pélvica,\n\n— sem o diafragma e os pilares do diafragma,\n\n— sem cauda,\n\n— sem espinal medula,\n\n— sem gordura da virilha,\n\n— sem a gordura de cobertura do pojadouro,\n\n— sem a goteira jugular e a gordura adjacente,\n\nsendo o pescoço seccionado em conformidade com as prescrições veterinárias.\n\nContudo, os Estados-membros estão autorizados a admitir apresentações diferentes, quando não for de uso esta apresentação de referência.\n\nNeste caso, as correcções necessárias para passar destas apresentações à apresentação de referência serão determinadas segundo o processo previsto no artigo 27.º do Regulamento (CEE) n.º 805/68."
+  },
+  "0965898c2a41862d": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As carcaças de bovinos adultos são repartidas pelas seguintes categorias:\n\nA. Carcaças de machos, não castrados, com menos de dois anos;\n\nB. Carcaças de outros machos não castrados;\n\nC. Carcaças de machos castrados;\n\nD. Carcaças de fêmeas que já tenham parido;\n\nE. Carcaças de outras fêmeas.\n\nSem prejuízo das regras aplicáveis em matéria de intervenção, as letras A, B, C, D e E serão utilizadas para a identificação das carcaças, a partir de 1 de Janeiro de 1992.\n\nOs critérios que permitirão diferenciar entre si as categorias de carcaças serão estabelecidos de acordo com o procedimento previsto no artigo 27.º do Regulamento (CEE) n.º 805/68.\n\n2. A classificação das carcaças de bovinos adultos efectua-se apreciando sucessivamente:\n\na) A conformação;\n\nb) O estado de gordura;\n\ntal como definidos nos anexos I e II, respectivamente.\n\nA classe de conformação designada no anexo I pela letra S pode ser utilizada pelos Estados-Membros, de modo a ter em conta, mediante a introdução facultativa de uma classe de conformação superior às existentes (tipo culard), as características ou a evolução esperada de determinada produção.\n\nOs Estados-membros que pretenderem utilizar esta possibilidade devem notificar desse facto a Comissão e os outros Estados-membros.\n\n3. Os Estados-membros ficam autorizados a proceder à subdivisão de cada uma das classes previstas nos anexos I e II, até um máximo de três subposições."
+  },
+  "fee7dc56d9faedab": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A classificação das carcaças ou das meias-carcaças deve ser efectuada no mais curto prazo possível após o abate e ser realizada no próprio matadouro.\n\n2. As carcaças ou meias-carcaças classificadas serão identificadas.\n\n3. Os Estados-membros estão autorizados a proceder à remoção das gorduras de acabamento das carcaças ou meias-carcaças, se o estado de engorda dos animais o justificar.\n\nAs condições em que se aplicará tal remoção serão determinadas de acordo com o processo previsto no artigo 27.º do Regulamento (CEE) n.º 805/68."
+  },
+  "8eef21b8b97e1747": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSer o efectuadas verificações in loco por um comité de controlo comunitário composto por peritos da Comissão e peritos designados pelos Estados-membros. Este comité apresentará à Comissão um relatório sobre as verificações realizadas.\n\nSe necessário, a Comissão tomará as medidas necessárias para que a classificação seja efectuada de maneira homogénea.\n\nEstas verificações serão efectuados por conta da Comunidade que chamará a si os custos correspondentes.\n\nAs modalidades de aplicação do presente artigo serão adoptadas em conformidade com o processo previsto no artigo 27.º do Regulamento (CEE) n.º 805/68."
+  },
+  "f45e05871ce5d683": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs disposições complementares que virão explicitar a definição das classes de conformação e o estado de engorda serão adoptadas antes de 30 de Junho de 1981, em conformidade com o processo previsto no artigo 27.º do Regulamento (CEE) n.º 805/68.\n\nAntes de 31 de Dezembro de 1981, a Comissão submeterá ao Conselho um relatório sobre os problemas suscitados pela concretização prática da grelha comunitária nos diferentes Estados-membros e, nomeadamente, sobre a aplicação do disposto no n.º 2, segundo parágrafo, do artigo 3.º\n\nO Conselho, deliberando sobre proposta da Comissão e tendo presente esse relatório, decidirá antes de 31 de Março de 1982 da data a partir da qual a verificação dos preços e a aplicação das medidas de intervenção serão efectuadas com base na grelha comunitária.\n\nAté à data de aplicação para as verificação dos preços de mercado, os levantamentos de preços efectuar-se-ão de maneira paralela, por um lado, em conformidade com as disposições comunitárias e nacionais actualmente aplicáveis e, por outro lado, segundo os métodos administrativos a elaborar progressivamente conforme o disposto no presente regulamento."
+  },
+  "507613c0ab0a50c1": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente regulamento entra em vigor no início da campanha de comercialização de 1981/1982.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d174d19a353d0ade": {
+   "fragment_id": "CONFORMAÇÃO",
+   "type": "divisao",
+   "heading": "CONFORMAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFORMAÇÃO\n\nClasse de conformação Descrição\n\nS superior Todos os perfis extremamente convexos; desenvolvimento muscular excepcional com duplos músculos (tipo *culard*)\n\nE excelente Todos os perfis convexos a superconvexos; desenvolvimento muscular excepcional\n\nU muito boa Perfis em general convexos; forte desenvolvimento muscular\n\nR boa Perfis em geral rectilíneos; bom desenvolvimento muscular\n\nO razoável Perfis rectilíneos a côncavos; desenvolvimento muscular médio\n\nP medíocre Todos os perfis côncavos a muito côncavos; reduzido desenvolvimento muscular"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "507d9dfb4d94ae30": {
+   "fragment_id": "ESTADO DA GORDURA",
+   "type": "divisao",
+   "heading": "ESTADO DA GORDURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTADO DA GORDURA\n\nClasse de estado da gordura Descrição\n\n1 Muito fraca Gordura de cobertura inexistente a muito fraca\n\n2 Fraca Leve cobertura de gordura, com músculos quase sempre aparentes\n\n3 Média Músculos quase sempre cobertos de gordura, com excepção dos das coxas e das espáduas; reduzidos depósitos de gordura no interior da cavidade torácica\n\n4 Forte Músculos cobertos de gordura, mas ainda parcialmente visíveis ao nível da coxa e da espádua; alguns depósitos pronunciados de gordura no interior da cavidade torácica.\n\n5 Muito forte Toda a carcaça coberta de gordura, depósitos substanciais de gordura no interior da cavidade torácica.\n\n---"
+  },
+  "7da15fd525479a71": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/93689f58-80b1-4b3c-8ac3-5d193303284f.0017.03/DOC_1#src.E0001)) JO n.º L 148 de 28. 6. 1968, p. 24.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/93689f58-80b1-4b3c-8ac3-5d193303284f.0017.03/DOC_1#src.E0002)) JO n.º L 140 de 5. 6. 1980, p. 4."
+  },
+  "461ab0e4811a1638": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1981R1208 — PT — 24.08.2006 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31981R1208) [REGULAMENTO (CEE) N.º 1208/81 DO CONSELHO](http://publications.europa.eu/resource/celex/31981R1208) [de 28 de Abril de 1981](http://publications.europa.eu/resource/celex/31981R1208) [que estabelece a grelha comunitária de classificação das carcaças de bovinos adultos](http://publications.europa.eu/resource/celex/31981R1208) (JO L 123, 7.5.1981, p.3)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1183/2006 do Conselho de 24 de Julho de 2006](http://publications.europa.eu/resource/celex/32006R1183) — L 214 — 1 — 4.8.2006"
+  }
+ }
+}

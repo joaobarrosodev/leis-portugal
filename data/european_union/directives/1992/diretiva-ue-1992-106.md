@@ -34,6 +34,66 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-1992-106.versoes.json
+  count: 3
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '1992-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0103:por
+    amending_title: DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Áustria, da Finlândia e
+      da Suécia; Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre,
+      da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia,
+      da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita ANEXO
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita Notas
+    - Suprime Artigo 1o
+    - Suprime Artigo 2o
+    - Suprime Artigo 3o
+    - Suprime Artigo 4o
+    - Suprime Artigo 5o
+    - Suprime Artigo 6o
+    - Suprime Artigo 7o
+    - Suprime Artigo 8o
+    - Suprime Artigo 9o
+    - Suprime Artigo 10o
+    - Suprime Artigo 11o
+    - Suprime Artigo 12o — Os Estados-membros são os destinatários da presente directiva. Feito em Bruxelas, em 7 de Dezembro
+      de 1992. Pelo Conselho
+    - Suprime ANEXO — PARTE A
+    - Suprime PARTE B — Quadro de correspondência
+    - Suprime Artigo 10o — - Artigo 11o - Artigo 12o Artigo 13o Anexo -
+  - date: '2013-07-01'
+    amending: eu:celex:32013L0022:por
+    amending_title: DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Notas
 identifiers:
   celex: 31992L0106
   eli: http://data.europa.eu/eli/dir/1992/106/oj
@@ -48,7 +108,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5a0d6fb9-ccbf-481a-b988-38370950521d.0011
   content_url: http://publications.europa.eu/resource/cellar/a1470fa3-c6f8-4320-8720-4f4d9f6161df.0011.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0106-20130701
-  retrieved_at: '2026-10-22T02:50:28Z'
+  retrieved_at: '2026-10-22T14:41:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T21:54:58.654+01:00'
 integrity:
@@ -57,9 +117,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:50:28Z'
-  notes: Texto consolidado 01992L0106-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:41:21Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1992-106.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -157,36 +217,21 @@ relationships:
   date: '1975-02-22'
 article_structure:
   article_count: 12
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:50:28Z'
-  warnings: []
+  checked_at: '2026-10-22T14:41:21Z'
+  warnings:
+  - '01992L0106-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01992L0106-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Directiva 92/106/CEE do Conselho, de 7 de Dezembro de 1992
-
-> 1992L0106 — PT — 01.07.2013 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32006L0103) — [DIRECTIVA 2006/103/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0103) — L 363 — 344 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32013L0022) — [DIRETIVA 2013/22/UE DO CONSELHO, de 13 de maio de 2013,](http://publications.europa.eu/resource/celex/32013L0022) — L 158 — 356 — 10.6.2013
-
-**Alterado por:**
-
-- [A1](http://publications.europa.eu/resource/celex/11994N) — C 241 — 21 — 29.8.1994
-- L 001 — 1 — ..
-- [►A2](http://publications.europa.eu/resource/celex/12003T) — L 236 — 33 — 23.9.2003
-
-## DIRECTIVA 92/106/CEE DO CONSELHO
 
 de 7 de Dezembro de 1992
 

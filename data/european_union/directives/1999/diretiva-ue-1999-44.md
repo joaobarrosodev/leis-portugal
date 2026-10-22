@@ -35,6 +35,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-12-12'
+version_history:
+  file: diretiva-ue-1999-44.versoes.json
+  count: 2
+  source_lastmod: '2011-12-12'
+  versions:
+  - date: '1999-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-12'
+    amending: eu:celex:32011L0083:por
+    amending_title: DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de
+      Outubro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 14.º
+    - Adita Artigo 8.º-A — Requisitos relativos à prestação de informações
+    - Adita Notas
 identifiers:
   celex: 31999L0044
   eli: http://data.europa.eu/eli/dir/1999/44/oj
@@ -49,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d9c8682a-945f-45bb-8a22-d1e4ffb131ea.0009
   content_url: http://publications.europa.eu/resource/cellar/9e310f12-ee1b-4b54-9c01-8dcbcd6724b6.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999L0044-20111212
-  retrieved_at: '2026-10-22T02:40:27Z'
+  retrieved_at: '2026-10-22T14:47:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-15T08:21:11.105+01:00'
 integrity:
@@ -58,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:27Z'
-  notes: Texto consolidado 01999L0044-20111212.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:47:47Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-1999-44.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,29 +223,19 @@ relationships:
   source: null
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:27Z'
+  checked_at: '2026-10-22T14:47:47Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 1999/44/CE do Parlamento Europeu e do Conselho, de 25 de Maio de 1999
-
-> 1999L0044 — PT — 12.12.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0083) — [DIRECTIVA 2011/83/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 25 de Outubro de 2011](http://publications.europa.eu/resource/celex/32011L0083) — L 304 — 64 — 22.11.2011
-
-## DIRECTIVA 1999/44/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de Maio de 1999
 

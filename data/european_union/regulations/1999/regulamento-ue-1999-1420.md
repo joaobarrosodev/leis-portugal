@@ -34,6 +34,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2005-02-11'
+version_history:
+  file: regulamento-ue-1999-1420.versoes.json
+  count: 2
+  source_lastmod: '2005-02-11'
+  versions:
+  - date: '1999-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-11'
+    amending: eu:celex:32000R1208:por
+    amending_title: M1; REGULAMENTO (CE) N. o 2630/2000 DA COMISSÃO de 30 de Novembro de 2000; REGULAMENTO (CE) N. o 77/2001
+      DA COMISSÃO de 5 de Janeiro de 2001; REGULAMENTO (CE) N. o 1800/2001 DA COMISSÃO de 13 de Setembro de 2001; REGULAMENTO
+      (CE) N. o 2243/2001 DA COMISSÃO de 16 de Novembro de 2001; REGULAMENTO (CE) N. o 2118/2003 DA COMISSÃO de 2 de Dezembro
+      de 2003; REGULAMENTO (CE) N. o 105/2005 DA COMISSÃO de 17 de Novembro de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera ANEXO A
+    - Altera ANEXO B
+    - Adita Países e territórios que comunicaram à Comissão que não desejam receber transferências de determinados tipos de
+      resíduos destinados a valorização incluídos no anexo II do Regulamento (CEE) n.º 259/93 do Conselho
+    - Adita ALBÂNIA
+    - 'Adita ANDORRA:'
+    - 'Adita ANTÍGUA E BARBUDA:'
+    - 'Adita ARUBA:'
+    - 'Adita BAAMAS:'
+    - 'Adita BARBADOS:'
+    - Adita BARÉM
+    - 'Adita BELIZE:'
+    - 'Adita BENIM:'
+    - 'Adita BUTÃO:'
+    - 'Adita BOLÍVIA:'
+    - 'Adita BOTSUANA:'
+    - Adita BRASIL
+    - Adita BURKINA FASO
+    - Adita BURUNDI
+    - Adita CAMARÕES
+    - Adita CABO VERDE
+    - Adita CATAR
+    - Adita COLÔMBIA
+    - 'Adita COMORES, REPÚBLICA FEDERAL ISLÂMICA:'
+    - 'Adita COSTA RICA:'
+    - 'Adita DOMÍNICA:'
+    - Adita REPÚBLICA DOMINICANA
+    - Adita JIBUTI
+    - 'Adita EGIPTO:'
+    - Adita FIJI
+    - Adita GÂMBIA
+    - Adita GANA
+    - Adita GRANADA
+    - Adita GUIANA
+    - Adita JAMAICA
+    - Adita QUIRIBATI
+    - Adita HAITI
 identifiers:
   celex: 31999R1420
   eli: http://data.europa.eu/eli/reg/1999/1420/oj
@@ -48,7 +105,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/df4004f7-f4dd-432d-a748-337d4d0d16d2.0011
   content_url: http://publications.europa.eu/resource/cellar/0605cb2d-df10-4bd7-a6a0-20865e33a424.0017.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1420-20050211
-  retrieved_at: '2026-10-22T02:51:09Z'
+  retrieved_at: '2026-10-22T14:48:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-26T01:47:26.864+01:00'
 integrity:
@@ -57,9 +114,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:51:09Z'
-  notes: Texto consolidado 01999R1420-20050211.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:15Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1999-1420.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,39 +221,26 @@ relationships:
   date: '2000-02-02'
 article_structure:
   article_count: 6
-  section_count: 111
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 112
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:51:09Z'
-  warnings: []
+  checked_at: '2026-10-22T14:48:15Z'
+  warnings:
+  - '01999R1420-19990929: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20000612: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20001221: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20010205: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20011004: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20011210: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R1420-20031223: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) n° 1420/1999 do Conselho, de 29 de Abril de 1999
-
-> 1999R1420 — PT — 11.02.2005 — 007.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32000R1208) — [REGULAMENTO (CE) N.º 1208/2000 DA COMISSÃO de 8 de Junho de 2000](http://publications.europa.eu/resource/celex/32000R1208) — L 138 — 7 — 9.6.2000
-- [►M2](http://publications.europa.eu/resource/celex/32000R2630) — [REGULAMENTO (CE) N.º 2630/2000 DA COMISSÃO de 30 de Novembro de 2000](http://publications.europa.eu/resource/celex/32000R2630) — L 302 — 35 — 1.12.2000
-- [►M3](http://publications.europa.eu/resource/celex/32001R0077) — [REGULAMENTO (CE) N.º 77/2001 DA COMISSÃO de 5 de Janeiro de 2001](http://publications.europa.eu/resource/celex/32001R0077) — L 11 — 14 — 16.1.2001
-- [►M4](http://publications.europa.eu/resource/celex/32001R1800) — [REGULAMENTO (CE) N.º 1800/2001 DA COMISSÃO de 13 de Setembro de 2001](http://publications.europa.eu/resource/celex/32001R1800) — L 244 — 19 — 14.9.2001
-- [►M5](http://publications.europa.eu/resource/celex/32001R2243) — [REGULAMENTO (CE) N.º 2243/2001 DA COMISSÃO de 16 de Novembro de 2001](http://publications.europa.eu/resource/celex/32001R2243) — L 303 — 11 — 20.11.2001
-- [►M6](http://publications.europa.eu/resource/celex/32003R2118) — [REGULAMENTO (CE) N.º 2118/2003 DA COMISSÃO de 2 de Dezembro de 2003](http://publications.europa.eu/resource/celex/32003R2118) — L 318 — 5 — 3.12.2003
-- [►M7](http://publications.europa.eu/resource/celex/32005R0105) — [REGULAMENTO (CE) N.º 105/2005 DA COMISSÃO de 17 de Novembro de 2004](http://publications.europa.eu/resource/celex/32005R0105) — L 20 — 9 — 22.1.2005
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/31999R1420R%2801%29) — [Rectificação, JO L 021, 26.1.2000, p. 41 (1420/99)](http://publications.europa.eu/resource/celex/31999R1420R%2801%29)
-
-## REGULAMENTO (CE) N.º 1420/1999 DO CONSELHO
 
 de 29 de Abril de 1999
 

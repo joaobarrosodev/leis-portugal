@@ -34,6 +34,106 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-21'
+version_history:
+  file: diretiva-ue-2001-89.versoes.json
+  count: 5
+  source_lastmod: '2021-04-21'
+  versions:
+  - date: '2006-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DECISÃO DA COMISSÃO 2006/911/CE de 5 de Dezembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína clássica nos suínos de uma exploração
+    - Altera Artigo 10.º — Medidas na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita e confirmação da presença de peste suína clássica em suínos selvagens
+    - Altera Artigo 24.º — Utilização das lavaduras
+    - Altera Lista dos laboratórios nacionais da peste suína clássica e respectivas tarefas
+    - Altera Principais critérios e factores de risco a ter em conta na decisão de occisão de suínos das explorações de contacto
+    - Altera (referidas no artigo 28.º)
+    - Altera Notas
+  - date: '2007-11-13'
+    amending: eu:celex:32007D0729:por
+    amending_title: DECISÃO DA COMISSÃO de 7 de Novembro de 2007
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína clássica nos suínos de uma exploração
+    - Altera Artigo 10.º — Medidas na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita e confirmação da presença de peste suína clássica em suínos selvagens
+    - Altera Artigo 24.º — Utilização das lavaduras
+    - Altera Lista dos laboratórios nacionais da peste suína clássica e respectivas tarefas
+    - Altera Principais critérios e factores de risco a ter em conta na decisão de occisão de suínos das explorações de contacto
+    - Altera (referidas no artigo 28.º)
+    - Altera Notas
+  - date: '2008-09-03'
+    amending: eu:celex:32008L0073:por
+    amending_title: DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Medidas em caso de suspeita de peste suína clássica nos suínos de uma exploração
+    - Altera Artigo 10.º — Medidas na zona de protecção estabelecida
+    - Altera Artigo 15.º — Medidas em caso de suspeita e confirmação da presença de peste suína clássica em suínos selvagens
+    - Altera Artigo 24.º — Utilização das lavaduras
+    - Altera Principais critérios e factores de risco a ter em conta na decisão de occisão de suínos das explorações de contacto
+    - Altera (referidas no artigo 28.º)
+    - Altera Notas
+    - Adita Tarefas dos laboratórios nacionais da peste suína clássica
+    - Suprime Lista dos laboratórios nacionais da peste suína clássica e respectivas tarefas
+  - date: '2021-04-21'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Notificação da peste suína clássica
+    - Suprime Artigo 4.º — Medidas em caso de suspeita de peste suína clássica nos suínos de uma exploração
+    - Suprime Artigo 5.º — Medidas em caso de confirmação da presença de peste suína clássica nos suínos de uma exploração
+    - Suprime Artigo 6.º — Medidas em caso de confirmação da presença de peste suína clássica em explorações com várias unidades
+      de produção
+    - Suprime Artigo 7.º — Medidas nas explorações de contacto
+    - Suprime Artigo 8.º — Inquérito epidemiológico
+    - Suprime Artigo 9.º — Estabelecimento de zonas de protecção e vigilância
+    - Suprime Artigo 10.º — Medidas na zona de protecção estabelecida
+    - Suprime Artigo 11.º — Medidas na zona de vigilância estabelecida
+    - Suprime Artigo 12.º — Limpeza e desinfecção
+    - Suprime Artigo 13.º — Repovoamento das explorações suinícolas na sequência de focos de doença
+    - Suprime Artigo 14.º — Medidas em caso de suspeita e confirmação da presença de peste suína clássica em suínos existentes
+      num matadouro ou num meio de transporte
+    - Suprime Artigo 15.º — Medidas em caso de suspeita e confirmação da presença de peste suína clássica em suínos selvagens
+    - Suprime Artigo 16.º — Planos de erradicação da peste suína clássica numa população de suínos selvagens
+    - Suprime Artigo 17.º — Métodos de diagnóstico e requisitos em termos de biossegurança
+    - Suprime Artigo 18.º — Utilização, fabrico e venda de vacinas contra a peste suína clássica
+    - Suprime Artigo 19.º — Vacinação de emergência nas explorações suinícolas
+    - Suprime Artigo 20.º — Vacinação de emergência de suínos selvagens
+    - Suprime Artigo 21.º — Controlos comunitários
+    - Suprime Artigo 22.º — Planos de intervenção
+    - Suprime Artigo 23.º — Centros de luta contra a epizootia e grupos de peritos
+    - Suprime Artigo 24.º — Utilização das lavaduras
+    - Suprime Artigo 25.º — Procedimentos de alteração da presente directiva e dos seus anexos e de adopção de outras regras
+      de execução da presente directiva
+    - Suprime Artigo 26.º — Procedimento de regulamentação normal
+    - Suprime Artigo 27.º — Procedimento de regulamentação acelerado
+    - Suprime Artigo 28.º — Revogações
+    - Suprime Artigo 29.º — Disposições transitórias
+    - Suprime Artigo 30.º — Transposição para a legislação nacional e aplicação
+    - Suprime Artigo 31.º — Entrada em vigor
+    - Suprime Artigo 32.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime Notificação da doença e outras informações epidemiológicas a fornecer pelo Estado-Membro em caso de confirmação
+      da peste suína clássica
+    - Suprime ANEXO II
+    - Suprime Princípios e processos de limpeza e de desinfecção
+    - Suprime ANEXO III
+    - Suprime Tarefas dos laboratórios nacionais da peste suína clássica
+    - Suprime ANEXO IV
 identifiers:
   celex: 32001L0089
   eli: http://data.europa.eu/eli/dir/2001/89/oj
@@ -48,7 +148,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1d34c357-7565-4418-8516-4a8d1581e6da.0010
   content_url: http://publications.europa.eu/resource/cellar/3762baea-b7b6-11eb-8aca-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0089-20210421
-  retrieved_at: '2026-10-22T02:57:11Z'
+  retrieved_at: '2026-10-22T14:50:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T17:29:58.487+01:00'
 integrity:
@@ -57,9 +157,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:11Z'
-  notes: Texto consolidado 02001L0089-20210421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:50:23Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2001-89.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,16 +309,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:11Z'
+  checked_at: '2026-10-22T14:50:23Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02001L0089-20011201: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '02001L0089-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

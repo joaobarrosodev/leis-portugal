@@ -35,6 +35,295 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2006-1083.versoes.json
+  count: 11
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2006-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-08-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 27.º — Conteúdo
+    - Altera Artigo 37.º — Programas operacionais relativos aos Objectivos da Convergência e da Competitividade Regional e
+      do Emprego
+    - Altera Artigo 44.º — Instrumentos de engenharia financeira
+    - Altera Artigo 52.º — Modulação das taxas de participação
+    - Altera Artigo 61.º — Funções da autoridade de certificação
+    - Altera Artigo 62.º — Funções da autoridade de auditoria
+    - Altera Artigo 67.º — Relatórios anuais e final de execução
+    - Altera Artigo 74.º — Disposições sobre a proporcionalidade em matéria de controlos
+    - Altera Artigo 89.º — Condições de pagamento do saldo final
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Artigo 108.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Repartição anual das dotações de autorização para 2007-2013
+    - Adita (a que se refere o artigo 18.º)
+    - Adita ANEXO II
+    - Adita Critérios e métodos a que se refere o artigo 18.º
+    - Adita ANEXO III
+    - Adita Limites máximos aplicáveis às taxas de co-financiamento
+    - Adita (a que se refere o artigo 53.º)
+    - Adita ANEXO IV
+    - Adita Categorias de despesas
+    - Adita (a que se refere o n.º 3 do artigo 9.º)
+  - date: '2007-01-01'
+    amending: eu:celex:32006R1989:por
+    amending_title: M1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objectivos
+    - Altera Artigo 8.º — Apoio transitório
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 12.º — Nível territorial de execução
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 28.º — Preparação e adopção
+    - Altera Artigo 60.º — Funções da autoridade de gestão
+    - Altera Artigo 75.º — Autorizações orçamentais
+    - Altera Artigo 89.º — Condições de pagamento do saldo final
+    - Altera Artigo 90.º — Disponibilização de documentos
+    - Altera Artigo 93.º — Princípios
+    - Altera Artigo 95.º — Período de interrupção para efeitos de processos judiciais e recursos administrativos
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Critérios e métodos a que se refere o artigo 18.º
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Método de afectação para as regiões elegíveis a título do Objectivo da Convergência a que se refere o n.º 1 do
+      artigo 5.º
+    - Adita Método de afectação para os Estados-Membros elegíveis a título do Fundo de Coesão a que se refere o n.º 2 do artigo
+      5.º
+    - Adita Método de afectação para os Estados-Membros e regiões elegíveis a título do Objectivo da Competitividade Regional
+      e do Emprego a que se refere o artigo 6.º
+    - Adita Método de afectação para o Objectivo da Cooperação Territorial Europeia a que se refere o artigo 7.º
+    - Adita Método de afectação para os Estados-Membros e regiões elegíveis a título do apoio transitório a que se refere
+      o artigo 8.º
+    - Adita Limites máximos relativos às transferências dos fundos de apoio à coesão
+    - Adita Disposições adicionais
+    - Suprime Limites máximos aplicáveis às taxas de co-financiamento
+    - Suprime (a que se refere o artigo 53.º)
+  - date: '2008-12-25'
+    amending: eu:celex:32008R1341:por
+    amending_title: REGULAMENTO (CE) N. o 1341/2008 DO CONSELHO de 18 de Dezembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 55.º — Projectos geradores de receitas
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Notas
+  - date: '2009-04-09'
+    amending: eu:celex:32009R0284:por
+    amending_title: REGULAMENTO (CE) N. o 284/2009 DO CONSELHO de 7 de Abril de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 44.º — Instrumentos de engenharia financeira
+    - Altera Artigo 46.º — Assistência técnica por iniciativa dos Estados-Membros
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 78.º — Declaração de despesas
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Notas
+  - date: '2010-06-25'
+    amending: eu:celex:32010R0539:por
+    amending_title: REGULAMENTO (UE) N. o 539/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de Junho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 39.º — Conteúdo
+    - Altera Artigo 40.º — Informações apresentadas à Comissão
+    - Altera Artigo 41.º — Decisão da Comissão
+    - Altera Artigo 44.º — Instrumentos de engenharia financeira
+    - Altera Artigo 46.º — Assistência técnica por iniciativa dos Estados-Membros
+    - Altera Artigo 48.º — Responsabilidades dos Estados-Membros
+    - Altera Artigo 55.º — Projectos geradores de receitas
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 57.º — Durabilidade das operações
+    - Altera Artigo 67.º — Relatórios anuais e final de execução
+    - Altera Artigo 78.º — Declaração de despesas
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 88.º — Encerramento parcial
+    - Altera Artigo 93.º — Princípios
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Notas
+    - Adita Artigo 94.º — Interrupção dos prazos para grandes projectos e regimes de auxílio
+    - Suprime Artigo 94.º — Período de interrupção para os grandes projectos e regimes de auxílio
+  - date: '2011-12-23'
+    amending: eu:celex:32011R1310:por
+    amending_title: REGULAMENTO (UE) N. o 1310/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Dezembro de 2011; REGULAMENTO
+      (UE) N. o 1311/2011 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de Dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 67.º — Relatórios anuais e final de execução
+    - Altera Artigo 77.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Notas
+    - Adita Secção 3-A
+    - Adita Ajuda reembolsável
+    - Adita Artigo 43.º-A — Modalidades de ajuda reembolsável
+    - Adita Artigo 43.º-B — Reutilização de ajuda reembolsável
+    - Adita Artigo 44.º-A — Não aplicação de determinadas disposições
+    - Adita Artigo 78.º-A — Obrigação de fornecer informações adicionais na declaração de despesas relativas aos instrumentos
+      de engenharia financeira e aos adiantamentos pagos aos beneficiários no âmbito de auxílios estatais
+    - Adita ANEXO V
+    - Adita Apêndice à declaração de despesas a que se refere o artigo 78.º-A
+  - date: '2012-05-23'
+    amending: eu:celex:32012R0423:por
+    amending_title: REGULAMENTO (UE) N. o 423/2012 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 77.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera Notas
+    - Adita Artigo 36.º-A — Mecanismo de partilha de riscos
+  - date: '2013-07-01'
+    amending: null
+    amending_title: ►A1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 15.º — Adicionalidade
+    - Altera Artigo 18.º — Recursos globais
+    - Altera Artigo 19.º — Recursos para o Objectivo da Convergência
+    - Altera Artigo 20.º — Recursos para o Objectivo da Competitividade Regional e do Emprego
+    - Altera Artigo 21.º — Recursos para o Objectivo da Cooperação Territorial Europeia
+    - Altera Artigo 22.º — Não transferibilidade dos recursos
+    - Altera Artigo 23.º — Recursos para a reserva de desempenho
+    - Altera Artigo 28.º — Preparação e adopção
+    - Altera Artigo 29.º — Apresentação dos relatórios estratégicos dos Estados-Membros
+    - Altera Artigo 32.º — Preparação e aprovação dos programas operacionais
+    - Altera Artigo 33.º — Revisão dos programas operacionais
+    - Altera Artigo 36.º-A — Mecanismo de partilha de riscos
+    - Altera Artigo 49.º — Responsabilidades da Comissão
+    - Altera Artigo 53.º — Participação dos fundos
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 67.º — Relatórios anuais e final de execução
+    - Altera Artigo 71.º — Criação dos sistemas de gestão e controlo
+    - Altera Artigo 75.º — Autorizações orçamentais
+    - Altera Artigo 77.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 78.º — Declaração de despesas
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 89.º — Condições de pagamento do saldo final
+    - Altera Artigo 93.º — Princípios
+    - Altera Artigo 95.º — Período de interrupção para efeitos de processos judiciais e recursos administrativos
+    - Altera Artigo 98.º — Correcções financeiras efectuadas pelos Estados-Membros
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera ANEXO I
+    - Altera Método de afectação para o Objectivo da Cooperação Territorial Europeia a que se refere o artigo 7.º
+    - Altera Limites máximos relativos às transferências dos fundos de apoio à coesão
+    - Altera ANEXO III
+    - Altera Notas
+    - Adita Artigo 51.ºA
+    - Adita Artigo 105.ºA — Disposições específicas na sequência da adesão da Croácia
+    - Suprime Repartição anual das dotações de autorização para 2007-2013
+    - Suprime (a que se refere o artigo 18.º)
+  - date: '2013-12-21'
+    amending: eu:celex:32013R1297:por
+    amending_title: REGULAMENTO (UE) N. o 1297/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013; REGULAMENTO
+      (UE) N. o 1298/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Altera Artigo 14.º — Gestão partilhada
+    - Altera Artigo 18.º — Recursos globais
+    - Altera Artigo 21.º — Recursos para o Objectivo da Cooperação Territorial Europeia
+    - Altera Artigo 36.º-A — Mecanismo de partilha de riscos
+    - Altera Artigo 56.º — Elegibilidade das despesas
+    - Altera Artigo 75.º — Autorizações orçamentais
+    - Altera Artigo 77.º — Regras comuns de cálculo dos pagamentos intermédios e dos pagamentos do saldo final
+    - Altera Artigo 82.º — Pagamentos
+    - Altera Artigo 93.º — Princípios
+    - Altera Artigo 101.º — Obrigações dos Estados-Membros
+    - Altera Artigo 105.º — Disposições transitórias
+    - Altera ANEXO I
+    - Altera Disposições adicionais
+    - Altera Notas
+    - Adita Artigo 19.º — Recursos para o objetivo da convergência
+    - Adita Artigo 20.º — Recursos para o objetivo da competitividade regional e do emprego
+    - Adita Repartição anual das dotações de autorização para o período de 2007 a 2013
+    - Adita (a que se refere o artigo 18.º)
+    - Suprime Artigo 19.º — Recursos para o Objectivo da Convergência
+    - Suprime Artigo 20.º — Recursos para o Objectivo da Competitividade Regional e do Emprego
+  - date: '2014-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime TÍTULO I
+    - Suprime OBJECTIVOS E REGRAS GERAIS DA INTERVENÇÃO
+    - Suprime CAPÍTULO I
+    - Suprime Âmbito de aplicação e definições
+    - Suprime Artigo 1.º — Objecto
+    - Suprime Artigo 2.º — Definições
+    - Suprime CAPÍTULO II
+    - Suprime Objectivos e missões
+    - Suprime Artigo 3.º — Objectivos
+    - Suprime Artigo 4.º — Instrumentos e missões
+    - Suprime CAPÍTULO III
+    - Suprime Elegibilidade geográfica
+    - Suprime Artigo 5.º — Convergência
+    - Suprime Artigo 6.º — Competitividade regional e emprego
+    - Suprime Artigo 7.º — Cooperação territorial europeia
+    - Suprime Artigo 8.º — Apoio transitório
+    - Suprime CAPÍTULO IV
+    - Suprime Princípios da intervenção
+    - Suprime Artigo 9.º — Complementaridade, coerência, coordenação e conformidade
+    - Suprime Artigo 10.º — Programação
+    - Suprime Artigo 11.º — Parceria
+    - Suprime Artigo 12.º — Nível territorial de execução
+    - Suprime Artigo 13.º — Intervenção proporcional
+    - Suprime Artigo 14.º — Gestão partilhada
+    - Suprime Artigo 15.º — Adicionalidade
+    - Suprime Artigo 16.º — Igualdade entre homens e mulheres e não discriminação
+    - Suprime Artigo 17.º — Desenvolvimento sustentável
+    - Suprime CAPÍTULO V
+    - Suprime Quadro financeiro
+    - Suprime Artigo 18.º — Recursos globais
+    - Suprime Artigo 19.º — Recursos para o objetivo da convergência
+    - Suprime Artigo 20.º — Recursos para o objetivo da competitividade regional e do emprego
+    - Suprime Artigo 21.º — Recursos para o Objectivo da Cooperação Territorial Europeia
+    - Suprime Artigo 22.º — Não transferibilidade dos recursos
+    - Suprime Artigo 23.º — Recursos para a reserva de desempenho
+    - Suprime Artigo 24.º — Recursos para assistência técnica
+    - Suprime TÍTULO II
+    - Suprime ABORDAGEM ESTRATÉGICA DA COESÃO
+    - Suprime Orientações estratégicas da Comunidade em matéria de Coesão
 identifiers:
   celex: 32006R1083
   eli: http://data.europa.eu/eli/reg/2006/1083/oj
@@ -49,7 +338,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2fa906b7-387c-4828-b393-75f3aa68395b.0017
   content_url: http://publications.europa.eu/resource/cellar/f5836737-0a21-4e5c-80fc-7ebbb579c21f.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1083-20140101
-  retrieved_at: '2026-10-22T02:37:43Z'
+  retrieved_at: '2026-10-22T15:05:01Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T22:53:30.701+01:00'
 integrity:
@@ -58,9 +347,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:43Z'
-  notes: Texto consolidado 02006R1083-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:01Z'
+  notes: 11 versão(ões); histórico completo em regulamento-ue-2006-1083.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -362,16 +651,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:43Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:05:01Z'
+  warnings: []
   errors: []
 ---
 

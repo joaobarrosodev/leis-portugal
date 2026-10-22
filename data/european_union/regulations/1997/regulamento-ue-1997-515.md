@@ -36,6 +36,113 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-01-01'
+version_history:
+  file: regulamento-ue-1997-515.versoes.json
+  count: 5
+  source_lastmod: '2021-01-01'
+  versions:
+  - date: '1997-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-16'
+    amending: eu:celex:32003R0807:por
+    amending_title: REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003; REGULAMENTO (CE) N. o 766/2008 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 9 de Julho de 2008
+    changes:
+    - Altera preambulo
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 2.º-A
+    - Adita Artigo 3.º
+    - Adita TÍTULO I
+    - Adita ASSISTÊNCIA MEDIANTE PEDIDO
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 12.º
+    - Adita TÍTULO II
+    - Adita ASSISTÊNCIA ESPONTÂNEA
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita TÍTULO III
+    - Adita RELAÇÕES COM A COMISSÃO
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 18.º-A
+    - Adita Artigo 18.º-B
+    - Adita TÍTULO IV
+    - Adita RELAÇÕES COM PAÍSES TERCEIROS
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita TÍTULO V
+    - Adita SISTEMA DE INFORMAÇÃO ADUANEIRO
+    - Adita Capítulo 1
+    - Adita Criação de um sistema de informação aduaneiro
+    - Adita Artigo 23.º
+    - Adita Capítulo 2
+  - date: '2015-10-08'
+    amending: eu:celex:32015R1525:por
+    amending_title: REGULAMENTO (UE) 2015/1525 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º-A
+    - Altera Artigo 18.º-A
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 42.º-A
+    - Altera Artigo 43.º
+    - Altera Notas
+    - Adita Artigo 18.º-C
+    - Adita Artigo 43.º-A
+    - Adita Artigo 43.º-B
+  - date: '2016-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º-A
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º-D
+    - Altera Artigo 42.º-A
+    - Altera Artigo 43.º-A
+    - Altera Artigo 53.º
+    - Altera Notas
+    - Adita Artigo 18.º-D
+    - Adita Artigo 18.º-E
+  - date: '2021-01-01'
+    amending: eu:celex:32021R0785:por
+    amending_title: REGULAMENTO (UE) 2021/785 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 18.º-A
+    - Altera Artigo 18.º-D
+    - Altera Artigo 24.º
+    - Altera Artigo 37.º
+    - Altera Artigo 42.º-A
+    - Altera Artigo 43.º-A
+    - Altera Notas
 identifiers:
   celex: 31997R0515
   eli: http://data.europa.eu/eli/reg/1997/515/oj
@@ -50,7 +157,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/544f7ac5-b8ff-4f9a-8df3-280cf7f80401.0011
   content_url: http://publications.europa.eu/resource/cellar/97b4bb0f-d36a-11eb-895a-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0515-20210101
-  retrieved_at: '2026-10-22T03:08:49Z'
+  retrieved_at: '2026-10-22T14:46:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T04:30:58.379+01:00'
 integrity:
@@ -59,9 +166,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:08:49Z'
-  notes: Texto consolidado 01997R0515-20210101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:19Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1997-515.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,32 +302,21 @@ relationships:
   date: '1981-06-02'
 article_structure:
   article_count: 66
-  section_count: 46
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 47
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:08:49Z'
-  warnings: []
+  checked_at: '2026-10-22T14:46:19Z'
+  warnings:
+  - '01997R0515-19970325: versão indisponível (Sem expressão na língua por para CELEX 01997R0515-19970325.)'
+  - '01997R0515-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (CE) nº 515/97 do Conselho de 13 de Março de 1997
-
-> 01997R0515 — PT — 01.01.2021 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32003R0807) — [REGULAMENTO (CE) N.º 807/2003 DO CONSELHO de 14 de Abril de 2003](http://publications.europa.eu/resource/celex/32003R0807) — L 122 — 36 — 16.5.2003
-- [►M2](http://publications.europa.eu/resource/celex/32008R0766) — [REGULAMENTO (CE) N.º 766/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0766) — L 218 — 48 — 13.8.2008
-- [►M3](http://publications.europa.eu/resource/celex/32015R1525) — [REGULAMENTO (UE) 2015/1525 DO PARLAMENTO EUROPEU E DO CONSELHO de 9 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1525) — L 243 — 1 — 18.9.2015
-- [►M4](http://publications.europa.eu/resource/celex/32021R0785) — [REGULAMENTO (UE) 2021/785 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2021](http://publications.europa.eu/resource/celex/32021R0785) — L 172 — 110 — 17.5.2021
-
-## REGULAMENTO (CE) N.º 515/97 DO CONSELHO
 
 de 13 de Março de 1997
 

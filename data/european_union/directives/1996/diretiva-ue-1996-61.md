@@ -33,6 +33,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2008-02-18'
+version_history:
+  file: diretiva-ue-1996-61.versoes.json
+  count: 3
+  source_lastmod: '2008-02-18'
+  versions:
+  - date: '1996-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-24'
+    amending: eu:celex:32003L0035:por
+    amending_title: DIRECTIVA 2003/35/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de Maio de 2003; DIRECTIVA 2003/87/CE DO
+      PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de Outubro de 2003; REGULAMENTO (CE) N. o
+      1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003; REGULAMENTO (CE) N. o 166/2006 DO PARLAMENTO
+      EUROPEU E DO CONSELHO de 18 de Janeiro de 2006
+    changes:
+    - Altera preambulo
+    - Altera ANEXO III
+    - Adita Artigo 1.º — Objectivo e âmbito de aplicação
+    - Adita Artigo 2.º — Definições
+    - Adita Artigo 3.º — Princípios gerais das obrigações fundamentais do operador
+    - Adita Artigo 4.º — Licenciamento de novas instalações
+    - Adita Artigo 5.º — Condições de licenciamento das instalações existentes
+    - Adita Artigo 6.º — Pedidos de licenciamento
+    - Adita Artigo 7.º — Abordagem integrada do processo de licenciamento
+    - Adita Artigo 8.º — Decisões
+    - Adita Artigo 9.º — Condições de licenciamento
+    - Adita Artigo 10.º — Melhores técnicas disponíveis e normas de qualidade ambiental
+    - Adita Artigo 11.º — Evolução das melhores técnicas disponíveis
+    - Adita Artigo 12.º — Alterações introduzidas nas instalações pelos operadores
+    - Adita Artigo 13.º — Reexame e actualização das condições de licenciamento pela autoridade competente
+    - Adita Artigo 14.º — Cumprimento das condições de licenciamento
+    - Adita Artigo 15.º — Acesso à informação e participação do público no processo de licenciamento
+    - Adita Artigo 15.ºA — Acesso à justiça
+    - Adita Artigo 16.º — Intercâmbio de informações
+    - Adita Artigo 17.º — Efeitos transfronteiras
+    - Adita Artigo 18.º — Valores-limite de emissão comunitários
+    - Adita Artigo 19.º — Comité
+    - Adita Artigo 20.º — Disposições transitórias
+    - Adita Artigo 21.º — Entrada em aplicação
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita ANEXO I
+    - Adita CATEGORIAS DE ACTIVIDADES INDUSTRIAIS REFERIDAS NO ARTIGO 1.º
+    - Adita ANEXO II
+    - Adita LISTA DAS DIRECTIVAS A QUE SE REFEREM O N.º 2 DO ARTIGO 18.º E O ARTIGO 20.º
+    - Adita LISTA INDICATIVA DAS PRINCIPAIS SUBSTÂNCIAS POLUENTES A TER OBRIGATORIAMENTE EM CONTA SE FOREM PERTINENTES PARA
+      A FIXAÇÃO DOS VALORES-LIMITE DE EMISSÃO
+    - Adita ATMOSFERA
+    - Adita ÁGUA
+    - Adita ANEXO V
+    - Adita Participação do público na tomada de decisões
+    - Adita Notas
+    - Suprime Artigo 1º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2º — Definições
+    - Suprime Artigo 3º — Princípios gerais das obrigações fundamentais do operador
+    - Suprime Artigo 4º — Licenciamento de novas instalações
+  - date: '2008-02-18'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivo e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Princípios gerais das obrigações fundamentais do operador
+    - Suprime Artigo 4.º — Licenciamento de novas instalações
+    - Suprime Artigo 5.º — Condições de licenciamento das instalações existentes
+    - Suprime Artigo 6.º — Pedidos de licenciamento
+    - Suprime Artigo 7.º — Abordagem integrada do processo de licenciamento
+    - Suprime Artigo 8.º — Decisões
+    - Suprime Artigo 9.º — Condições de licenciamento
+    - Suprime Artigo 10.º — Melhores técnicas disponíveis e normas de qualidade ambiental
+    - Suprime Artigo 11.º — Evolução das melhores técnicas disponíveis
+    - Suprime Artigo 12.º — Alterações introduzidas nas instalações pelos operadores
+    - Suprime Artigo 13.º — Reexame e actualização das condições de licenciamento pela autoridade competente
+    - Suprime Artigo 14.º — Cumprimento das condições de licenciamento
+    - Suprime Artigo 15.º — Acesso à informação e participação do público no processo de licenciamento
+    - Suprime Artigo 15.ºA — Acesso à justiça
+    - Suprime Artigo 16.º — Intercâmbio de informações
+    - Suprime Artigo 17.º — Efeitos transfronteiras
+    - Suprime Artigo 18.º — Valores-limite de emissão comunitários
+    - Suprime Artigo 19.º — Comité
+    - Suprime Artigo 20.º — Disposições transitórias
+    - Suprime Artigo 21.º — Entrada em aplicação
+    - Suprime Artigo 22.º
+    - Suprime Artigo 23.º
+    - Suprime ANEXO I
+    - Suprime CATEGORIAS DE ACTIVIDADES INDUSTRIAIS REFERIDAS NO ARTIGO 1.º
+    - Suprime ANEXO II
+    - Suprime LISTA DAS DIRECTIVAS A QUE SE REFEREM O N.º 2 DO ARTIGO 18.º E O ARTIGO 20.º
+    - Suprime ANEXO III
+    - Suprime LISTA INDICATIVA DAS PRINCIPAIS SUBSTÂNCIAS POLUENTES A TER OBRIGATORIAMENTE EM CONTA SE FOREM PERTINENTES PARA
+      A FIXAÇÃO DOS VALORES-LIMITE DE EMISSÃO
+    - Suprime ATMOSFERA
+    - Suprime ÁGUA
+    - Suprime ANEXO IV
+    - Suprime ANEXO V
+    - Suprime Participação do público na tomada de decisões
+    - Suprime Notas
 identifiers:
   celex: 31996L0061
   eli: http://data.europa.eu/eli/dir/1996/61/oj
@@ -47,7 +146,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e81fef3f-8c7d-4683-93fc-c3bc9cacbb96.0011
   content_url: http://publications.europa.eu/resource/cellar/60fb2cba-0bcf-465d-ad2c-2515e5c1cc53.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01996L0061-20080218
-  retrieved_at: '2026-10-22T02:35:36Z'
+  retrieved_at: '2026-10-22T14:45:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T22:58:39.094+01:00'
 integrity:
@@ -56,9 +155,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:36Z'
-  notes: Texto consolidado 01996L0061-20080218.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:45:18Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-1996-61.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -377,16 +476,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:36Z'
+  checked_at: '2026-10-22T14:45:18Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01996L0061-19961030: versão indisponível (Sem expressão na língua por para CELEX 01996L0061-19961030.)'
+  - '01996L0061-20030625: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0061-20031025: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01996L0061-20031120: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

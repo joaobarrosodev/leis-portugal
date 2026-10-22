@@ -33,6 +33,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-02-15'
+version_history:
+  file: diretiva-ue-1979-409.versoes.json
+  count: 4
+  source_lastmod: '2010-02-15'
+  versions:
+  - date: '1979-04-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:31981L0854:por
+    amending_title: M1; M2; M3; M4; M5; M6; REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003; DIRECTIVA 2006/105/CE
+      DO CONSELHO de 20 de Novembro de 2006; Acto de Adesão da Grécia; A2; Acto de Adesão da Áustria, da Finlândia e da Suécia;
+      Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República
+      da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República
+      da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia
+    changes:
+    - Altera preambulo
+    - Altera ANEXO V
+    - Adita Artigo 1º
+    - Adita Artigo 2º
+    - Adita Artigo 3º
+    - Adita Artigo 4º
+    - Adita Artigo 5º
+    - Adita Artigo 6º
+    - Adita Artigo 7º
+    - Adita Artigo 8º
+    - Adita Artigo 9º
+    - Adita Artigo 10º
+    - Adita Artigo 11º
+    - Adita Artigo 12º
+    - Adita Artigo 13º
+    - Adita Artigo 14º
+    - Adita Artigo 15º
+    - Adita Artigo 16º
+    - Adita Artigo 17.º
+    - Adita Artigo 18º
+    - Adita Artigo 19º
+    - Adita ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO
+      I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA
+      I — LITTLE I — BILAGA I
+    - Adita a)
+    - Adita GAVIIFORMES
+    - Adita PODICIPEDIFORMES
+    - Adita PROCELLARIIFORMES
+    - Adita PELECANIFORMES
+    - Adita CICONIIFORMES
+    - Adita PHOENICOPTERIFORMES
+    - Adita ANSERIFORMES
+    - Adita FALCONIFORMES
+    - Adita GALLIFORMES
+    - Adita GRUIFORMES
+    - Adita CHARADRIIFORMES
+    - Adita PTEROCLIFORMES
+    - Adita COLUMBIFORMES
+    - Adita STRIGIFORMES
+    - Adita CAPRIMULGIFORMES
+    - Adita APODIFORMES
+    - Adita CORACIIFORMES
+  - date: '2008-12-23'
+    amending: eu:celex:32008L0102:por
+    amending_title: DIRECTIVA 2008/102/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de Novembro de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 17.º
+    - Altera Notas
+    - Adita Artigo 15.º
+    - Suprime Artigo 15º
+  - date: '2010-02-15'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime Artigo 12º
+    - Suprime Artigo 13º
+    - Suprime Artigo 14º
+    - Suprime Artigo 15.º
+    - Suprime Artigo 16º
+    - Suprime Artigo 17.º
+    - Suprime Artigo 18º
+    - Suprime Artigo 19º
+    - Suprime ПРИЛОЖЕНИЕ I — ANEXO I — PŘÍLOHA I — BILAG I — ANHANG I — I LISA — ΠΑΡΑΡΤΗΜΑ I — ANNEX I — ANNEXE I — ALLEGATO
+      I — I PIELIKUMS — I PRIEDAS — I. MELLÉKLET — ANNESS I — BIJLAGE I — ZAŁĄCZNIK I — ANEXO I — ANEXA I — PRÍLOHA I — PRILOGA
+      I — LITTLE I — BILAGA I
+    - Suprime a)
+    - Suprime GAVIIFORMES
+    - Suprime PODICIPEDIFORMES
+    - Suprime PROCELLARIIFORMES
+    - Suprime PELECANIFORMES
+    - Suprime CICONIIFORMES
+    - Suprime PHOENICOPTERIFORMES
+    - Suprime ANSERIFORMES
+    - Suprime FALCONIFORMES
+    - Suprime GALLIFORMES
+    - Suprime GRUIFORMES
+    - Suprime CHARADRIIFORMES
+    - Suprime PTEROCLIFORMES
+    - Suprime COLUMBIFORMES
+    - Suprime STRIGIFORMES
+    - Suprime CAPRIMULGIFORMES
+    - Suprime APODIFORMES
+    - Suprime CORACIIFORMES
+    - Suprime PICIFORMES
 identifiers:
   celex: 31979L0409
   eli: http://data.europa.eu/eli/dir/1979/409/oj
@@ -47,7 +161,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/60cd834c-a905-4bf6-aed7-cf5023a71e46.0011
   content_url: http://publications.europa.eu/resource/cellar/1ac27b57-8845-4613-bbaa-e3450107d134.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01979L0409-20100215
-  retrieved_at: '2026-10-22T02:23:13Z'
+  retrieved_at: '2026-10-22T14:32:55Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-12-22T22:06:04.043+01:00'
 integrity:
@@ -56,9 +170,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:13Z'
-  notes: Texto consolidado 01979L0409-20100215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:32:55Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-1979-409.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -904,16 +1018,19 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:13Z'
+  checked_at: '2026-10-22T14:32:55Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01979L0409-19940720: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0409-19950101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0409-19970902: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0409-20030605: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01979L0409-20040501: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

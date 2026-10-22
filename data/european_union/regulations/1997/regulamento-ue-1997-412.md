@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2003-08-19'
+version_history:
+  file: regulamento-ue-1997-412.versoes.json
+  count: 2
+  source_lastmod: '2003-08-19'
+  versions:
+  - date: '1997-03-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-19'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1º
+    - Suprime Artigo 2º
+    - Suprime Artigo 3º
+    - Suprime Artigo 4º
+    - Suprime Artigo 5º
+    - Suprime Artigo 6º
+    - Suprime Artigo 7º
+    - Suprime Artigo 8º
+    - Suprime Artigo 9º
+    - Suprime Artigo 10º
+    - Suprime Artigo 11º
+    - Suprime ANEXO I — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES COM EXCLUSÃO DAS DE CITRINOS
+    - Suprime ANEXO II — CRITÉRIOS DE RECONHECIMENTO PARA AS ORGANIZAÇÕES DE PRODUTORES DE CITRINOS
+    - Suprime ANEXO III — >INÍCIO DE GRÁFICO>
 identifiers:
   celex: 31997R0412
   eli: http://data.europa.eu/eli/reg/1997/412/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3183a9a1-e8a1-4d38-91f5-82f976561075.0011
   content_url: http://publications.europa.eu/resource/cellar/decfdf1d-4d40-4982-9b74-bdc97588622f.0010.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01997R0412-20030819
-  retrieved_at: '2026-10-22T02:44:36Z'
+  retrieved_at: '2026-10-22T14:46:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-24T15:43:41.871+01:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:44:36Z'
-  notes: Texto consolidado 01997R0412-20030819.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:46:16Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-1997-412.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -134,16 +162,18 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:44:36Z'
+  checked_at: '2026-10-22T14:46:16Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01997R0412-19970627: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0412-19970806: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0412-20010611: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01997R0412-20030101: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

@@ -1,0 +1,536 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2408:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2408-20081101",
+ "dre_path": null,
+ "source_lastmod": "2008-11-01",
+ "versions": [
+  {
+   "date": "1992-08-24",
+   "future": false,
+   "celex": "31992R2408",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "28fb8c7c5c152515",
+    "ea3368cf5b6ae6c2",
+    "90379becf8fda9df",
+    "fd95ad5db6cf98c9",
+    "368e976e398f912f",
+    "b14f691ac299e9fa",
+    "4f813a12caccbf95",
+    "0c99ecf8c7acae6f",
+    "32ca05eef4c60f0b",
+    "32b6408f95335398",
+    "ae1afda7a655868d",
+    "98575aea48ce54f8",
+    "16ee7a4718196298",
+    "61a56e338026f892",
+    "a92c8ed1a559595d",
+    "04ed4b9f4b0124c2",
+    "d1f41fab512edd59",
+    "33d1cab4df8dcdf8",
+    "6b2f880b4d6bc558",
+    "b6216d9c95f7a8d3"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01992R2408-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1882:por",
+     "title": "REGULAMENTO (CE) N. o 1882/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1882"
+    },
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera ANEXO III",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita ANEXO I",
+    "Adita Lista dos aeroportos de categoria 1",
+    "Adita ANEXO II",
+    "Adita Lista dos sistemas aeroportos",
+    "Adita Interpretação referida no artigo 15.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime ANEXO I — Lista dos aeroportos de categoria 1 BÉLGICA:Bruxelas-Zaventem",
+    "Suprime ANEXO II — Lista dos sistemas aeroportos DINAMARCA:Copenhaga-Kastrup/Roskilde"
+   ],
+   "fragments": [
+    "ae600e1138092473",
+    "884795fa3eda26f4",
+    "f343abc06e1e2a51",
+    "24d933053060f44a",
+    "2cb868d68599824e",
+    "5d50dbdffa7ffb80",
+    "75f651cbb3f893e3",
+    "946981963217a017",
+    "b64ab35cebbe06d9",
+    "df5a013ba833c9bd",
+    "d578f990fa9e2cb1",
+    "0534c4fdc6cb7ab1",
+    "6b5667d336062996",
+    "1d912a26f5f4cda7",
+    "30ba182d372e92fd",
+    "d06a76fec76fc8d2",
+    "5191d1b06dea4977",
+    "d664376e2a8dcecd",
+    "462cabfb50a7d6e1",
+    "852174729551523b",
+    "6769d2c55e8e4e39",
+    "720af75c92791b10",
+    "080ca5c28c63aea2",
+    "0b2e762d9435645f"
+   ]
+  },
+  {
+   "date": "2008-11-01",
+   "future": false,
+   "celex": "01992R2408-20081101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime ANEXO I",
+    "Suprime Lista dos aeroportos de categoria 1",
+    "Suprime ANEXO II",
+    "Suprime Lista dos sistemas aeroportos",
+    "Suprime ANEXO III",
+    "Suprime Interpretação referida no artigo 15.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "6cf13b16a1112cce"
+   ]
+  }
+ ],
+ "fragments": {
+  "28fb8c7c5c152515": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2408/92 do Conselho, de 23 de Julho de 1992, relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias** *Jornal Oficial nº L 240 de 24/08/1992 p. 0008 - 0014 Edição especial finlandesa: Capítulo 7 Fascículo 4 p. 0123 Edição especial sueca: Capítulo 7 Fascículo 4 p. 0123*\n\nREGULAMENTO (CEE) no 2408/92 DO CONSELHO de 23 de Julho de 1992 relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o no 2 do seu artigo 84o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que é importante adoptar uma política de transportes aéreos, tendo em vista a realização do mercado interno durante um período que termina em 31 de Dezembro de 1992, como previsto no artigo 8oA do Tratado;\n\nConsiderando que o mercado interno incluirá um espaço sem fronteiras internas no qual será assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que a Decisão 87/602/CEE do Conselho, de 14 de Dezembro de 1987, relativa à partilha da capacidade de transporte de passageiros entre transportadoras aéreas nos serviços aéreos regulares entre Estados-membros e ao acesso das transportadoras aéreas às rotas dos serviços aéreos regulares entre Estados-membros(4), e o Regulamento (CEE) no 2343/90 do Conselho, de 24 de Julho de 1990, relativo ao acesso das transportadoras aéreas às rotas dos serviços aéreos regulares intracomunitários e à partilha da capacidade de transporte de passageiros entre transportadoras aéreas nos serviços aéreos regulares entre Estados-membros(5), constituem os primeiros passos para a realização do mercado interno no que se refere ao acesso das transportadoras aéreas comunitárias às rotas aéreas regulares intracomunitárias;\n\nConsiderando que, nos termos do Regulamento (CEE) no 2343/90, o Conselho deverá decidir da revisão deste regulamento o mais tardar em 30 de Junho de 1992;\n\nConsiderando que, pelo Regulamento (CEE) no 2343/90, o Conselho decidiu instituir regras para a concessão de licenças em matéria de rotas, que deverão ser aplicadas o mais tardar em 1 de Julho de 1992;\n\nConsiderando que, pelo Regulamento (CEE) no 2343/90, o Conselho decidiu abolir as restrições de capacidade entre os Estados-membros até 1 de Janeiro de 1993;\n\nConsiderando que, pelo Regulamento (CEE) no 2343/90, o Conselho confirmou que os direitos de tráfego de cabotagem constituem parte integrante do mercado interno;\n\nConsiderando que, em 2 de Dezembro de 1987, foram acordadas em Londres pelo Reino de Espanha e o Reino Unido, numa declaração conjunta efectuada pelos ministros dos Negócios Estrangeiros dos dois países, disposições tendo em vista uma maior cooperação na utilização do aeroporto de Gibraltar, e que essas disposições não entraram ainda em vigor;\n\nConsiderando que o desenvolvimento do sistema de tráfego aéreo nas ilhas gregas e nas ilhas do Atlântico que constituem a região autónoma dos Açores é actualmente inadequado e que, por essa razão, os aeroportos situados nas referidas ilhas deveriam ficar temporariamente istentos da aplicação do presente regulamento;\n\nConsiderando que é necessário eliminar as restrições em matéria de designação múltipla e de direitos de tráfego de quinta liberdade e introduzir progressivamente os direitos de cabotagem, a fim de incentivar o desenvolvimento do sector dos transportes aéreos comunitários e melhorar os serviços oferecidos;\n\nConsiderando que é necessário adoptar disposições especiais, em circunstâncias específicas, em relação às obrigações de serviço público necessárias à manutenção de serviços aéreos adequados nas regiões nacionais;\n\nConsiderando que é necessário adoptar disposições especiais no que respeita aos novos serviços aéreos entre aeroportos regionais;\n\nConsiderando que, para efeitos de planeamento dos transportes aéreos, é necessário conceder aos Estados-membros o direito de estabelecerem regras não discriminatórias no que se refere à distribuição do tráfego aéreo entre aeroportos dentro do mesmo sistema de aeroportos;\n\nConsiderando que o exercício dos direitos de tráfego tem de ser compatível com as regras operacionais relativas à segurança, à protecção do ambiente e às condições que regem o acesso aos aeroportos, devendo ser tratado de modo não discriminatório;\n\nConsiderando que, perante os problemas de congestionamento ou de ambiente, é necessário prever a possibilidade de impor certas limitações no que diz respeito ao exercício dos direitos de tráfego;\n\nConsiderando que, face à situação concorrencial do mercado, se devem tomar medidas para impedir que as transportadoras aéreas fiquem sujeitas a efeitos económicos injustificados;\n\nConsiderando que é necessário especificar os deveres dos Estados-membros e das transportadoras aéreas para efeitos de fornecimento das informações necessárias;\n\nConsiderando que é necessário assegurar que a avaliação do acesso ao mercado seja efectuada de forma idêntica para um mesmo tipo de serviços aéreos;\n\nConsiderando que é conveniente que todas as questões relacionadas com o acesso ao mercado sejam abrangidas pelo mesmo regulamento;\n\nConsiderando que o presente regulamento substitui parcialmente o Regulamento (CEE) no 2343/90 e o Regulamento (CEE) no 294/91 do Conselho, de 4 de Fevereiro de 1991, relativo à exploração de serviços aéreos de carga entre Estados-membros(6),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ea3368cf5b6ae6c2": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. O presente regulamento diz respeito ao acesso dos serviços aéreos regulares e não regulares às rotas dentro da Comunidade.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido em relação ao diferendo a respeito da soberania sobre o território onde se encontra situado o aeroporto.\n\n3. A aplicação das disposições do presente regulamento ao aeroporto de Gibraltar está suspensa até se iniciar a aplicação do regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido feita em 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido informarão o Conselho da data de entrada em aplicação desse regime.\n\n4. Os aeroportos das ilhas gregas e das ilhas do Atlântico que constituem a região autónoma dos Açores estão excluídos do âmbito de aplicação do presente regulamento até 30 de Junho de 1993. Salvo decisão em contrário do Conselho, sob proposta da Comissão, esta isenção vigorará por um período adicional de cinco anos, que poderá ser seguidamente prorrogado por mais cinco anos."
+  },
+  "90379becf8fda9df": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea»: uma empresa de transporte aéreo titular de uma licença de exploração válida;\n\nb) «Transportadora aérea comunitária»: uma transportadora aérea titular de uma licença de exploração válida emitida por um Estado-membro em conformidade com o disposto no Regulamento (CEE) no 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas(7);\n\nc) «Serviço aéreo»: um voo ou uma série de voos transportando passageiros, carga e/ou correio, a título oneroso;\n\nc) «Serviço aéreo regular»: uma série de voos que reúna todas as características seguintes:\n\ni) Ser realizada por meio de aeronaves destinadas ao transporte de passageiros, carga e/ou correio mediante pagamento, de forma a que em cada voo existam lugares disponíveis para aquisição individual pelo público (directamente na transportadora aérea ou através dos agentes autorizados);\n\nii) Ser explorada de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos:\n\n1. Quer de acordo com um horário publicado;\n\n2. Quer mediante voos que, pela sua regularidade ou frequência, constituam, de forma patente, uma série sistemática;\n\ne) «Voo»: qualquer partida de um determinado aeroporto para um determinado aeroporto de destino;\n\nf) «Direito de tráfego»: direito de uma transportadora aérea transportar passageiros, carga e/ou correio num serviço aéreo entre dois aeroportos comunitários;\n\ng) «Vendas unicamente de lugares»: venda de lugares sem qualquer outro serviço incluído, como, por exemplo, alojamento, efectuada directamente ao público pela transportadora aérea ou pelo seu agente autorizado, ou ainda por um fretador;\n\nh) «Estado(s)-membro(s) interessado(s)»: o(s) Estado(s)-membro(s) entre o(s) qual(ais) ou dentro do(s) qual(ais) é efectuado um serviço aéreo;\n\ni) «Estado(s)-membro(s) implicado(s)»: o(s) Estado(s)-membro(s) interessado(s) e o(s) Estado(s)-membro(s) onde a(s) transportadora(s) que explora(m) o serviço aéreo está(ao) licenciada(s);\n\nj) «Estado de registo»: o Estado-membro onde é emitida a licença referida na alínea b);\n\nk) «Aeroporto»: qualquer área de um Estado-membro disponível para a aterragem e descolagem de operações comerciais de transporte aéreo;\n\nl) «Aeroporto regional»: qualquer aeroporto que não conste do anexo I como sendo um aeroporto de categoria 1;\n\nm) «Sistema de aeroportos»: um conjunto de dois ou mais aeroportos que sirvam a mesma cidade ou área urbana, como indicado no anexo II;\n\nn) «Capacidade»: o número de lugares oferecidos ao público num serviço aéreo regular durante um determinado período;\n\no) «Obrigação de serviço público»: qualquer obrigação imposta a uma transportadora aérea, em relação a qualquer rota para cuja exploração lhe tenha sido concedida uma licença por um Estado-membro, de adoptar todas as medidas necessárias para garantir a prestação de um serviço que satisfaça normas estabelecidas de continuidade, regularidade, capacidade e fixação de preços, normas essas que a transportadora aérea não respeitaria se atendesse apenas aos seus interesses comerciais."
+  },
+  "fd95ad5db6cf98c9": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Sem prejuízo do disposto no presente regulamento, as transportadoras aéreas comunitárias serão autorizadas pelo(s) Estado(s)-membro(s) interessado(s) a exercer direitos de tráfego nas rotas do interior da Comunidade.\n\n2. Não obstante o disposto no no 1, nenhum Estado-membro será obrigado, antes de 1 de Abril de 1997, a conceder direitos de cabotagem dentro do seu território a transportadoras aéreas comunitárias licenciadas por outro Estado-membro, a não ser que:\n\ni) Os direitos de tráfego sejam exercidos num serviço que constitua e esteja programado como uma extensão de um serviço com partida do Estado de registo dessas transportadoras, ou como preliminar de um serviço que se destine a esse Estado;\n\nii) A transportadora aérea não utilize, para o serviço de cabotagem, mais de 50 % da sua capacidade sazonal no mesmo serviço de que a cabotagem constitui a extensão ou o preliminar.\n\n3. As transportadoras aéreas que explorem serviços de cabotagem nos termos do no 2 fornecerão, a pedido do(s) Estado(s)-membro(s) implicado(s), todas as informações necessárias à aplicação do disposto nesse número.\n\n4. Não obstante o disposto no no 1 e sem discriminações relacionadas com a nacionalidade da entidade proprietária e com a identidade da transportadora aérea, quer explore ou seja candidata à exploração das rotas em causa, os Estados-membros podem, antes de 1 de Abril de 1997, regular o acesso das transportadoras aéreas por eles licenciadas às rotas do seu território, nos termos do Regulamento (CEE) no 2407/92, sem prejuízo do direito comunitário e, em especial, das regras de concorrência."
+  },
+  "368e976e398f912f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. a) Após consulta de outros Estados-membros interessados e depois de ter informado a Comissão e as transportadoras aéreas que operam na rota em questão, um Estado-membro pode impor uma obrigação de serviço público, no que se refere aos serviços aéreos regulares, para um aeroporto que sirva uma região periférica ou em desenvolvimento do seu território ou numa rota de fraca densidade de tráfego para qualquer aeroporto regional do seu território, se a rota em causa for considerada vital para o desenvolvimento económico da região em que se encontra o aeroporto, e na medida do necessário para assegurar a prestação nessa rota de serviços aéreos regulares adequados que satisfaçam normas estabelecidas de continuidade, regularidade, capacidade e fixação de preços que as transportadoras aéreas não respeitariam se atendessem apenas aos seus interesses comerciais. A Comissão anunciará a existência destas obrigações de serviço público no Jornal Oficial das Comunidades Europeias;\n\nb) A adequação dos serviços aéreos regulares deve ser avaliada pelos Estados-membros tendo em conta:\n\ni) O interesse público;\n\nii) A possibilidade de recorrer a outros meios de transporte, especialmente nas regiões insulares, e a capacidade desses meios para dar resposta às necessidades de transporte em questão;\n\niii) As tarifas aéreas e as condições que podem ser oferecidas aos utentes;\n\niv) O efeito combinado de todas as transportadoras aéreas que operam ou tencionam operar na rota;\n\nc) Nos casos em que não seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, os Estados-membros interessados poderão incluir na obrigação de serviço público a condição de todas as transportadoras aéreas que pretendam operar na rota apresentarem garantias de que o farão durante um determinado período, a especificar de acordo com as restantes condições relativas à obrigação de serviço público;\n\nd) Se nenhuma transportadora aérea tiver começado ou estiver prestes a dar início à prestação de serviços aéreos regulares numa rota de acordo com as obrigações de serviço público impostas a essa mesma rota, o Estado-membro pode limitar o acesso a essa rota a uma só transportadora aérea por um período não superior a três anos, no termo do qual a situação terá de ser revista. O direito de explorar tais serviços será conferido por concurso público, efectuado quer para uma quer para um grupo de rotas, a qualquer transportadora aérea comunitária autorizada a explorar esses serviços aéreos. O aviso de concurso será publicado no Jornal Oficial das Comunidades Europeias e o prazo para apresentação das candidaturas não poderá ser inferior a um mês a contar da data da publicação. As propostas apresentadas pelas transportadoras aéreas deverão ser imediatamente comunicadas aos outros Estados-membros interessados e à Comissão;\n\ne) O aviso de concurso e o contrato subsequente deverão explicitar, nomeadamente, os seguintes pontos:\n\ni) Normas exigidas pela obrigação de serviço público;\n\nii) Regras relativas à alteração ou rescisão do contrato, especialmente para ter em conta quaisquer mudanças imprevisíveis;\n\niii) Período de validade do contrato;\n\niv) Sanções a aplicar em caso de incumprimento das obrigações previstas no contrato;\n\nf) A selecção das propostas deverá ser efectuada o mais rapidamente possível, tendo em conta a adequação dos serviços, incluindo os preços e as condições oferecidas aos utentes e, eventualmente, o montante da compensação pedida ao(s) Estado(s)-membro(s) interessado(s);\n\ng) Sem prejuízo do disposto na alínea f), deverá decorrer um período de dois meses após a data-limite de entrega das propostas antes de se proceder à selecção, a fim de permitir que os outros Estados-membros apresentem comentários;\n\nh) Os Estados-membros poderão indemnizar as transportadoras aéreas seleccionadas nos termos da alínea f) pela observância das normas impostas pela obrigação de serviço público em conformidade com o presente número; a referida indemnização terá em conta os custos e rendimentos produzidos pelo serviço;\n\ni) Os Estados-membros tomarão as medidas necessárias para assegurar que qualquer decisão adoptada ao abrigo do presente artigo possa ser efectivamente revista e, em especial, o mais rapidamente possível sempre que essas decisões tenham infringido a legislação comunitária ou as normas nacionais de execução dessa legislação;\n\nj) Quando tiver sido imposta uma obrigação de serviço público em conformidade com o disposto nas alíneas a) e c), as transportadoras aéreas só podem oferecer vendas unicamente de lugares se o serviço aéreo em causa respeitar todas as condições da obrigação de serviço público. Consequentemente, esse serviço aéreo será considerado um serviço aéreo regular;\n\nk) A alínea d) não se aplicará nos casos em que outro Estado-membro interessado proponha um meio alternativo satisfatório para cumprir a mesma obrigação de serviço público.\n\n2. A alínea d) do no 1 não se aplica a rotas em relação às quais seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, sempre que a capacidade oferecida exceda 30 000 lugares por ano.\n\n3. A pedido de um Estado-membro que considere que o desenvolvimento de uma rota está a ser indevidamente limitado pelo disposto no no 1 ou por sua própria iniciativa, a Comissão procederá a um inquérito e, com base em todos os factores relevantes, decidirá, no prazo de dois meses a contar da data de recepção do pedido, se o no 1 deve ou não continuar a ser aplicável à rota em questão.\n\n4. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Qualquer Estado-membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, pode adoptar uma decisão diferente no prazo de um mês."
+  },
+  "b14f691ac299e9fa": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nEm relação às rotas domésticas para as quais tenha sido feita uma concessão exclusiva por força de uma disposição legislativa ou contratual à data de entrada em vigor do presente regulamento, e sempre que não seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, a referida concessão poderá continuar a aplicar-se até ao termo do seu período de vigência ou durante três anos, expirando no termo do mais curto destes dois prazos."
+  },
+  "4f813a12caccbf95": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Não obstante o disposto no artigo 3o, se uma das transportadoras aéreas licenciadas por um Estado-membro tiver começado a explorar um serviço aéreo regular de transporte de passageiros numa nova rota entre aeroportos regionais com aeronaves cuja capacidade não ultrapasse os 80 lugares, esse Estado-membro pode recusar um serviço aéreo regular efectuado por outra transportadora aérea durante um período de dois anos, a não ser que esse serviço seja efectuado por aeronaves cuja capacidade não ultrapasse os 80 lugares ou de tal modo que não estejam disponíveis para venda mais de 80 lugares em cada voo entre os dois aeroportos em questão.\n\n2. O disposto nos nos 3 e 4 do artigo 4o é aplicável ao caso previsto no no 1."
+  },
+  "0c99ecf8c7acae6f": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nNa exploração de serviços aéreos, uma transportadora aérea comunitária será autorizada pelo(s) Estado(s)-membro(s) interessado(s) a combinar serviços aéreos e a utilizar o mesmo número de voo."
+  },
+  "32ca05eef4c60f0b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O presente regulamento não afecta o direito de um Estado-membro regular, sem discriminação baseada na nacionalidade ou na identidade da transportadora aérea, a distribuição do tráfego entre os aeroportos pertencentes a um sistema de aeroportos.\n\n2. O exercício de direitos de tráfego está sujeito às normas operacionais comunitárias, nacionais, regionais ou locais publicadas em matéria de segurança, protecção do ambiente e atribuição de faixas horárias.\n\n3. A pedido de um Estado-membro ou por sua própria iniciativa, a Comissão analisará a aplicação dos nos 1 e 2 e, o prazo de um mês a contar da data de recepção do pedido, decidirá, após consulta ao comité referido no artigo 11o, se no Estado-membro em causa pode continuar a aplicar a medida. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros.\n\n4. Qualquer Estado-membro pode, dentro do prazo de um mês, submeter a decisão da Comissão à apreciação do Conselho que, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n5. Sempre que um Estado-membro decida constituir um novo sistema aeroportuário ou alterar um sistema já existente, informará desse facto os outros Estados-membros e a Comissão. Depois de verificar que os aeroportos em questão constituem um conjunto que serve a mesma cidade ou área urbana, a Comissão publicará uma versão revista do anexo II no Jornal Oficial das Comunidades Europeias."
+  },
+  "32b6408f95335398": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sempre que se verifiquem problemas ambientais e/ou de congestionamento graves, o Estado-membro responsável pode, sem prejuízo do disposto no presente artigo, condicionar, limitar ou recusar o exercício dos direitos de tráfego, especialmente se for possível proporcionar um nível de serviço satisfatório através de outros meios de transporte.\n\n2. As medidas tomadas pelos Estados-membros nos termos do no 1:\n\n- não estabelecerão quaisquer discriminações com base na nacionaliade ou na identidade das transportadoras aéreas,\n\n- terão um prazo de validade limitado, que não deverá ser superior a três anos, após o qual serão revistas,\n\n- não afectarão indevidamente os objectivos previstos no presente regulamento,\n\n- não provocarão distorções de concorrência injustificadas entre as transportadoras aéreas,\n\n- não imporão restrições para além das necessárias à resolução dos problemas.\n\n3. Sempre que um Estado-membro considerar necessário adoptar as medidas previstas no no 1, deverá, o mais tardar três meses antes da entrada em vigor das medidas em causa, comunicar essa decisão, acompanhada da respectiva justificação, aos restantes Estados-membros e à Comissão. As medidas poderão ser aplicadas, excepto se, no prazo de um mês a contar da recepção da informação, um dos Estados-membros interessados as impugnar ou se, nos termos do no 4, a Comissão proceder a uma nova análise das mesmas.\n\n4. A pedido de um Estado-membro ou por sua própria iniciativa, a Comissão analisará a aplicação do no 1. Sempre que, no prazo de um mês a contar da data em que recebeu a informação prevista no no 3, a Comissão proceder à análise das medidas em causa, deverá simultaneamente indicar se as medidas podem ser aplicadas, na totalidade ou em parte, durante o período de análise, tendo especialmente em conta a possibilidade de efeitos irreversíveis. Depois de consultar o comité referido no artigo 11o, a Comissão deverá, no prazo de um mês após ter recebido todas as informações necessárias, decidir se as medidas em causa são adequadas e conformes com o presente regulamento e se não apresentam qualquer incompatibilidade com o direito comunitário. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Na pendência de tal decisão, a Comissão poderá determinar medidas provisórias, incluindo a suspensão total ou parcial da execução das medidas em causa, tendo especialmente em conta a possibilidade de efeitos irreversíveis.\n\n5. Sem prejuízo do disposto nos nos 3 e 4, qualquer Estado-membro poderá adoptar as medidas necessárias para fazer face a problemas imprevistos de curta duração, desde que tais medidas sejam compatíveis com o no 2. As referidas medidas, devidamente justificadas, serão imediatamente comunicadas à Comissão e ao(s) Estado(s)-membro(s) em causa. Se os problemas que tiverem conduzido à adopção das medidas em questão continuarem a verificar-se durante um período superior a 14 dias, o Estado-membro em causa comunicará esse facto à Comissão e aos restantes Estados-membros podendo, com o acordo da Comissão, prorrogar a aplicação das medidas por novos períodos não superiores a 14 dias cada. A pedido do(s) Estado(s)-membro(s) implicado(s) ou por sua própria iniciativa, a Comissão poderá suspender a aplicação das medidas, caso estas não satisfaçam as condições estipuladas nos nos 1 e 2 ou, de qualquer outra forma, contrariem o direito comunitário.\n\n6. Qualquer Estado-membro pode, dentro do prazo de um mês, submeter a decisão da Comissão prevista nos nos 4 e 5 à apreciação do Conselho que, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n7. Sempre que uma decisão tomada por um Estado-membro nos termos do presente artigo limitar a actividade de uma transportadora aérea comunitária numa rota intracomunitária, todas as transportadoras aéreas comunitárias ficarão sujeitas, na mesma rota, a condições e restrições idênticas. Se tal decisão implicar a não autorização de serviços novos ou suplementares, todos os pedidos relativos a serviços novos ou suplementares nessa rota, apresentados por transportadoras aéreas comunitárias, receberão o mesmo tratamento.\n\n8. Sem prejuízo do no 1 do artigo 8o, e a não ser que tenha obtido o acordo do(s) outro(s) Estado(s)-membro(s) implicado(s), nenhum Estado-membro autorizará uma transportadora aérea:\n\na) A iniciar um novo serviço, ou\n\nb) A aumentar a frequência de um serviço já existente,\n\nentre um aeroporto específico situado no seu território e outro Estado-membro, enquanto a transportadora aérea à qual esse outro Estado-membro tenha concedido uma licença de exploração não estiver autorizada, com base nas normas relativas à atribuição de faixas horárias previstas no no 2 do artigo 8o, a criar um novo serviço ou a aumentar a frequência de um serviço já existente para o aeroporto em questão, isto na pendência da adopção pelo Conselho e da entrada em vigor de um regulamento relativo ao código de conduta para a atribuição de faixas horárias baseado no princípio geral da não discriminação por motivo de nacionalidade."
+  },
+  "ae1afda7a655868d": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. As limitações de capacidade não se aplicam aos serviços aéreos abrangidos pelo presente regulamento, excepto nos casos referidos nos artigos 8o e 9o e no presente artigo.\n\n2. Nos casos em que a aplicação do no 1 tenha causado prejuízos financeiros graves à(s) transportadora(s) aérea(s) regular(es) licenciada(s) por um Estado-membro, a Comissão, a pedido desse Estado-membro, examinará a situação e, com base em todos os factores relevantes, incluindo a situação do mercado e, nomeadamente, a existência de uma situação em que as possibilidades de as transportadoras aéreas do mesmo Estado-membro competirem eficazmente no mercado estejam a ser injustificadamente afectadas, bem como a situação financeira da(s) transportadora(s) aérea(s) em causa e a utilização da capacidade que tiverem atingido, decidirá se a capacidade dos serviços aéreos regulares que têm como origem e destino esse Estado deve ser estabilizada por um período de tempo limitado.\n\n3. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Qualquer Estado-membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês."
+  },
+  "98575aea48ce54f8": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. A Comissão será assistida por um comité consultivo, composto por representantes dos Estados-membros e presidido pelo representante da Comissão.\n\n2. O comité aconselhará a Comissão no que respeita à aplicação dos artigos 9o e 10o\n\n3. A Comissão poderá ainda consultar o comité sobre quaisquer questões respeitantes à aplicação do presente regulamento.\n\n4. O comité estabelecerá os seus próprios procedimentos internos."
+  },
+  "16ee7a4718196298": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. A fim de desempenhar as atribuições que lhe incumbem por força do presente regulamento, a Comissão pode recolher todas as informações necessárias dos Estados-membros interessados, que, por seu turno, assegurarão igualmente que as transportadoras aéreas por si licenciadas forneçam informações.\n\n2. Quando as informações solicitadas não forem fornecidas no prazo fixado pela Comissão ou forem fornecidas de forma incompleta, a Comissão solicitará, por decisão dirigida ao Estado-membro interessado, as informações a apresentar. A decisão deve especificar quais as informações requeridas e estabelecer um prazo adequado para a sua apresentação."
+  },
+  "61a56e338026f892": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA Comissão publicará um relatório sobre a aplicação do presente regulamento até 1 de Abril de 1994, e relatórios periódicos a partir dessa data."
+  },
+  "a92c8ed1a559595d": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Os Estados-membros e a Comissão cooperarão na execução do presente regulamento.\n\n2. As informações confidenciais obtidas em aplicação do presente regulamento ficam abrangidas pelo sigilo profissional."
+  },
+  "04ed4b9f4b0124c2": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nOs Regulamentos (CEE) no 2343/90 e (CEE) no 294/91 são revogados, à excepção da alínea e), subalínea ii), do artigo 2o e do anexo I do Regulamento (CEE) no 2343/90, com a interpretação que lhe é dada no anexo III do presente regulamento, bem como da alínea b) do artigo 2o e do anexo do Regulamento (CEE) no 294/91."
+  },
+  "d1f41fab512edd59": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 23 de Julho de 1992.\n\nPelo Conselho O Presidente J. COPE\n\n(1) JO no C 258 de 4. 10. 1991, p. 10.\n\n(2) JO no C 125 de 18. 5. 1992, p. 146.\n\n(3) JO no C 169 de 6. 7. 1992, p. 15.\n\n(4) JO no L 374 de 31. 12. 1987, p. 19.\n\n(5) JO no L 217 de 11. 8. 1990, p. 8.\n\n(6) JO no L 36 de 8. 2. 1991, p. 1.\n\n(7) Ver página 1 de presente Jornal Oficial."
+  },
+  "33d1cab4df8dcdf8": {
+   "fragment_id": "ANEXO I — Lista dos aeroportos de categoria 1 BÉLGICA:Bruxelas-Zaventem",
+   "type": "divisao",
+   "heading": "ANEXO I — Lista dos aeroportos de categoria 1 BÉLGICA:Bruxelas-Zaventem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista dos aeroportos de categoria 1 BÉLGICA:Bruxelas-Zaventem\n\nDINAMARCA:Sistema de aeroportos de Copenhaga\n\nALEMANHA:Frankfurt-Rhein-Main\n\nDuesseldorf-Lohausen\n\nMunique\n\nSistema de aeroportos de Berlim\n\nESPANHA:Palma de Maiorca\n\nMadrid-Barajas\n\nMálaga\n\nLas Palmas\n\nGRÉCIA:Atenas-Hellinikon\n\nSalónica-Macedónia\n\nFRANÇA:Sistema de aeroportos de Paris\n\nIRLANDA:Dublin\n\nITÁLIA:Sistema de aeroportos de Roma\n\nSistema de aeroportos de Milão\n\nPAÍSES BAIXOS:Amsterdão-Schiphol\n\nPORTUGAL:Lisboa\n\nFaro\n\nREINO UNIDO:Sistema de aeroportos de Londres\n\nLuton"
+  },
+  "6b2f880b4d6bc558": {
+   "fragment_id": "ANEXO II — Lista dos sistemas aeroportos DINAMARCA:Copenhaga-Kastrup/Roskilde",
+   "type": "divisao",
+   "heading": "ANEXO II — Lista dos sistemas aeroportos DINAMARCA:Copenhaga-Kastrup/Roskilde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Lista dos sistemas aeroportos DINAMARCA:Copenhaga-Kastrup/Roskilde\n\nALEMANHA:Berlim-Tegel/Schoenefeld/Tempelhof\n\nFRANÇA:Paris-Charles De Gaulle/Orly/Le Bourget\n\nLyon-Bron-Satolas\n\nITÁLIA:Roma-Fiumicino/Ciampino\n\nMilão-Linate/Malpensa/Bergamo (Orio al Serio)\n\nVeneza-Tessera/Treviso\n\nREINO UNIDO:Londres-Heathrow/Gatwick/Stansted"
+  },
+  "b6216d9c95f7a8d3": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nInterpretação referida no artigo 15o Nos termos de anexo I do Regulamento (CEE) no 2343/90, a transportadora aérea Scanair, que está estruturada e organizada exactamente como a Scandinavian Airlines System, deve ser considerada do mesmo modo que a transportadora aérea Scandinavian Airlines System."
+  },
+  "ae600e1138092473": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Julho de 1992\n\nrelativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o n.º 2 do seu artigo 84.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0003)),\n\nConsiderando que é importante adoptar uma política de transportes aéreos, tendo em vista a realização do mercado interno durante um período que termina em 31 de Dezembro de 1992, como previsto no artigo 8.ºA do Tratado;\n\nConsiderando que o mercado interno incluirá um espaço sem fronteiras internas no qual será assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que a Decisão 87/602/CEE do Conselho, de 14 de Dezembro de 1987, relativa à partilha da capacidade de transporte de passageiros entre transportadoras aéreas nos serviços aéreos regulares entre Estados-membros e ao acesso das transportadoras aéreas às rotas dos serviços aéreos regulares entre Estados-membros ([^4^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0004)), e o Regulamento (CEE) n.º 2343/90 do Conselho, de 24 de Julho de 1990, relativo ao acesso das transportadoras aéreas às rotas dos serviços aéreos regulares intracomunitários e à partilha da capacidade de transporte de passageiros entre transportadoras aéreas nos serviços aéreos regulares entre Estados-membros ([^5^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0005)), constituem os primeiros passos para a realização do mercado interno no que se refere ao acesso das transportadoras aéreas comunitárias às rotas aéreas regulares intracomunitárias;\n\nConsiderando que, nos termos do Regulamento (CEE) n.º 2343/90, o Conselho deverá decidir da revisão deste regulamento o mais tardar em 30 de Junho de 1992;\n\nConsiderando que, pelo Regulamento (CEE) n.º 2343/90, o Conselho decidiu instituir regras para a concessão de licenças em matéria de rotas, que deverão ser aplicadas o mais tardar em 1 de Julho de 1992;\n\nConsiderando que, pelo Regulamento (CEE) n.º 2343/90, o Conselho decidiu abolir as restrições de capacidade entre os Estados-membros até 1 de Janeiro de 1993;\n\nConsiderando que, pelo Regulamento (CEE) n.º 2343/90, o Conselho confirmou que os direitos de tráfego de cabotagem constituem parte integrante do mercado interno;\n\nConsiderando que, em 2 de Dezembro de 1987, foram acordadas em Londres pelo Reino de Espanha e o Reino Unido, numa declaração conjunta efectuada pelos ministros dos Negócios Estrangeiros dos dois países, disposições tendo em vista uma maior cooperação na utilização do aeroporto de Gibraltar, e que essas disposições não entraram ainda em vigor;\n\nConsiderando que o desenvolvimento do sistema de tráfego aéreo nas ilhas gregas e nas ilhas do Atlântico que constituem a região autónoma dos Açores é actualmente inadequado e que, por essa razão, os aeroportos situados nas referidas ilhas deveriam ficar temporariamente istentos da aplicação do presente regulamento;\n\nConsiderando que é necessário eliminar as restrições em matéria de designação múltipla e de direitos de tráfego de quinta liberdade e introduzir progressivamente os direitos de cabotagem, a fim de incentivar o desenvolvimento do sector dos transportes aéreos comunitários e melhorar os serviços oferecidos;\n\nConsiderando que é necessário adoptar disposições especiais, em circunstâncias específicas, em relação às obrigações de serviço público necessárias à manutenção de serviços aéreos adequados nas regiões nacionais;\n\nConsiderando que é necessário adoptar disposições especiais no que respeita aos novos serviços aéreos entre aeroportos regionais;\n\nConsiderando que, para efeitos de planeamento dos transportes aéreos, é necessário conceder aos Estados-membros o direito de estabelecerem regras não discriminatórias no que se refere à distribuição do tráfego aéreo entre aeroportos dentro do mesmo sistema de aeroportos;\n\nConsiderando que o exercício dos direitos de tráfego tem de ser compatível com as regras operacionais relativas à segurança, à protecção do ambiente e às condições que regem o acesso aos aeroportos, devendo ser tratado de modo não discriminatório;\n\nConsiderando que, perante os problemas de congestionamento ou de ambiente, é necessário prever a possibilidade de impor certas limitações no que diz respeito ao exercício dos direitos de tráfego;\n\nConsiderando que, face à situação concorrencial do mercado, se devem tomar medidas para impedir que as transportadoras aéreas fiquem sujeitas a efeitos económicos injustificados;\n\nConsiderando que é necessário especificar os deveres dos Estados-membros e das transportadoras aéreas para efeitos de fornecimento das informações necessárias;\n\nConsiderando que é necessário assegurar que a avaliação do acesso ao mercado seja efectuada de forma idêntica para um mesmo tipo de serviços aéreos;\n\nConsiderando que é conveniente que todas as questões relacionadas com o acesso ao mercado sejam abrangidas pelo mesmo regulamento;\n\nConsiderando que o presente regulamento substitui parcialmente o Regulamento (CEE) n.º 2343/90 e o Regulamento (CEE) n.º 294/91 do Conselho, de 4 de Fevereiro de 1991, relativo à exploração de serviços aéreos de carga entre Estados-membros ([^6^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0006)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "884795fa3eda26f4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento diz respeito ao acesso dos serviços aéreos regulares e não regulares às rotas dentro da Comunidade.\n\n2. A aplicação do presente regulamento ao aeroporto de Gibraltar entende-se sem prejuízo das posições jurídicas do Reino de Espanha e do Reino Unido em relação ao diferendo a respeito da soberania sobre o território onde se encontra situado o aeroporto.\n\n3. A aplicação das disposições do presente regulamento ao aeroporto de Gibraltar está suspensa até se iniciar a aplicação do regime previsto na declaração conjunta dos ministros dos Negócios Estrangeiros do Reino de Espanha e do Reino Unido feita em 2 de Dezembro de 1987. Os Governos de Espanha e do Reino Unido informarão o Conselho da data de entrada em aplicação desse regime.\n\n4. Os aeroportos das ilhas gregas e das ilhas do Atlântico que constituem a região autónoma dos Açores estão excluídos do âmbito de aplicação do presente regulamento até 30 de Junho de 1993. Salvo decisão em contrário do Conselho, sob proposta da Comissão, esta isenção vigorará por um período adicional de cinco anos, que poderá ser seguidamente prorrogado por mais cinco anos."
+  },
+  "f343abc06e1e2a51": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Transportadora aérea»: uma empresa de transporte aéreo titular de uma licença de exploração válida;\n\nb) «Transportadora aérea comunitária»: uma transportadora aérea titular de uma licença de exploração válida emitida por um Estado-membro em conformidade com o disposto no Regulamento (CEE) n.º 2407/92 do Conselho, de 23 de Julho de 1992, relativo à concessão de licenças às transportadoras aéreas ([^7^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0007));\n\nc) «Serviço aéreo»: um voo ou uma série de voos transportando passageiros, carga e/ou correio, a título oneroso;\n\nc) «Serviço aéreo regular»: uma série de voos que reúna todas as características seguintes:\n\ni) Ser realizada por meio de aeronaves destinadas ao transporte de passageiros, carga e/ou correio mediante pagamento, de forma a que em cada voo existam lugares disponíveis para aquisição individual pelo público (directamente na transportadora aérea ou através dos agentes autorizados);\n\nii) Ser explorada de modo a assegurar o tráfego entre os mesmos dois ou mais aeroportos:\n\n1. Quer de acordo com um horário publicado;\n\n2. Quer mediante voos que, pela sua regularidade ou frequência, constituam, de forma patente, uma série sistemática;\n\ne) «Voo»: qualquer partida de um determinado aeroporto para um determinado aeroporto de destino;\n\nf) «Direito de tráfego»: direito de uma transportadora aérea transportar passageiros, carga e/ou correio num serviço aéreo entre dois aeroportos comunitários;\n\ng) «Vendas unicamente de lugares»: venda de lugares sem qualquer outro serviço incluído, como, por exemplo, alojamento, efectuada directamente ao público pela transportadora aérea ou pelo seu agente autorizado, ou ainda por um fretador;\n\nh) «Estado(s)-membro(s) interessado(s)»: o(s) Estado(s)-membro(s) entre o(s) qual(ais) ou dentro do(s) qual(ais) é efectuado um serviço aéreo;\n\ni) «Estado(s)-membro(s) implicado(s)»: o(s) Estado(s)-membro(s) interessado(s) e o(s) Estado(s)-membro(s) onde a(s) transportadora(s) que explora(m) o serviço aéreo está(ão) licenciada(s);\n\nj) «Estado de registo»: o Estado-membro onde é emitida a licença referida na alínea b);\n\nk) «Aeroporto»: qualquer área de um Estado-membro disponível para a aterragem e descolagem de operações comerciais de transporte aéreo;\n\nl) «Aeroporto regional»: qualquer aeroporto que não conste do anexo I como sendo um aeroporto de categoria 1;\n\nm) «Sistema de aeroportos»: um conjunto de dois ou mais aeroportos que sirvam a mesma cidade ou área urbana, como indicado no anexo II;\n\nn) «Capacidade»: o número de lugares oferecidos ao público num serviço aéreo regular durante um determinado período;\n\no) «Obrigação de serviço público»: qualquer obrigação imposta a uma transportadora aérea, em relação a qualquer rota para cuja exploração lhe tenha sido concedida uma licença por um Estado-membro, de adoptar todas as medidas necessárias para garantir a prestação de um serviço que satisfaça normas estabelecidas de continuidade, regularidade, capacidade e fixação de preços, normas essas que a transportadora aérea não respeitaria se atendesse apenas aos seus interesses comerciais."
+  },
+  "24d933053060f44a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Sem prejuízo do disposto no presente regulamento, as transportadoras aéreas comunitárias serão autorizadas pelo(s) Estado(s)-membro(s) interessado(s) a exercer direitos de tráfego nas rotas do interior da Comunidade.\n\n2. Não obstante o disposto no n.º 1, nenhum Estado-membro será obrigado, antes de 1 de Abril de 1997, a conceder direitos de cabotagem dentro do seu território a transportadoras aéreas comunitárias licenciadas por outro Estado-membro, a não ser que:\n\ni) Os direitos de tráfego sejam exercidos num serviço que constitua e esteja programado como uma extensão de um serviço com partida do Estado de registo dessas transportadoras, ou como preliminar de um serviço que se destine a esse Estado;\n\nii) A transportadora aérea não utilize, para o serviço de cabotagem, mais de 50 % da sua capacidade sazonal no mesmo serviço de que a cabotagem constitui a extensão ou o preliminar.\n\n3. As transportadoras aéreas que explorem serviços de cabotagem nos termos do n.º 2 fornecerão, a pedido do(s) Estado(s)-membro(s) implicado(s), todas as informações necessárias à aplicação do disposto nesse número.\n\n4. Não obstante o disposto no n.º 1 e sem discriminações relacionadas com a nacionalidade da entidade proprietária e com a identidade da transportadora aérea, quer explore ou seja candidata à exploração das rotas em causa, os Estados-membros podem, antes de 1 de Abril de 1997, regular o acesso das transportadoras aéreas por eles licenciadas às rotas do seu território, nos termos do Regulamento (CEE) n.º 2407/92, sem prejuízo do direito comunitário e, em especial, das regras de concorrência."
+  },
+  "2cb868d68599824e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\na) Após consulta de outros Estados-membros interessados e depois de ter informado a Comissão e as transportadoras aéreas que operam na rota em questão, um Estado-membro pode impor uma obrigação de serviço público, no que se refere aos serviços aéreos regulares, para um aeroporto que sirva uma região periférica ou em desenvolvimento do seu território ou numa rota de fraca densidade de tráfego para qualquer aeroporto regional do seu território, se a rota em causa for considerada vital para o desenvolvimento económico da região em que se encontra o aeroporto, e na medida do necessário para assegurar a prestação nessa rota de serviços aéreos regulares adequados que satisfaçam normas estabelecidas de continuidade, regularidade, capacidade e fixação de preços que as transportadoras aéreas não respeitariam se atendessem apenas aos seus interesses comerciais. A Comissão anunciará a existência destas obrigações de serviço público no *Jornal Oficial das Comunidades Europeias*;\n\nb) A adequação dos serviços aéreos regulares deve ser avaliada pelos Estados-membros tendo em conta:\n\ni) O interesse público;\n\nii) A possibilidade de recorrer a outros meios de transporte, especialmente nas regiões insulares, e a capacidade desses meios para dar resposta às necessidades de transporte em questão;\n\niii) As tarifas aéreas e as condições que podem ser oferecidas aos utentes;\n\niv) O efeito combinado de todas as transportadoras aéreas que operam ou tencionam operar na rota;\n\nc) Nos casos em que não seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, os Estados-membros interessados poderão incluir na obrigação de serviço público a condição de todas as transportadoras aéreas que pretendam operar na rota apresentarem garantias de que o farão durante um determinado período, a especificar de acordo com as restantes condições relativas à obrigação de serviço público;\n\nd) Se nenhuma transportadora aérea tiver começado ou estiver prestes a dar início à prestação de serviços aéreos regulares numa rota de acordo com as obrigações de serviço público impostas a essa mesma rota, o Estado-membro pode limitar o acesso a essa rota a uma só transportadora aérea por um período não superior a três anos, no termo do qual a situação terá de ser revista. O direito de explorar tais serviços será conferido por concurso público, efectuado quer para uma quer para um grupo de rotas, a qualquer transportadora aérea comunitária autorizada a explorar esses serviços aéreos. O aviso de concurso será publicado no *Jornal Oficial das Comunidades Europeias* e o prazo para apresentação das candidaturas não poderá ser inferior a um mês a contar da data da publicação. As propostas apresentadas pelas transportadoras aéreas deverão ser imediatamente comunicadas aos outros Estados-membros interessados e à Comissão;\n\ne) O aviso de concurso e o contrato subsequente deverão explicitar, nomeadamente, os seguintes pontos:\n\ni) Normas exigidas pela obrigação de serviço público;\n\nii) Regras relativas à alteração ou rescisão do contrato, especialmente para ter em conta quaisquer mudanças imprevisíveis;\n\niii) Período de validade do contrato;\n\niv) Sanções a aplicar em caso de incumprimento das obrigações previstas no contrato;\n\nf) A selecção das propostas deverá ser efectuada o mais rapidamente possível, tendo em conta a adequação dos serviços, incluindo os preços e as condições oferecidas aos utentes e, eventualmente, o montante da compensação pedida ao(s) Estado(s)-membro(s) interessado(s);\n\ng) Sem prejuízo do disposto na alínea f), deverá decorrer um período de dois meses após a data-limite de entrega das propostas antes de se proceder à selecção, a fim de permitir que os outros Estados-membros apresentem comentários;\n\nh) Os Estados-membros poderão indemnizar as transportadoras aéreas seleccionadas nos termos da alínea f) pela observância das normas impostas pela obrigação de serviço público em conformidade com o presente número; a referida indemnização terá em conta os custos e rendimentos produzidos pelo serviço;\n\ni) Os Estados-membros tomarão as medidas necessárias para assegurar que qualquer decisão adoptada ao abrigo do presente artigo possa ser efectivamente revista e, em especial, o mais rapidamente possível sempre que essas decisões tenham infringido a legislação comunitária ou as normas nacionais de execução dessa legislação;\n\nj) Quando tiver sido imposta uma obrigação de serviço público em conformidade com o disposto nas alíneas a) e c), as transportadoras aéreas só podem oferecer vendas unicamente de lugares se o serviço aéreo em causa respeitar todas as condições da obrigação de serviço público. Consequentemente, esse serviço aéreo será considerado um serviço aéreo regular;\n\nk) A alínea d) não se aplicará nos casos em que outro Estado-membro interessado proponha um meio alternativo satisfatório para cumprir a mesma obrigação de serviço público.\n\n2. A alínea d) do n.º 1 não se aplica a rotas em relação às quais seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, sempre que a capacidade oferecida exceda 30 000 lugares por ano.\n\n3. A pedido de um Estado-membro que considere que o desenvolvimento de uma rota está a ser indevidamente limitado pelo disposto no n.º 1 ou por sua própria iniciativa, a Comissão procederá a um inquérito e, com base em todos os factores relevantes, decidirá, no prazo de dois meses a contar da data de recepção do pedido, se o n.º 1 deve ou não continuar a ser aplicável à rota em questão.\n\n4. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Qualquer Estado-membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, pode adoptar uma decisão diferente no prazo de um mês."
+  },
+  "5d50dbdffa7ffb80": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm relação às rotas domésticas para as quais tenha sido feita uma concessão exclusiva por força de uma disposição legislativa ou contratual à data de entrada em vigor do presente regulamento, e sempre que não seja possível assegurar um serviço adequado e ininterrupto através de outras formas de transporte, a referida concessão poderá continuar a aplicar-se até ao termo do seu período de vigência ou durante três anos, expirando no termo do mais curto destes dois prazos."
+  },
+  "75f651cbb3f893e3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Não obstante o disposto no artigo 3.º, se uma das transportadoras aéreas licenciadas por um Estado-membro tiver começado a explorar um serviço aéreo regular de transporte de passageiros numa nova rota entre aeroportos regionais com aeronaves cuja capacidade não ultrapasse os 80 lugares, esse Estado-membro pode recusar um serviço aéreo regular efectuado por outra transportadora aérea durante um período de dois anos, a não ser que esse serviço seja efectuado por aeronaves cuja capacidade não ultrapasse os 80 lugares ou de tal modo que não estejam disponíveis para venda mais de 80 lugares em cada voo entre os dois aeroportos em questão.\n\n2. O disposto nos n.^os^ 3 e 4 do artigo 4.º é aplicável ao caso previsto no n.º 1."
+  },
+  "946981963217a017": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNa exploração de serviços aéreos, uma transportadora aérea comunitária será autorizada pelo(s) Estado(s)-membro(s) interessado(s) a combinar serviços aéreos e a utilizar o mesmo número de voo."
+  },
+  "b64ab35cebbe06d9": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O presente regulamento não afecta o direito de um Estado-membro regular, sem discriminação baseada na nacionalidade ou na identidade da transportadora aérea, a distribuição do tráfego entre os aeroportos pertencentes a um sistema de aeroportos.\n\n2. O exercício de direitos de tráfego está sujeito às normas operacionais comunitárias, nacionais, regionais ou locais publicadas em matéria de segurança, protecção do ambiente e atribuição de faixas horárias.\n\n3. A pedido de um Estado-membro ou por sua própria iniciativa, a Comissão analisará a aplicação dos n.^os^ 1 e 2 e, o prazo de um mês a contar da data de recepção do pedido, decidirá, após consulta ao comité referido no artigo 11.º, se no Estado-membro em causa pode continuar a aplicar a medida. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros.\n\n4. Qualquer Estado-membro pode, dentro do prazo de um mês, submeter a decisão da Comissão à apreciação do Conselho que, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n5. Sempre que um Estado-membro decida constituir um novo sistema aeroportuário ou alterar um sistema já existente, informará desse facto os outros Estados-membros e a Comissão. Depois de verificar que os aeroportos em questão constituem um conjunto que serve a mesma cidade ou área urbana, a Comissão publicará uma versão revista do anexo II no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "df5a013ba833c9bd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Sempre que se verifiquem problemas ambientais e/ou de congestionamento graves, o Estado-membro responsável pode, sem prejuízo do disposto no presente artigo, condicionar, limitar ou recusar o exercício dos direitos de tráfego, especialmente se for possível proporcionar um nível de serviço satisfatório através de outros meios de transporte.\n\n2. As medidas tomadas pelos Estados-membros nos termos do n.º 1:\n\n— não estabelecerão quaisquer discriminações com base na nacionaliade ou na identidade das transportadoras aéreas,\n\n— terão um prazo de validade limitado, que não deverá ser superior a três anos, após o qual serão revistas,\n\n— não afectarão indevidamente os objectivos previstos no presente regulamento,\n\n— não provocarão distorções de concorrência injustificadas entre as transportadoras aéreas,\n\n— não imporão restrições para além das necessárias à resolução dos problemas.\n\n3. Sempre que um Estado-membro considerar necessário adoptar as medidas previstas no n.º 1, deverá, o mais tardar três meses antes da entrada em vigor das medidas em causa, comunicar essa decisão, acompanhada da respectiva justificação, aos restantes Estados-membros e à Comissão. As medidas poderão ser aplicadas, excepto se, no prazo de um mês a contar da recepção da informação, um dos Estados-membros interessados as impugnar ou se, nos termos do n.º 4, a Comissão proceder a uma nova análise das mesmas.\n\n4. A pedido de um Estado-membro ou por sua própria iniciativa, a Comissão analisará a aplicação do n.º 1. Sempre que, no prazo de um mês a contar da data em que recebeu a informação prevista no n.º 3, a Comissão proceder à análise das medidas em causa, deverá simultaneamente indicar se as medidas podem ser aplicadas, na totalidade ou em parte, durante o período de análise, tendo especialmente em conta a possibilidade de efeitos irreversíveis. Depois de consultar o comité referido no artigo 11.º, a Comissão deverá, no prazo de um mês após ter recebido todas as informações necessárias, decidir se as medidas em causa são adequadas e conformes com o presente regulamento e se não apresentam qualquer incompatibilidade com o direito comunitário. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Na pendência de tal decisão, a Comissão poderá determinar medidas provisórias, incluindo a suspensão total ou parcial da execução das medidas em causa, tendo especialmente em conta a possibilidade de efeitos irreversíveis.\n\n5. Sem prejuízo do disposto nos n.^os^ 3 e 4, qualquer Estado-membro poderá adoptar as medidas necessárias para fazer face a problemas imprevistos de curta duração, desde que tais medidas sejam compatíveis com o n.º 2. As referidas medidas, devidamente justificadas, serão imediatamente comunicadas à Comissão e ao(s) Estado(s)-membro(s) em causa. Se os problemas que tiverem conduzido à adopção das medidas em questão continuarem a verificar-se durante um período superior a 14 dias, o Estado-membro em causa comunicará esse facto à Comissão e aos restantes Estados-membros podendo, com o acordo da Comissão, prorrogar a aplicação das medidas por novos períodos não superiores a 14 dias cada. A pedido do(s) Estado(s)-membro(s) implicado(s) ou por sua própria iniciativa, a Comissão poderá suspender a aplicação das medidas, caso estas não satisfaçam as condições estipuladas nos n.^os^ 1 e 2 ou, de qualquer outra forma, contrariem o direito comunitário.\n\n6. Qualquer Estado-membro pode, dentro do prazo de um mês, submeter a decisão da Comissão prevista nos n.^os^ 4 e 5 à apreciação do Conselho que, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês.\n\n7. Sempre que uma decisão tomada por um Estado-membro nos termos do presente artigo limitar a actividade de uma transportadora aérea comunitária numa rota intracomunitária, todas as transportadoras aéreas comunitárias ficarão sujeitas, na mesma rota, a condições e restrições idênticas. Se tal decisão implicar a não autorização de serviços novos ou suplementares, todos os pedidos relativos a serviços novos ou suplementares nessa rota, apresentados por transportadoras aéreas comunitárias, receberão o mesmo tratamento.\n\n8. Sem prejuízo do n.º 1 do artigo 8.º, e a não ser que tenha obtido o acordo do(s) outro(s) Estado(s)-membro(s) implicado(s), nenhum Estado-membro autorizará uma transportadora aérea:\n\na) A iniciar um novo serviço, ou\n\nb) A aumentar a frequência de um serviço já existente,\n\nentre um aeroporto específico situado no seu território e outro Estado-membro, enquanto a transportadora aérea à qual esse outro Estado-membro tenha concedido uma licença de exploração não estiver autorizada, com base nas normas relativas à atribuição de faixas horárias previstas no n.º 2 do artigo 8.º, a criar um novo serviço ou a aumentar a frequência de um serviço já existente para o aeroporto em questão, isto na pendência da adopção pelo Conselho e da entrada em vigor de um regulamento relativo ao código de conduta para a atribuição de faixas horárias baseado no princípio geral da não discriminação por motivo de nacionalidade."
+  },
+  "d578f990fa9e2cb1": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As limitações de capacidade não se aplicam aos serviços aéreos abrangidos pelo presente regulamento, excepto nos casos referidos nos artigos 8.º e 9.º e no presente artigo.\n\n2. Nos casos em que a aplicação do n.º 1 tenha causado prejuízos financeiros graves à(s) transportadora(s) aérea(s) regular(es) licenciada(s) por um Estado-membro, a Comissão, a pedido desse Estado-membro, examinará a situação e, com base em todos os factores relevantes, incluindo a situação do mercado e, nomeadamente, a existência de uma situação em que as possibilidades de as transportadoras aéreas do mesmo Estado-membro competirem eficazmente no mercado estejam a ser injustificadamente afectadas, bem como a situação financeira da(s) transportadora(s) aérea(s) em causa e a utilização da capacidade que tiverem atingido, decidirá se a capacidade dos serviços aéreos regulares que têm como origem e destino esse Estado deve ser estabilizada por um período de tempo limitado.\n\n3. A Comissão comunicará a sua decisão ao Conselho e aos Estados-membros. Qualquer Estado-membro pode submeter a decisão da Comissão à apreciação do Conselho no prazo de um mês. O Conselho, deliberando por maioria qualificada, poderá, em circunstâncias excepcionais, tomar uma decisão diferente no prazo de um mês."
+  },
+  "0534c4fdc6cb7ab1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A Comissão é assistida por um Comité.\n\n2. O comité aconselha a Comissão sobre a aplicação dos artigos 9.º e 10.º\n\n3. A Comissão pode ainda consultar o comité sobre quaisquer questões respeitantes à aplicação do presente regulamento.\n\n4. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 3.º e 7.º da Decisão 1999/468/CE ([^8^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#E0008)), tendo-se em conta o disposto no seu artigo 8.º\n\n5. O Comité aprovará o seu regulamento interno."
+  },
+  "6b5667d336062996": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A fim de desempenhar as atribuições que lhe incumbem por força do presente regulamento, a Comissão pode recolher todas as informações necessárias dos Estados-membros interessados, que, por seu turno, assegurarão igualmente que as transportadoras aéreas por si licenciadas forneçam informações.\n\n2. Quando as informações solicitadas não forem fornecidas no prazo fixado pela Comissão ou forem fornecidas de forma incompleta, a Comissão solicitará, por decisão dirigida ao Estado-membro interessado, as informações a apresentar. A decisão deve especificar quais as informações requeridas e estabelecer um prazo adequado para a sua apresentação."
+  },
+  "1d912a26f5f4cda7": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Comissão publicará um relatório sobre a aplicação do presente regulamento até 1 de Abril de 1994, e relatórios periódicos a partir dessa data."
+  },
+  "30ba182d372e92fd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros e a Comissão cooperarão na execução do presente regulamento.\n\n2. As informações confidenciais obtidas em aplicação do presente regulamento ficam abrangidas pelo sigilo profissional."
+  },
+  "d06a76fec76fc8d2": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Regulamentos (CEE) n.º 2343/90 e (CEE) n.º 294/91 são revogados, à excepção da alínea e), subalínea ii), do artigo 2.º e do anexo I do Regulamento (CEE) n.º 2343/90, com a interpretação que lhe é dada no anexo III do presente regulamento, bem como da alínea b) do artigo 2.º e do anexo do Regulamento (CEE) n.º 294/91."
+  },
+  "5191d1b06dea4977": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "462cabfb50a7d6e1": {
+   "fragment_id": "Lista dos aeroportos de categoria 1",
+   "type": "divisao",
+   "heading": "Lista dos aeroportos de categoria 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos aeroportos de categoria 1\n\n| BÉLGICA: | Bruxelas-Zaventem |\n| --- | --- |\n| [▼A2](http://publications.europa.eu/resource/celex/12003T) |  |\n| REPÚBLICA CHECA: | Praha - Ruzyně |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |\n| DINAMARCA: | Sistema de aeroportos de Copenhaga |\n| ALEMANHA: | Frankfurt-Rhein-Main Düsseldorf-Lohausen Munique Sistema de aeroportos de Berlim |\n| [▼A2](http://publications.europa.eu/resource/celex/12003T) |  |\n| ESTÓNIA: | Tallinna Lennujaam |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |\n| ESPANHA: | Palma de Maiorca Madrid-Barajas Málaga Las Palmas |\n| GRÉCIA: | Atenas-Hellinikon Salónica-Macedónia |\n| FRANÇA: | Sistema de aeroportos de Paris |\n| IRLANDA: | Dublin |\n| ITÁLIA: | Sistema de aeroportos de Roma Sistema de aeroportos de Milão |\n| [▼A2](http://publications.europa.eu/resource/celex/12003T) |  |\n| CHIPRE: | Aeroporto de Larnaka |\n| LETÓNIA: | Riga |\n| LITUÂNIA: | Vilnius |\n| HUNGRIA: | Aeroporto Internacional de Budapest-Ferihegy |\n| MALTA: | Luqa |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |\n| PAÍSES BAIXOS: | Amsterdão-Schiphol |\n| [▼A2](http://publications.europa.eu/resource/celex/12003T) |  |\n| POLÓNIA: | Warszawa-Okęcie |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |\n| PORTUGAL: | Lisboa Faro |\n| [▼A2](http://publications.europa.eu/resource/celex/12003T) |  |\n| ESLOVÉNIA: | Ljubljana |\n| ESLOVÁQUIA: | Aeroporto de Bratislava |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |\n| REINO UNIDO: | Sistema de aeroportos de Londres Luton |\n| [▼](http://publications.europa.eu/resource/celex/31995D0001) |  |\n| ÁUSTRIA: | Viena |\n| FINLÂNDIA: | Helsinki-VantaaHelsingfors Vanda |\n| SUÉCIA: | Sistema de aeroportos de Estocolmo |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1791) |  |\n| BULGÁRIA: | Aeroporto de Sófia |\n| ROMÉNIA: | Sistema de aeroportos de Bucareste |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "6769d2c55e8e4e39": {
+   "fragment_id": "Lista dos sistemas aeroportos",
+   "type": "divisao",
+   "heading": "Lista dos sistemas aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos sistemas aeroportos\n\n| DINAMARCA: | Copenhaga-Kastrup/Roskilde |\n| --- | --- |\n| ALEMANHA: | Berlim-Tegel/Schönefeld/Tempelhof |\n| FRANÇA: | Paris-Charles De Gaulle/Orly/Le Bourget Lyon-Bron-Satolas |\n| ITÁLIA: | Roma-Fiumicino/Ciampino Milão-Linate/Malpensa/Bergamo (Orio al Serio) Veneza-Tessera/Treviso |\n| REINO UNIDO: | Londres-Heathrow/Gatwick/Stansted |\n| [▼](http://publications.europa.eu/resource/celex/31995D0001) |  |\n| SUÉCIA: | Estocolmo-Arlanda/Bromma |\n| [▼M2](http://publications.europa.eu/resource/celex/32006R1791) |  |\n| ROMÉNIA: | Sistema de aeroportos de Bucareste: Aeroporto Internacional de Bucareste Henri Coandă/Aeroporto Internacional de Bucareste Băneasa — Aurel Vlaicu |\n| [▼B](http://publications.europa.eu/resource/celex/31992R2408) |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "080ca5c28c63aea2": {
+   "fragment_id": "Interpretação referida no artigo 15.º",
+   "type": "divisao",
+   "heading": "Interpretação referida no artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Interpretação referida no artigo 15.º\n\nNos termos de anexo I do Regulamento (CEE) n.º 2343/90, a transportadora aérea Scanair, que está estruturada e organizada exactamente como a Scandinavian Airlines System, deve ser considerada do mesmo modo que a transportadora aérea Scandinavian Airlines System.\n\n---"
+  },
+  "0b2e762d9435645f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0001)) JO n.º C 258 de 4. 10. 1991, p. 10.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0002)) JO n.º C 125 de 18. 5. 1992, p. 146.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0003)) JO n.º C 169 de 6. 7. 1992, p. 15.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0004)) JO n.º L 374 de 31. 12. 1987, p. 19.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0005)) JO n.º L 217 de 11. 8. 1990, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0006)) JO n.º L 36 de 8. 2. 1991, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0007)) Ver página 1 de presente Jornal Oficial.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/3277fd2d-7b1e-498c-b209-ec91de5051db.0017.03/DOC_1#src.E0008)) Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão (JO L 184 de 17.7.1999, p. 23; rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "6cf13b16a1112cce": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R2408 — PT — 01.11.2008 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R2408) [REGULAMENTO (CEE) n.º 2408/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R2408) [de 23 de Julho de 1992](http://publications.europa.eu/resource/celex/31992R2408) [relativo ao acesso das transportadoras aéreas comunitárias às rotas aéreas intracomunitárias](http://publications.europa.eu/resource/celex/31992R2408) (JO L 240, 24.8.1992, p.8)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1008/2008 do Parlamento Europeu e do Conselho de 24 de Setembro de 2008](http://publications.europa.eu/resource/celex/32008R1008) — L 293 — 3 — 31.10.2008"
+  }
+ }
+}

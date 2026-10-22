@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0176:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0176-20121222",
+ "dre_path": null,
+ "source_lastmod": "2012-12-22",
+ "versions": [
+  {
+   "date": "1982-03-27",
+   "future": false,
+   "celex": "31982L0176",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f8c74077f95af81a",
+    "9cd41c35a9372d59",
+    "f8651540e6e6419c",
+    "0253c5c2f4f44601",
+    "eb4b17cb46d7d7a8",
+    "69a41f6001f1bcd7",
+    "9b6fd05557c78e99",
+    "a339214930a0b5f0",
+    "f30401853c28fd47",
+    "ee0de20a44616a3a",
+    "334746ad79688688",
+    "0d7e87e3fa24af11"
+   ]
+  },
+  {
+   "date": "2009-01-13",
+   "future": false,
+   "celex": "01982L0176-20090113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime ANEXO I — Valores-limite, prazos fixados para a entrada em vigor desses valores e procedimento de vigilância e de controlo a aplicar às descargas",
+    "Suprime ANEXO II — Objectivos de qualidade",
+    "Suprime ANEXO III — Métodos padrão de análise",
+    "Suprime ANEXO IV — Procedimento de controlo para os objectivos de qualidade"
+   ],
+   "fragments": [
+    "a73d72ed36f75641"
+   ]
+  },
+  {
+   "date": "2012-12-22",
+   "future": false,
+   "celex": "01982L0176-20121222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "c90bb0680e0c7083"
+   ]
+  }
+ ],
+ "fragments": {
+  "f8c74077f95af81a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 82/176/CEE do Conselho, de 22 de Março de 1982, relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio do sector da electrólise dos cloretos alcalinos** *Jornal Oficial nº L 081 de 27/03/1982 p. 0029 - 0034 Edição especial espanhola: Capítulo 15 Fascículo 3 p. 0142 Edição especial portuguesa: Capítulo 15 Fascículo 3 p. 0142 Edição especial finlandesa: Capítulo 15 Fascículo 3 p. 0211 Edição especial sueca: Capítulo 15 Fascículo 3 p. 0211*\n\nDIRECTIVA DO CONSELHO de 22 de Março de 1982 relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio do sector da electrólise dos cloretos alcalinos\n\n(82/176/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o,\n\nTendo em conta a Directiva 76/464/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por determinadas substâncias perigosas lançadas no meio aquático da Comunidade (1) e, nomeadamente, o seu artigo 6o,\n\nTendo em conta a proposta da Comissão (2),\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que, para proteger o meio aquático da Comunidade contra a poluição provocada por certas substâncias perigosas, o artigo 3o da Directiva 76/464/CEE instaura um regime de autorizações prévias que fixam normas de emissão para as descargas das substâncias constantes da Lista I que figura no seu anexo; que o artigo 6o da referida directiva prevê não só a fixação de valores-limite para as normas de emissão, mas também a fixação de objectivos de qualidade para o meio aquático afectado por essas substâncias;\n\nConsiderando que o mercúrio e os seus compostos estão incluídos na Lista I;\n\nConsiderando que os Estados-membros devem aplicar os valores-limite, com excepção dos casos em que podem recorrer aos objectivos de qualidade;\n\nConsiderando que, como a poluição causada pelas descargas de mercúrio nas águas, é provocada, essencialmente, pela electrólise dos cloretos alcalinos, convém, primeiramente, fixar valores-limite para este sector e fixar os objectivos de qualidade para o meio aquático onde é descarregado o mercúrio proveniente deste sector; que é, pois, oportuno submeter estas descargas a uma autorização prévia;\n\nConsiderando que a finalidade destes objectivos de qualidade deve ser a de eliminar a poluição por mercúrio das diferentes partes do meio aquático que poderiam ser afectadas pelas descargas de mercúrio provenientes do sector da electrólise dos cloretos alcalinos;\n\nConsiderando que estes objectivos de qualidade devem ser fixados expressamente para esse efeito e não com a intenção de estabelecer regras relativas à protecção dos consumidores ou à comercialização dos produtos provenientes do meio aquático;\n\nConsiderando que, para que os Estados-membros possam provar que os objectivos de qualidade são respeitados, é conveniente prever um procedimento de controlo específico;\n\nConsiderando que é oportuno prever a vigilância, pelos Estados-membros, do meio aquático afectado pelas descargas de mercúrio referidas, tendo em vista uma aplicação eficaz da presente directiva; que os poderes para instaurar uma tal vigilância não estão previstos no artigo 6o da Directiva 76/464/CEE; que, como os poderes de acção necessários para o efeito não foram previstos no Tratado, convém recorrer ao seu artigo 235o;\n\nConsiderando que é importante que a Comissão transmita ao Conselho, de cinco em cinco anos, os resultados de uma avaliação comparada da aplicação da presente directiva pelos Estados-membros;\n\nConsiderando que, dado que as águas subterrâneas são objecto de uma directiva específica, não entram no âmbito de aplicação da presente directiva,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9cd41c35a9372d59": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva:\n\n- fixa, nos termos do no 1 do artigo 6o da Directiva 76/464/CEE, os valores-limite das normas de emissão do mercúrio, para as descargas provenientes dos estabelecimentos industriais, na acepção da alínea d) do artigo 2o da presente directiva,\n\n- fixa, nos termos do no 2 do artigo 6o da Directiva 76/464/CEE, os objectivos de qualidade, respeitantes ao mercúrio, para o meio aquático,\n\n- fixa, nos termos do no 4 do artigo 6o da Directiva 76/464/CEE, os prazos estabelecidos para o cumprimento das condições previstas pelas autorizações concedidas pelas autoridades competentes dos Estados-membros, para as descargas existentes,\n\n- fixa, nos termos do no 1 do artigo 12o da Directiva 76/464/CEE, os métodos padrão de medição que permitem determinar o teor em mercúrio nas descargas e no meio aquático,\n\n- estabelece, nos termos do no 3 do artigo 6o da Directiva 76/464/CEE, um procedimento de controlo,\n\n- ordena, aos Estados-membros, que colaborem, no caso das descargas afectarem as águas de diversos Estados-membros.\n\n2. A presente directiva é aplicável às águas referidas no artigo 1o da Directiva 76/464/CEE, com excepção das águas subterrâneas."
+  },
+  "f8651540e6e6419c": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nNa acepção da presente directiva, entende-se por:\n\na) «mercúrio»:\n\n- o mercúrio no estado elementar,\n\n- o mercúrio num dos seus compostos;\n\nb) «valores-limite»:\n\nOs valores que figuram no Anexo I;\n\nc) «objectivos de qualidade»:\n\nAs exigências que figuram no Anexo II;\n\nd) «estabelecimento industrial»:\n\nO estabelecimento de electrólise dos cloretos alcalinos, que utiliza células com cátodos de mercúrio;\n\ne) «estabelecimento existente»:\n\nO estabelecimento industrial em actividade à data da notificação da presente directiva;\n\nf) «novo estabelecimento»:\n\n- o estabelecimento industrial que iniciou a actividade após a data de notificação da presente directiva,\n\n- o estabelecimento existente, cuja capacidade de electrólise dos cloretos alcalinos em células de cátodo de mercúrio tenha sido consideravelmente aumentada após a data da notificação da presente directiva."
+  },
+  "0253c5c2f4f44601": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os valores-limite, os prazos fixados para o cumprimento destes valores e o procedimento de vigilância e de controlo a aplicar às descargas, figuram no Anexo I.\n\n2. As autorizações previstas no artigo 3o da Directiva 76/464/CEE devem incluir disposições que sejam, pelo menos, tão rigorosas como as que figuram no Anexo I da presente directiva, salvo no caso de o Estado-membro dar cumprimento ao disposto no no 3 do artigo 6o da Directiva 76/464/CEE, com base nos Anexos II e IV da presente directiva.\n\nEstas autorizações serão reexaminadas, pelo menos, de quatro em quatro anos.\n\n3. Sem prejuízo das suas obrigações decorrentes dos no 1 e 2, assim como das disposições da Directiva 76/464/CEE, os Estados-membros só podem conceder autorizações para novos estabelecimentos, se estas autorizações contiverem referências às normas correspondentes aos melhores meios técnicos disponíveis, para prevenir as descargas de mercúrio.\n\nQualquer que seja o método adoptado, se, por razões técnicas, as medidas previstas não corresponderem aos melhores meios técnicos disponíveis, o Estado-membro fornecerá à Comissão, antes de qualquer autorização, as justificações destas razões.\n\nA Comissão dirigirá aos Estados-membros, nos três meses seguintes, um relatório com o seu parecer sobre a derrogação referida no segundo parágrafo.\n\n4. O método de análise padrão a utilizar para determinar a presença de mercúrio figura no ponto 1 do Anexo III. Podem ser utilizados outros métodos, desde que os respectivos limites de detecção, precisão e exactidão sejam, pelo menos, tão válidos como os que figuram no ponto 1 do Anexo III. A exactidão exigida para a medida do débito dos efluentes figura no ponto 2 do Anexo III."
+  },
+  "eb4b17cb46d7d7a8": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs Estados-membros em causa assegurarão a vigilância do meio aquático afectado pelas descargas dos estabelecimentos industriais.\n\nNo caso de descargas que afectem as águas de diversos Estados-membros, estes colaborarão de modo a harmonizar os procedimentos de vigilância."
+  },
+  "69a41f6001f1bcd7": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Com base nas informações que lhe são fornecidas pelos Estados-membros, nos termos do artigo 13o da Directiva 76/464/CEE, e a seu pedido, apresentado caso a caso, em especial no que respeita:\n\n- aos pormenores relativos às autorizações que fixam as normas de emissão para as descargas de mercúrio,\n\n- aos resultados das medições efectuadas pela rede nacional instituída com o objectivo de determinar as concentrações de mercúrio;\n\nA Comissão procederá a uma avaliação comparada da aplicação da presente directiva pelos Estados-membros.\n\n2. De cinco em cinco anos, a Comissão transmitirá ao Conselho os resultados da avaliação comparada referida no no 1.\n\nCaso haja modificações dos conhecimentos científicos relativos principalmente à toxicidade, à persistência e à acumulação de mercúrio nos organismos vivos e nos sedimentos ou, em caso de aperfeiçoamento dos melhores meios técnicos disponíveis, a Comissão apresentará ao Conselho propostas adequadas destinadas a reforçar, se necessário, os valores-limite e os objectivos de qualidade."
+  },
+  "9b6fd05557c78e99": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva antes de 1 de Julho de 1983. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "a339214930a0b5f0": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas em 22 de Março de 1982.\n\nPelo Conselho\n\nO Presidente\n\nL. TINDEMANS\n\n(1) JO no L 129 de 18. 5. 1976, p. 23.(2) JO no C 169 de 6. 7. 1979, p. 2.(3) JO no C 341 de 31. 12. 1980, p. 24.(4) JO no C 83 de 2. 4. 1980, p. 16."
+  },
+  "f30401853c28fd47": {
+   "fragment_id": "ANEXO I — Valores-limite, prazos fixados para a entrada em vigor desses valores e procedimento de vigilância e de controlo a aplicar às descargas",
+   "type": "divisao",
+   "heading": "ANEXO I — Valores-limite, prazos fixados para a entrada em vigor desses valores e procedimento de vigilância e de controlo a aplicar às descargas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Valores-limite, prazos fixados para a entrada em vigor desses valores e procedimento de vigilância e de controlo a aplicar às descargas\n\n1. Os valores-limite expressos em termos de concentração que, em princípio, não devem ser ultrapassados figuram no quadro seguinte.\n\n\"\" ID=\"1\">Salmoura reciclada e salmoura perdida\n\nmicrogramas de mercúrio por litro> ID=\"2\">75> ID=\"3\">50> ID=\"4\">aplicáveis à quantidade total de mercúrio presente em todas as descargas de águas que contenham mercúrio, provenientes da área do estabelecimento industrial\">\n\nOs valores-limite expressos em concentrações máximas não podem, em nenhum caso, ser superiores aos valores expressos em quantidades máximas divididas pela água necessária por tonelada de capacidade de produção de cloro instalada.\n\n2. Todavia, dado que a concentração de mercúrio nos efluentes depende do volume de água utilizado, que varia segundo os diferentes processos e estabelecimentos, os valores-limite - expressos em termos de quantidade de mercúrio descarregado em relação à capacidade de produção de cloro instalada - que figuram no quadro seguinte devem ser sempre respeitados.\n\n\"\" ID=\"1\" ASSV=\"2\">Salmoura reciclada\n\ngramas de mercúrio por tonelada de capacidade de produção de cloro instalada> ID=\"2\">0,5> ID=\"3\">0,5> ID=\"4\">aplicáveis ao mercúrio presente nos efluentes provenientes da unidade de produção de cloro\"> ID=\"2\">1,5> ID=\"3\">1,0> ID=\"4\">aplicáveis à quantidade total de mercúrio presente em todas as descargas de água que contenham mercúrio, provenientes da área do estabelecimento industrial\"> ID=\"1\">Salmoura perdida\n\ngramas de mercúrio por capacidade de produção de cloro instalada> ID=\"2\">8,0> ID=\"3\">5,0> ID=\"4\">aplicáveis à quantidade total de mercúrio presente em todas as descargas de águas que contenham mercúrio, provenientes da área do estabelecimento industrial\">\n\n3. Os valores-limite das médias diárias são iguais ao quádruplo dos valores-limite das médias mensais correspondentes, que figuram nos pontos 1 e 2.\n\n4. Para verificar se as descargas satisfazem as normas de emissão fixadas em conformidade com os valores-limite definidos no presente anexo, deve ser instituído um procedimento de controlo. Este procedimento prevê:\n\n- a colheita diária de uma amostra representativa da descarga durante um período de 24 horas e a medição da concentração de mercúrio da referida amostra,\n\ne\n\n- a medição do débito total das descargas durante esse período.\n\nA quantidade de mercúrio descarregado ao longo de um mês deve ser calculada adicionando as quantidades de mercúrio descarregado diariamente ao longo desse mês. O total deve ser dividido pela capacidade de produção de cloro instalada."
+  },
+  "ee0de20a44616a3a": {
+   "fragment_id": "ANEXO II — Objectivos de qualidade",
+   "type": "divisao",
+   "heading": "ANEXO II — Objectivos de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Objectivos de qualidade\n\nPara os Estados-membros que aplicam a excepção prevista no no 3 do artigo 6o, da Directiva 76/464/CEE, as normas de emissão que os Estados-membros devem estabelecer e fazer aplicar, nos termos do artigo 5o da referida directiva, são fixadas de modo a que o (ou os) objectivo(s) de qualidade adequado(s) de entre os a seguir enumerados, seja(m) respeitado(s) na região afectada pelas descargas de mercúrio provenientes do sector de electrólise dos cloretos alcalinos. A autoridade competente designará a região afectada, em cada caso, e seleccionará, de entre os objectivos de qualidade que figuram no ponto 1, aquele ou aqueles que considere adequados, de acordo com a utilização a que se destina a região afectada, tendo em conta o facto de que o objectivo da presente directiva é eliminar toda a poluição.\n\n1. A fim de eliminar a poluição, tal como é definida na Directiva 76/464/CEE e nos termos do artigo 2o da referida directiva, são fixados os seguintes objectivos de qualidade:\n\n1.1. A concentração de mercúrio numa amostra representativa da carne de peixe escolhida como indicador não deve ultrapassar 0,3 mg/kg de carne húmida.\n\n1.2. A concentração de mercúrio total nas águas superficiais interiores afectadas pelas descargas não deve exceder 1 µg/l, enquanto média aritmética dos resultados obtidos ao longo de um ano.\n\n1.3. A concentração de mercúrio em solução nas águas dos estuários afectados pelas descargas não deve exceder 0,5 µg/l, enquanto média aritmética dos resultados obtidos ao longo de um ano.\n\n1.4. A concentração de mercúrio em solução nas águas de mar territoriais e nas águas costeiras interiores, não estuárias afectadas pelas descargas não deve exceder 0,3 µg/l, enquanto média aritmética dos resultados obtidos ao longo de um ano.\n\n1.5. A qualidade das águas deve ser suficiente para satisfazer as exigências de todas as directivas do Conselho que lhe são aplicáveis no que respeita à presença do mercúrio.\n\n2. A concentração de mercúrio nos sedimentos ou nos moluscos e crustáceos, não deve aumentar de forma significativa com o tempo.\n\n3. Quando são aplicados às águas de uma região vários objectivos de qualidade, a qualidade das águas deve ser suficiente para respeitar cada um desses objectivos.\n\n4. A título excepcional, na medida em que se revele necessário por razões técnicas e após notificação prévia à Comissão, os valores numéricos dos objectivos de qualidade que figuram nos pontos 1.2., 1.3. e 1.4., podem ser multiplicados por 1,5 até 30 de Junho de 1986."
+  },
+  "334746ad79688688": {
+   "fragment_id": "ANEXO III — Métodos padrão de análise",
+   "type": "divisao",
+   "heading": "ANEXO III — Métodos padrão de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Métodos padrão de análise\n\n1. O método padrão de análise utilizado para determinar o teor em mercúrio das águas, de carne de peixe, dos sedimentos e dos moluscos e crustáceos é a medida da absorção atómica sem chama por espectrofotometria, depois de se ter submetido a amostra a um tratamento prévio adequado, tendo em conta, nomeadamente, a pré-oxidação do mercúrio e a redução sucessiva dos iões de mercúrio Hg (II).\n\nOs limites de detecção (1) devem ser tais que a concentração de mercúrio possa ser medida com uma exactidão (1) de ± 30 % e uma precisão (1) de ± 30 % para as seguintes concentrações:\n\n- no caso das descargas, um décimo da concentração máxima de mercúrio autorizada, especificada na autorização,\n\n- no caso das águas superficiais, um décimo da concentração de mercúrio especificada no objectivo de qualidade,\n\n- no caso da carne de peixe e no caso dos moluscos e crustáceos, um décimo da concentração de mercúrio especificada no objectivo de qualidade,\n\n- no caso dos sedimentos, um décimo da concentração do mercúrio da amostra, ou 0,05 mg/kg (peso seco), aplicando-se o número mais elevado.\n\n2. A medida do débito dos efluentes deve ser efectuada com uma exactidão de ± 20 %.\n\n(1) As definições destes termos figuram na Directiva 79/869/CEE do Conselho, de 9 de Outubro de 1979, relativa aos métodos de medida e à frequência das amostragens e da análise das águas superficiais destinadas à produção de água potável nos Estados-membros (JO no L 271 de 29. 10. 1979, p. 44)."
+  },
+  "0d7e87e3fa24af11": {
+   "fragment_id": "ANEXO IV — Procedimento de controlo para os objectivos de qualidade",
+   "type": "divisao",
+   "heading": "ANEXO IV — Procedimento de controlo para os objectivos de qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Procedimento de controlo para os objectivos de qualidade\n\n1. A autoridade competente define as restrições, as modalidades de vigilância e os prazos necessários para assegurar o respeito do ou dos objectivos de qualidade em causa, para qualquer autorização concedida nos termos da presente directiva.\n\n2. Para cada objectivo de qualidade escolhido e aplicado, o Estado-membro faz um relatório à Comissão, nos termos do no 3, do artigo 6o da Directiva 76/464/CEE, sobre:\n\n- os pontos de descarga e o dispositivo de dispersão,\n\n- a zona na qual se aplica o objectivo de qualidade,\n\n- a localização dos pontos de colheita das amostras,\n\n- a frequência de amostragem,\n\n- os métodos de amostragem e de medição,\n\n- os resultados obtidos.\n\n3. As amostras devem ser suficientemente representativas da qualidade do meio aquático, na região afectada pelas descargas e a frequência de amostragem deve ser suficiente para evidenciar modificações eventuais do meio aquático, tendo em conta, nomeadamente, as variações naturais do regime hidrológico. A análise dos peixes das águas do mar deve incidir sobre um número suficientemente representativo de amostras e de espécies.\n\n4. Quanto ao objectivo de qualidade referido no ponto 1.1. do Anexo II, a autoridade competente escolhe as espécies de peixes que serão usadas como indicadores para a análise. Para as águas salgadas, as espécies localmente capturadas e escolhidas de entre as que habitam as águas do litoral podem incluir o bacalhau, o badejo, a solha, a sarda, a arinca e a petruca.\n\nDeclaração relativa ao no 3 do artigo 3o\n\nO Conselho e a Comissão declaram que a aplicação dos melhores meios técnicos disponíveis permite limitar as descargas de mercúrio provenientes da área do novo estabelecimento industrial por meio do processo de salmoura reciclada a menos de 0,5 g/t de capacidade de produção de cloro instalada."
+  },
+  "a73d72ed36f75641": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1982L0176 — PT — 13.01.2009 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/382L0176) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/382L0176) [de 22 de Março de 1982](http://publications.europa.eu/resource/celex/382L0176) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio do sector da electrólise dos cloretos alcalinos](http://publications.europa.eu/resource/celex/382L0176) [(82/176/CEE)](http://publications.europa.eu/resource/celex/382L0176) (JO L 081, 27.3.1982, p.29)\n\n**revogado por:**"
+  },
+  "c90bb0680e0c7083": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1982L0176 — PT — 22.12.2012 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31982L0176) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31982L0176) [de 22 de Março de 1982](http://publications.europa.eu/resource/celex/31982L0176) [relativa aos valores-limite e aos objectivos de qualidade para as descargas de mercúrio do sector da electrólise dos cloretos alcalinos](http://publications.europa.eu/resource/celex/31982L0176) [(82/176/CEE)](http://publications.europa.eu/resource/celex/31982L0176) (JO L 081, 27.3.1982, p.29)\n\n**revogado por:**\n\n- [Directiva 2008/105/CE do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008](http://publications.europa.eu/resource/celex/32008L0105) — L 348 — 84 — 24.12.2008"
+  }
+ }
+}

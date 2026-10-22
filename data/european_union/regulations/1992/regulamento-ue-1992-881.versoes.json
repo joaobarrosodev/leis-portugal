@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R0881:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R0881-20111204",
+ "dre_path": null,
+ "source_lastmod": "2011-12-04",
+ "versions": [
+  {
+   "date": "1992-04-09",
+   "future": false,
+   "celex": "31992R0881",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2011-12-04",
+   "future": false,
+   "celex": "01992R0881-20111204",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "bfb88ddf78e002f6"
+   ]
+  }
+ ],
+ "fragments": {
+  "bfb88ddf78e002f6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R0881 — PT — 04.12.2011 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R0881) [REGULAMENTO (CEE) N.O 881/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R0881) [de 26 de Março de 1992](http://publications.europa.eu/resource/celex/31992R0881) [relativo ao acesso ao mercado dos transportes rodoviários de mercadorias na Comunidade efectuados a partir do ou com destino ao território de um Estado-membro ou que atravessem o território de um ou vários Estados-membros](http://publications.europa.eu/resource/celex/31992R0881) (JO L 095, 9.4.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1072/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1072) — L 300 — 72 — 14.11.2009"
+  }
+ }
+}

@@ -1,0 +1,189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31970R1108:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01970R1108-20230212",
+ "dre_path": null,
+ "source_lastmod": "2023-02-12",
+ "versions": [
+  {
+   "date": "1970-06-15",
+   "future": false,
+   "celex": "31970R1108",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fdc0d3885b26fce7",
+    "342470eaee847c9f",
+    "899127c5ec28f178",
+    "740850e2f7bca839",
+    "a7063836a76fbc7c",
+    "be51d43cb92b3106",
+    "7b6bcf64f4f69bcf",
+    "70fc3d4627fe857d",
+    "d018b2cb36141b7a",
+    "3bc9fa95984f97b1",
+    "549208aedcf34afe",
+    "d46bbe9597eefb16",
+    "839a1ad025a12daf",
+    "3604891244384fd3",
+    "3cca0ce0dc46556f"
+   ]
+  },
+  {
+   "date": "2023-02-12",
+   "future": false,
+   "celex": "01970R1108-20230212",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º.",
+    "Suprime Artigo 10º.",
+    "Suprime Artigo 11º.",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III"
+   ],
+   "fragments": [
+    "88dcb265c126fd55"
+   ]
+  }
+ ],
+ "fragments": {
+  "fdc0d3885b26fce7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1108/70 do Conselho, de 4 de Junho de 1970, que introduz um sistema de contabilidade das despesas referentes às infra-estruturas de transportes ferroviários, rodoviários e por via navegável** *Jornal Oficial nº L 130 de 15/06/1970 p. 0004 - 0014 Edição especial finlandesa: Capítulo 7 Fascículo 1 p. 0100 Edição especial dinamarquesa: Série I Capítulo 1970(II) p. 0312 Edição especial sueca: Capítulo 7 Fascículo 1 p. 0100 Edição especial inglesa: Série I Capítulo 1970(II) p. 0363 Edição especial grega: Capítulo 07 Fascículo 1 p. 0138 Edição especial espanhola: Capítulo 07 Fascículo 1 p. 0130 Edição especial portuguesa: Capítulo 07 Fascículo 1 p. 0130*\n\nREGULAMENTO (CEE) Nº. 1108/70 DO CONSELHO de 4 de Junho de 1970 que introduz um sistema de contabilidade das despesas referentes às infra-estruturas de transportes ferroviários, rodoviários e por via navegável\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui o Comunidade Económica Europeia e, nomeadamente, o seu artigo 75º.,\n\nTendo em conta a Decisão do Conselho, de 22 de Junho de 1964, relativa à organização de um inquérito sobre os custos das infra-estruturas destinadas aos transportes ferroviários, rodoviários e por via navegável (1), e nomeadamente o seu artigo 7º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que, com vista à introdução no âmbito da política comum de transportes de uma tarifação pela utilização das infra-estruturas, importa nomeadamente conhecer as despesas efectuadas em termos de infra-estruturas; que o modo mais apropriado de obter esse conhecimento é a introdução de um sistema de contabilidade permanente que implique para cada modo de transporte esquemas de contabilização uniformes em todos os Estados-membros;\n\nConsiderando que importa que a contabilidade das despesas de infra-estruturas cubra o conjunto das infra-estruturas abertas ao tráfego público e destinadas aos transportes ferroviários, rodoviários e por via navegável; que determinadas infra-estruturas de importância secundária, bem como determinadas vias navegáveis de carácter marítimo, podem, todavia, ser excluídas sem inconveniente;\n\nConsiderando que é oportuno reservar aos Estados-membros a faculdade de fixarem as modalidades segundo as quais a contabilização das despesas de infra-estruturas é efectuada, de modo a permitir tomar em consideração as particularidades e possibilidades práticas que variam de caso para caso;\n\nConsiderando que, com vista à introdução de uma tarifação pela utilização das infra-estruturas, o conhecimento dos dados sobre a utilização das infra-estruturas é igualmente necessário e que convém, por isso, fixar uma lista destes dados;\n\nConsiderando que importa que os Estados-membros comuniquem regularmente os resultados da contabilidade das despesas de infra-estrutura à Comissão e que esta apresente esses resultados ao Conselho num relatório anual de síntese;\n\nConsiderando que, com vista a assegurar uma aplicação tão homogénea quanto possível das disposições do presente regulamento, é oportuno que a Comissão, assistida nas suas funções por um comité de peritos governamentais, assegure a coordenação do conjunto dos trabalhos que o regulamento implica;\n\nConsiderando que importa prever um processo para que os esquemas de contabilização, a lista das infra-estruturas e a lista dos dados sobre a utilização das infra-estruturas possam ser constantemente adaptados à experiência adquirida e ao desenvolvimento da política comum de transportes;\n\nConsiderando que importa prever algumas disposições derrogatórias das regras gerais para ter em consideração as dificuldades com que alguns Estados-membros serão confrontados durante os primeiros anos de aplicação do regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "342470eaee847c9f": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nA partir de 1 de Janeiro de 1971, será introduzido, nas condições previstas no presente regulamento, um sistema de contabilidade uniforme e permanente das despesas referentes às infra-estruturas destinadas aos transportes ferroviários, rodoviários e por via navegável."
+  },
+  "899127c5ec28f178": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. As despesas a registar na contabilidade são as despesas específicas da função de transporte das infra-estruturas bem como a parte das despesas comuns a esta e a outras funções que seja imputável à função de transporte.\n\n2. Independentemente das regras de contabilidade aplicadas nos Estados-membros, as despesas a registar respeitantes a um ano são as despesas efectuadas durante esse ano para assegurar a contrução, o funcionamento e a gestão das infra-estruturas. Estas despesas não compreendem os encargos relativos aí amortização e aos juros dos empréstimos contraídos para o financiamento das despesas de infra-estrutura. (1)JO nº. 102 de 29.6.1964, p. 1598/64. (2)JO nº. C 135 de 14.12.1968, p. 33. (3)JO nº. C 48 de 16.4.1969, p. 1."
+  },
+  "740850e2f7bca839": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\nA contabilização das despesas de infra-estrutura será efectuada para o conjunto das vias férreas, das estradas e das vias navegáveis abertas ao tráfego público, com excepção: a) Das vias férreas não ligadas à rede principal de cada Estado-membro;\n\nb) Das estradas fechadas ao trânsito automóvel, isto é, ao trânsito de veículos com uma cilindrada igual ou superior a 50 cm3;\n\nc) Das estradas que são utilizadas unicamente por veículos de explorações agrícolas ou florestais ou que apenas servem para o acesso a essas explorações;\n\nd) Das vias navegáveis em que a circulação está limitada a embarcações com porte bruto inferior a 250 toneladas;\n\ne) Das vias navegáveis com carácter marítimo cuja lista será fixada pela Comissão nos termos do artigo 9º.. Esta lista será estabelecida tendo em conta a parte do tráfego assegurado pela navegação interior nas vias navegáveis com carácter marítimo ou o interesse que a adopção de um sistema de contabilidade das despesas de infra-estrutura para estas vias apresente do ponto de vista da introdução de uma tarifação pela utilização das infra-estruturas."
+  },
+  "a7063836a76fbc7c": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nA contabilização das despesas de infra-estrutura será efectuada em conformidade com os esquemas do Anexo I.\n\nAs modalidades segundo as quais esta contabilização é efectuada serão fixadas por cada Estado-membro."
+  },
+  "be51d43cb92b3106": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Os Estados-membros comunicarão à Comissão, o mais tardar em 31 de Dezembro de cada ano, os resultados da contabilidade das despesas de infra-estrutura respeitantes ao ano anterior. Os Estados-membros apresentarão estes resultados em conformidade com os esquemas do Anexo I.\n\n2. Serão comunicados resultados discriminados: a) No que se refere aos caminhos-de-ferro: i) para cada uma das redes discriminadas no Anexo II A;\n\nii) para o conjunto das outras redes reunidas;\n\nb) No que se refere às estradas para cada uma das categorias de estradas discriminadas no Anexo II B, distinguindo a parte das estradas situada fora e a situada dentro das aglomerações;\n\nc) No que se refere às vias navegáveis, segundo as discriminações feitas no Anexo II C."
+  },
+  "7b6bcf64f4f69bcf": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nOs Estados-membros comunicarão à Comissão, simultaneamente com os resultados mencionados no artigo 5º., e para o mesmo período de referência, as seguintes indicações, globalmente para as infra-estruturas de cada modo de transporte: - montante dos empréstimos contraídos durante o ano para financiar despesas de infra-estrutura;\n\n- montante dos encargos de amortização e de juro relativos aos empréstimos contraídos anteriormente.\n\nPara a elaboração destas indicações, os Estados-membros apenas tomarão em consideração os empréstimos expressamente afectados ao financiamento de despesas de infra-estrutura."
+  },
+  "70fc3d4627fe857d": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros comunicarão à Comissão, simultaneamente com os resultados mencionados no artigo 5º., e para o mesmo período de referência, os dados sobre a utilização das infra-estruturas cuja lista consta do Anexo III.\n\nTodavia, a comunicação dos dados referidos no quadro B 2 desse anexo será efectuada apenas de cinco em cinco anos, sendo a primeira vez para os dados respeitantes ao ano de 1970."
+  },
+  "d018b2cb36141b7a": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\n1. Na pendência da fixação pela Comissão de critérios comuns para a determinação da parte imputável à função de transporte das despesas comuns a esta e outras funções das infra-estruturas, por força do nº. 1 do artigo 9º. e aplicados pelos Estados-membros, devem registar-se na contabilidade, discriminadamente para cada rubrica dos esquemas de contabilização, as despesas específicas da função de transporte e a totalidade das despesas comuns.\n\n2. Na pendência da realização aproximação dos critérios para a delimitação das estradas situadas respectivamente fora e dentro das aglomerações por força do nº. 1 do artigo 9º., os Estados-membros utilizarão, para a elaboração dos dados referidos no nº. 2, alínea b), do artigo 5º. e no Anexo III B, os critérios de sua escolha, que indicarão à Comissão nas comunicações que lhe fizerem em aplicação dos artigos 5º. e 7º.\n\n3. Para a República Federal da Alemanha, a comunicação à Commissão das indicações previstas no Anexo II C só é obrigatória a partir da relação respeitante ao ano de 1972.\n\n4. A comunicação à Comissão dos dados sobre a utilização das infra-estruturas visadas no quadro B 1 do Anexo III, é, no que se refere às relações respeitantes aos anos de 1972 a 1974, obrigatória para as categorias de veículos que têm um número de ordem de um só dígito, e facultativa para as outras categorias.\n\n5. Para os Países Baixos, a comunicação à Comissão dos dados sobre a utilização das infra-estruturas visadas nos quadros B do Anexo III só é obrigatória, no que se refere à categoria de estradas deste país referida no ponto 5 do Anexo II B, a partir da relação respeitante ao ano de 1975.\n\n6. Para a Itália, a comunicação à Comissão dos dados sobre a utilização das infra-estruturas visadas no quadro B 2 de Anexo III será efectuada pela primeira vez para a relação respeitante ao ano de 1971. As comunicações posteriores de dados relativos a esse quadro serão efectuadas para os mesmos anos que resultam da aplicação do segundo parágrafo do artigo 7º.\n\n7. A comunicação à Comissão dos dados sobre a utilização das infra-estruturas visadas no quadro C do Anexo III só é obrigatória: - para a Bélgica, no que respeita às categorias de embarcações referidas nas alíneas e) e f), bem como ao tráfego na bacia marítima do Escalda, a partir da relação respeitante ao ano de 1973;\n\n- para a República Federal da Alemanha, a partir da relação respeitante ao ano de 1973;\n\n- para a França, no que respeita às categorias de embarcações referidas nas alíneas e) e f), bem como ao número de embarcações que passaram através de eclusas, a partir da relação respeitante ao ano de 1974;\n\n- para os Países Baixos, no que respeita às vias regularizadas, a partir da relação respeitante ao ano de 1972."
+  },
+  "3bc9fa95984f97b1": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\n1. A Comissão assegurará a coordenação do conjunto dos trabalhos que decorrem do presente regulamento e verlará pela aplicação homogénea das suas disposições. A Comissão fixará, em especial, o conteúdo das diversas rubricas dos esquemas de contabilização do Anexo I e os critérios comuns para a determinação da parte imputável aí função de transporte das despesas comuns a esta função e a outras funções das infra-estruturas.\n\nA Comissão empenhar-se-á, além disso, em realizar progressivamente a convergência das modalidades segundo as quais a contabilização é efectuada nos Estados-membros, a aproximação dos critérios utilizados para a delimitação das estradas situadas respectivamente fora e dentro das aglomerações bem como o aperfeiçoamento e a aproximação dos métodos de compilação dos dados sobre a utilização das infra-estruturas.\n\n2. O comité de peritos governamentais, referido no artigo 5º. da Decisão do Conselho, de 13 de Maio de 1965, que aplica o artigo 4º. da Decisão do Conselho nº. 64/389/CEE, de 22 de Junho de 1964, relativa à organização de um inquérito sobre os custos das infra-estruturas destinadas aos transportes ferroviários, rodoviários e por via navegável (1), assistirá a Comissão na execução do conjunto destas tarefas bem como na determinação da lista de vias navegáveis referidas na alínea e) do artigo 3º.\n\n3. A Comissão apresentará ao Conselho todos os anos, seis meses após ter recebido as comunicações referidas nos artigos 5º., 6º. e 7º., um relatório de síntese indicando os principais resultados da contabilidade das despesas de infra-estrutura."
+  },
+  "549208aedcf34afe": {
+   "fragment_id": "Artigo 10º.",
+   "type": "artigo",
+   "heading": "Artigo 10º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode alterar os anexos do presente regulamento, a fim de ter em conta a experiência adquirida e as exigências que decorrem das medidas tomadas em matéria de tarifação pela utilização das infra-estruturas."
+  },
+  "d46bbe9597eefb16": {
+   "fragment_id": "Artigo 11º.",
+   "type": "artigo",
+   "heading": "Artigo 11º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º.\n\nOs Estados-membros adoptarão em tempo útil, após consulta da Comissão, as disposições legislativas, regulamentares ou administrativas necessárias à execução do presente regulamento.\n\nSe um Estado-membro o solicitar ou se a Comissão o considerar oportuno, a Comissão procederá a uma consulta junto dos Estados-membros interessados sobre projectos relativos às disposições referidas no parágrafo anterior.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 4 de Junho de 1970.\n\nPelo Conselho\n\nO Presidente\n\nA. BERTRAND (1)JO nº. 88 de 24.5.1965, p. 1473/65."
+  },
+  "839a1ad025a12daf": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nESQUEMAS PARA A CONTABILIZAÇÃO DAS DESPESAS REFERIDAS NO ARTIGO 4º.\n\nA. CAMINHO-DE-FERRO 1. Despesas de investimento\n\n(Despesas de construção nova, de ampliação, de reconstrução e de renovação)\n\n2. Despesas correntes\n\n(Despesas de conservação e de exploração)\n\n3. Despesas gerais\n\nB. ESTRADA 1. Despesas de investimento\n\n(Despesas de construção nova, de amplicação, de reconstrução e de renovação)\n\n2. Despesas correntes\n\n(Despesas de conservação e de exploração) 20. Conservação das camadas de superfície das faixas de rodagem\n\n21. Outras despesas correntes\n\n3. Polícia de trânsito\n\n4. Despesas gerais\n\nC. VIA NAVEGÁVEL 1. Despesas de investimento\n\n(Despesas de construção nova, de ampliação, de reconstrução e de renovação)\n\n2. Despesas correntes\n\n(Despesas de conservação e de exploração)\n\n2. Polícia de navegação\n\n4. Despesas gerais"
+  },
+  "3604891244384fd3": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nLISTA DAS REDES FERROVIÁRIAS, DAS CATEGORIAS DE ESTRADAS E DAS VIAS NAVEGÁVEIS REFERIDAS NO Nº. 2 DO ARTIGO 5º.\n\nA. CAMINHO-DE-FERRO\n\nReino de Bélgica - Société nationale des chemins de fer belges/Nationale Maatschappij der Belgische Spoorwegen\n\nRepública Federal da Alemanha - Deutsche Bundesbahn República Francesa\n\n- Société nationale des chemins de fer français\n\nRepública Italiana - Azienda autonoma delle ferrovie dello Stato\n\nGrão-Ducado do Luxemburgo - Société nationale des chemins de fer luxembourgeois\n\nReino dos Países Baixos - N.V. Nederlandse Spoorwegen\n\nB. ESTRADA\n\nReino da Bélgica 1. Autoroutes / Autosnelwegen\n\n2. Autres routes de l'État / Andere rijkswegen\n\n3. Routes provinciales / Provinciale wegen\n\n4. Routes communales / Gemeentewegen\n\nRepública Federal da Alemanha 1. Bundesautobahnen\n\n2. Bundesstraßen\n\n3. Land-(Staats)-straßen\n\n4. Kreisstraßen\n\n5. Gemeindestraßen\n\nRepública Francesa 1. Autoroutes\n\n2. Routes nationales\n\n3. Chemins départementaux\n\n4. Voies communales\n\nRepública Italiana 1. Autostrada\n\n2. Strada statali\n\n3. Strade regionali e provinciali\n\n4. Strade comunali\n\nGrão-Ducado do Luxemburgo 1. Routes d'État\n\n2. Chemins repris\n\n3. Chemins vicinaux\n\nReino dos Países Baixos >PIC FILE= \"T0002347\">\n\nC. VIA NAVEGÁVEL >PIC FILE= \"T0002348\">"
+  },
+  "3cca0ce0dc46556f": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nLISTA DOS DADOS SOBRE A UTILIZAÇÃO DAS INFRA-ESTRUTURAS REFERIDAS NO ARTIGO 7º.\n\nQUADRO A - CAMINHO-DE-FERRO\n\n>PIC FILE= \"T0002349\"> QUADRO B - ESTRADA\n\n1. Veículos-km anuais efectuados nas estradas fora das aglomerações\n\n>PIC FILE= \"T0002350\"> 2. Composição da circulação dos veículos utilitários por classes de peso total mãximo autorizado e de peso efectivo por eixo (Estradas fora das aglomerações)\n\n>PIC FILE= \"T0002351\"> QUADRO C - VIA NAVEGÁVEL\n\n>PIC FILE= \"T0002352\"> QUADRO C (continuação)\n\n>PIC FILE= \"T0002353\">"
+  },
+  "88dcb265c126fd55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01970R1108 — PT — 12.02.2023 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31970R1108) [REGULAMENTO (CEE) N.O 1108/70 DO CONSELHO](http://publications.europa.eu/resource/celex/31970R1108) [de 4 de Junho de 1970](http://publications.europa.eu/resource/celex/31970R1108) [que introduz um sistema de contabilidade das despesas referentes às infra-estruturas de transportes ferroviários, rodoviários e por via navegável](http://publications.europa.eu/resource/celex/31970R1108) (JO L 130, 15.6.1970, p.4)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2023/144 do Parlamento Europeu e do Conselho de 18 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0144) — L 21 — 1 — 23.1.2023"
+  }
+ }
+}

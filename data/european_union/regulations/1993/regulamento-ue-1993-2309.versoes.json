@@ -1,0 +1,815 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993R2309:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993R2309-20031001",
+ "dre_path": null,
+ "source_lastmod": "2003-10-01",
+ "versions": [
+  {
+   "date": "1993-08-24",
+   "future": false,
+   "celex": "31993R2309",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "33102bfffda470e5",
+    "5c3e3419f65173bf",
+    "031a7648e56e7a31",
+    "a8009bb7702d2540",
+    "8494aacae0cde639",
+    "f87ced4423630c80",
+    "5a4b886362fa9cd6",
+    "0ec93b5759eff6b7",
+    "a25c13c5e5b223c2",
+    "6654b8c906b588ea",
+    "16f1bb48f7cdc915",
+    "b30623b17cfb09e7",
+    "92515b307c1b5553",
+    "c6b344ca8f55c05b",
+    "f7c24f80d4b6d4e4",
+    "f6f9428e3f825b25",
+    "e7697338bf5bd202",
+    "d49a0cf2cd09a24a",
+    "c7cd5d34b9ae2a22",
+    "4279a283f9191b45",
+    "6b960528bd4156c6",
+    "2c96fae4450b9df2",
+    "8a1eb5bc64683107",
+    "617d39eddd365a39",
+    "bf90d8ff46e40d09",
+    "f1e8a2a361b536ca",
+    "c6c21c4f3f12e16e",
+    "589f7b5de78cae33",
+    "bb31f0d10149a80a",
+    "f12c26de6cf5ecb3",
+    "fb296c6c1b7610ed",
+    "807da636faf89a92",
+    "83375779dd09eb41",
+    "0ec93b5759eff6b7",
+    "0bb86781245b92f6",
+    "cb26f19732707a72",
+    "d902f3f5a30e547c",
+    "ad9335cefda3b109",
+    "c0f44adfa3f2e90e",
+    "1302770038d5a1b2",
+    "e75013017581098b",
+    "ac46425b3cf340cc",
+    "82cf32298bee8e5a",
+    "a9d89009fb29049b",
+    "c7cd5d34b9ae2a22",
+    "43a8299a36d6c8f1",
+    "591da3723dc0b983",
+    "c585d42da153dda9",
+    "a1d45eab7fcf2695",
+    "617d39eddd365a39",
+    "db1a0adbcd758646",
+    "91d38e1692a8ebc1",
+    "6f7bf4df29128a8f",
+    "52364e8b37f7df93",
+    "9781f30cb3c2a3f8",
+    "fce45474b2ebb79f",
+    "33a09849705cde49",
+    "ed44bbe788a2e1d3",
+    "e504c0cd9389e9b1",
+    "ce0e26d9558f3a3d",
+    "23396100905cb2c1",
+    "1a6ea18d6f1d56e6",
+    "7fe6443d2a318e0d",
+    "a3dee5435cddd24d",
+    "8fe3e1da6ea675b6",
+    "2b42d25b63efb4ac",
+    "a07b97a510b03fd2",
+    "473290cd06bc864d",
+    "7385977d8899da9d",
+    "74a679f0c4164a16",
+    "f7c2638397cfcc90",
+    "8bd643aa4f228143",
+    "33015df0e91d4c17",
+    "5f602f7608e295b6",
+    "4d10adc1a5194f5f",
+    "f07280e41d5c2182",
+    "4c76f1a1fb54891b",
+    "a5c5fe955a6159f2",
+    "8c0f12652b2e169c",
+    "70a60715a1c2e324",
+    "d000f896d48ffecb",
+    "1ec281100987cffb",
+    "583f0513f181ea13",
+    "1dac18b55ab52b56",
+    "ac9ed490095771e0",
+    "adc7439350685ff9",
+    "f80bda6e8d27514b",
+    "80b986c2b4c63aff",
+    "28cb98a6642abe95",
+    "d65da15e29ee348e",
+    "2d113f729a922544"
+   ]
+  }
+ ],
+ "fragments": {
+  "33102bfffda470e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2309/93 do Conselho, de 22 de Julho de 1993, que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos** *Jornal Oficial nº L 214 de 24/08/1993 p. 0001 - 0021 Edição especial finlandesa: Capítulo 13 Fascículo 24 p. 0158 Edição especial sueca: Capítulo 13 Fascículo 24 p. 0158*\n\nREGULAMENTO (CEE) No 2309/93 DO CONSELHO de 22 de Julho de 1993 que estabelece procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e institui uma Agência Europeia de Avaliação dos Medicamentos\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a Directiva 87/22/CEE do Conselho, de 22 de Dezembro de 1986, relativa à aproximação das medidas nacionais respeitantes à colocação no mercado dos medicamentos de alta tecnologia, nomeadamente dos resultantes da biotecnologia (4), instituiu um mecanismo comunitário de concertação, que precede qualquer decisão nacional relativa a medicamentos de alta tecnologia, com vista à tomada de decisões uniformes em toda a Comunidade; que é conveniente prosseguir nesta via, tendo nomeadamente em vista garantir o bom funcionamento do mercado interno no sector farmacêutico;\n\nConsiderando que a experiência adquirida com base na Directiva 87/22/CEE comprovou a necessidade do estabelecimento de um procedimento comunitário centralizado de autorização dos medicamentos de alta tecnologia, nomeadamente os resultantes da biotecnologia; que este procedimento deve igualmente ser aplicável com relação aos responsáveis pela introdução no mercado de medicamentos de uso humano ou utilizados em animais destinados ao consumo humano, que contenham novas substâncias activas;\n\nConsiderando que, com vista à protecção da saúde pública, é necessário que as decisões relativas à autorização dos referidos medicamentos assentem em critérios científicos objectivos de eficácia, qualidade e segurança do medicamento em questão, independentemente de questões de carácter económico ou outro; que, todavia, os Estados-membros devem excepcionalmente poder proibir a utilização no seu território de medicamentos de uso humano que violem conceitos objectivamente definidos de ordem e moral públicas; que, além disso, a Comunidade poderá não autorizar medicamentos veterinários caso a sua utilização seja contrária às medidas jurídicas estabelecidas pela Comunidade no âmbito da política agrícola comum;\n\nConsiderando que, no que respeita aos medicamentos de uso humano, os critérios de eficácia, qualidade e segurança foram objecto de vasta harmonização na Directiva 65/65/CEE do Conselho, de 26 de Janeiro de 1965, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes aos medicamentos (5), na Segunda Directiva 75/319/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes às especialidades farmacêuticas (6), e na Directiva 75/318/CEE do Conselho, de 20 de Maio de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes às normas e protocolos analíticos, tóxico-farmacológicos e clínicos em matéria de ensaios de medicamentos (6);\n\nConsiderando que, no que respeita aos medicamentos veterinários, foram obtidos resultados idênticos com a Directiva 81/851/CEE do Conselho, de 28 de Setembro de 1981, relativa à aproximação das legislações dos Estados-membros respeitantes aos medicamentos veterinários (7), e com a Directiva 81/852/CEE do Conselho, de 28 de Setembro de 1981, relativa à aproximação das legislações dos Estados-membros respeitantes às normas e protocolos analíticos, tóxico-farmacológicos e clínicos em matéria de ensaios de medicamentos veterinários (8);\n\nConsiderando que há que aplicar os mesmos critérios aos medicamentos que devam ser autorizados pela Comunidade;\n\nConsiderando que a Comunidade apenas deveria conceder a autorização de introdução no mercado de medicamentos de alta tecnologia após uma avaliação científica específica da máxima qualidade, segurança e eficácia possível, a efectuar no âmbito da Agência Europeia de Avaliação dos Medicamentos, num processo rápido que assegure uma cooperação estreita entre a Comissão e os Estados-membros;\n\nConsiderando que a Directiva 93/39/CEE do Conselho, de 14 de Junho de 1993, que altera as Directivas 65/65/CEE, 75/318/CEE e 75/319/CEE respeitantes aos medicamentos (9), estabelece que, caso haja desacordo entre os Estados-membros quanto à eficácia, qualidade ou segurança de um medicamento sujeito ao procedimento descentralizado comunitário de autorização, a questão deve ser solucionada através de uma decisão comunitária de carácter vinculativo, após avaliação científica das questões envolvidas a nível da Agência Europeia de Avaliação dos Medicamentos; que foram estabelecidas disposições análogas no que respeita aos medicamentos veterinários, através da Directiva 93/40/CEE do Conselho, de 14 de Junho de 1993, que altera as Directivas 81/851/CEE e 81/852/CEE relativas à aproximação das legislações dos Estados-membros respeitantes aos medicamentos veterinários (10);\n\nConsiderando que a Comunidade deve dispor dos meios necessários para proceder à avaliação científica dos medicamentos submetidos para autorização, em conformidade com o procedimento descentralizado; que, além disso, para que se verifique a harmonização efectiva das decisões administrativas adoptadas pelos Estados-membros respeitantes a medicamentos específicos submetidos para autorização em conformidade com o procedimento descentralizado, se torna necessário dotar a Comunidade de meios para a superação de divergências entre os Estados-membros no que respeita à eficácia, qualidade e segurança dos medicamentos;\n\nConsiderando que se torna, portanto, necessário criar uma Agência Europeia de Avaliação dos Medicamentos (a seguir denominada «agência»);\n\nConsiderando que a principal atribuição da agência deve ser emitir pareceres científicos da máxima qualidade possível à atenção das instituições comunitárias e dos Estados-membros, para o exercício das competências que a legislação comunitária lhes confere no domínio dos medicamentos, no que respeita à autorização e fiscalização dos mesmos;\n\nConsiderando que é necessário assegurar uma cooperação estreita entre a agência e os cientistas que exercem a sua actividade nos Estados-membros;\n\nConsiderando que, por conseguinte, deve ser atribuído ao Comité das especialidades farmacêuticas, instituído pela Segunda Directiva 75/319/CEE, a responsabilidade exclusiva pela elaboração dos pareceres da agência em todas as questões relativas aos medicamentos de uso humano; que, no que respeita aos medicamentos veterinários, esta responsabilidade deve ser atribuída ao Comité dos medicamentos veterinários, instituído pela Directiva 81/851/CEE;\n\nConsiderando que a instituição da agência possibilitará o reforço do papel e da independência científicos destes dois comités, nomeadamente através do estabelecimento de um secretariado técnico e administrativo permanente;\n\nConsiderando que é igualmente necessário prever disposições relativas ao controlo dos medicamentos já autorizados na Comunidade, e, nomeadamente, ao acompanhamento intensivo das reacções adversas aos referidos medicamentos, através de acções comunitárias de farmacovigilância, por forma a garantir a rápida retirada do mercado de qualquer medicamento que apresente um grau de risco inaceitável em condições normais de utilização;\n\nConsiderando que deve igualmente ser atribuída à Comissão, funcionando em estreita cooperação com a agência, e após consulta aos Estados-membros, a missão de coordenação do desempenho das várias responsabilidades de fiscalização dos Estados-membros, nomeadamente o fornecimento de informações sobre medicamentos, o acompanhamento da observância das boas práticas de fabrico, de laboratório e de clínica;\n\nConsiderando que a agência deve igualmente ser responsável pela coordenação das actividades dos Estados-membros em máteria de controlo das reacções adversas aos medicamentos (farmacovigilância);\n\nConsiderando que importa prever a introdução progressiva de procedimentos comunitários de autorização de medicamentos a par dos procedimentos nacionais dos Estados-membros já amplamente harmonizados nas Directivas 65/65/CEE, 75/319/CEE e 81/851/CEE; considerando que é, portanto, adequado restringir na primeira fase a obrigação de utilização do novo procedimento comunitário aos medicamentos; que o âmbito dos procedimentos comunitários deve ser revisto à luz da experiência adquirida, o mais tardar seis anos após a entrada em vigor do presente regulamento;\n\nConsiderando a possibilidade de certos riscos para o ambiente estarem associados a medicamentos que contenham ou sejam compostos por organismos geneticamente modificados; que, além disso, é necessário proceder a uma avaliação dos riscos ambientais de tais produtos do tipo da constante da Directiva 90/220/CEE do Conselho, de 23 de Abril de 1990, relativa à libertação deliberada no ambiente de organismos geneticamente modificados (11), bem como a uma avaliação da eficácia, qualidade e segurança dos produtos em questão mediante um procedimento comunitário único;\n\nConsiderando que, para a adopção de um sistema uniforme ao nível comunitário, tal como o prevê o presente regulamento, o Tratado não prevê outros poderes para além dos do artigo 235o,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5c3e3419f65173bf": {
+   "fragment_id": "TÍTULO I — DEFINIÇÕES E ÂMBITO DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "TÍTULO I — DEFINIÇÕES E ÂMBITO DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — DEFINIÇÕES E ÂMBITO DE APLICAÇÃO"
+  },
+  "031a7648e56e7a31": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento destina-se ao estabelecimento de procedimentos comunitários de autorização e fiscalização de medicamentos de uso humano e veterinário e à criação de uma Agência Europeia de Avaliação dos Medicamentos.\n\nAs disposições previstas no presente regulamento não afectam as competências das autoridades dos Estados-membros em máteria de fixação dos preços dos medicamentos ou da sua inclusão no âmbito de aplicação dos sistemas nacionais de saúde atendendo a condicionalismos de natureza sanitária, económica e social. Os Estados-membros podem designadamente escolher, no âmbito da autorização de introdução no mercado, as indicações terapêuticas e a extensão dos tratamentos que serão cobertos pelos respectivos organismos de segurança social."
+  },
+  "a8009bb7702d2540": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nSão aplicáveis no âmbito do presente regulamento as definições constantes do artigo 1o da Directiva 65/65/CEE e do no 2 do artigo 1o da Directiva 81/851/CEE.\n\nO responsável pela introdução no mercado dos medicamentos abrangidos pelo presente regulamento deve estar estabelecido na Comunidade."
+  },
+  "8494aacae0cde639": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Nenhum medicamento constante da parte A do anexo pode ser introduzido no mercado comunitário sem que tenha sido objecto de autorização de introdução no mercado pela Comunidade, em conformidade com o disposto no presente regulamento.\n\n2. O responsável pela introdução no mercado de um medicamento constante da parte B do anexo pode requerer que a autorização de introdução no mercado seja concedida pela Comunidade, em conformidade com o disposto no presente regulamento.\n\n3. Antes da entrada em vigor do presente regulamento e após consulta ao Comité das especialidades farmacêuticas, as partes A e B do anexo serão, no referente aos medicamentos de uso humano, objecto de nova análise em função do progresso técnico e científico, a fim de lhes serem eventualmente introduzidas as necessárias alterações, a adoptar de acordo com o procedimento referido no artigo 72o\n\n4. Antes da entrada em vigor do presente regulamento e após consulta ao Comité dos medicamentos veterinários, as partes A e B do anexo serão, no referente aos medicamentos de uso veterinário, objecto de nova análise em função do progresso técnico e científico, a fim de lhes serem eventualmente introduzidas as necessárias alterações, a adoptar de acordo com o procedimento referido no artigo 72o\n\n5. Os procedimentos referidos nos nos 3 e 4 permanecerão aplicáveis após a entrada em vigor do presente regulamento."
+  },
+  "f87ced4423630c80": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Para obter a autorização requerida no artigo 3o, o responsável pela introdução no mercado deve apresentar um pedido à Agência Europeia de Avaliação dos Medicamentos, a seguir denominada «agência», criada pelo título IV.\n\n2. A Comunidade emite e fiscaliza as autorizações de introdução no mercado de medicamentos de uso humano nos termos do título II.\n\n3. A Comunidade emite e fiscaliza as autorizações de introdução no mercado de medicamentos veterinários nos termos do título III."
+  },
+  "5a4b886362fa9cd6": {
+   "fragment_id": "TÍTULO II — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS DE USO HUMANO",
+   "type": "divisao",
+   "heading": "TÍTULO II — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS DE USO HUMANO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS DE USO HUMANO"
+  },
+  "0ec93b5759eff6b7": {
+   "fragment_id": "CAPÍTULO 1 — Apresentação e análise dos pedidos - autorização - renovação da autorização",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 — Apresentação e análise dos pedidos - autorização - renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 — Apresentação e análise dos pedidos - autorização - renovação da autorização"
+  },
+  "a25c13c5e5b223c2": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO Comité das especialidades farmacêuticas, instituído pelo artigo 8o da Directiva 75/319/CEE, no presente título designado por «comité», será responsável pela formulação do parecer da agência relativo a quaisquer questões referentes à aceitabilidade dos processos apresentados de acordo com o procedimento centralizado, à autorização, às modificações, à suspensão ou revogação da autorização de introdução no mercado de medicamentos de uso humano, em conformidade com o disposto no presente título, bem como à farmacovigilância."
+  },
+  "6654b8c906b588ea": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os pedidos de autorização de medicamentos de uso humano devem ser acompanhados da informação e dos documentos referidos nos artigos 4o e 4oA da Directiva 65/65/CEE, no anexo da Directiva 75/318/CEE e no artigo 2o da Directiva 75/319/CEE.\n\n2. Quando se trate de medicamentos que contenham ou sejam compostos por organismos geneticamente modificados, na acepção dos nos 1 e 2 do artigo 2o da Directiva 90/220/CEE, o pedido deve ser acompanhado por:\n\n- uma cópia da autorização ou autorizações escritas da autoridade competente para a libertação deliberada no ambiente de organismos geneticamente modificados, para fins de investigação ou de desenvolvimento, como previsto na parte B da Directiva 90/220/CEE,\n\n- uma documentação técnica completa com as informações requeridas nos anexos II e III da Directiva 90/220/CEE e uma avaliação do risco ambiental assente nesta informação; os resultados de quaisquer pesquisas realizadas para efeitos de investigação ou desenvolvimento.\n\nOs artigos 11o a 18o da Directiva 90/220/CEE não são aplicáveis aos medicamentos de uso humano que contenham ou sejam compostos por organismos geneticamente modificados.\n\n3. O pedido deve vir igualmente acompanhado da taxa a pagar à agência pela análise do mesmo.\n\n4. A agência deve assegurar que o parecer do comité seja emitido no prazo de 210 dias após a recepção de um pedido válido.\n\nNo que respeita aos medicamentos que contêm ou são compostos por organismos geneticamente modificados, o parecer do comité deve atender aos requisitos de segurança ambiental estabelecidos na Directiva 90/220/CEE, a fim de garantir que serão tomadas todas as medidas necessárias destinadas a evitar efeitos indesejáveis para a saúde humana e o ambiente eventualmente resultantes da libertação deliberada no ambiente ou da introdução no mercado de organismos geneticamente modificados. No decorrer da avaliação dos pedidos de autorização de introdução no mercado relativos a produtos que contenham ou sejam compostos por organismos geneticamente modificados, o relator procederá a consultas adequadas com as instâncias criadas pela Comunidade ou os Estados-membros em conformidade com a Directiva 90/220/CEE.\n\n5. Em consulta com a agência, os Estados-membros e as partes interessadas, a Comissão deve elaborar instruções pormenorizadas sobre o modo como devem ser apresentados os pedidos de autorização."
+  },
+  "16f1bb48f7cdc915": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nPara efeitos da elaboração do parecer, o comité:\n\na) Deve verificar que as informações e os documentos apresentados em conformidade com o artigo 6o correspondem aos requisitos das Directivas 65/65/CEE, 75/318/CEE e 75/319/CEE e determinar se estão preenchidas as condições especificadas no presente regulamento para a emissão da autorização de introdução no mercado;\n\nb) Pode solicitar que um laboratório oficial ou um laboratório designado para o efeito ensaie o medicamento, as suas matérias-primas, e, se necessário, os seus produtos intermédios ou outros constituintes, por forma a certificar-se de que os métodos de controlo utilizados pelo fabricante e descritos no pedido são satisfatórios;\n\nc) Pode, se necessário, exigir que o requerente complete num determinado prazo as informações que acompanham o requerimento. Quando o comité faz uso desta prerrogativa, fica suspenso o prazo fixado no artigo 6o até ao momento em que seja fornecida a informação suplementar exigida. Este prazo fica igualmente suspenso durante o tempo necessário ao requerente para preparar esclarecimentos orais ou escritos."
+  },
+  "b30623b17cfb09e7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. A pedido escrito do comité, os Estados-membros devem fornecer as informações que comprovem que o fabricante de um medicamento, ou o importador de um medicamento de um país terceiro, está habilitado a fabricar o medicamento em questão e/ou a executar os ensaios de controlo necessários, em conformidade com a informação e os documentos apresentados nos termos do artigo 6o\n\n2. Quando tal se afigure necessário para completar a análise do pedido, o comité pode exigir do requerente a inspecção especial do local de fabrico do medicamento em questão. A inspecção deve ser efectuada no prazo referido no artigo 6o, por inspectores devidamente qualificados dos Estados-membros que, se necessário, poderão ser acompanhados por um relator ou por um perito designados pelo comité."
+  },
+  "92515b307c1b5553": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Quando o comité for do parecer que:\n\n- o pedido não satisfaz os critérios de autorização estabelecidos no presente regulamento, ou\n\n- deve ser alterado o resumo das características do produto proposto pelo requerente em conformidade com o artigo 6o, ou\n\n- o rótulo ou o folheto informativo do produto não satisfazem o disposto na Directiva 92/27/CEE do Conselho, relativa à rotulagem e à bula dos medicamentos para uso humano (12), ou\n\n- a autorização deve ser concedida sob reserva do disposto no no 2 do artigo 13o,\n\na agência deve informar imediatamente o requerente desse facto. No prazo de 15 dias a contar da recepção do parecer, o requerente pode comunicar à agência por escrito a sua intenção de interpor recurso. Neste caso, deverá apresentar à agência a fundamentação pormenorizada do recurso no prazo de 60 dias a contar da data de recepção do parecer. No prazo de 60 dias a contar da recepção da fundamentação do recurso, o comité determinará se o seu parecer deve ou não ser revisto, sendo as conclusões adoptadas sobre o recurso apensas ao relatório de avaliação referido no no 2.\n\n2. No prazo de 30 dias após a sua adopção, a agência enviará à Comissão, aos Estados-membros e ao requerente o parecer definitivo do comité, acompanhado de um relatório descrevendo a avaliação do medicamento e fundamentando as suas conclusões.\n\n3. Se o parecer for favorável à concessão da autorização de introdução no mercado, serão anexados ao parecer os seguintes documentos:\n\na) Um projecto de resumo das características do produto, nos termos do artigo 4oA da Directiva 65/65/CEE;\n\nb) A exposição pormenorizada de todas as condições ou restrições a impor ao fornecimento do medicamento em questão, incluindo as condições em que o medicamento pode ser fornecido a doentes, tendo em conta os critérios estabelecidos na Directiva 92/26/CEE do Conselho, de 31 de Março de 1992, relativa à classificação dos medicamentos para uso humano (13), sem prejuízo do disposto no no 4 do artigo 3o da referida directiva;\n\nc) O projecto de rotulagem e de folheto informativo proposto pelo requerente, apresentado em conformidade com a Directiva 92/27/CEE, sem prejuízo do no 2 do seu artigo 7o;\n\nd) O relatório de avaliação."
+  },
+  "c6b344ca8f55c05b": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. No prazo de 30 dias após a recepção do parecer, a Comissão deve elaborar um projecto de decisão a tomar quanto ao pedido, tendo em conta o direito comunitário.\n\nNo caso de um projecto de decisão que preveja a concessão de uma autorização de introdução no mercado, devem ser anexados os documentos referidos no no 3, alíneas a) a c), do artigo 9o\n\nNo caso excepcional em que o projecto de decisão não corresponde ao parecer da agência, a Comissão deve fundamentar pormenorizadamente num anexo os motivos de quaisquer divergências.\n\nA Comissão enviará o projecto de decisão aos Estados-membros e ao requerente.\n\n2. A decisão final sobre o pedido será adoptada em conformidade com o procedimento previsto no artigo 73o\n\n3. O regulamento interno do comité a que se refere o artigo 73o será adaptado por forma a ter em conta as atribuições que lhe incumbem nos termos do presente regulamento.\n\nEssas adaptações consistem no seguinte:\n\n- excepto nos casos previstos no terceiro parágrafo do no1, o parecer do comité permanente será dado por escrito,\n\n- os Estados-membros disporão de pelo menos 28 dias para enviar à Comissão observações por escrito sobre o projecto de decisão,\n\n- os Estados-membros poderão solicitar por escrito que o projecto de decisão seja debatido no comité permanente, fundamentando pormenorizadamente a sua pretensão.\n\nSe a Comissão considerar que as observações escritas apresentadas por um Estado-membro levantam novas questões importantes de carácter científico ou técnico que não tenham sido abordadas no parecer da agência, o presidente interromperá o processo, remetendo de novo o pedido para a agência, para uma análise mais aprofundada.\n\nA Comissão tomará as disposições necessárias à execução do presente número em conformidade com o procedimento previsto no artigo 72o\n\n4. A agência informará da decisão final todos os interessados que o solicitem."
+  },
+  "f7c24f80d4b6d4e4": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nSem prejuízo da aplicação de outras disposições do direito comunitário, a autorização prevista no artigo 3o deve ser recusada se, após verificação da informação e dos documentos apresentados em conformidade com o artigo 6o, se constatar que a eficácia, a qualidade ou a segurança do medicamento não foram comprovadas pelo requerente de forma adequada ou suficiente.\n\nA autorização deve igualmente ser recusada se a informação e os documentos fornecidos pelo requerente em conformidade com o artigo 6o forem incorrectos ou se o rótulo ou os folhetos informativos propostos pelo requerente não forem conformes com a Directiva 92/27/CEE."
+  },
+  "f6f9428e3f825b25": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Sem prejuízo do disposto no artigo 6o da Directiva 65/65/CEE, a autorização de introdução no mercado concedida em conformidade com o procedimento previsto no presente regulamento é válida em toda a Comunidade. A autorização confere a cada Estado-membro os mesmos direitos e obrigações que uma autorização de introdução no mercado concedida por esse Estado-membro em conformidade com o artigo 3o da Directiva 65/65/CEE.\n\nOs medicamentos autorizados serão inscritos no Registo Comunitário dos Medicamentos, sendo-lhes atribuído um número que deve figurar na embalagem.\n\n2. A recusa de uma autorização comunitária de introdução no mercado constitui proibição em toda a Comunidade da introdução no mercado do medicamento em questão.\n\n3. As autorizações de introdução no mercado serão publicadas no Jornal Oficial das Comunidades Europeias com indicação, nomeadamente, da data de concessão e do respectivo número do registo comunitário.\n\n4. A pedido de qualquer interessado, a agência facultará o relatório de avaliação do medicamento elaborado pelo Comité das especialidades farmacêuticas, bem como a fundamentação do seu parecer favorável à concessão da autorização, omitindo quaisquer informações abrangidas pelo sigilo comercial."
+  },
+  "e7697338bf5bd202": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. A autorização é válida por cinco anos, podendo ser renovada por iguais períodos, mediante requerimento do seu titular apresentado pelo menos três meses antes do termo da autorização, após análise pela agência de um processo com os dados relativos à farmacovigilância.\n\n2. Em circunstâncias excepcionais, e após consulta do requerente, uma autorização pode ser submetida a determinadas obrigações específicas, reavaliadas anualmente pela agência.\n\nEstas decisões excepcionais apenas poderão ser tomadas por motivos objectivos e comprováveis, devendo basear-se num dos motivos enumerados na parte IV G do anexo à Directiva 75/318/CEE.\n\n3. Alguns produtos poderão ser autorizados para serem utilizados apenas em meio hospitalar ou para serem receitados por determinados especialistas.\n\n4. Os medicamentos que tenham sido autorizados pela Comunidade em conformidade com o disposto no presente regulamento beneficiarão do período de protecção de dez anos referido no no 2, ponto 8, do artigo 4o da Directiva 65/65/CEE."
+  },
+  "d49a0cf2cd09a24a": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nA concessão da autorização não afecta a responsabilidade civil e penal, nos Estados-membros, do fabricante e, eventualmente, do responsável pela introdução do medicamento no mercado."
+  },
+  "c7cd5d34b9ae2a22": {
+   "fragment_id": "CAPÍTULO 2 — Fiscalização e sanções",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Fiscalização e sanções"
+  },
+  "4279a283f9191b45": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Após a concessão de uma autorização emitida em conformidade com o presente regulamento, e no que respeita aos métodos de fabrico e controlo previstos nos pontos 4 e 7 do no 2 do artigo 4o da Directiva 65/65/CEE, o responsável pela introdução do medicamento no mercado deve atender aos progressos técnicos e científicos e introduzir todas as alterações necessárias para que o medicamento seja fabricado e controlado segundo métodos científicos geralmente aceites. O responsável pela introdução no mercado deve solicitar uma autorização para estas alterações em conformidade com o presente regulamento.\n\n2. O responsável pela introdução no mercado deve comunicar de imediato à agência, à Comissão e aos Estados-membros quaisquer novas informações que possam implicar a alteração das informações e documentos referidos nos artigos 6o e 9o ou do resumo aprovado das características do produto. O responsável pela introdução no mercado deve, nomeadamente, comunicar de imediato à agência, à Comissão e aos Estados-membros quaisquer proibições ou restrições impostas pelas autoridades competentes de qualquer país em que o medicamento for comercializado e quaisquer outras novas informações que possam influenciar a avaliação das vantagens e riscos do medicamento em questão.\n\n3. Se pretender introduzir quaisquer alterações às informações ou documentos referidos nos artigos 6o e 9o, o responsável pela introdução no mercado deve apresentar à agência um pedido nesse sentido.\n\n4. A Comissão, em consulta com a agência, adoptará medidas adequadas para a análise das modificações aos termos da autorização de introdução no mercado.\n\nAs referidas medidas devem prever igualmente um sistema de notificação ou procedimentos administrativos para as modificações menores e definir com precisão a noção de «modificação menor».\n\nEstas disposições serão adoptadas pela Comissão sob a forma de um regulamento de execução segundo o procedimento previsto no artigo 72o"
+  },
+  "6b960528bd4156c6": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nNo caso de medicamentos fabricados na Comunidade, as autoridades de fiscalização serão as autoridades competentes do(s) Estados(s)-membro(s) que tenham concedido a autorização de fabrico prevista no artigo 16o da Directiva 75/319/CEE para o medicamento em questão.\n\nNo caso de medicamentos importados de países terceiros, as autoridades de fiscalização serão as autoridades competentes dos Estados-membros em que se efectuam os controlos previstos no no 1, alínea b), do artigo 22o da Directiva 75/319/CEE, a menos que tenham sido acordadas medidas adequadas entre a Comunidade e o país exportador para assegurar que esses controlos se efectuam no país exportador e que o fabricante aplica normas de bom fabrico, no mínimo equivalentes às estabelecidas pela Comunidade.\n\nUm Estado-membro pode solicitar a assistência de outro Estado-membro ou da agência."
+  },
+  "2c96fae4450b9df2": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Incumbe às autoridades de fiscalização verificar, em nome da Comunidade, que o titular da autorização de introdução no mercado ou o fabricante, ou o importador de países terceiros cumprem o estatuído no capítulo IV da Directiva 75/319/CEE, bem como fiscalizar estas pessoas em conformidade com o capítulo V da Directiva 75/319/CEE.\n\n2. Quando, em conformidade com o no 2 do artigo 30o da Directiva 75/319/CEE, a Comissão é informada de divergências graves entre os Estados-membros sobre se um titular de uma autorização de introdução no mercado, um fabricante, ou um importador estabelecido na Comunidade estão a cumprir ou não as exigências referidas no no 1, a Comissão pode, após consulta aos Estados-membros em questão, solicitar que um inspector da autoridade de fiscalização proceda a uma nova inspecção do titular da autorização, do fabricante ou do importador; esse inspector poderá ser acompanhado por um inspector de um Estado-membro que não seja parte no litígio e/ou por um relator ou perito designados pelo comité.\n\n3. Sem prejuízo de quaisquer acordos que tenham sido concluídos entre a Comunidade e países terceiros nos termos do segundo parágrafo do artigo 16o, a Comissão, após ter recebido um pedido fundamentado de um Estado-membro, do Comité das especialidades farmacêuticas, ou por sua própria iniciativa, pode pedir a inspecção de um fabricante estabelecido num país terceiro. A inspecção será realizada por inspectores qualificados dos Estados-membros, que podem ser acompanhados, se necessário, por um relator ou perito designados pelo comité. O relatório dos inspectores deve ser colocado à disposição da Comissão, dos Estados-membros e do Comité das especialidades farmacêuticas."
+  },
+  "8a1eb5bc64683107": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\n1. Quando as autoridades de fiscalização ou as autoridades competentes de qualquer outro Estado-membro forem de parecer que o fabricante ou o importador de países terceiros deixaram de cumprir as obrigações fixadas no capítulo IV da Directiva 75/319/CEE, devem imediatamente informar o comité e a Comissão, apresentando fundamentação pormenorizada e indicando as medidas que propõem.\n\nO mesmo se aplica quando um Estado-membro ou a Comissão consideram que deve ser aplicada ao medicamento em questão uma das medidas previstas nos capítulos V ou V A da Directiva 75/319/CEE ou quando o Comité das especialidades farmacêuticas emite um parecer nesse sentido em conformidade com o artigo 20o\n\n2. A Comissão, em consulta com a agência, analisará de imediato os motivos apresentados pelo Estado-membro em causa. A Comissão pode solicitar o parecer do comité num prazo por ela a determinar em função da urgência da questão. Sempre que possível, o responsável pela introdução no mercado deve ser convidado a apresentar explicações orais ou escritas.\n\n3. A Comissão elaborará um projecto da decisão a tomar, que será adoptada em conformidade com o artigo 10o\n\nContudo, se um Estado-membro tiver invocado o disposto no no 4, o prazo previsto no artigo 73o será reduzido para 15 dias do ano civil.\n\n4. Sempre que seja indispensável tomar medidas urgentes para a protecção da saúde humana ou animal, ou do ambiente, um Estado-membro pode suspender, no seu território, a utilização de um medicamento autorizado em conformidade com o presente regulamento. O mais tardar no dia útil seguinte, deve informar a Comissão e os outros Estados-membros sobre os motivos que presidem a essa medida. A Comissão analisará de imediato os motivos invocados pelo Estado-membro, em conformidade com o no 2, e dará inicio ao procedimento previsto no no 3.\n\n5. Um Estado-membro que tenha adoptado as medidas suspensivas referidas no no 4 pode mantê-las em vigor até que tenha sido tomada um decisão definitiva, em conformidade com o procedimento previsto no no 3.\n\n6. A agência informará da decisão final todos os interessados que o solicitem."
+  },
+  "617d39eddd365a39": {
+   "fragment_id": "CAPÍTULO 3 — Farmacovigilância",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Farmacovigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Farmacovigilância"
+  },
+  "bf90d8ff46e40d09": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nPara efeitos do disposto no presente capítulo, são aplicáveis as definições constantes do artigo 29oB da Directiva 75/319/CEE."
+  },
+  "f1e8a2a361b536ca": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nA agência, em cooperação estreita com os sistemas nacionais de farmacovigilância, criados em conformidade com o artigo 29oA da Directiva 75/319/CEE, recebe toda a informação pertinente relativa a suspeitas de reacções adversas aos medicamentos autorizados na Comunidade nos termos do presente regulamento. Se necessário, o comité poderá formular, nos termos do artigo 5o, pareceres sobre as medidas necessárias para assegurar uma utilização racional de tais medicamentos. Essas medidas serão adoptadas em conformidade com o procedimento fixado no artigo 18o\n\nO responsável pela introdução no mercado e as autoridades competentes dos Estados-membros devem assegurar que sejam comunicadas à agência, em conformidade com o disposto no presente regulamento, todas as informações pertinentes relativas a suspeitas de reacções adversas aos medicamentos autorizados nos termos do presente regulamento."
+  },
+  "c6c21c4f3f12e16e": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nO responsável pela introdução no mercado de um medicamento autorizado pela Comunidade em conformidade com o disposto no presente regulamento deve ter permanente e continuamente à sua disposição uma pessoa com as qualificações apropriadas em matéria de farmacovigilância.\n\nA esta pessoa incumbirá:\n\na) Criar e gerir um sistema que garanta que a informação relativa a todas as suspeitas de reacções adversas, comunicadas ao pessoal e aos delegados de informação médica da empresa, seja recolhida, avaliada e coligida por forma a estar acessível num único local para toda a Comunidade;\n\nb) Preparar os relatórios referidos no artigo 22o e submetê-los às autoridades competentes dos Estados-membros e à agência em conformidade com o disposto no presente regulamento;\n\nc) Assegurar resposta pronta e integral a qualquer pedido das autoridades competentes para obter informações adicionais necessárias à avaliação das vantagens e dos riscos de um medicamento, incluindo informações relativas ao volume de vendas ou de prescrição do medicamento em questão."
+  },
+  "589f7b5de78cae33": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\n1. O responsável pela introdução no mercado de um medicamento autorizado em conformidade com o disposto no presente regulamento deve assegurar que todas as suspeitas de reacções adversas graves ocorridas no interior da Comunidade, para as quais tenha sido alertado por um profissional de saúde, sejam registadas e comunicadas de imediato aos Estados-membros em cujo território o incidente se verificou ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nO responsável pela introdução no mercado deve assegurar que todas as suspeitas de reacções adversas graves inesperadas ocorridas num país terceiro sejam de imediato comunicadas aos Estados-membros e à agência ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nO procedimento da comunicação de suspeitas de reacções adversas inesperadas não graves, ocorridas na Comunidade ou num país terceiro, será adoptado em conformidade com o artigo 26o\n\n2. Além disso, o responsável pela introdução no mercado deverá manter registos pormenorizados de todas as suspeitas de reacções adversas que se verifiquem na Comunidade ou fora dela e que lhe sejam comunicadas por um profissional de saúde. A menos que tenham sido fixadas outras condições para a concessão da autorização de introdução no mercado pela Comunidade, estes registos devem ser comunicados à agência ou aos Estados-membros de imediato, mediante pedido, ou pelo menos semestralmente, nos primeiros dois anos após a autorização, e anualmente, nos três anos seguintes. Em seguida, os registos deverão ser submetidos de cinco em cinco anos, juntamente com o pedido de renovação da autorização, ou de imediato, mediante solicitação. Estes registos deverão ser acompanhados por uma avaliação científica."
+  },
+  "bb31f0d10149a80a": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nCada Estado-membro assegurará que todos os casos de suspeita de reacções adversas graves a um medicamento autorizado em conformidade com o disposto no presente regulamento, que se verifiquem no seu território e lhe sejam comunicados, são registados e transmitidos imediatamente à agência e ao responsável pela introdução no mercado ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nA agência transmitirá a informação aos sistemas nacionais de farmacovigilância."
+  },
+  "f12c26de6cf5ecb3": {
+   "fragment_id": "Artigo 24o",
+   "type": "artigo",
+   "heading": "Artigo 24o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24o\n\nA Comissão, em consulta com a agência, os Estados-membros e as partes interessadas, deve elaborar instruções para recolha, verificação e apresentação dos relatórios de reacções adversas.\n\nA agência, em consulta com os Estados-membros e a Comissão, criará uma rede informática para a rápida transmissão de dados entre as autoridades competentes da Comunidade em caso de alerta relacionado com fabrico defeituoso, reacções adversas graves e outros dados de farmacovigilância sobre medicamentos comercializados na Comunidade."
+  },
+  "fb296c6c1b7610ed": {
+   "fragment_id": "Artigo 25o",
+   "type": "artigo",
+   "heading": "Artigo 25o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25o\n\nA agência colaborará com a Organização Mundial de Saúde em matéria de farmacovigilância internacional e tomará as medidas necessárias para comunicar prontamente à Organização Mundial de Saúde todas as informações apropriadas sobre as medidas tomadas na Comunidade que possam ser relevantes para a protecção da saúde pública nos países terceiros e enviará cópia das mesmas à Comissão e aos Estados-membros."
+  },
+  "807da636faf89a92": {
+   "fragment_id": "Artigo 26o",
+   "type": "artigo",
+   "heading": "Artigo 26o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26o\n\nQualquer alteração que seja necessário introduzir para actualizar as disposições do presente capítulo, por forma a ter em conta os avanços científicos e técnicos, será adoptada em conformidade com o disposto no artigo 72o"
+  },
+  "83375779dd09eb41": {
+   "fragment_id": "TÍTULO III — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS VETERINÁRIOS",
+   "type": "divisao",
+   "heading": "TÍTULO III — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS VETERINÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — AUTORIZAÇÃO E FISCALIZAÇÃO DE MEDICAMENTOS VETERINÁRIOS"
+  },
+  "0bb86781245b92f6": {
+   "fragment_id": "Artigo 27o",
+   "type": "artigo",
+   "heading": "Artigo 27o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27o\n\nO Comité dos medicamentos veterinários, instituído pelo artigo 16o da Directiva 81/851/CEE, no presente título designado por «Comité», será responsável pela formulação do parecer da agência relativo a quaisquer questões referentes à aceitabilidade dos dossiers apresentados de acordo com o procedimento centralizado, à autorização, às modificações, à suspensão ou revogação da autorização de introdução no mercado de medicamentos veterinários, em conformidade com o disposto no presente título e com a farmacovigilância."
+  },
+  "cb26f19732707a72": {
+   "fragment_id": "Artigo 28o",
+   "type": "artigo",
+   "heading": "Artigo 28o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28o\n\n1. Os pedidos de autorização de introdução no mercado de medicamentos veterinários devem ser acompanhados da informação e dos documentos referidos nos artigos 5o, 5oA e 7o da Directiva 81/851/CEE.\n\n2. Quando se trate de medicamentos veterinários que contenham ou sejam compostos por organismos geneticamente modificados na acepção dos nos 1 e 2 do artigo 2o da Directiva 90/220/CEE, o pedido deve ser acompanhado por:\n\n- uma cópia da(s) autorização(ões) escrita(s) da autoridade competente para a libertação deliberada no ambiente de organismos geneticamente modificados, para fins de investigação ou de desenvolvimento, como previsto na parte B da Directiva 90/220/CEE,\n\n- uma documentação técnica completa com as informações requeridas nos anexos II e III da Directiva 90/220/CEE e uma avaliação do risco ambiental assente nesta informação; os resultados de quaisquer pesquisas realizadas para efeitos de investigação ou desenvolvimento.\n\nOs artigos 11o a 18o da Directiva 90/220/CEE não são aplicáveis aos medicamentos veterinários que contenham ou sejam compostos por organismos geneticamente modificados.\n\n3. O pedido deve vir igualmente acompanhado da taxa a pagar à agência pela análise do mesmo.\n\n4. A agência deve assegurar que o parecer do comité seja emitido no prazo de 210 dias após a recepção de um pedido válido.\n\nNo que respeita aos medicamentos veterinários que contêm ou são compostos por organismos geneticamente modificados, o parecer do comité deve atender aos requisitos de segurança ambiental estabelecidos na Directiva 90/220/CEE, de forma a garantir que serão tomadas todas as medidas necessárias para evitar efeitos indesejáveis para a saúde humana e animal e para o ambiente que possam advir da libertação deliberada no ambiente ou da comercialização de organismos geneticamente modificados. No decorrer da avaliação dos pedidos de autorização de introdução no mercado relativos a produtos que contenham ou sejam compostos por organismos geneticamente modificados, o relator procederá a consultas adequadas com as instâncias criadas pela Comunidade ou os Estados-membros em conformidade com a Directiva 90/220/CEE.\n\n5. Em consulta com a agência, os Estados-membros e as partes interessadas, a Comissão deve elaborar instruções pormenorizadas sobre o modo como devem ser apresentados os pedidos de autorização."
+  },
+  "d902f3f5a30e547c": {
+   "fragment_id": "Artigo 29o",
+   "type": "artigo",
+   "heading": "Artigo 29o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29o\n\nPara efeitos de elaboração do parecer, o comité:\n\na) Deve verificar que as informações e os documentos apresentados em conformidade com o artigo 28o correspondem aos requisitos das Directivas 81/851/CEE e 81/852/CEE e determinar se estão preenchidas as condições especificadas no presente regulamento para a emissão da autorização de introdução no mercado;\n\nb) Pode solicitar que um laboratório oficial ou um laboratório designado para o efeito ensaie o medicamento, as suas matérias-primas, e, se necessário, os seus produtos intermédios ou outros constituintes, por forma a certificar-se de que os métodos de controlo utilizados pelo fabricante e descritos no requerimento são satisfatórios;\n\nc) Pode solicitar que um laboratório oficial ou designado para este efeito verifique, utilizando amostras fornecidas pelo requerente, que o método de controlo analítico proposto pelo requerente em conformidade com o ponto 8 do segundo parágrafo do artigo 5o da Directiva 81/851/CEE é adequado para ensaios de rotina destinados a detectar a presença do medicamento veterinário em questão a níveis superiores ao limite máximo de resíduos aceite pela Comunidade, em conformidade com o disposto no Regulamento (CEE) no 2377/90 do Conselho, de 26 de Junho de 1990, que prevê um processo comunitário para o estabelecimento de limites máximos de resíduos de medicamentos veterinários nos alimentos de origem animal (14);\n\nd) Pode, se necessário, exigir que o requerente complete num determinado prazo as informações que acompanham o pedido. Quando o comité faz uso desta prerrogativa, fica suspenso o prazo fixado no artigo 28o até ao momento em que seja fornecida a informação suplementar exigida. Este prazo fica igualmente suspenso durante o tempo necessário ao requerente para preparar esclarecimentos orais ou escritos."
+  },
+  "ad9335cefda3b109": {
+   "fragment_id": "Artigo 30o",
+   "type": "artigo",
+   "heading": "Artigo 30o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30o\n\n1. A pedido escrito do comité, os Estados-membros devem fornecer as informações que comprovem que o fabricante de um medicamento, ou o importador de um medicamento de um país terceiro, está habilitado a fabricar o medicamento em questão e/ou a executar os ensaios de controlo necessários, em conformidade com a informação e os documentos apresentados nos termos do artigo 28o\n\n2. Quando tal se afigura necessário para completar a análise do pedido, o comité pode exigir do requerente a inspecção especial do local de fabrico do medicamento em questão. A inspecção deve ser efectuada no prazo referido no artigo 28o por inspectores devidamente qualificados dos Estados-membros que, se necessário, poderão ser acompanhados por um relator ou por um perito designados pelo comité."
+  },
+  "c0f44adfa3f2e90e": {
+   "fragment_id": "Artigo 31o",
+   "type": "artigo",
+   "heading": "Artigo 31o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31o\n\n1. Quando o comité for do parecer que:\n\n- o pedido não satisfaz os critérios de autorização estabelecidos no presente regulamento, ou\n\n- deve ser alterado o resumo das características do produto proposto pelo requerente em conformidade com o artigo 28o, ou\n\n- o rótulo ou o folheto informativo do produto não satisfazem o disposto na Directiva 81/851/CEE, ou\n\n- a autorização deve ser concedida sob reserva do disposto no no 2 do artigo 35o,\n\na agência informa imediatamente o requerente desse facto. No prazo de 15 dias a contar da recepção do parecer, o requerente pode comunicar à agência por escrito a sua intenção de interpor recurso. Nesse caso, fornecerá à agência a fundamentação pormenorizada do recurso no prazo de 60 dias a contar da recepção do parecer. No prazo de 60 dias após a recepção da fundamentação do recurso, o comité determinará se o seu parecer deve ou não ser revisto, sendo as conclusões adoptadas sobre o recurso apensas ao relatório de avaliação referido no no 2.\n\n2. No prazo de 30 dias após a sua adopção, a agência enviará à Comissão, aos Estados-membros e ao requerente o parecer definitivo do comité, acompanhado de um relatório descrevendo a avaliação do medicamento veterinário e fundamentando as suas conclusões.\n\n3. Se o parecer for favorável à concessão da autorização de introdução no mercado, serão anexados ao parecer os seguintes documentos:\n\na) O projecto de resumo das características do produto, nos termos do artigo 5oA da Directiva 81/851/CEE o qual deverá, sempre que necessário, referir as especificidades do sector veterinário existentes nos diferentes Estados-membros;\n\nb) No caso dos medicamentos veterinários para administração a animais destinados ao consumo humano, a indicação do limite máximo de resíduos permitido na Comunidade em conformidade com o disposto no Regulamento (CEE) no 2377/90;\n\nc) A exposição pormenorizada de todas as condições ou restrições a impor ao fornecimento do medicamento em questão, incluindo as condições em que o medicamento pode ser fornecido aos seus utilizadores, de acordo com o disposto na Directiva 81/851/CEE;\n\nd) O projecto de texto do rótulo e do folheto informativo proposto pelo requerente, com a apresentação exigida no capítulo VII da Directiva 81/851/CEE;\n\ne) O relatório de avaliação."
+  },
+  "1302770038d5a1b2": {
+   "fragment_id": "Artigo 32o",
+   "type": "artigo",
+   "heading": "Artigo 32o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32o\n\n1. No prazo de 30 dias após a recepção do parecer, a Comissão deve elaborar um projecto da decisão a tomar quanto ao pedido, tendo em conta o direito comunitário.\n\nNo caso de um projecto de decisão que preveja a concessão de uma autorização de introdução no mercado, devem ser anexados os documentos referidos no no 3, alíneas a), b), c) e d) do artigo 31o\n\nNo caso excepcional em que o projecto de decisão não corresponde ao parecer da agência, a Comissão deve fundamentar pormenorizadamente num anexo os motivos de quaisquer divergências.\n\nA Comissão enviará o projecto de decisão aos Estados-membros e ao requerente.\n\n2. A decisão final sobre o pedido será adaptada em conformidade com o procedimento previsto no artigo 73o\n\n3. O regulamento interno do comité a que se refere o artigo 73o será adaptado por forma a ter em conta as atribuições que lhe incumbem nos termos do presente regulamento.\n\nEssas adaptações consistem no seguinte:\n\n- excepto nos casos previstos no terceiro parágrafo do no 1, o parecer do comité permanente será dado por escrito,\n\n- os Estados-membros disporão de pelo menos 28 dias para enviar à Comissão observações por escrito sobre o projecto de decisão,\n\n- os Estados-membros poderão solicitar por escrito que o projecto de decisão seja debatido no comité permanente, fundamentando pormenorizadamente a sua pretensão.\n\nSe a Comissão considerar que as observações escritas apresentadas por um Estado-membro levantam novas questões importantes de carácter científico ou técnico que não tenham sido abordadas no parecer da agência, o presidente interromperá o processo, remetendo de novo o pedido para a agência, para uma análise mais aprofundada.\n\nA Comissão tomará as disposições necessárias à execução do presente número em conformidade com o procedimento previsto no artigo 72o\n\n4. A agência informará da decisão final todos os interessados que o solicitem."
+  },
+  "e75013017581098b": {
+   "fragment_id": "Artigo 33o",
+   "type": "artigo",
+   "heading": "Artigo 33o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33o\n\nSem prejuízo da aplicação de outras disposições do direito comunitário, a autorização prevista no artigo 3o deve ser recusada se, após verificação da informação e dos documentos apresentados em conformidade com o artigo 28o, se constatar que:\n\n1. O medicamento veterinário é perigoso nas condições de utilização referidas no pedido de autorização, ou não é eficaz; o requerente não apresentou suficientes dados comprovativos da sua eficácia no que respeita à espécie animal a tratar, ou a composição qualitativa e quantitativa do medicamento não é a que foi enunciada;\n\n2. O intervalo de segurança recomendado pelo requerente não é suficientemente longo para garantir que os alimentos obtidos a partir dos animais tratados não contenham resíduos que possam constituir um risco para a saúde do consumidor, ou é insuficientemente fundamentado;\n\n3. O medicamento veterinário é comercializado com vista a uma utilização proibida nos termos de outras disposições comunitárias.\n\nA autorização deve ser igualmente recusada se a informação e os documentos fornecidos pelo requerente em conformidade com o artigo 28o do presente regulamento forem incorrectos ou se o rótulo ou os folhetos informativos propostos pelo requerente não forem conformes com o capítulo VII da Directiva 81/851/CEE."
+  },
+  "ac46425b3cf340cc": {
+   "fragment_id": "Artigo 34o",
+   "type": "artigo",
+   "heading": "Artigo 34o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34o\n\n1. Sem prejuízo do disposto no artigo 4o da Directiva 90/677/CEE do Conselho, de 13 de Dezembro de 1990, que alarga o âmbito da Directiva 81/851/CEE, relativa à aproximação das legislações dos Estados-membros respeitantes aos medicamentos veterinários, e estabelece disposições adicionais no que respeita aos medicamentos veterinários imunológicos (15), qualquer autorização de introdução no mercado concedida em conformidade com o procedimento previsto no presente regulamento é válida em toda a Comunidade. Deve conferir em cada Estado-membro os mesmos direitos e obrigações produzidos por uma autorização de introdução no mercado concedida pelo próprio Estado-membro, em conformidade com o artigo 4o da Directiva 81/851/CEE.\n\nOs medicamentos autorizados serão inscritos no Registo Comunitário dos Medicamentos, sendo-lhes atribuído um número que deve figurar na embalagem.\n\n2. A recusa de uma autorização comunitária de introdução no mercado constitui proibição em toda a Comunidade da introdução no mercado do medicamento veterinário em questão.\n\n3. As autorizações de introdução no mercado serão publicadas no Jornal Oficial das Comunidades Europeias com indicação, nomeadamente, da data de concessão e do respectivo número de registo comunitário.\n\n4. A pedido de qualquer interessado, a agência facultará o relatório de avaliação do medicamento veterinário elaborado pelo Comité de medicamentos veterinários, bem como a fundamentação do seu parecer favorável à concessão da autorização, omitindo quaisquer informações abrangidas pelo sigilo comercial."
+  },
+  "82cf32298bee8e5a": {
+   "fragment_id": "Artigo 35o",
+   "type": "artigo",
+   "heading": "Artigo 35o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35o\n\n1. A autorização é válida por cinco anos, podendo ser renovada por iguais períodos, mediante requerimento do seu titular apresentado pelo menos três meses antes do termo da autorização, após análise pela agência de um processo com os dados relativos à farmacovigilância.\n\n2. Em circunstâncias excepcionais, e após consulta do requerente, a concessão de uma autorização pode ser submetida a determinadas obrigações específicas, reavaliadas anualmente pela agência.\n\nEstas decisões excepcionais apenas poderão ser tomadas por motivos objectivos e comprováveis.\n\n3. Os medicamentos veterinários que tenham sido autorizados pela Comunidade em conformidade com o disposto no presente regulamento beneficiarão do período de protecção de dez anos referido no ponto 10 do segundo parágrafo do artigo 5o da Directiva 81/851/CEE."
+  },
+  "a9d89009fb29049b": {
+   "fragment_id": "Artigo 36o",
+   "type": "artigo",
+   "heading": "Artigo 36o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36o\n\nA concessão da autorização não afecta a responsabilidade civil e penal, nos Estados-membros, do fabricante e, eventualmente, do responsável pela introdução do medicamento no mercado."
+  },
+  "43a8299a36d6c8f1": {
+   "fragment_id": "Artigo 37o",
+   "type": "artigo",
+   "heading": "Artigo 37o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37o\n\n1. Após a concessão de uma autorização emitida em conformidade com o presente regulamento, e no que respeita aos métodos de produção e controlo previstos nos pontos 4 e 9 do segundo parágrafo do artigo 5o da Directiva 81/851/CEE, o responsável pela introdução no mercado do medicamento deve atender aos progressos técnicos e científicos e introduzir todas as alterações necessárias para que o medicamento seja fabricado e controlado segundo métodos científicos geralmente aceites. O responsável pela introdução no mercado deve solicitar uma autorização para estas alterações em conformidade com o presente regulamento.\n\nA pedido da Comissão, o responsável pela introdução no mercado do medicamento veterinário deve também proceder à revisão dos métodos de controlo analítico previstos no ponto 8 do segundo parágrafo do artigo 5o da Directiva 81/851/CEE e propor as alterações necessárias para atender ao progresso técnico e científico.\n\n2. O responsável pela introdução no mercado deve comunicar de imediato à agência, à Comissão e aos Estados-membros quaisquer novas informações que possam implicar a alteração das informações e documentos referidos nos artigos 28o e 31o ou do resumo aprovado das características do produto. O responsável pela introdução no mercado deve, nomeadamente, comunicar de imediato à agência, à Comissão e aos Estados-membros quaisquer proibições ou restrições impostas pelas autoridades competentes de qualquer país em que o medicamento for comercializado e quaisquer outras novas informações que possam influenciar a avaliação das vantagens e riscos do medicamento em questão.\n\n3. Se pretender introduzir quaisquer alterações às informações ou documentos referidos nos artigos 28o e 31o, o responsável pela introdução no mercado deve apresentar à agência um pedido nesse sentido.\n\n4. A Comissão, em consulta com a agência, adoptará medidas adequadas para a análise das alterações aos termos da autorização de introdução no mercado.\n\nAs referidas medidas devem prever um sistema de notificação ou procedimentos administrativos para as modificações menores e definir com precisão a noção de «modificação menor».\n\nEstas disposições serão adoptadas pela Comissão sob a forma de um regulamento de execução, segundo o procedimento previsto no artigo 72o"
+  },
+  "591da3723dc0b983": {
+   "fragment_id": "Artigo 38o",
+   "type": "artigo",
+   "heading": "Artigo 38o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38o\n\nNo caso de medicamentos fabricados na Comunidade, as autoridades de fiscalização serão as autoridades competentes do(s) Estado(s)-membro(s) que tenha(m) concedido a autorização de fabrico prevista no artigo 24o da Directiva 81/851/CEE para o medicamento em questão.\n\nNo caso de medicamentos importados de países terceiros, as autoridades de fiscalização serão as autoridades competentes dos Estados-membros em que se efectuem os controlos previstos no no 1, alínea b), do artigo 30o da Directiva 81/851/CEE, a menos que tenham sido acordadas medidas adequadas entre a Comunidade e o país exportador para assegurar que esses controlos se efectuam no país exportador e que o fabricante aplica normas de boa prática de fabrico, no mínimo equivalentes às estabelecidas pela Comunidade.\n\nUm Estado-membro pode solicitar a assistência de outro Estado-membro ou da agência."
+  },
+  "c585d42da153dda9": {
+   "fragment_id": "Artigo 39o",
+   "type": "artigo",
+   "heading": "Artigo 39o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39o\n\n1. Incumbe às autoridades de fiscalização verificar, em nome da Comunidade, que o titular da autorização de introdução no mercado, o fabricante ou o importador de países terceiros cumprem o estatuído no capítulo V da Directiva 81/851/CEE, bem como fiscalizar estas pessoas em conformidade com o capítulo VI da Directiva 81/851/CEE.\n\n2. Quando, em conformidade com o no 2 do artigo 39o da Directiva 81/851/CEE, a Comissão é informada de divergências graves entre os Estados-membros sobre se um titular de uma autorização de introdução no mercado, um fabricante ou um importador estabelecido na Comunidade estão a cumprir ou não as exigências referidas no no 1, a Comissão pode, após consulta aos Estados-membros em questão, solicitar que um inspector das autoridades de fiscalização proceda a uma nova inspecção do titular da autorização, do fabricante ou do importador; esse inspector poderá ser acompanhado por um inspector de um Estado-membro que não seja parte no litígio e/ou por um relator ou perito designados pelo Comité.\n\n3. Sem prejuízo de quaisquer acordos que tenham sido concluídos entre a Comunidade e países terceiros nos termos do no 2 do artigo 38o, a Comissão, após ter recebido um pedido fundamentado de um Estado-membro, do Comité dos medicamentos veterinários, ou por sua própria iniciativa, pode pedir a inspecção de um fabricante estabelecido num país terceiro. A inspecção será realizada por inspectores qualificados dos Estados-membros, que podem ser acompanhados, se necessário, por um relator ou perito designados pelo comité. O relatório dos inspectores deve ser colocado à disposição da Comissão, dos Estados-membros e do Comité dos medicamentos veterinários."
+  },
+  "a1d45eab7fcf2695": {
+   "fragment_id": "Artigo 40o",
+   "type": "artigo",
+   "heading": "Artigo 40o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40o\n\n1. Quando as autoridades de fiscalização ou as autoridades competentes de qualquer outro Estado-membro forem de parecer que o fabricante ou o importador de países terceiros deixaram de cumprir as obrigações fixadas no capítulo V da Directiva 81/851/CEE, devem imediatamente informar o comité e a Comissão, apresentando fundamentação pormenorizada e indicando as medidas que propõem.\n\nO mesmo se aplica quando um Estado-membro ou a Comissão consideram que deve ser aplicada ao medicamento em questão uma das medidas previstas no capítulo VI da Directiva 81/851/CEE ou quando o Comité dos medicamentos veterinários emite um parecer nesse sentido em conformidade com o artigo 42o\n\n2. A Comissão, em consulta com a agência, analisará de imediato os motivos apresentados pelo Estado-membro em causa. A Comissão solicitará o parecer do comité num prazo por ela a determinar em função da urgência da questão. Sempre que possível, o responsável pela introdução no mercado deve ser convidado a apresentar explicações orais ou escritas.\n\n3. A Comissão elaborará um projecto de decisão a tomar, que será adoptada segundo o procedimento fixado no artigo 32o\n\nContudo, se um Estado-membro tiver invocado o disposto no no 4, o prazo previsto no artigo 73o será reduzido para 15 dias do ano civil.\n\n4. Sempre que seja indispensável tomar medidas urgentes para a protecção da saúde humana ou animal, ou do ambiente, um Estado-membro pode suspender, no seu território, a utilização de um medicamento autorizado em conformidade com o presente regulamento. O mais tardar no dia útil seguinte, deve informar a Comissão e os outros Estados-membros sobre os motivos que presidem a essa medida. A Comissão analisará de imediato os motivos invocados pelo Estado-membro, em conformidade com o no 2, e dará início ao procedimento previsto no no 3.\n\n5. Um Estado-membro que tenha adoptado as medidas suspensivas referidas no no 4 pode mantê-las em vigor até que tenha sido tomada uma decisão definitiva, em conformidade com o procedimento previsto no no 3.\n\n6. A agência informará da decisão final todos os interessados que o solicitem."
+  },
+  "db1a0adbcd758646": {
+   "fragment_id": "Artigo 41o",
+   "type": "artigo",
+   "heading": "Artigo 41o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41o\n\nPara efeitos do disposto no presente capítulo, são aplicáveis as definições constantes do artigo 42o da Directiva 81/851/CEE."
+  },
+  "91d38e1692a8ebc1": {
+   "fragment_id": "Artigo 42o",
+   "type": "artigo",
+   "heading": "Artigo 42o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42o\n\nA agência, em cooperação estreita com os sistemas nacionais de farmacovigilância, criados em conformidade com o artigo 42oA da Directiva 81/851/CEE, recebe toda a informação pertinente relativa a suspeitas de reacções adversas aos medicamentos autorizados na Comunidade nos termos do presente regulamento. Se necessário, o comité poderá formular, nos termos do artigo 27o, pareceres sobre as medidas necessárias para assegurar uma utilização racional de tais medicamentos. Essas medidas serão adoptadas em conformidade com o procedimento fixado no artigo 40o\n\nO responsável pela introdução no mercado e as autoridades competentes dos Estados-membros devem assegurar que sejam comunicadas à agência, em conformidade com o disposto no presente regulamento, todas as informações relativas a suspeitas de reacções adversas aos medicamentos veterinários autorizados nos termos do presente regulamento."
+  },
+  "6f7bf4df29128a8f": {
+   "fragment_id": "Artigo 43o",
+   "type": "artigo",
+   "heading": "Artigo 43o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43o\n\nO responsável pela introdução no mercado de um medicamento veterinário autorizado pela Comunidade em conformidade com o disposto no presente regulamento deve ter permanente e continuamente à sua disposição uma pessoa com as qualificações apropriadas em matéria de farmacovigilância.\n\nA esta pessoa incumbirá:\n\na) Criar e gerir um sistema que garanta que a informação relativa a todas as suspeitas de reacções adversas comunicadas ao pessoal e aos delegados de informação da empresa seja recolhida, avaliada e coligida por forma a estar acessível num único local para toda a Comunidade;\n\nb) Preparar os relatórios referidos no artigo 44o e submetê-los às autoridades competentes dos Estados-membros e à agência, em conformidade com o disposto no presente regulamento;\n\nc) Assegurar resposta pronta e integral a qualquer pedido das autoridades competentes para obter informações adicionais necessárias à avaliação das vantagens e dos riscos de um medicamento veterinário, incluindo informações relativas ao volume de vendas ou de prescrição do medicamento veterinário em questão."
+  },
+  "52364e8b37f7df93": {
+   "fragment_id": "Artigo 44o",
+   "type": "artigo",
+   "heading": "Artigo 44o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44o\n\n1. O responsável pela introdução no mercado de um medicamento veterinário autorizado em conformidade com o disposto no presente regulamento deve assegurar que todas as suspeitas de reacções adversas graves inesperadas ocorridas na Comunidade, para as quais tenha sido alertado, sejam registadas e comunicadas de imediato aos Estados-membros em cujo território o incidente se verificou ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nO responsável pela introdução no mercado deve assegurar que todas as suspeitas de reacções adversas graves inesperadas ocorridas num país terceiro sejam de imediato comunicadas aos Estados-membros e à agência ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nO procedimento de comunicação das suspeitas de reacções adversas inesperadas não graves, ocorridas na Comunidade ou num país terceiro, será adoptado em conformidade com o disposto no artigo 48\n\no\n\n2. Além disso, o responsável pela introdução no mercado deverá manter registos pormenorizados de todas as suspeitas de reacções adversas que se verifiquem na Comunidade ou fora dela e que lhe sejam comunicadas. A menos que tenham sido fixadas outras condições para a concessão da autorização de introdução no mercado pela Comunidade, estes registos devem ser comunicados à agência e aos Estados-membros de imediato, mediante solicitação, ou pelo menos semestralmente, nos primeiros dois anos após a autorização, e anualmente, nos três anos seguintes. Em seguida, os registos deverão ser submetidos de cinco em cinco anos, juntamente com o pedido de renovação da autorização, ou de imediato, mediante solicitação. Esses registos deverão ser acompanhados por uma avaliação científica."
+  },
+  "9781f30cb3c2a3f8": {
+   "fragment_id": "Artigo 45o",
+   "type": "artigo",
+   "heading": "Artigo 45o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45o\n\nCada Estado-membro assegurará que todos os casos de suspeita de reacções adversas graves a um medicamento autorizado em conformidade com o disposto no presente regulamento, que se verifiquem no seu território e lhe sejam comunicados, são registados e transmitidos imediatamente à agência e ao responsável pela introdução no mercado ou, o mais tardar, no prazo de 15 dias a contar da recepção da informação.\n\nA agência transmitirá a informação aos sistemas nacionais de farmacovigilância."
+  },
+  "fce45474b2ebb79f": {
+   "fragment_id": "Artigo 46o",
+   "type": "artigo",
+   "heading": "Artigo 46o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46o\n\nA Comissão, em consulta com a agência, os Estados-membros e as partes interessadas, deve elaborar instruções para a recolha, verificação e apresentação dos relatórios de reacções adversas.\n\nA agência, em consulta com os Estados-membros e a Comissão, criará uma rede informática para a rápida transmissão de dados entre as autoridades competentes da Comunidade em caso de alerta relacionado com fabrico defeituoso, reacções adversas graves e outros dados de farmacovigilância sobre medicamentos veterinários comercializados na Comunidade."
+  },
+  "33a09849705cde49": {
+   "fragment_id": "Artigo 47o",
+   "type": "artigo",
+   "heading": "Artigo 47o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47o\n\nA agência colaborará com as organizações internacionais competentes em matéria de farmacovigilância veterinária."
+  },
+  "ed44bbe788a2e1d3": {
+   "fragment_id": "Artigo 48o",
+   "type": "artigo",
+   "heading": "Artigo 48o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48o\n\nQualquer alteração que seja necessário introduzir para actualizar as disposições do presente capítulo, por forma a ter em conta os avanços científicos e técnicos, será adoptada em conformidade com o disposto no artigo 72o"
+  },
+  "e504c0cd9389e9b1": {
+   "fragment_id": "TÍTULO IV — AGÊNCIA EUROPEIA DE AVALIAÇÃO DOS MEDICAMENTOS",
+   "type": "divisao",
+   "heading": "TÍTULO IV — AGÊNCIA EUROPEIA DE AVALIAÇÃO DOS MEDICAMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — AGÊNCIA EUROPEIA DE AVALIAÇÃO DOS MEDICAMENTOS"
+  },
+  "ce0e26d9558f3a3d": {
+   "fragment_id": "CAPÍTULO 1 — Funções da agência",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 — Funções da agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 — Funções da agência"
+  },
+  "23396100905cb2c1": {
+   "fragment_id": "Artigo 49o",
+   "type": "artigo",
+   "heading": "Artigo 49o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49o\n\nÉ criada a Agência Europeia de Avaliação dos Medicamentos.\n\nA agência será responsável pela coordenação dos recursos científicos de que dispõem as autoridades competentes dos Estados-membros para a avaliação e o controlo dos medicamentos."
+  },
+  "1a6ea18d6f1d56e6": {
+   "fragment_id": "Artigo 50o",
+   "type": "artigo",
+   "heading": "Artigo 50o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50o\n\n1. A agência tem a seguinte estrutura:\n\na) O Comité das especialidades farmacêuticas, responsável pela elaboração do parecer da agência sobre qualquer questão relativa à avaliação dos medicamentos de uso humano;\n\nb) O Comité dos medicamentos veterinários, responsável pela elaboração do parecer da agência sobre qualquer questão relativa à avaliação dos medicamentos veterinários;\n\nc) Um secretariado destinado a fornecer apoio técnico e administrativo aos dois comités, assegurando uma coordenação adequada dos seus trabalhos;\n\nd) Um director executivo, que exercerá as responsabilidades estabelecidas no artigo 55o;\n\ne) Um conselho de gestão, que exercerá as responsabilidades estabelecidas nos artigos 56o e 57o\n\n2. O Comité das especialidades farmacêuticas e o Comité dos medicamentos veterinários podem criar grupos de trabalho e grupos de peritos.\n\n3. O Comité das especialidades farmacêuticas e o Comité dos medicamentos veterinários podem, se o julgarem necessário, solicitar consultoria para questões importantes de carácter geral, científico ou ético."
+  },
+  "7fe6443d2a318e0d": {
+   "fragment_id": "Artigo 51o",
+   "type": "artigo",
+   "heading": "Artigo 51o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51o\n\nPor forma a promover a protecção da saúde humana e animal e dos consumidores de medicamentos em toda a Comunidade, bem como a realização do mercado interno através da adopção de decisões regulamentares uniformes assentes em critérios científicos de comercialização e utilização de medicamentos, o objectivo da agência será o de proporcionar aos Estados-membros e instituições comunitárias pareceres científicos da maior qualidade sobre questões relativas à avaliação da eficácia, qualidade e segurança dos medicamentos de uso humano ou veterinário que lhe são submetidas, em conformidade com o disposto na legislação comunitária relativa a medicamentos.\n\nPara tal, a agência desempenhará as seguintes tarefas através dos seus comités:\n\na) Coordenar a avaliação científica da eficácia, qualidade e segurança dos medicamentos sujeitos aos procedimentos comunitários de autorização de comercialização;\n\nb) Apresentar relatórios de avaliação, resumos das características dos produtos, rótulos e folhetos informativos dos referidos medicamentos;\n\nc) Coordenar a fiscalização, em condições práticas de utilização, de medicamentos que tenham sido autorizados na Comunidade e aconselhar sobre as medidas necessárias para assegurar a utilização racional de medicamentos, nomeadamente mediante a centralização, em banco de dados, de informações sobre reacções adversas, sua avaliação e difusão (farmacovigilância);\n\nd) Fornecer esclarecimentos sobre os limites máximos de resíduos de medicamentos veterinários que possam ser aceites em alimentos de origem animal, em conformidade com o Regulamento (CEE) no 2377/90;\n\ne) Coordenar a verificação da observância das normas de bom fabrico, de boa prática laboratorial e de boa prática clínica;\n\nf) A pedido, fornecer apoio técnico e científico a medidas destinadas a melhorar a cooperação entre a Comunidade, os Estados-membros, as organizações internacionais e os países terceiros no que respeita a questões científicas e técnicas referentes à avaliação dos medicamentos;\n\ng) Registar todas as autorizações de introdução no mercado de medicamentos concedidas em conformidade com os procedimentos comunitários;\n\nh) Prestar assistência técnica na manutenção de uma base de dados sobre medicamentos, acessível ao público;\n\ni) Apoiar a Comunidade e os Estados-membros na prestação de informações aos profissionais da saúde e ao público em geral relativas aos medicamentos avaliados na agência;\n\nj) A pedido, aconselhar as empresas sobre o modo de execução dos vários estudos e ensaios necessários para comprovar a eficácia, qualidade e segurança dos medicamentos."
+  },
+  "a3dee5435cddd24d": {
+   "fragment_id": "Artigo 52o",
+   "type": "artigo",
+   "heading": "Artigo 52o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52o\n\n1. O Comité das especialidades farmacêuticas e o Comité dos medicamentos veterinários integrarão, cada um, dois membros nomeados por cada Estado-membro para um mandato renovável de três anos. Os membros serão seleccionados com base no seu papel e experiência na avaliação de medicamentos para uso humano e veterinário, consoante o caso, e representarão as autoridades competentes respectivas.\n\nAo director executivo, ou ao seu representante, e aos representantes da Comissão assiste o direito de participar em todas as reuniões dos comités e dos seus grupos de trabalho e grupos de peritos.\n\nOs membros da cada comité poderão fazer-se acompanhar de peritos.\n\n2. Para além de fornecerem pareceres científicos objectivos à Comunidade e aos Estados-membros sobre questões que lhes tenham sido submetidas, os membros de cada comité devem assegurar uma coordenação adequada entre as tarefas da agência e os trabalhos efectuados ao nível das autoridades nacionais competentes, incluindo os organismos consultivos que se ocupam da autorização de introdução no mercado.\n\n3. Os membros dos comités e os peritos encarregados da avaliação dos medicamentos apoiam-se nos conhecimentos especializados e nos recursos científicos disponíveis ao nível das estruturas nacionais de autorização de introdução no mercado. Cada Estado-membro acautela a qualidade científica da avaliação realizada e fiscaliza as actividades dos membros dos comités e dos peritos por ele designados, eximindo-se porém de lhes dar instruções incompatíveis com as funções que são chamados a desempenhar.\n\n4. Ao preparar o parecer, cada comité deverá envidar todos os esforços para chegar a um consenso científico. Se tal não for possível, o parecer será constituído pela posição da maioria dos membros e poderá incluir, a pedido dos interessados, as posições divergentes e respectivas fundamentações."
+  },
+  "8fe3e1da6ea675b6": {
+   "fragment_id": "Artigo 53o",
+   "type": "artigo",
+   "heading": "Artigo 53o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53o\n\n1. Sempre que, nos termos do disposto no presente regulamento, for solicitada ao Comité das especialidades farmacêuticas ou ao Comité dos medicamentos veterinários a avaliação de um medicamento, o comité deverá nomear um dos seus membros como relator encarregado de coordenar essa avaliação, tendo em consideração as propostas do requerente para a escolha de um relator. O comité poderá nomear um segundo membro como co-relator.\n\nO comité providenciará para que todos os seus membros assumam o papel de relator ou de co-relator.\n\n2. Os Estados-membros enviarão à agência uma lista dos peritos com experiência comprovada na avaliação de medicamentos que possam ser integrados em grupos de trabalho ou grupos de peritos do Comité das especialidades farmacêuticas ou do Comité dos medicamentos veterinários, acompanhada da indicação das suas qualificações e áreas de competência específica.\n\nA lista deve ser actualizada conforme necessário.\n\n3. A prestação de serviços de relatores e peritos reger-se-á por um contrato escrito entre a agência e a pessoa em questão ou, se for caso disso, entre a agência e a sua entidade patronal. A pessoa em questão, ou a sua entidade patronal, será remunerada de acordo com uma tabela de honorários fixada pelo conselho de gestão da agência.\n\n4. Sob proposta do Comité das especialidades farmacêuticas ou do Comité dos medicamentos veterinários, a agência pode igualmente recorrer aos serviços de relatores ou peritos para o desempenho de outras responsabilidades específicas da agência."
+  },
+  "2b42d25b63efb4ac": {
+   "fragment_id": "Artigo 54o",
+   "type": "artigo",
+   "heading": "Artigo 54o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54o\n\n1. A composição do Comité das especialidades farmacêuticas e do Comité dos medicamentos veterinários será tornada pública. A publicação das nomeações especificará as qualificações profissionais de cada membro.\n\n2. Os membros do conselho de gestão, os membros dos comités, os relatores e os peritos não podem ter interesses, financeiros ou outros, na indústria farmacêutica que sejam susceptíveis de afectar a sua imparcialidade. Todos os interesses indirectos que possam relacionar-se com esta indústria devem constar de um registo mantido pela agência e aberto a consulta pública."
+  },
+  "a07b97a510b03fd2": {
+   "fragment_id": "Artigo 55o",
+   "type": "artigo",
+   "heading": "Artigo 55o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55o\n\n1. O director executivo é nomeado pelo conselho de gestão, sob proposta da Comissão, por um período renovável de cinco anos.\n\n2. O director executivo é o representante legal da agência. É responsável:\n\n- pela gestão corrente da agência,\n\n- pela prestação de apoio técnico adequado ao Comité das especialidades farmacêuticas e ao Comité dos medicamentos veterinários e aos respectivos grupos de trabalho e grupos de peritos,\n\n- por assegurar a observância dos prazos estabelecidos na legislação comunitária para a adopção de pareceres pela agência,\n\n- por garantir uma coordenação adequada entre o Comité das especialidades farmacêuticas e o Comité dos medicamentos veterinários,\n\n- pela elaboração do mapa de receitas e despesas e pela execução do orçamento da agência,\n\n- por todos os assuntos de pessoal.\n\n3. O director executivo deve submeter anualmente à aprovação do conselho de gestão, respeitando sempre a distinção entre as actividades da agência no domínio dos medicamentos de uso humano e as actividades no domínio dos medicamentos de uso veterinário:\n\n- um projecto de relatório sobre as actividades da agência no ano anterior, incluindo informações sobre o número de requerimentos avaliados pela agência, a duração das avaliações e os medicamentos autorizados, recusados ou retirados,\n\n- um projecto de plano de trabalho para o ano seguinte,\n\n- o projecto das contas anuais relativas ao ano anterior,\n\n- um projecto de orçamento para o ano seguinte.\n\n4. O director executivo deve aprovar todas as despesas financeiras da agência."
+  },
+  "473290cd06bc864d": {
+   "fragment_id": "Artigo 56o",
+   "type": "artigo",
+   "heading": "Artigo 56o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56o\n\n1. O conselho de gestão integra dois representantes de cada Estado-membro, dois representantes da Comissão e dois representantes nomeados pelo Parlamento Europeu. Um representante terá responsabilidades específicas no domínio dos medicamentos de uso humano e o outro no dos medicamentos veterinários.\n\nOs representantes podem fazer-se substituir por suplentes.\n\n2. Os representantes têm um mandato de três anos, renovável.\n\n3. O conselho de gestão elege o seu presidente por um período de três anos e adopta o seu próprio regulamento interno.\n\nAs decisões do conselho de gestão são adoptadas por maioria de dois terços dos seus membros.\n\n4. O director executivo assegura o secretariado do conselho de gestão.\n\n5. Até 31 de Janeiro de cada ano, o conselho de gestão aprovará o relatório geral de actividades da agência relativo ao ano anterior e o seu plano de trabalho para o ano seguinte e transmiti-los-á aos Estados-membros, à Comissão, ao Conselho e ao Parlamento Europeu."
+  },
+  "7385977d8899da9d": {
+   "fragment_id": "CAPÍTULO 2 — Disposições financeiras",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2 — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 2 — Disposições financeiras"
+  },
+  "74a679f0c4164a16": {
+   "fragment_id": "Artigo 57o",
+   "type": "artigo",
+   "heading": "Artigo 57o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57o\n\n1. As receitas da agência são constituídas por uma contribuição da Comunidade e pelas taxas pagas pelas empresas para a obtenção e a manutenção de autorizações comunitárias de introdução no mercado e por outros serviços prestados pela agência.\n\n2. As despesas da agência são compostas pelos custos de pessoal, administrativos, de infra-estruturas e de funcionamento e pelas despesas decorrentes de contratos celebrados com terceiros.\n\n3. O mais tardar até 15 de Fevereiro de cada ano, o director elaborará um anteprojecto de orçamento, que incluirá os custos de funcionamento e o plano das actividades previstas para o exercício seguinte, e enviá-lo-á, juntamente com um organigrama, ao conselho de gestão.\n\n4. As receitas e as despesas deverão equilibrar-se.\n\n5. O conselho de gestão deverá aprovar o projecto de orçamento e enviá-lo à Comissão, que, com base no mesmo, elaborará as devidas estimativas a incluir no anteprojecto geral de orçamento das Comunidades Europeias, a apresentar ao Conselho em cumprimento do disposto no artigo 203o do Tratado.\n\n6. O conselho de gestão adoptará o orçamento definitivo da agência antes do início do exercício, corrigindo-o, sempre que necessário, em função da intervenção comunitária e restantes recursos financeiros da agência.\n\n7. Competirá ao director dar execução ao orçamento da agência.\n\n8. A supervisão das autorizações e liquidações das despesas da agência e do apuramento e cobrança de todas as suas receitas incumbirá ao auditor financeiro nomeado pelo conselho de gestão.\n\n9. O mais tardar até 31 de Março de cada ano, o director enviará à Comissão, ao conselho de gestão e ao Tribunal de Contas as contas relativas a todas as receitas e despesas da agência no exercício anterior.\n\nO Tribunal de Contas examinará as contas nos termos do disposto no artigo 206oA do Tratado CEE.\n\n10. O conselho de gestão dará quitação ao director quanto à execução do orçamento.\n\n11. Uma vez emitido o parecer do Tribunal de Contas, o conselho de gestão aprovará as disposições financeiras internas que especificarão, em particular, as regras pormenorizadas de elaboração e execução do orçamento da agência."
+  },
+  "f7c2638397cfcc90": {
+   "fragment_id": "Artigo 58o",
+   "type": "artigo",
+   "heading": "Artigo 58o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58o\n\nA estrutura e o montante das taxas referidas no no 1 do artigo 57o serão estabelecidos pelo Conselho, deliberando nas condições previstas no Tratado, sob proposta da Comissão, após consulta às organizações que representam os interesses da indústria farmacêutica a nível comunitário."
+  },
+  "8bd643aa4f228143": {
+   "fragment_id": "CAPÍTULO 3 — Disposições gerais que regem a agência",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 — Disposições gerais que regem a agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 — Disposições gerais que regem a agência"
+  },
+  "33015df0e91d4c17": {
+   "fragment_id": "Artigo 59o",
+   "type": "artigo",
+   "heading": "Artigo 59o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59o\n\nA agência tem personalidade jurídica. Goza em todos os Estados-membros dos mais amplos poderes concedidos pela lei às pessoas colectivas. Pode, nomeadamente, adquirir e alienar bens móveis e imóveis e estar em juízo."
+  },
+  "5f602f7608e295b6": {
+   "fragment_id": "Artigo 60o",
+   "type": "artigo",
+   "heading": "Artigo 60o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60o\n\n1. A responsabilidade contratual da agência rege-se pela lei aplicável ao contrato em questão. O Tribunal de Justiça das Comunidades Europeias é competente para se pronunciar por força de qualquer cláusula de arbitragem constante de um contrato celebrado pela agência.\n\n2. No que respeita à responsabilidade extracontratual, a agência deve, em conformidade com os princípios gerais comuns às legislações dos Estados-membros, reparar quaisquer danos provocados por si ou pelos seus funcionários no desempenho das suas funções.\n\nO Tribunal de Justiça é competente em qualquer litígio relativo à reparação de tais danos.\n\n3. A responsabilidade pessoal dos funcionários da agência rege-se pelas regras pertinentes aplicáveis ao pessoal da agência."
+  },
+  "4d10adc1a5194f5f": {
+   "fragment_id": "Artigo 61o",
+   "type": "artigo",
+   "heading": "Artigo 61o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61o\n\nÉ aplicável à agência o protocolo dos privilégios e imunidades das Comunidades Europeias."
+  },
+  "f07280e41d5c2182": {
+   "fragment_id": "Artigo 62o",
+   "type": "artigo",
+   "heading": "Artigo 62o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62o\n\nO pessoal da agência é regido pelas normas e regulamentação aplicáveis aos funcionários e outros agentes das Comunidades Europeias.\n\nNo que respeita ao seu próprio pessoal, a agência exercerá os poderes conferidos à autoridade investida do poder de nomeação.\n\nO conselho de gestão, em concertação com a Comissão, adoptará as necessárias disposições de execução."
+  },
+  "4c76f1a1fb54891b": {
+   "fragment_id": "Artigo 63o",
+   "type": "artigo",
+   "heading": "Artigo 63o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63o\n\nOs membros do conselho de gestão, os membros dos comités, os funcionários e outro pessoal da agência estão obrigados, mesmo após a cessação das suas funções, a não revelar informações do tipo abrangido pelo sigilo profissional."
+  },
+  "a5c5fe955a6159f2": {
+   "fragment_id": "Artigo 64o",
+   "type": "artigo",
+   "heading": "Artigo 64o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64o\n\nA Comissão, em concertação com o conselho de gestão e o comité competente, pode convidar representantes de organizações internacionais interessadas na harmonização da regulamentação aplicável aos medicamentos a participarem, na qualidade de observadores, nos trabalhos da agência."
+  },
+  "8c0f12652b2e169c": {
+   "fragment_id": "Artigo 65o",
+   "type": "artigo",
+   "heading": "Artigo 65o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65o\n\nO conselho de gestão, em concertação com a Comissão, deve desenvolver contactos adequados entre a agência e os representantes da indústria, dos consumidores e doentes e dos profissionais da saúde."
+  },
+  "70a60715a1c2e324": {
+   "fragment_id": "Artigo 66o",
+   "type": "artigo",
+   "heading": "Artigo 66o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66o\n\nA agência iniciará funções em 1 de Janeiro de 1995."
+  },
+  "d000f896d48ffecb": {
+   "fragment_id": "TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "1ec281100987cffb": {
+   "fragment_id": "Artigo 67o",
+   "type": "artigo",
+   "heading": "Artigo 67o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67o\n\nTodas as decisões de concessão, recusa, alteração, suspensão ou revogação de autorizações de introdução no mercado tomadas em conformidade com o presente regulamento devem explicitar os fundamentos em que assentam. As decisões serão notificadas ao interesado."
+  },
+  "583f0513f181ea13": {
+   "fragment_id": "Artigo 68o",
+   "type": "artigo",
+   "heading": "Artigo 68o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68o\n\n1. Uma autorização de introdução no mercado de um medicamento de uso humano abrangido pelo presente regulamento só pode ser recusada, alterada, suspensa ou revogada pelas razões indicadas no presente regulamento.\n\n2. Uma autorização de introdução no mercado de um medicamento veterinário abrangido pelo presente regulamento só pode ser concedida, recusada, alterada, suspensa ou revogada em conformidade com os procedimentos previstos no presente regulamento."
+  },
+  "1dac18b55ab52b56": {
+   "fragment_id": "Artigo 69o",
+   "type": "artigo",
+   "heading": "Artigo 69o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69o\n\nSem prejuízo do disposto no artigo 68o e no protocolo relativo aos privilégios e imunidades das Comunidades Europeias, cada Estado-membro determinará as sanções a aplicar em caso de infracção ao disposto no presente regulamento. As sanções devem ser de molde a assegurar a observância destas medidas.\n\nOs Estados-membros informarão de imediato a Comissão do início dos processos por infracção."
+  },
+  "ac9ed490095771e0": {
+   "fragment_id": "Artigo 70o",
+   "type": "artigo",
+   "heading": "Artigo 70o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70o\n\nOs aditivos abrangidos pela Directiva 70/524/CEE do Conselho, de 23 de Novembro de 1970, relativa aos aditivos utilizados na alimentação para animais (16), não serão considerados medicamentos veterinários, para efeitos do presente regulamento, quando se destinarem a ser administrados a animais, em conformidade com a referida directiva.\n\nNo prazo de três anos após a entrada em vigor do presente regulamento, a Comissão elaborará um relatório em que analisará se o grau de harmonização alcançado por este regulamento e pela Directiva 90/167/CEE do Conselho, de 26 de Março de 1990, que estabelece as condições de preparação, colocação no mercado e utilização dos alimentos medicamentosos para animais na Comunidade (17), é ou não equivalente ao proporcionado pela Directiva 70/524/CEE, fazendo-o acompanhar, se necessário, de propostas de alteração do estatuto dos coccidiostáticos e de outras substâncias farmacologicamente activas abrangidas pela referida directiva.\n\nO Conselho tomará uma decisão sobre as propostas da Comissão o mais tardar um ano após a sua apresentação."
+  },
+  "adc7439350685ff9": {
+   "fragment_id": "Artigo 71o",
+   "type": "artigo",
+   "heading": "Artigo 71o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71o\n\nNo prazo de seis anos após a entrada em vigor do presente regulamento, a Comissão publicará um relatório geral sobre a experiência adquirida com a aplicação dos procedimentos previstos no presente regulamento, no capítulo III da Directiva 75/319/CEE e no capítulo IV da Directiva 81/851/CEE."
+  },
+  "f80bda6e8d27514b": {
+   "fragment_id": "Artigo 72o",
+   "type": "artigo",
+   "heading": "Artigo 72o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72o\n\nSempre que se tiver de adoptar o procedimento definido no presente artigo, a Comissão será assistida:\n\n- pelo Comité permanente dos medicamentos de uso humano, quando se trate de questões relacionadas com medicamentos de uso humano,\n\n- pelo Comité permanente dos medicamentos veterinários, quando se trate de questões relacionadas com medicamentos veterinários.\n\nO representante da Comissão submeterá ao comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148\n\no do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas previstas desde que sejam conformes com o parecer do comité.\n\nSe as medidas propostas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo do prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "80b986c2b4c63aff": {
+   "fragment_id": "Artigo 73o",
+   "type": "artigo",
+   "heading": "Artigo 73o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73o\n\nSempre que se tiver de adoptar o procedimento definido no presente artigo, a Comissão será assistida:\n\n- pelo Comité permanente dos medicamentos de uso humano, quando se trate de questões relacionadas com medicamentos de uso humano,\n\n- pelo Comité permanente dos medicamentos veterinários, quando se trate de questões relacionadas com medicamentos veterinários.\n\nO representante da Comissão submeterá ao comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre o projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148\n\no do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\nA Comissão adoptará as medidas previstas desde que sejam conformes com o parecer do comité.\n\nSe as medidas propostas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá imediatamente ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\nSe, no termo do prazo de três meses a contar da data em que a proposta da Comissão lhe foi submetida, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas, salvo no caso de o Conselho se pronunciar por maioria simples contra as medidas em causa."
+  },
+  "28cb98a6642abe95": {
+   "fragment_id": "Artigo 74o",
+   "type": "artigo",
+   "heading": "Artigo 74o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74o\n\nO presente regulamento entra em vigor no dia seguinte ao da data da decisão das autoridades competentes sobre a sede da agência.\n\nSem prejuízo do disposto no parágrafo anterior, os títulos I, II, III e V entrarão em vigor em 1 de Janeiro de 1995.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Julho de 1993.\n\nPelo Conselho\n\nO Presidente\n\nM. OFFECIERS-VAN DE WIELE\n\n(1) JO no C 330 de 31. 12. 1990, p. 1, e JO no C 310 de 30. 11. 1991, p. 7.\n\n(2) JO no C 183 de 15. 7. 1991, p. 145.\n\n(3) JO no C 269 de 14. 10. 1991, p. 84.\n\n(4) JO no L 15 de 17. 1. 1987, p. 38.\n\n(5) JO no 22 de 9. 2. 1965, p. 369/65. Directiva com a última redacção que lhe foi dada pela Directiva 92/27/CEE (JO no L 113 de 30. 4. 1992, p. 8).\n\n(6) JO no L 147 de 9. 6. 1975, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 92/27/CEE (JO no L 113 de 30. 4. 1992, p. 8).\n\n(7) JO no L 147 de 9. 6. 1975, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 91/507/CEE da Comissão (JO no L 270 de 26. 9. 1991, p. 32.).\n\n(8) JO no L 317 de 6. 11. 1981, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO no L 214 de 24. 8. 1993).\n\n(9) JO no L 317 de 6. 11. 1981, p. 16. Directiva com a última redacção que lhe foi dada pela Directiva 93/40/CEE (JO no L 214 de 24. 8. 1993).\n\n(10) Ver página 22 do presente Jornal Oficial.\n\n(11) Ver página 31 do presente Jornal Oficial.\n\n(12) JO no L 117 de 8. 5. 1990, p. 15.\n\n(13) JO no L 113 de 30. 4. 1992, p. 8.\n\n(14) JO no L 113 de 30. 4. 1992, p. 5.\n\n(15) JO no L 224 de 18. 8. 1990, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) no 762/92 (JO no L 83 de 28. 3. 1992, p. 14).\n\n(16) JO no L 373 de 31. 12. 1990. p. 26.\n\n(17) JO no L 270 de 14. 12. 1970, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/64/CEE da Comissão (JO no L 221 de 6. 8. 1992, p. 51).\n\n(18) JO no L 92 de 7. 4. 1990, p. 42."
+  },
+  "d65da15e29ee348e": {
+   "fragment_id": "ANEXO — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PARTE A\n\nMedicamentos obtidos por um dos seguintes processos biotecnológicos:\n\n- tecnologia do ADN recombinante,\n\n- expressão controlada dos genes que codificam proteínas biologicamente activas em procariotas e eucariotas, incluindo células transformadas de mamíferos,\n\n- métodos com hibridomas e anticorpos monoclonais.\n\nMedicamentos veterinários, incluindo os não resultantes de biotecnologia, destinados a ser utilizados sobretudo como potenciadores de rendimento a fim de promover o crescimento dos animais tratados ou aumentar a sua produtividade."
+  },
+  "2d113f729a922544": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B\n\nMedicamentos obtidos por outros processos biotecnológicos que, no parecer da agência, constituam inovações significativas.\n\nMedicamentos com um novo modo de administração que, no parecer da agência, constitua uma inovação significativa.\n\nMedicamentos com uma indicação inteiramente nova que, no parecer da agência, constitua uma inovação significativa do ponto de vista terapêutico.\n\nMedicamentos com base em radioisótopos que, no parecer da agência, apresentem significativo interesse terapêutico.\n\nNovos medicamentos derivados do sangue e plasma humanos.\n\nMedicamentos cujo fabrico envolva processos que, no parecer da agência, constituam avanços técnicos significativos, como a electroforese bidimensional em microgravidade.\n\nMedicamentos para uso humano que contenham uma nova substância activa que, à data de entrada em vigor do presente regulamento, não tenha sido autorizada em nenhum Estado-membro para utilização em medicamentos de uso humano.\n\nMedicamentos veterinários para animais destinados ao consumo humano que contenham uma nova substância activa que, à data de entrada em vigor do presente regulamento, não tenha sido autorizada para utilização em animais destinados ao consumo humano, em nenhum Estado-membro."
+  }
+ }
+}

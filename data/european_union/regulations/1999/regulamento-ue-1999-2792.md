@@ -34,6 +34,153 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2007-01-01'
+version_history:
+  file: regulamento-ue-1999-2792.versoes.json
+  count: 5
+  source_lastmod: '2007-01-01'
+  versions:
+  - date: '1999-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-01-01'
+    amending: eu:celex:32001R1451:por
+    amending_title: REGULAMENTO (CE) N.O 1451/2001 DO CONSELHO de 28 de Junho de 2001; REGULAMENTO (CE) N.O 179/2002 DO CONSELHO
+      de 28 de Janeiro de 2002; REGULAMENTO (CE) N.O 2369/2002 DO CONSELHO de 20 de Dezembro de 2002
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objectivos
+    - Altera Artigo 2.º — Meios
+    - Altera Artigo 3.º — Disposições comuns
+    - Altera Artigo 7.º — Ajustamento do esforço de pesca
+    - Altera Artigo 8.º — Empresas mistas
+    - Altera Artigo 10.º — Disposições comuns relativas às frotas de pesca
+    - Altera Artigo 11.º — Pequena pesca costeira
+    - Altera Artigo 12.º — Medidas de carácter socioeconómico
+    - Altera Artigo 14.º — Promoção e prospecção de novos mercados
+    - Altera Artigo 16.º — Cessação temporária das actividades e outras compensações financeiras
+    - Altera Artigo 18.º — Observância das condições de intervenção
+    - Altera Artigo 23.º — Comités
+    - Altera Artigo 24.º — Disposições transitórias
+    - Altera Artigo 25.º — Entrada em vigor
+    - Adita TÍTULO I
+    - Adita PROGRAMAÇÃO
+    - Adita TÍTULO II
+    - Adita FROTA DE PESCA
+    - Adita Artigo 9.º — Ajuda pública à renovação da frota e ao equipamento ou à modernização dos navios de pesca
+    - Adita TÍTULO III
+    - Adita PROTECÇÃO E DESENVOLVIMENTO DOS RECURSOS AQUÁTICOS, AQUICULTURA, EQUIPAMENTO DOS PORTOS DE PESCA, TRANSFORMAÇÃO
+      E COMERCIALIZAÇÃO E PESCA INTERIOR
+    - Adita TÍTULO IV
+    - Adita OUTRAS MEDIDAS
+    - Adita TÍTULO V
+    - Adita DISPOSIÇÕES GERAIS E FINANCEIRAS
+    - Adita Artigo 19.º — Contribuições financeiras obrigatórias e ajudas estatais
+    - Adita Artigo 22.º — Comité
+    - Adita ANEXO I
+    - Adita CONTEÚDO DOS PLANOS
+    - Adita 1. Descrição quantificada da situação actual para cada um dos domínios referidos nos títulos II, III e IV
+    - Adita 2. Estratégia de reestruturação do sector
+    - Adita 3. Meios previstos para atingir os objectivos
+    - Adita 4. Execução
+    - Adita ANEXO III
+    - Adita CONDIÇÕES ESPECIAIS E CRITÉRIOS DE INTERVENÇÃO
+    - Adita 1. Execução de medidas de ajustamento relativas às actividades da frota de pesca (título II)
+    - Adita 1.0. Idade dos navios
+    - Adita 1.1. Cessação definitiva (n.º 3 do artigo 7º)
+    - Adita 1.2. Empresas mistas (artigo 8º)
+  - date: '2004-08-26'
+    amending: eu:celex:32004R1421:por
+    amending_title: REGULAMENTO (CE) N. o 1421/2004 DO CONSELHO de 19 de Julho de 2004
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Meios
+    - Altera Artigo 3.º — Disposições comuns
+    - Altera Artigo 7.º — Ajustamento do esforço de pesca
+    - Altera Artigo 9.º — Ajuda pública à renovação da frota e ao equipamento ou à modernização dos navios de pesca
+    - Altera Artigo 10.º — Disposições comuns relativas às frotas de pesca
+    - Altera Artigo 11.º — Pequena pesca costeira
+    - Altera Artigo 12.º — Medidas de carácter socioeconómico
+    - Altera Artigo 13.º — Domínios abrangidos
+    - Altera Artigo 14.º — Promoção e prospecção de novos mercados
+    - Altera Artigo 15.º — Acções desenvolvidas pelos profissionais
+    - Altera Artigo 16.º — Cessação temporária das actividades e outras compensações financeiras
+    - Altera Artigo 17.º — Acções inovadoras e assistência técnica
+    - Altera Artigo 19.º — Contribuições financeiras obrigatórias e ajudas estatais
+    - Altera Artigo 24.º — Disposições transitórias
+    - Altera 2. Estratégia de reestruturação do sector
+    - Altera 1.3. Renovação da frota (artigo 9.º)
+    - Altera 1.4. Equipamento e modernização dos navios de pesca (artigo 9.º)
+    - Altera 2.1. Protecção e desenvolvimento dos recursos aquáticos
+    - Altera 2.2. Aquicultura
+    - Altera 2. Taxas de participação financeira
+    - Altera Notas
+    - Adita 1. Execução de medidas relativas às actividades da frota de pesca (título II)
+    - Suprime 1. Execução de medidas de ajustamento relativas às actividades da frota de pesca (título II)
+  - date: '2005-04-02'
+    amending: eu:celex:32005R0485:por
+    amending_title: REGULAMENTO (CE) N. o 485/2005 DO CONSELHO de 16 de Março de 2005
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Meios
+    - Altera Artigo 7.º — Ajustamento do esforço de pesca
+    - Altera Artigo 10.º — Disposições comuns relativas às frotas de pesca
+    - Altera Artigo 11.º — Pequena pesca costeira
+    - Altera Artigo 14.º — Promoção e prospecção de novos mercados
+    - Altera Artigo 16.º — Cessação temporária das actividades e outras compensações financeiras
+    - Altera Artigo 19.º — Contribuições financeiras obrigatórias e ajudas estatais
+    - Altera Artigo 24.º — Disposições transitórias
+    - Altera 1.4. Equipamento e modernização dos navios de pesca (artigo 9.º)
+    - Altera 2.2. Aquicultura
+    - Altera 2. Taxas de participação financeira
+    - Altera Notas
+    - Adita Artigo 18.º A — Procedimento de transferência de navios ao abrigo da alínea d) do n.º 3 do artigo 7.º
+    - Adita Artigo 18.º B — Comunicações sobre a transferência de navios ao abrigo da alínea d) do n.º 3 do artigo 7.º
+  - date: '2007-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objectivos
+    - Suprime Artigo 2.º — Meios
+    - Suprime TÍTULO I
+    - Suprime PROGRAMAÇÃO
+    - Suprime Artigo 3.º — Disposições comuns
+    - Suprime TÍTULO II
+    - Suprime FROTA DE PESCA
+    - Suprime Artigo 7.º — Ajustamento do esforço de pesca
+    - Suprime Artigo 8.º — Empresas mistas
+    - Suprime Artigo 9.º — Ajuda pública à renovação da frota e ao equipamento ou à modernização dos navios de pesca
+    - Suprime Artigo 10.º — Disposições comuns relativas às frotas de pesca
+    - Suprime Artigo 11.º — Pequena pesca costeira
+    - Suprime Artigo 12.º — Medidas de carácter socioeconómico
+    - Suprime TÍTULO III
+    - Suprime PROTECÇÃO E DESENVOLVIMENTO DOS RECURSOS AQUÁTICOS, AQUICULTURA, EQUIPAMENTO DOS PORTOS DE PESCA, TRANSFORMAÇÃO
+      E COMERCIALIZAÇÃO E PESCA INTERIOR
+    - Suprime Artigo 13.º — Domínios abrangidos
+    - Suprime TÍTULO IV
+    - Suprime OUTRAS MEDIDAS
+    - Suprime Artigo 14.º — Promoção e prospecção de novos mercados
+    - Suprime Artigo 15.º — Acções desenvolvidas pelos profissionais
+    - Suprime Artigo 16.º — Cessação temporária das actividades e outras compensações financeiras
+    - Suprime Artigo 17.º — Acções inovadoras e assistência técnica
+    - Suprime TÍTULO V
+    - Suprime DISPOSIÇÕES GERAIS E FINANCEIRAS
+    - Suprime Artigo 18.º — Observância das condições de intervenção
+    - Suprime Artigo 18.º A — Procedimento de transferência de navios ao abrigo da alínea d) do n.º 3 do artigo 7.º
+    - Suprime Artigo 18.º B — Comunicações sobre a transferência de navios ao abrigo da alínea d) do n.º 3 do artigo 7.º
+    - Suprime Artigo 19.º — Contribuições financeiras obrigatórias e ajudas estatais
+    - Suprime Artigo 20.º — Conversão monetária
+    - Suprime Artigo 21.º — Regras de execução
+    - Suprime Artigo 22.º — Comité
+    - Suprime Artigo 23.º — Comités
+    - Suprime Artigo 24.º — Disposições transitórias
+    - Suprime Artigo 25.º — Entrada em vigor
+    - Suprime ANEXO I
+    - Suprime CONTEÚDO DOS PLANOS
+    - Suprime 1. Descrição quantificada da situação actual para cada um dos domínios referidos nos títulos II, III e IV
+    - Suprime 2. Estratégia de reestruturação do sector
+    - Suprime 3. Meios previstos para atingir os objectivos
 identifiers:
   celex: 31999R2792
   eli: http://data.europa.eu/eli/reg/1999/2792/oj
@@ -48,7 +195,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f6d58818-d403-42fc-83f7-71018b695c35.0011
   content_url: http://publications.europa.eu/resource/cellar/b4bf4479-bd60-411a-89ac-a29676a09809.0016.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R2792-20070101
-  retrieved_at: '2026-10-22T02:35:13Z'
+  retrieved_at: '2026-10-22T14:48:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2014-11-25T11:54:40.219+01:00'
 integrity:
@@ -57,9 +204,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:13Z'
-  notes: Texto consolidado 01999R2792-20070101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:48:29Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-1999-2792.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -371,16 +518,16 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:13Z'
+  checked_at: '2026-10-22T14:48:29Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '01999R2792-20000102: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
+  - '01999R2792-20020204: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 

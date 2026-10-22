@@ -34,6 +34,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-01-01'
+version_history:
+  file: regulamento-ue-2006-1184.versoes.json
+  count: 4
+  source_lastmod: '2014-01-01'
+  versions:
+  - date: '2008-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-01'
+    amending: eu:celex:32008R0361:por
+    amending_title: REGULAMENTO (CE) N. o 361/2008 DO CONSELHO de 14 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2009-08-01'
+    amending: eu:celex:32009R0491:por
+    amending_title: REGULAMENTO (CE) N. o 491/2009 DO CONSELHO de 25 de Maio de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
+  - date: '2014-01-01'
+    amending: eu:celex:32013R1379:por
+    amending_title: REGULAMENTO (UE) N. o 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Notas
 identifiers:
   celex: 32006R1184
   eli: http://data.europa.eu/eli/reg/2006/1184/oj
@@ -48,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5de960ff-f154-4a0d-97db-b1bc4ca614d0.0016
   content_url: http://publications.europa.eu/resource/cellar/a1ffea30-3a23-42d8-b7e6-7a825e1b4ed2.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R1184-20140101
-  retrieved_at: '2026-10-22T02:42:45Z'
+  retrieved_at: '2026-10-22T15:05:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-20T02:39:35.734+01:00'
 integrity:
@@ -57,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:45Z'
-  notes: Texto consolidado 02006R1184-20140101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:05:00Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2006-1184.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,32 +170,19 @@ relationships:
   date: '2010-03-08'
 article_structure:
   article_count: 6
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:45Z'
+  checked_at: '2026-10-22T15:05:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1184/2006 do Conselho, de 24 de Julho de 2006
-
-> 2006R1184 — PT — 01.01.2014 — 004.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32007R1234) — [REGULAMENTO (CE) N.º 1234/2007 DO CONSELHO de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007
-- [M2](http://publications.europa.eu/resource/celex/32008R0361) — [REGULAMENTO (CE) N.º 361/2008 DO CONSELHO de 14 de Abril de 2008](http://publications.europa.eu/resource/celex/32008R0361) — L 121 — 1 — 7.5.2008
-- [M3](http://publications.europa.eu/resource/celex/32009R0491) — [REGULAMENTO (CE) N.º 491/2009 DO CONSELHO de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009R0491) — L 154 — 1 — 17.6.2009
-- [►M4](http://publications.europa.eu/resource/celex/32013R1379) — [REGULAMENTO (UE) N.º 1379/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1379) — L 354 — 1 — 28.12.2013
-
-## REGULAMENTO (CE) N.º 1184/2006 DO CONSELHO
 
 de 24 de Julho de 2006
 

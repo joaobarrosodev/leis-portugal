@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0383:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0383-20070628",
+ "dre_path": null,
+ "source_lastmod": "2007-06-28",
+ "versions": [
+  {
+   "date": "1991-07-29",
+   "future": false,
+   "celex": "31991L0383",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3971d03f741666d6",
+    "3438f8c4de08e174",
+    "8cf76f3ee7e82619",
+    "03548f857d82a8bc",
+    "92e3357b02e0bb5d",
+    "50d01b30abbf52af"
+   ]
+  },
+  {
+   "date": "2007-06-28",
+   "future": false,
+   "celex": "01991L0383-20070628",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita ÂMBITO DE APLICAÇÃO E OBJECTO",
+    "Adita Artigo 1.º — Âmbito de aplicação",
+    "Adita Artigo 2.º — Objecto",
+    "Adita SECÇÃO II",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 3.º — Informação dos trabalhadores",
+    "Adita Artigo 4.º — Formação dos trabalhadores",
+    "Adita Artigo 5.º — Utilização e vigilância médica dos trabalhadores",
+    "Adita Artigo 6.º — Serviços de protecção e de prevenção",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES ESPECIAIS",
+    "Adita Artigo 7.º — Relações de trabalho temporário: informação",
+    "Adita Artigo 8.º — Relações de trabalho temporário: responsabilidade",
+    "Adita SECÇÃO IV",
+    "Adita DISPOSIÇÕES DIVERSAS",
+    "Adita Artigo 9.º — Disposições mais favoráveis",
+    "Adita Artigo 10.º — Disposições finais",
+    "Adita Artigo 10.º-A — Relatório de aplicação",
+    "Adita Artigo 11.º",
+    "Adita Notas",
+    "Suprime SECÇÃO I ÂMBITO DE APLICAÇÃO E OBJECTO — Artigo 1o Âmbito de aplicação",
+    "Suprime SECÇÃO II DISPOSIÇÕES GERAIS — Artigo 3o Informação dos trabalhadores",
+    "Suprime SECÇÃO III DISPOSIÇÕES ESPECIAIS — Artigo 7o Relações de trabalho temporário: informação",
+    "Suprime SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 9o Disposições mais favoráveis",
+    "Suprime Artigo 11o"
+   ],
+   "fragments": [
+    "a1595ec253be9c7f",
+    "19572906891c0646",
+    "187850ef6c1a2f34",
+    "8f560c60800f345e",
+    "937e2bb47fd3f77a",
+    "0b50b9972a75b595",
+    "e17a2adcfbbdd4cc",
+    "2a8b42f70136e6ba",
+    "967526680e68343e",
+    "41bfd6b8cd2d8495",
+    "87e16155e6373e15",
+    "b4f1bfdbc841cf04",
+    "5635effa0b9ed19b",
+    "0b754fdcfe3f8b24",
+    "ab17a556365f77a7",
+    "b9c1c438fac65788",
+    "4f0027fbf9863594",
+    "3a0103d65f0d17e9",
+    "b7f2eba2aaf11221",
+    "0c03c803be517b58",
+    "b2c7acc7352e0122",
+    "8eb3c157c975d122"
+   ]
+  }
+ ],
+ "fragments": {
+  "3971d03f741666d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/383/CEE do Conselho, de 25 de Junho de 1991, que completa a aplicação de medidas tendentes a promover a melhoria da segurança e da saúde dos trabalhadores que têm uma relação de trabalho a termo ou uma relação de trabalho temporário** *Jornal Oficial nº L 206 de 29/07/1991 p. 0019 - 0021 Edição especial finlandesa: Capítulo 5 Fascículo 5 p. 0063 Edição especial sueca: Capítulo 5 Fascículo 5 p. 0063*\n\nDIRECTIVA DO CONSELHO de 25 de Junho de 1991 que completa a aplicação de medidas tendentes a promover a melhoria da segurança e da saúde dos trabalhadores que têm uma relação de trabalho a termo ou uma relação de trabalho temporário (91/383/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118oA,\n\nTendo em conta a proposta da Comissão(1),\n\nEm cooperação com o Parlamento Europeu(2),\n\nTendo em conta o parecer do Comité Económico e Social(3),\n\nConsiderando que o artigo 118oA do Tratado prevê a adopção pelo Conselho, por meio de directiva, de prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de assegurar um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, estas directivas evitarão impor restrições administrativas, financeiras e jurídicas susceptíveis de contrariar a criação e o desenvolvimento de pequenas e médias empresas;\n\nConsiderando que aumentou de forma significativa o recurso a formas de trabalho como o trabalho a termo ou o trabalho temporário;\n\nConsiderando que, de acordo com investigações feitas, se conclui que, de um modo geral, os trabalhadores com uma relação de trabalho a termo ou uma relação de trabalho temporário estão, em certos sectores, mais expostos aos riscos de acidentes de trabalho e de doenças profissionais do que os outros trabalhadores;\n\nConsiderando que esses riscos suplementares existentes em certos sectores estão, em parte, relacionados com determinadas formas específicas de inserção nas empresas; que esses riscos podem ser diminuídos por uma informação e uma formação adequadas logo no início da relação de trabalho;\n\nConsiderando que as directivas em matéria de segurança e saúde no trabalho e, nomeadamente, a Directiva 89/\n\n/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria de segurança e de saúde dos trabalhadores no trabalho(4), contêm disposições que se distinam a melhorar a segurança e saúde dos trabalhadores em geral;\n\nConsiderando que a situação específica dos trabalhadores que têm uma relação de trabalho a termo ou uma relação de trabalho temporário bem como a especificidade dos riscos a que esses trabalhadores estão expostos em certos sectores tornam necessária uma regulamentação complementar especial, nomeadamente no que se refere à informação, e à vigilância médica dos trabalhadores em causa;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3438f8c4de08e174": {
+   "fragment_id": "SECÇÃO I ÂMBITO DE APLICAÇÃO E OBJECTO — Artigo 1o Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "SECÇÃO I ÂMBITO DE APLICAÇÃO E OBJECTO — Artigo 1o Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I ÂMBITO DE APLICAÇÃO E OBJECTO — Artigo 1o Âmbito de aplicação\n\nA presente directiva aplica-se\n\n1.Às relações de trabalho reguladas por um contrato de trabalho a termo, celebrado directamente entre a entidade patronal e o trabalhador, em que a cessação do contrato de trabalho é determinada por condições objectivas, tais como uma data precisa, a conclusão de uma tarefa determinada ou a ocorrência de um acontecimento determinado.\n\n2.Às relações de trabalho temporário entre uma empresa de trabalho temporário, que é a entidade patronal, e o trabalhador, sendo este último colocado à disposição e sob a direcção de uma empresa e/ou de um estabelecimento utilizadores para nele(s) trabalhar.\n\nArtigo 2o Objecto\n\n1. A presente directiva tem por objecto assegurar que os trabalhadores que possuam um dos tipos de relações de trabalho referidos no artigo 1o beneficiem, em matéria de segurança e de saúde no trabalho, do mesmo nível de protecção de que beneficiam os outros trabalhadores da empresa e/ou do estabelecimento utilizadores.\n\n2. A existência de uma das relações de trabalho referidas no artigo 1o não pode, em caso algum, justificar uma diferença de tratamento no se refere às condições de trabalho, desde que se trate da protecção da segurança e da saúde no trabalho, nomeadamente no que respeita ao acesso aos equipamentos de protecção individual;\n\n3. A Directiva 89/391/CEE assim como as directivas especiais na acepção do no 1 do artigo 16o da Directiva 89/391/CEE aplicam-se plenamente aos trabalhadores que tenham uma das relações de trabalho previstas no artigo 1, sem prejuízo das disposições mais restritivas e/ou mais específicas contidas na presente directiva."
+  },
+  "8cf76f3ee7e82619": {
+   "fragment_id": "SECÇÃO II DISPOSIÇÕES GERAIS — Artigo 3o Informação dos trabalhadores",
+   "type": "divisao",
+   "heading": "SECÇÃO II DISPOSIÇÕES GERAIS — Artigo 3o Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II DISPOSIÇÕES GERAIS — Artigo 3o Informação dos trabalhadores\n\nSem prejuízo do disposto no artigo 10o da Directiva 89/391/CEE, os Estados-membros tomarão as medidas necessárias para que:\n\n1.Antes do início de qualquer actividade por parte de um trabalhador que possua uma das relações de trabalho referidas no artigo 1o, este seja informado pela empresa e/ou estabelecimento utilizadores dos riscos que corre.\n\n2.Essa informação\n\n-incida nomeadamente sobre a necessidade de qualificações ou aptidões profissionais especiais ou de uma vigilância médica especial, tal como definida pela legislação nacional,\n\ne\n\n-indique os eventuais riscos agravados e/ou específicos inerentes ao posto de trabalho a prover, tal como definidos na legislação nacional.\n\nArtigo 4o Formação dos trabalhadores\n\nSem prejuízo do disposto no artigo 12o da Directiva 89/391/CEE, os Estados-membros tomarão as medidas necessárias para que, nos casos referidos no artigo 3o, o trabalhador receba uma formação suficiente e adequada às características próprias do posto de trabalho, tendo em conta a sua qualificação e experiência.\n\nArtigo 5o Utilização e vigilância médica dos trabalhadores\n\n1. Os Estados-membros podem proibir o recurso a trabalhadores que possuam uma relação de trabalho referida no artigo 1o para certos trabalhos particularmente perigosos para a segurança ou saúde desses mesmos trabalhadores tal como definidos na legislação nacional, e nomeadamente para certos trabalhos que estejam sujeitos a uma vigilância médica especial, igualmente definida na legislação nacional.\n\n2. Sempre que não utilizem a faculdade referida no no 1, os Estados-membros tomarão, sem prejuízo do disposto no artigo 14o da Directiva 89/391/CEE, as medidas necessárias para que os trabalhadores que possuam uma relação de trabalho referida no artigo 1o e aos quais se recorra para trabalhos que sejam objecto de vigilância médica especial, definida na legislação nacional, beneficiem de uma vigilância médica especial adequada.\n\n3. Os Estados-membros poderão prever que a vigilância médica especial adequada prevista no no 2 vá além do termo da relação de trabalho do trabalhador em causa.\n\nArtigo 6o Serviços de protecção e de prevenção\n\nOs Estados-membros tomarão as medidas necessárias para que os trabalhadores, serviços ou pessoas designados, nos termos do artigo 7o da Directiva 89/391/CEE, para se ocuparem das actividades de protecção e de prevenção dos riscos profissionais, sejam informados da admissão de trabalhadores que possuam uma relação de trabalho referida no artigo 1o, de modo a que esses trabalhadores, serviços ou pessoas possam desempenhar de forma adequada as suas actividades de prevenção e de protecção em relação a todos os trabalhadores em serviço na empresa e/ou estabelecimento."
+  },
+  "03548f857d82a8bc": {
+   "fragment_id": "SECÇÃO III DISPOSIÇÕES ESPECIAIS — Artigo 7o Relações de trabalho temporário: informação",
+   "type": "divisao",
+   "heading": "SECÇÃO III DISPOSIÇÕES ESPECIAIS — Artigo 7o Relações de trabalho temporário: informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III DISPOSIÇÕES ESPECIAIS — Artigo 7o Relações de trabalho temporário: informação\n\nSem prejuízo do disposto no artigo 3o da presente directiva, os Estados-membros tomarão as medidas necessárias para que:\n\n1.A empresa e/ou o estabelecimento utilizadores, antes da colocação à disposição do trabalhador que tenha uma relação de trabalho do tipo referido no ponto 2 do artigo 1o, especifique à empresa de trabalho temporário, nomeadamente, a qualificação profissional exigida e as características próprias do posto de trabalho a prover.\n\n2.A empresa de trabalho temporário comunique todos estes elementos aos trabalhadores em causa.\n\nOs Estados-membros têm a faculdade de prever que as especificações a dar pela empresa e/ou estabelecimento utilizadores à empresa de trabalho temporário, nos termos do primeiro parágrafo, ponto 1, devam constar do contrato de utilização.\n\nArtigo 8o Relações de trabalho temporário: responsabilidade\n\nOs Estados-membros tomarão as medidas necessárias para que:\n\n1.Sem prejuízo da responsabilidade fixada pela legislação nacional da empresa de trabalho temporário, a empresa e/ou o estabelecimento utilizadores sejam responsáveis pelas condições de execução do trabalho durante a vigência do contrato.\n\n2.Para efeitos de aplicação do ponto 1, as condições de execução do trabalho limitam-se às que se relacionam com a segurança, a saúde e a higiene no trabalho."
+  },
+  "92e3357b02e0bb5d": {
+   "fragment_id": "SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 9o Disposições mais favoráveis",
+   "type": "divisao",
+   "heading": "SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 9o Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV DISPOSIÇÕES DIVERSAS — Artigo 9o Disposições mais favoráveis\n\nA presente directiva não afecta as disposições nacionais e comunitárias, existentes ou futuras, que sejam mais favoráveis à protecção da segurança e da saúde no local de trabalho dos trabalhadores que possuam um dos tipos de relações de trabalho referidos no artigo 1o\n\nArtigo 10o Disposições finais\n\n1. O mais tardar até 31 de Dezembro de 1992, os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que adoptarem no domínio regido pela presente directiva.\n\n3. Os Estados-membros apresentarão quinquenalmente à Comissão um relatório sobre a aplicação do disposto na presente directiva, assinalando os pontos de vista dos parceiros sociais.\n\nA Comissão informará desse relatório o Parlamento Europeu, o Conselho, o Comité Económico e Social e o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho.\n\n4. A Comissão apresentará periodicamente ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social um relatório sobre a aplicação da presente directiva, tendo em conta os nos 1, 2 e 3."
+  },
+  "50d01b30abbf52af": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 25 de Junho de 1991.\n\nPelo Conselho O Presidente J.-C. JUNCKER\n\n(1)JO no C 224 de 8. 9. 1990, p. 4.\n\n(2)Parecer emitido em 20 de Novembro de 1990 (ainda não publicado no Jornal Oficial) e JO no C 158 de 17. 6. 1991.\n\n(3)JO no C 332 de 31. 12. 1990, p. 167.\n\n(4)JO no L 183 de 29. 6. 1989, p. 1."
+  },
+  "a1595ec253be9c7f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Junho de 1991\n\nque completa a aplicação de medidas tendentes a promover a melhoria da segurança e da saúde dos trabalhadores que têm uma relação de trabalho a termo ou uma relação de trabalho temporário\n\n(91/383/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.ºA,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.ºA do Tratado prevê a adopção pelo Conselho, por meio de directiva, de prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de assegurar um melhor nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, estas directivas evitarão impor restrições administrativas, financeiras e jurídicas susceptíveis de contrariar a criação e o desenvolvimento de pequenas e médias empresas;\n\nConsiderando que aumentou de forma significativa o recurso a formas de trabalho como o trabalho a termo ou o trabalho temporário;\n\nConsiderando que, de acordo com investigações feitas, se conclui que, de um modo geral, os trabalhadores com uma relação de trabalho a termo ou uma relação de trabalho temporário estão, em certos sectores, mais expostos aos riscos de acidentes de trabalho e de doenças profissionais do que os outros trabalhadores;\n\nConsiderando que esses riscos suplementares existentes em certos sectores estão, em parte, relacionados com determinadas formas específicas de inserção nas empresas; que esses riscos podem ser diminuídos por uma informação e uma formação adequadas logo no início da relação de trabalho;\n\nConsiderando que as directivas em matéria de segurança e saúde no trabalho e, nomeadamente, a Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria de segurança e de saúde dos trabalhadores no trabalho ([^4^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#E0004)), contêm disposições que se distinam a melhorar a segurança e saúde dos trabalhadores em geral;\n\nConsiderando que a situação específica dos trabalhadores que têm uma relação de trabalho a termo ou uma relação de trabalho temporário bem como a especificidade dos riscos a que esses trabalhadores estão expostos em certos sectores tornam necessária uma regulamentação complementar especial, nomeadamente no que se refere à informação, e à vigilância médica dos trabalhadores em causa;\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "187850ef6c1a2f34": {
+   "fragment_id": "ÂMBITO DE APLICAÇÃO E OBJECTO",
+   "type": "divisao",
+   "heading": "ÂMBITO DE APLICAÇÃO E OBJECTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ÂMBITO DE APLICAÇÃO E OBJECTO"
+  },
+  "8f560c60800f345e": {
+   "fragment_id": "Artigo 1.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nA presente directiva aplica-se\n\n1. Às relações de trabalho reguladas por um contrato de trabalho a termo, celebrado directamente entre a entidade patronal e o trabalhador, em que a cessação do contrato de trabalho é determinada por condições objectivas, tais como uma data precisa, a conclusão de uma tarefa determinada ou a ocorrência de um acontecimento determinado.\n\n2. Às relações de trabalho temporário entre uma empresa de trabalho temporário, que é a entidade patronal, e o trabalhador, sendo este último colocado à disposição e sob a direcção de uma empresa e/ou de um estabelecimento utilizadores para nele(s) trabalhar."
+  },
+  "937e2bb47fd3f77a": {
+   "fragment_id": "Artigo 2.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1. A presente directiva tem por objecto assegurar que os trabalhadores que possuam um dos tipos de relações de trabalho referidos no artigo 1.º beneficiem, em matéria de segurança e de saúde no trabalho, do mesmo nível de protecção de que beneficiam os outros trabalhadores da empresa e/ou do estabelecimento utilizadores.\n\n2. A existência de uma das relações de trabalho referidas no artigo 1.º não pode, em caso algum, justificar uma diferença de tratamento no se refere às condições de trabalho, desde que se trate da protecção da segurança e da saúde no trabalho, nomeadamente no que respeita ao acesso aos equipamentos de protecção individual;\n\n3. A Directiva 89/391/CEE assim como as directivas especiais na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE aplicam-se plenamente aos trabalhadores que tenham uma das relações de trabalho previstas no artigo 1, sem prejuízo das disposições mais restritivas e/ou mais específicas contidas na presente directiva."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "2a8b42f70136e6ba": {
+   "fragment_id": "Artigo 3.º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informação dos trabalhadores\n\nSem prejuízo do disposto no artigo 10.º da Directiva 89/391/CEE, os Estados-membros tomarão as medidas necessárias para que:\n\n1. Antes do início de qualquer actividade por parte de um trabalhador que possua uma das relações de trabalho referidas no artigo 1.º, este seja informado pela empresa e/ou estabelecimento utilizadores dos riscos que corre.\n\n2. Essa informação\n\n— incida nomeadamente sobre a necessidade de qualificações ou aptidões profissionais especiais ou de uma vigilância médica especial, tal como definida pela legislação nacional,\n\n— e\n\n— indique os eventuais riscos agravados e/ou específicos inerentes ao posto de trabalho a prover, tal como definidos na legislação nacional."
+  },
+  "967526680e68343e": {
+   "fragment_id": "Artigo 4.º — Formação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formação dos trabalhadores\n\nSem prejuízo do disposto no artigo 12.º da Directiva 89/391/CEE, os Estados-membros tomarão as medidas necessárias para que, nos casos referidos no artigo 3.º, o trabalhador receba uma formação suficiente e adequada às características próprias do posto de trabalho, tendo em conta a sua qualificação e experiência."
+  },
+  "41bfd6b8cd2d8495": {
+   "fragment_id": "Artigo 5.º — Utilização e vigilância médica dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Utilização e vigilância médica dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilização e vigilância médica dos trabalhadores\n\n1. Os Estados-membros podem proibir o recurso a trabaĺhadores que possuam uma relação de trabalho referida no artigo 1.º para certos trabalhos particularmente perigosos para a segurança ou saúde desses mesmos trabalhadores tal como definidos na legislação nacional, e nomeadamente para certos trabalhos que estejam sujeitos a uma vigilância médica especial, igualmente definida na legislação nacional.\n\n2. Sempre que não utilizem a faculdade referida no n.º 1, os Estados-membros tomarão, sem prejuízo do disposto no artigo 14.º da Directiva 89/391/CEE, as medidas necessárias para que os trabalhadores que possuam uma relação de trabalho referida no artigo 1.º e aos quais se recorra para trabalhos que sejam objecto de vigilância médica especial, definida na legislação nacional, beneficiem de uma vigilância médica especial adequada.\n\n3. Os Estados-membros poderão prever que a vigilância médica especial adequada prevista no n.º 2 vá além do termo da relação de trabalho do trabalhador em causa."
+  },
+  "87e16155e6373e15": {
+   "fragment_id": "Artigo 6.º — Serviços de protecção e de prevenção",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Serviços de protecção e de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços de protecção e de prevenção\n\nOs Estados-membros tomarão as medidas necessárias para que os trabalhadores, serviços ou pessoas designados, nos termos do artigo 7.º da Directiva 89/391/CEE, para se ocuparem das actividades de protecção e de prevenção dos riscos profissionais, sejam informados da admissão de trabalhadores que possuam uma relação de trabalho referida no artigo 1.º, de modo a que esses trabalhadores, serviços ou pessoas possam desempenhar de forma adequada as suas actividades de prevenção e de protecção em relação a todos os trabalhadores em serviço na empresa e/ou estabelecimento."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "5635effa0b9ed19b": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS"
+  },
+  "0b754fdcfe3f8b24": {
+   "fragment_id": "Artigo 7.º — Relações de trabalho temporário: informação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Relações de trabalho temporário: informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Relações de trabalho temporário: informação\n\nSem prejuízo do disposto no artigo 3.º da presente directiva, os Estados-membros tomarão as medidas necessárias para que:\n\n1. A empresa e/ou o estabelecimento utilizadores, antes da colocação à disposição do trabalhador que tenha uma relação de trabalho do tipo referido no ponto 2 do artigo 1.º, especifique à empresa de trabalho temporário, nomeadamente, a qualificação profissional exigida e as características próprias do posto de trabalho a prover.\n\n2. A empresa de trabalho temporário comunique todos estes elementos aos trabalhadores em causa.\n\nOs Estados-membros têm a faculdade de prever que as especificações a dar pela empresa e/ou estabelecimento utilizadores à empresa de trabalho temporário, nos termos do primeiro parágrafo, ponto 1, devam constar do contrato de utilização."
+  },
+  "ab17a556365f77a7": {
+   "fragment_id": "Artigo 8.º — Relações de trabalho temporário: responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Relações de trabalho temporário: responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Relações de trabalho temporário: responsabilidade\n\nOs Estados-membros tomarão as medidas necessárias para que:\n\n1. Sem prejuízo da responsabilidade fixada pela legislação nacional da empresa de trabalho temporário, a empresa e/ou o estabelecimento utilizadores sejam responsáveis pelas condições de execução do trabalho durante a vigência do contrato.\n\n2. Para efeitos de aplicação do ponto 1, as condições de execução do trabalho limitam-se às que se relacionam com a segurança, a saúde e a higiene no trabalho."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "3a0103d65f0d17e9": {
+   "fragment_id": "Artigo 9.º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições mais favoráveis\n\nA presente directiva não afecta as disposições nacionais e comunitárias, existentes ou futuras, que sejam mais favoráveis à protecção da segurança e da saúde no local de trabalho dos trabalhadores que possuam um dos tipos de relações de trabalho referidos no artigo 1.º"
+  },
+  "b7f2eba2aaf11221": {
+   "fragment_id": "Artigo 10.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições finais\n\n1. O mais tardar até 31 de Dezembro de 1992, os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Do facto informarão imediatamente a Comissão.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que adoptarem no domínio regido pela presente directiva."
+  },
+  "0c03c803be517b58": {
+   "fragment_id": "Artigo 10.º-A — Relatório de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A — Relatório de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Relatório de aplicação\n\nDe cinco em cinco anos, os Estados-Membros apresentam à Comissão um relatório sobre a aplicação prática da presente directiva, sob a forma de um capítulo específico do relatório único previsto nos n.^os^ 1, 2 e 3 do artigo 17.º-A da Directiva 89/391/CEE, que servirá de base à avaliação a efectuar pela Comissão, nos termos do n.º 4 do mesmo artigo 17.º-A."
+  },
+  "b2c7acc7352e0122": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "8eb3c157c975d122": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#src.E0001)) JO n.º C 224 de 8. 9. 1990, p. 4.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#src.E0002)) Parecer emitido em 20 de Novembro de 1990 (ainda não publicado no Jornal Oficial) e JO n.º C 158 de 17. 6. 1991.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#src.E0003)) JO n.º C 332 de 31. 12. 1990, p. 167.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f3b7f019-57e0-41c7-9c4f-4ee66958e32e.0019.03/DOC_1#src.E0004)) JO n.º L 183 de 29. 6. 1989, p. 1."
+  }
+ }
+}

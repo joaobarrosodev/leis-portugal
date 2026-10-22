@@ -35,6 +35,80 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-01'
+version_history:
+  file: diretiva-ue-2003-99.versoes.json
+  count: 4
+  source_lastmod: '2013-07-01'
+  versions:
+  - date: '2003-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-01'
+    amending: eu:celex:32006L0104:por
+    amending_title: DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006
+    changes:
+    - Altera preambulo
+    - Altera Artigo 16.º — Alteração da Decisão 90/424/CEE
+    - Altera Artigo 18.º — Destinatários
+    - Adita CAPÍTULO I
+    - Adita DISPOSIÇÕES INTRODUTÓRIAS
+    - Adita Artigo 1.º — Objecto e âmbito de aplicação
+    - Adita CAPÍTULO II
+    - Adita VIGILÂNCIA DE ZOONOSES E DE AGENTES ZOONÓTICOS
+    - Adita Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos
+    - Adita CAPÍTULO III
+    - Adita RESISTÊNCIA ANTIMICROBIANA
+    - Adita Artigo 7.º — Vigilância da resistência antimicrobiana
+    - Adita CAPÍTULO IV
+    - Adita FOCOS PATOGÉNICOS DE ORIGEM ALIMENTAR
+    - Adita Artigo 8.º — Investigação epidemiológica dos focos patogénicos de origem alimentar
+    - Adita CAPÍTULO V
+    - Adita INTERCÂMBIO DE INFORMAÇÕES
+    - Adita Artigo 9.º — Avaliação das tendências e origens das zoonoses,
+    - Adita CAPÍTULO VI
+    - Adita LABORATÓRIOS
+    - Adita Artigo 10.º — Laboratórios comunitários e nacionais de referência
+    - Adita CAPÍTULO VII
+    - Adita EXECUÇÃO
+    - Adita Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação
+    - Adita CAPÍTULO VIII
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita Artigo 15.º — Revogação
+    - Adita ANEXO I
+    - Adita A. Zoonoses e agentes zoonóticos a incluir na vigilância
+    - Adita B. Lista de zoonoses e agentes zoonóticos a vigiar em função da situação epidemiológica
+    - Adita 1. Zoonoses virais
+    - Adita 2. Zoonoses bacterianas
+    - Adita 3. Zoonoses parasitárias
+    - Adita 4. Outras zoonoses e agentes zoonóticos
+    - Adita ANEXO II
+    - Adita Requisitos para a vigilância da resistência antimicrobiana nos termos do artigo 7.º
+    - Adita A. Requisitos gerais
+    - Adita B. Requisitos específicos
+    - Adita ANEXO III
+    - Adita Programas coordenados de vigilância tal como referidos no artigo 5.º
+  - date: '2009-04-20'
+    amending: eu:celex:32009R0219:por
+    amending_title: REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Regras gerais aplicáveis à vigilância de zoonoses e agentes zoonóticos
+    - Altera Artigo 5.º — Programas coordenados de vigilância
+    - Altera Artigo 9.º — Avaliação das tendências e origens das zoonoses,
+    - Altera Artigo 12.º — Comité
+    - Altera Artigo 16.º — Alteração da Decisão 90/424/CEE
+    - Altera Notas
+    - Adita Artigo 11.º
+    - Suprime Artigo 11.º — Alterações dos anexos e medidas de transição ou de aplicação
+  - date: '2013-07-01'
+    amending: eu:celex:32009D0470:por
+    amending_title: DECISÃO DO CONSELHO de 25 de Maio de 2009; DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Avaliação das tendências e origens das zoonoses,
+    - Altera Notas
+    - Suprime Artigo 16.º — Alteração da Decisão 90/424/CEE
 identifiers:
   celex: 32003L0099
   eli: http://data.europa.eu/eli/dir/2003/99/oj
@@ -49,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/727c8948-9912-4ede-a52c-d2b2e78d16d7.0010
   content_url: http://publications.europa.eu/resource/cellar/8bb3a504-4775-4e9e-b89b-a9ba3202b216.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0099-20130701
-  retrieved_at: '2026-10-22T02:57:35Z'
+  retrieved_at: '2026-10-22T14:55:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2015-01-14T16:57:20.398+01:00'
 integrity:
@@ -58,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:57:35Z'
-  notes: Texto consolidado 02003L0099-20130701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T14:55:19Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2003-99.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -171,32 +245,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:57:35Z'
+  checked_at: '2026-10-22T14:55:19Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003
-
-> 02003L0099 — PT — 01.07.2013 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32006L0104) — [DIRECTIVA 2006/104/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0104) — L 363 — 352 — 20.12.2006
-- [►M2](http://publications.europa.eu/resource/celex/32009R0219) — [REGULAMENTO (CE) n.º 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009](http://publications.europa.eu/resource/celex/32009R0219) — L 87 — 109 — 31.3.2009
-- [►M3](http://publications.europa.eu/resource/celex/32009D0470) — [DECISÃO DO CONSELHO de 25 de Maio de 2009](http://publications.europa.eu/resource/celex/32009D0470) — L 155 — 30 — 18.6.2009
-- [►M4](http://publications.europa.eu/resource/celex/32013L0020) — [DIRETIVA 2013/20/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0020) — L 158 — 234 — 10.6.2013
-
-## DIRECTIVA 2003/99/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de Novembro de 2003
 

@@ -34,6 +34,90 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2014-03-06'
+version_history:
+  file: diretiva-ue-2006-88.versoes.json
+  count: 5
+  source_lastmod: '2014-03-06'
+  versions:
+  - date: '2006-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Condições de autorização
+    - Altera Artigo 8.º — Obrigações de registo – Rastreabilidade
+    - Altera Artigo 10.º — Regime de vigilância zoossanitária
+    - Altera Artigo 13.º — Requisitos de prevenção de doenças aplicáveis ao transporte
+    - Altera Artigo 14.º — Certificação zoossanitária
+    - Altera Artigo 15.º — Requisitos gerais aplicáveis à colocação de animais de aquicultura no mercado para fins de criação
+      em exploração e repovoamento
+    - Altera Artigo 17.º — Introdução de animais de aquicultura vivos de espécies vectoras em zonas indemnes
+    - Altera Artigo 18.º — Animais de aquicultura e produtos derivados colocados no mercado para transformação subsequente,
+      antes do consumo humano
+    - Altera Artigo 23.º — Listas dos países terceiros e partes de países terceiros a partir dos quais é permitida a introdução
+      de animais de aquicultura e produtos derivados
+    - Altera Artigo 24.º — Documentos
+    - Altera Artigo 25.º — Normas de execução
+    - Altera Artigo 26.º — Notificação nacional
+    - Altera Artigo 28.º — Medidas de luta iniciais
+    - Altera Artigo 29.º — Investigação epizoótica
+    - Altera Artigo 32.º — Medidas de carácter geral
+    - Altera Artigo 34.º — Remoção e eliminação
+    - Altera Artigo 38.º — Disposições de carácter geral
+    - Altera Artigo 39.º — Medidas de confinamento
+    - Altera Artigo 42.º — Procedimento de adopção de medidas epidemiológicas ad hoc relativamente a doenças incluídas na
+      lista da parte II do anexo IV
+    - Altera Artigo 45.º — Conteúdo dos programas
+    - Altera Artigo 46.º — Período de aplicação dos programas
+    - Altera Artigo 47.º — Plano de emergência para doenças emergentes e doenças exóticas
+    - Altera Artigo 49.º — Estado-Membro indemne
+    - Altera Artigo 50.º — Zona ou compartimento indemne
+    - Altera Artigo 57.º — Serviços e métodos de diagnóstico
+    - Altera Artigo 65.º — Transposição
+    - Altera Artigo 67.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES
+    - Adita ANEXO II
+    - Adita Informações exigidas no registo oficial das empresas de produção aquícola e dos estabelecimentos de transformação
+      autorizados
+    - Adita PARTE I
+    - Adita Empresas de produção aquícola autorizadas
+    - Adita PARTE II
+    - Adita Estabelecimentos de transformação autorizados
+    - Adita ANEXO III
+  - date: '2008-05-21'
+    amending: eu:celex:32008L0053:por
+    amending_title: DIRECTIVA 2008/53/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Abril de 2008
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 34.º — Remoção e eliminação
+    - Altera Notas
+    - Suprime Doenças incluídas na lista
+  - date: '2012-11-15'
+    amending: eu:celex:32012L0031:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2012/31/EU DA COMISSÃO Texto relevante para efeitos do EEE de 25 de outubro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 34.º — Remoção e eliminação
+    - Altera Notas
+  - date: '2014-03-06'
+    amending: eu:celex:32014L0022:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2014/22/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de fevereiro de
+      2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 34.º — Remoção e eliminação
+    - Altera Notas
 identifiers:
   celex: 32006L0088
   eli: http://data.europa.eu/eli/dir/2006/88/oj
@@ -48,7 +132,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8b8e5668-083b-4941-9dd6-2323e93fee33.0017
   content_url: http://publications.europa.eu/resource/cellar/476d15e4-2403-4a43-8690-60822afdb5c6.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0088-20140306
-  retrieved_at: '2026-10-22T02:45:17Z'
+  retrieved_at: '2026-10-22T15:02:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-12-21T02:32:34.800+01:00'
 integrity:
@@ -57,9 +141,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:17Z'
-  notes: Texto consolidado 02006L0088-20140306.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:02:30Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2006-88.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -204,35 +288,19 @@ relationships:
   source: null
 article_structure:
   article_count: 67
-  section_count: 92
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 93
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:17Z'
+  checked_at: '2026-10-22T15:02:30Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2006/88/CE do Conselho, de 24 de Outubro de 2006
-
-> 2006L0088 — PT — 06.03.2014 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32008L0053) — [DIRECTIVA 2008/53/CE DA COMISSÃO Texto relevante para efeitos do EEE de 30 de Abril de 2008](http://publications.europa.eu/resource/celex/32008L0053) — L 117 — 27 — 1.5.2008
-- [M2](http://publications.europa.eu/resource/celex/32012L0031) — [DIRETIVA DE EXECUÇÃO 2012/31/EU DA COMISSÃO Texto relevante para efeitos do EEE de 25 de outubro de 2012](http://publications.europa.eu/resource/celex/32012L0031) — L 297 — 26 — 26.10.2012
-- [►M3](http://publications.europa.eu/resource/celex/32014L0022) — [DIRETIVA DE EXECUÇÃO 2014/22/UE DA COMISSÃO Texto relevante para efeitos do EEE de 13 de fevereiro de 2014](http://publications.europa.eu/resource/celex/32014L0022) — L 44 — 45 — 14.2.2014
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32006L0088R%2801%29) — [Rectificação, JO L 140, 1.6.2007, p. 59 (2006/88)](http://publications.europa.eu/resource/celex/32006L0088R%2801%29)
-
-## DIRECTIVA 2006/88/CE DO CONSELHO
 
 de 24 de Outubro de 2006
 

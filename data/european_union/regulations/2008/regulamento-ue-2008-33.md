@@ -36,6 +36,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-01-29'
+version_history:
+  file: regulamento-ue-2008-33.versoes.json
+  count: 2
+  source_lastmod: '2010-01-29'
+  versions:
+  - date: '2008-01-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-29'
+    amending: eu:celex:32010R0078:por
+    amending_title: REGULAMENTO (UE) N. o 78/2010 DA COMISSÃO de 27 de Janeiro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 10.º — Conclusões da Autoridade
+    - Altera Artigo 11.º — Apresentação de um projecto de directiva ou de um projecto de decisão
+    - Altera Artigo 25.º — Entrada em vigor
+    - Altera Notas
 identifiers:
   celex: 32008R0033
   eli: http://data.europa.eu/eli/reg/2008/33/oj
@@ -50,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/970b434f-9a2c-47e9-b413-96b4b07e68ad.0018
   content_url: http://publications.europa.eu/resource/cellar/fa3080ea-b093-4bc7-b138-009749bb5866.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0033-20100129
-  retrieved_at: '2026-10-22T03:13:37Z'
+  retrieved_at: '2026-10-22T15:13:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-30T12:48:36.580+01:00'
 integrity:
@@ -59,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:13:37Z'
-  notes: Texto consolidado 02008R0033-20100129.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:43Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2008-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -103,29 +122,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b1bbb201-2396-4453-89c0-66fe0ca947a5
 article_structure:
   article_count: 25
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:13:37Z'
+  checked_at: '2026-10-22T15:13:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n.° 33/2008 da Comissão, de 17 de Janeiro de 2008
-
-> 2008R0033 — PT — 29.01.2010 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0078) — [REGULAMENTO (UE) N.º 78/2010 DA COMISSÃO de 27 de Janeiro de 2010](http://publications.europa.eu/resource/celex/32010R0078) — L 24 — 7 — 28.1.2010
-
-## REGULAMENTO (CE) N.º 33/2008 DA COMISSÃO
 
 de 17 de Janeiro de 2008
 
