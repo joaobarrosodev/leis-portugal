@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/180-1971-644333
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ef14e7c4ee00421f97efb4e2a3e72027b3593252b569d13f5a2f8455a334ffd1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2c8c97ea4463923db38f2e20b5828364835753a90b18c55d7b601e9e2c336cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207860:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:538205:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:15Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +118,13 @@ Regulamento das Instalações Receptoras de Radiodifusão na Província Ultramar
 
 ### CAPÍTULO I — Dos receptores de radiodifusão e sua utilização
 
-###### Artigo 1.º - 1. A propriedade, posse, simples detenção ou utilização de instalações receptoras de radiodifusão, suas antenas e extensões, com ou sem amplificação de som adicional, ficam sujeitas ao disposto no presente Regulamento, com excepção apenas dos casos em que, por disposição expressa de lei, a autorização para as instalações e a sua fiscalização não pertençam à Emissora Nacional de Radiodifusão.
+Artigo 1.º - 1. A propriedade, posse, simples detenção ou utilização de instalações receptoras de radiodifusão, suas antenas e extensões, com ou sem amplificação de som adicional, ficam sujeitas ao disposto no presente Regulamento, com excepção apenas dos casos em que, por disposição expressa de lei, a autorização para as instalações e a sua fiscalização não pertençam à Emissora Nacional de Radiodifusão.
 
 2. Compreendem-se no disposto deste artigo os receptores de radiodifusão instalados em embarcações, aeronaves e veículos automóveis, ou de outra natureza, de matrícula portuguesa ou de matrícula estrangeira, quando estes últimos se encontrem em território português e não estejam abrangidos pela excepção prevista na alínea b) do artigo 27.º
 
-###### Art. 2.º Entende-se por instalação receptora de radiodifusão, neste Regulamento abreviadamente designada por «receptor», qualquer dispositivo ou conjunto de dispositivos que sirvam para a recepção de emissões destinadas ao público em geral.
+Art. 2.º Entende-se por instalação receptora de radiodifusão, neste Regulamento abreviadamente designada por «receptor», qualquer dispositivo ou conjunto de dispositivos que sirvam para a recepção de emissões destinadas ao público em geral.
 
-###### Art. 3.º - 1. É proibido, através da utilização de receptores:
+Art. 3.º - 1. É proibido, através da utilização de receptores:
 
 a) Tornar conhecida qualquer comunicação radiotelegráfica ou radiotelefónica que, mesmo acidentalmente, tenha sido captada ou dela fazer uso;
 
@@ -112,7 +132,7 @@ b) Perturbar terceiros fazendo funcionar os receptores com sonoridade excessiva,
 
 2. Exceptuam-se do disposto na alínea a) do n.º 1 deste artigo: as agências noticiosas ou empresas jornalísticas quando as radiocomunicações forem recebidas nos termos permitidos pelas convenções internacionais em que Portugal seja parte; as radiocomunicações provenientes de postos emissores de amadores autorizados, que digam respeito a ensaios de emissão e alcance.
 
-###### Art. 4.º - 1. A instalação de antenas exteriores aos edifícios tem de obedecer às seguintes normas:
+Art. 4.º - 1. A instalação de antenas exteriores aos edifícios tem de obedecer às seguintes normas:
 
 a) A distância mínima entre as antenas simples ou múltiplas, estabelecidas paralelamente, não deve ser inferior a 5 m;
 
@@ -130,7 +150,7 @@ f) As antenas não podem impedir a passagem para as chaminés nem os trabalhos d
 
 3. Os proprietários de prédios rústicos ou urbanos não podem impedir o atravessamento ou a fixação de antenas nos mesmos prédios, salvo em casos especiais devidamente fundamentados.
 
-###### Art. 5.º O terminal das antenas, bem como quaisquer partes condutoras acessíveis dos receptores, não devem:
+Art. 5.º O terminal das antenas, bem como quaisquer partes condutoras acessíveis dos receptores, não devem:
 
 a) Ser percorridos por corrente superior a 0,7 MA (valor de ponta), quando o circuito de medida apresente resistência não indutiva de 2000 Ómega;
 
@@ -138,11 +158,11 @@ b) Apresentar, em relação à terra, tensão inferior a 34 V (valor de ponta), 
 
 ### CAPÍTULO II — Das licenças
 
-###### Art. 6.º A propriedade ou a posse ou a simples detenção de um receptor, mesmo que não se encontre em estado de imediato funcionamento, obriga a requerer prèviamente à Emissora Nacional de Radiodifusão uma licença nominal chamada «licença de radiodifusão».
+Art. 6.º A propriedade ou a posse ou a simples detenção de um receptor, mesmo que não se encontre em estado de imediato funcionamento, obriga a requerer prèviamente à Emissora Nacional de Radiodifusão uma licença nominal chamada «licença de radiodifusão».
 
-###### Art. 7.º A existência de antena exterior aos edifícios considera-se, só por si, como presunção de posse de receptor de radiodifusão sonora.
+Art. 7.º A existência de antena exterior aos edifícios considera-se, só por si, como presunção de posse de receptor de radiodifusão sonora.
 
-###### Art. 8.º - 1. A licença de radiodifusão requer-se com o preenchimento do boletim (modelo n.º 1) e sua entrega no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou na Estação Rádio-Postal do Príncipe.
+Art. 8.º - 1. A licença de radiodifusão requer-se com o preenchimento do boletim (modelo n.º 1) e sua entrega no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou na Estação Rádio-Postal do Príncipe.
 
 2. Só se considera requerida a licença quando o boletim estiver preenchido devidamente e de forma bem legível e assinado pelo proprietário, possuidor ou detentor do receptor, ou por outrem a seu rogo, no caso de não saber ou não poder assinar.
 
@@ -150,25 +170,25 @@ b) Apresentar, em relação à terra, tensão inferior a 34 V (valor de ponta), 
 
 4. O boletim pode ser remetido pelo correio ao Emissor Regional de S. Tomé e Príncipe, que devolverá o talão anexo com indicação do dia e da hora da recepção, sendo este elemento que fixará a data em que a licença foi requerida.
 
-###### Art. 9.º - 1. Cada licença dá direito à instalação e utilização de um só receptor.
+Art. 9.º - 1. Cada licença dá direito à instalação e utilização de um só receptor.
 
 2. O proprietário de vários receptores deve requerer uma licença para cada um deles, quer os receptores permaneçam no mesmo ou em lugares diferentes.
 
 3. Esta obrigação recai sobre o detentor dos receptores, caso o proprietário não tenha requisitado as respectivas licenças, nos termos do n.º 2, antecedente.
 
-###### Art. 10.º As extensões, com ou sem amplificação de som adicional, de uma instalação receptora de radiodifusão que não sejam utilizadas apenas pelo proprietário da instalação principal ou familiares que com ele co-habitem, nomeadamente as que se encontrem em locais de acesso ou permanência de público, consideram-se instalações autónomas, sendo obrigatória uma licença por cada conjunto que constitua um foco difusor de som.
+Art. 10.º As extensões, com ou sem amplificação de som adicional, de uma instalação receptora de radiodifusão que não sejam utilizadas apenas pelo proprietário da instalação principal ou familiares que com ele co-habitem, nomeadamente as que se encontrem em locais de acesso ou permanência de público, consideram-se instalações autónomas, sendo obrigatória uma licença por cada conjunto que constitua um foco difusor de som.
 
-###### Art. 11.º - 1. Por cada licença requerida e mediante os elementos que constarem do boletim, a Emissora Nacional emitirá um livrete (modelo n.º 2) em nome do requerente, ficando este a denominar-se «subscritor» nas suas relações com aquele organismo.
+Art. 11.º - 1. Por cada licença requerida e mediante os elementos que constarem do boletim, a Emissora Nacional emitirá um livrete (modelo n.º 2) em nome do requerente, ficando este a denominar-se «subscritor» nas suas relações com aquele organismo.
 
 2. O livrete deve acompanhar sempre o receptor, até transferência da propriedade deste.
 
-###### Art. 12.º No caso de perda ou inutilização do livrete, será passada uma segunda via, mediante o pagamento de uma taxa de 25$00, para a licença de radiodifusão sonora.
+Art. 12.º No caso de perda ou inutilização do livrete, será passada uma segunda via, mediante o pagamento de uma taxa de 25$00, para a licença de radiodifusão sonora.
 
-###### Art. 13.º - 1. Os receptores instalados em veículos automóveis consideram-se como pertencendo à pessoa em nome da qual os veículos estiverem registados.
+Art. 13.º - 1. Os receptores instalados em veículos automóveis consideram-se como pertencendo à pessoa em nome da qual os veículos estiverem registados.
 
 2. Os receptores instalados em veículos automóveis vendidos a prestações, consideram-se como pertencendo ao adquirente do veículo, mesmo no caso de este continuar registado em nome do vendedor.
 
-###### Art. 14.º - 1. Ficam obrigados apenas a uma licença de radiodifusão sonora, por local de venda, de exposição, de armazenagem, de fabrico ou de trabalho, independentemente do número de receptores que possuírem:
+Art. 14.º - 1. Ficam obrigados apenas a uma licença de radiodifusão sonora, por local de venda, de exposição, de armazenagem, de fabrico ou de trabalho, independentemente do número de receptores que possuírem:
 
 a) Os proprietários dos estabelecimentos que vendam receptores, os vendedores de automóveis com receptores neles instalados e todos aqueles que, de qualquer modo, façam comércio com os mesmos, novos ou usados;
 
@@ -182,19 +202,19 @@ c) As fábricas e oficinas de montagem de receptores e os que procedam a repara�
 
 4. Não beneficiam do disposto neste artigo as pessoas ou empresas que não exerçam regularmente as actividades referidas nas alíneas a), b) ou c) do n.º 1 deste artigo.
 
-###### Art. 15.º - 1. Não podem ser alugados ou emprestados quaisquer receptores para os quais não tenha sido requerida licença.
+Art. 15.º - 1. Não podem ser alugados ou emprestados quaisquer receptores para os quais não tenha sido requerida licença.
 
 2. A requisição da licença deverá ser feita pela pessoa ou empresa que alugar ou emprestar o receptor.
 
-###### Art. 16.º - 1. As entidades referidas no artigo 14.º, quando coloquem receptores à experiência fora dos estabelecimentos, armazéns ou oficinas, devem enviar ao Emissor Regional de S. Tomé e Príncipe, sob registo ou mediante protocolo, no mesmo dia em que tiver início essa experiência, uma guia modelo n.º 3, devidamente preenchida.
+Art. 16.º - 1. As entidades referidas no artigo 14.º, quando coloquem receptores à experiência fora dos estabelecimentos, armazéns ou oficinas, devem enviar ao Emissor Regional de S. Tomé e Príncipe, sob registo ou mediante protocolo, no mesmo dia em que tiver início essa experiência, uma guia modelo n.º 3, devidamente preenchida.
 
 2. Cada guia de experiência tem a validade de quinze dias, improrrogáveis, contados a partir da data da emissão, não podendo ser renovada para o mesmo local.
 
 3. Um receptor em experiência só se considera legalizado quando esteja junto dele e patente à fiscalização da Emissora Nacional, em qualquer momento, o duplicado da guia referida neste artigo.
 
-###### Art. 17.º O subscritor que mude de residência é obrigado a comunicar, por escrito, ao Emissor Regional de S. Tomé e Príncipe, dentro do prazo de trinta dias, a nova morada e o número da licença.
+Art. 17.º O subscritor que mude de residência é obrigado a comunicar, por escrito, ao Emissor Regional de S. Tomé e Príncipe, dentro do prazo de trinta dias, a nova morada e o número da licença.
 
-###### Art. 18.º - 1. No caso de transferência de propriedade, inutilização total, destruição ou roubo do receptor e ainda do transporte do receptor para outra província ultramarina em que a Emissora Nacional não possua serviços próprios, ou para o estrangeiro, o subscritor pode solicitar, por escrito, o cancelamento da licença.
+Art. 18.º - 1. No caso de transferência de propriedade, inutilização total, destruição ou roubo do receptor e ainda do transporte do receptor para outra província ultramarina em que a Emissora Nacional não possua serviços próprios, ou para o estrangeiro, o subscritor pode solicitar, por escrito, o cancelamento da licença.
 
 2. Se o motivo invocado for a transferência de propriedade, a licença será cancelada com a devolução ao Emissor Regional de S. Tomé e Príncipe do respectivo livrete e a indicação do nome e morada do novo proprietário.
 
@@ -208,7 +228,7 @@ c) As fábricas e oficinas de montagem de receptores e os que procedam a repara�
 
 7. O pedido de cancelamento de uma licença só tem efeito a partir do início do semestre ou ano seguinte àquele em que for feito, respectivamente para as licenças com pagamento de taxa semestral ou anual.
 
-###### Art. 19.º - 1. Por morte do subscritor, a pessoa na posse de quem fica o receptor, ou qualquer dos seus herdeiros, deve participar o facto ao Emissor Regional de S. Tomé e Príncipe, no prazo de trinta dias, e devolver o livrete, para efeito de cancelamento da licença, com a indicação do nome e morada do novo proprietário.
+Art. 19.º - 1. Por morte do subscritor, a pessoa na posse de quem fica o receptor, ou qualquer dos seus herdeiros, deve participar o facto ao Emissor Regional de S. Tomé e Príncipe, no prazo de trinta dias, e devolver o livrete, para efeito de cancelamento da licença, com a indicação do nome e morada do novo proprietário.
 
 2. Fica responsável pelo cumprimento do disposto neste artigo a pessoa ou entidade que entrar na posse do receptor.
 
@@ -216,9 +236,9 @@ c) As fábricas e oficinas de montagem de receptores e os que procedam a repara�
 
 ### CAPÍTULO III — Das taxas
 
-###### Art. 20.º Por cada licença de radiodifusão sonora é devida a taxa anual de 100$00, pagável pelo subscritor ao ano ou ao semestre.
+Art. 20.º Por cada licença de radiodifusão sonora é devida a taxa anual de 100$00, pagável pelo subscritor ao ano ou ao semestre.
 
-###### Art. 21.º - 1. Pelas licenças requeridas até 31 de Março, com pagamento semestral, são devidas taxas desde o início do 1.º semestre desse ano; de 1 de Abril a 30 de Setembro, são devidas taxas desde o início do 2.º semestre; de 1 de Outubro a 31 de Dezembro, são devidas taxas desde o início do 1.º semestre do ano seguinte. Pelas licenças requeridas até 31 de Março com pagamento anual, são devidas taxas com início nesse ano; requeridas de 1 de Abril a 31 do Dezembro, a partir do início do ano seguinte ao da requisição da licença.
+Art. 21.º - 1. Pelas licenças requeridas até 31 de Março, com pagamento semestral, são devidas taxas desde o início do 1.º semestre desse ano; de 1 de Abril a 30 de Setembro, são devidas taxas desde o início do 2.º semestre; de 1 de Outubro a 31 de Dezembro, são devidas taxas desde o início do 1.º semestre do ano seguinte. Pelas licenças requeridas até 31 de Março com pagamento anual, são devidas taxas com início nesse ano; requeridas de 1 de Abril a 31 do Dezembro, a partir do início do ano seguinte ao da requisição da licença.
 
 2. O pedido de mudança de modalidade de pagamento da taxa de radiodifusão deve ser acompanhado do livrete e só produz efeitos a partir do início do ano seguinte àquele em que for requerido.
 
@@ -226,37 +246,37 @@ c) As fábricas e oficinas de montagem de receptores e os que procedam a repara�
 
 4. Na transferência da modalidade semestral para anual a emissão do novo livrete é gratuita.
 
-###### Art. 22.º Num dos dias do mês ou meses indicados no livrete da licença o subscritor deve pagar, no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou na Estação Rádio-Postal do Príncipe, a taxa correspondente ao ano ou semestre em curso, exibindo para o efeito o referido livrete.
+Art. 22.º Num dos dias do mês ou meses indicados no livrete da licença o subscritor deve pagar, no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou na Estação Rádio-Postal do Príncipe, a taxa correspondente ao ano ou semestre em curso, exibindo para o efeito o referido livrete.
 
-###### Art. 23.º A Emissora Nacional chamará a atenção dos subscritores para o pagamento das taxas por meio:
+Art. 23.º A Emissora Nacional chamará a atenção dos subscritores para o pagamento das taxas por meio:
 
 a) De avisos feitos durante o noticiário, pelo menos em três dias da primeira semana do mês ou meses referidos no artigo 22.º;
 
 b) De anúncios publicados num jornal em circulação na província, nas condições indicadas na alínea anterior.
 
-###### Art. 24.º - 1. O subscritor que não pagar a taxa no período ou períodos mencionados no livrete poderá fazê-lo nos trinta dias seguintes, no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou Estação Rádio-Postal do Príncipe, acrescendo a taxa e multa referida no artigo 43.º.
+Art. 24.º - 1. O subscritor que não pagar a taxa no período ou períodos mencionados no livrete poderá fazê-lo nos trinta dias seguintes, no Emissor Regional de S. Tomé e Príncipe, na Estação Central Telegráfica de S. Tomé ou Estação Rádio-Postal do Príncipe, acrescendo a taxa e multa referida no artigo 43.º.
 
 2. O pagamento poderá ser feito também por meio de vale de correio ou cheque visado, pagável na capital da província, acompanhado da indicação do número da licença a que a taxa respeita.
 
-###### Art. 25.º - 1. Quando se verifique a existência de receptor para o qual não foi oportunamente requerida licença, o seu proprietário ou possuidor fica obrigado ao pagamento das taxas devidas desde a data em que o receptor tiver sido adquirido ou se encontre em seu poder, além da multa referida no artigo 38.º
+Art. 25.º - 1. Quando se verifique a existência de receptor para o qual não foi oportunamente requerida licença, o seu proprietário ou possuidor fica obrigado ao pagamento das taxas devidas desde a data em que o receptor tiver sido adquirido ou se encontre em seu poder, além da multa referida no artigo 38.º
 
 2. Não são exigíveis as taxas devidas há mais de dez anos.
 
 3. Em caso de dúvida, e até prova em contrário, presume-se que o receptor foi adquirido ou se encontra em poder do seu possuidor há dez anos.
 
-###### Art. 26.º - 1. A instalação de antena exterior que atravesse a via pública ou possa afectar, de qualquer modo, o funcionamento dos serviços públicos ou particulares depende de licença da Emissora Nacional, pela qual é devida a taxa de 40$00.
+Art. 26.º - 1. A instalação de antena exterior que atravesse a via pública ou possa afectar, de qualquer modo, o funcionamento dos serviços públicos ou particulares depende de licença da Emissora Nacional, pela qual é devida a taxa de 40$00.
 
 2. A autorização requere-se mediante o preenchimento do impresso modelo n.º 5 e sua remessa ao Emissor Regional de S. Tomé e Príncipe, acompanhado da importância da taxa respectiva, em vale de correio ou cheque visado pagável em S. Tomé.
 
 ### CAPÍTULO IV — Das isenções
 
-###### Art. 27.º Ficam dispensados do cumprimento das disposições deste Regulamento:
+Art. 27.º Ficam dispensados do cumprimento das disposições deste Regulamento:
 
 a) Os receptores de cristal de galena ou semelhantes, quando utilizados ùnicamente com auscultadores;
 
 b) Os receptores instalados a bordo de navios, aviões, automóveis ou outros veículos com matrícula estrangeira, quando se encontrem em trânsito na província, legalizados pelo país de origem, ou constando dos documentos de importação temporária a que se refere o [Decreto-Lei n.º 26080](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26080-1935-538205), de 22 de Novembro de 1935.
 
-###### Art. 28.º - 1. Estão isentos de licença de radiodifusão:
+Art. 28.º - 1. Estão isentos de licença de radiodifusão:
 
 a) O Estado;
 
@@ -274,7 +294,7 @@ d) Os agentes diplomáticos e consulares estrangeiros em missão na província, 
 
 5. As pessoas que deixem de desempenhar cargos por virtude dos quais gozem de isenção de licença, ou seus herdeiros, só ficam obrigados à posse da licença a partir do nonagésimo dia contado da data em que hajam cessado de exercer as funções de tais cargos.
 
-###### Art. 29.º - 1. Estão isentos do pagamento de taxas:
+Art. 29.º - 1. Estão isentos do pagamento de taxas:
 
 a) Os sindicatos, Casas do Povo e Casas dos Pescadores; a Fundação Nacional para a Alegria no Trabalho; a Legião Portuguesa e os organismos da juventude católica, salas de soldados, de polícias, de marinheiros, de sargentos e de oficiais; seminários e institutos missionários; Misericórdias e instituições de beneficência e assistência, seus asilos, recolhimentos, hospitais e escolas gratuitas; corporações de bombeiros; sanatórios do Instituto de Assistência Nacional aos Tuberculosos e de Assistência aos Tuberculosos do Exército e da Armada; Liga dos Combatentes; observatórios meteorológicos, e o pessoal das forças armadas e das corporações militarizadas destacadas na província;
 
@@ -298,7 +318,7 @@ e) Os proprietários de receptores dados para penhor, enquanto constituírem gar
 
 7. Não estão isentas do pagamento de taxas as explorações comerciais ou industriais que funcionem, principalmente ou subsidiàriamente, com fins beneficentes, quando estejam colectadas por contribuição industrial ou pagem a licença de estabelecimento comercial e ou industrial legalmente fixada.
 
-###### Art. 30.º - 1. Estão isentos do pagamento de taxas pelos receptores de radiodifusão sonora que possuírem:
+Art. 30.º - 1. Estão isentos do pagamento de taxas pelos receptores de radiodifusão sonora que possuírem:
 
 a) Os fiscais do Governo junto dos emissores particulares de radiodifusão, em relação a um só receptor;
 
@@ -314,13 +334,13 @@ e) Os cegos, sendo pobres, nos termos dos n.os 3, 4 e 5 do artigo 29.º
 
 ### CAPÍTULO V — Da fiscalização
 
-###### Art. 31.º - 1. A fiscalização do cumprimento do disposto neste Regulamento compete aos agentes fiscais da Emissora Nacional, aos agentes de polícia e às praças e sargentos da Guarda Nacional Republicana em serviço rural.
+Art. 31.º - 1. A fiscalização do cumprimento do disposto neste Regulamento compete aos agentes fiscais da Emissora Nacional, aos agentes de polícia e às praças e sargentos da Guarda Nacional Republicana em serviço rural.
 
 2. Em casos de reconhecida conveniência, pode a direcção da Emissora Nacional autorizar, por despacho, outros funcionários deste organismo a procederem à fiscalização referida neste artigo.
 
 3. Antes do início de qualquer campanha de fiscalização, deverá do facto ser dado conhecimento ao governador da província e exposto o plano de actuação dos respectivos agentes fiscais.
 
-###### Art. 32.º - 1. Quando verifiquem a inobservância das disposições deste Regulamento, os funcionários, agentes, praças e sargentos mencionados deverão levantar auto de notícia, que será imediatamente remetido à Emissora Nacional, pelas vias competentes.
+Art. 32.º - 1. Quando verifiquem a inobservância das disposições deste Regulamento, os funcionários, agentes, praças e sargentos mencionados deverão levantar auto de notícia, que será imediatamente remetido à Emissora Nacional, pelas vias competentes.
 
 2. O auto de notícia, que deve conter os elementos mencionados no artigo 166.º do Código de Processo Penal, com dispensa da assinatura de testemunhas, faz fé até prova em contrário.
 
@@ -328,19 +348,19 @@ e) Os cegos, sendo pobres, nos termos dos n.os 3, 4 e 5 do artigo 29.º
 
 4. Pela fiscalização das condições de instalação de antenas exteriores será atribuída aos agentes fiscais da Emissora Nacional e seus funcionários 50 por cento da taxa referida no n.º 1 do artigo 26.º deste Regulamento, sem direito à participação estabelecida no número anterior quanto às multas que forem aplicadas nos termos do artigo 40.º
 
-###### Art. 33.º Os agentes fiscais da Emissora Nacional, em caso de necessidade, podem recorrer ao auxílio ou intervenção das autoridades administrativas ou policiais para o cumprimento de diligências que seja necessário efectuar.
+Art. 33.º Os agentes fiscais da Emissora Nacional, em caso de necessidade, podem recorrer ao auxílio ou intervenção das autoridades administrativas ou policiais para o cumprimento de diligências que seja necessário efectuar.
 
-###### Art. 34.º - 1. As pessoas ou empresas que negoceiem com receptores como ramo principal ou subsidiário da sua actividade comercial, incluindo os vendedores de automóveis com receptores neles instalados e os reparadores de receptores, são obrigados a enviar mensalmente ao Emissor Regional de S. Tomé e Príncipe, devidamente preenchida, a declaração modelo n.º 6.
+Art. 34.º - 1. As pessoas ou empresas que negoceiem com receptores como ramo principal ou subsidiário da sua actividade comercial, incluindo os vendedores de automóveis com receptores neles instalados e os reparadores de receptores, são obrigados a enviar mensalmente ao Emissor Regional de S. Tomé e Príncipe, devidamente preenchida, a declaração modelo n.º 6.
 
 2. A declaração será acompanhada de relação com os nomes e moradas das pessoas que no mês anterior, por compra, troca, doação, aluguer ou consignação, tiverem entrado na posse de receptores, devendo estes ser identificados pelas respectivas marcas e números de fábrica.
 
-###### Art. 35.º - 1. As casas de penhores, caixas de crédito popular e todos aqueles que realizem operações de mútuo garantido como penhor de receptores são igualmente obrigados a enviar mensalmente ao Emissor Regional de S. Tomé e Príncipe, devidamente preenchida, a declaração modelo n.º 6.
+Art. 35.º - 1. As casas de penhores, caixas de crédito popular e todos aqueles que realizem operações de mútuo garantido como penhor de receptores são igualmente obrigados a enviar mensalmente ao Emissor Regional de S. Tomé e Príncipe, devidamente preenchida, a declaração modelo n.º 6.
 
 2. A declaração será acompanhada de relação com os nomes e moradas das pessoas que no mês anterior tiverem resgatado receptores ou os tiverem adquirido em leilões ou venda particular.
 
 3. A relação referida no parágrafo anterior conterá ainda indicação da marca e número de fábrica dos receptores e o número dos mutuários.
 
-###### Art. 36.º - 1. Os elementos referidos nos artigos 34.º e 35.º devem dar entrada no Emissor Regional de S. Tomé e Príncipe nos dez primeiros dias de cada mês.
+Art. 36.º - 1. Os elementos referidos nos artigos 34.º e 35.º devem dar entrada no Emissor Regional de S. Tomé e Príncipe nos dez primeiros dias de cada mês.
 
 2. Os elementos aludidos terão carácter confidencial na parte relativa ao movimento de transacções das empresas, podendo apenas ser utilizados no que respeita à localização dos receptores para efeitos de contrôle da licença e aplicação de multas, nos termos deste Regulamento.
 
@@ -352,15 +372,15 @@ e) Os cegos, sendo pobres, nos termos dos n.os 3, 4 e 5 do artigo 29.º
 
 6. Quando o interessado entender que há inconveniente no exame dos documentos reclamados, pode recorrer para a direcção da Emissora Nacional, que resolverá definitivamente.
 
-###### Art. 37.º - 1. As alfândegas da província enviarão ao Emissor Regional de S. Tomé e Príncipe uma relação mensal que mencione os nomes e endereços das entidades importadoras de receptores de radiodifusão e o número de unidades importadas por cada uma delas durante o mês anterior.
+Art. 37.º - 1. As alfândegas da província enviarão ao Emissor Regional de S. Tomé e Príncipe uma relação mensal que mencione os nomes e endereços das entidades importadoras de receptores de radiodifusão e o número de unidades importadas por cada uma delas durante o mês anterior.
 
 2. De forma idêntica serão relacionados os receptores instalados em veículos automóveis importados em que entrem como bagagem.
 
 ### CAPÍTULO VI — Das infracções e das penas
 
-###### Art. 38.º A falta de licença de radiodifusão será punida com a multa de 100$00 a 1000$00.
+Art. 38.º A falta de licença de radiodifusão será punida com a multa de 100$00 a 1000$00.
 
-###### Art. 39.º - 1. São solidàriamente responsáveis pelas multas aplicadas o proprietário ou possuidor e o detentor do receptor que der lugar à transgressão.
+Art. 39.º - 1. São solidàriamente responsáveis pelas multas aplicadas o proprietário ou possuidor e o detentor do receptor que der lugar à transgressão.
 
 2. O proprietário da instalação principal é o responsável pela falta de licença para extensões, com ou sem amplificações de som adicional, a ela ligadas.
 
@@ -368,45 +388,45 @@ e) Os cegos, sendo pobres, nos termos dos n.os 3, 4 e 5 do artigo 29.º
 
 4. Se o detentor de um receptor desacompanhado de qualquer documento provar que o mesmo não lhe pertence, mas que se encontra em experiência, a multa recai sobre o respectivo proprietário.
 
-###### Art. 40.º - 1. Se for instalada uma antena exterior sem obedecer às condições previstas nos artigos 4.º e 5.º ou não correspondendo à declaração feita no pedido de autorização, o infractor é punido com a multa de 100$00 a 500$00.
+Art. 40.º - 1. Se for instalada uma antena exterior sem obedecer às condições previstas nos artigos 4.º e 5.º ou não correspondendo à declaração feita no pedido de autorização, o infractor é punido com a multa de 100$00 a 500$00.
 
 2. A pessoa ou firma que, mediante pagamento, tiver instalado a antena será considerada como infractora para efeitos do disposto no presente artigo, excepto se provar que a instalação sofreu alterações posteriores que não sejam da sua responsabilidade.
 
 3. No caso previsto no n.º 2 anterior, o detentor do aparelho será solidàriamente responsável pelo pagamento da multa, desde que se prove ter tido conhecimento de que a antena fora instalada em contravenção do disposto no presente Regulamento.
 
-###### Art. 41.º - 1. O não cumprimento do disposto nos artigos 15.º, 16.º, 17.º, 19.º, 34.º, 35.º e n.º 1 do artigo 36.º será punido com a multa de 100$00 a 1000$00.
+Art. 41.º - 1. O não cumprimento do disposto nos artigos 15.º, 16.º, 17.º, 19.º, 34.º, 35.º e n.º 1 do artigo 36.º será punido com a multa de 100$00 a 1000$00.
 
 2. Se se verificar que o adquirente de qualquer receptor forneceu à entidade vendedora falsos elementos de identificação, com manifesto intuito de se eximir ao cumprimento das obrigações impostas por este Regulamento, será punido com a multa de 500$00 a 5000$00, caso venha a ser identificado.
 
 3. De igual forma será punido o vendedor que, dolosamente, prestar à Emissora Nacional declarações incompletas ou inexactas, ficando ainda sujeito à pena aplicável ao crime de falsas declarações à autoridade pública.
 
-###### Art. 42.º - 1. Quando a Emissora Nacional receber declarações justificadas ou a fiscalização verifique que não é dado cumprimento ao disposto no artigo 3.º, avisará, por escrito, o infractor da proibição contida naquele artigo e penas aplicáveis em caso de transgressão.
+Art. 42.º - 1. Quando a Emissora Nacional receber declarações justificadas ou a fiscalização verifique que não é dado cumprimento ao disposto no artigo 3.º, avisará, por escrito, o infractor da proibição contida naquele artigo e penas aplicáveis em caso de transgressão.
 
 2. As infracções da mesma natureza verificadas posteriormente à remessa do aviso serão punidas com a multa de 100$00 a 1000$00.
 
-###### Art. 43.º As taxas que não forem pagas nos prazos determinados no livrete da respectiva licença só podem ser recebidas acrescidas da multa de 20 por cento da importância em dívida.
+Art. 43.º As taxas que não forem pagas nos prazos determinados no livrete da respectiva licença só podem ser recebidas acrescidas da multa de 20 por cento da importância em dívida.
 
-###### Art. 44.º Se o subscritor insistir em pedir o cancelamento da licença, com fundamento na transferência de propriedade, recusando-se ou não podendo indicar o nome e morada do adquirente, ou indicando, propositadamente, um nome e morada falsos, está sujeito a multa igual às taxas de radiodifusão de três a dez anos.
+Art. 44.º Se o subscritor insistir em pedir o cancelamento da licença, com fundamento na transferência de propriedade, recusando-se ou não podendo indicar o nome e morada do adquirente, ou indicando, propositadamente, um nome e morada falsos, está sujeito a multa igual às taxas de radiodifusão de três a dez anos.
 
-###### Art. 45.º Em caso de reincidência, as multas poderão ser elevadas para o dobro.
+Art. 45.º Em caso de reincidência, as multas poderão ser elevadas para o dobro.
 
-###### Art. 46.º Sobre todas as multas incide o adicional para o Estado, nos termos da legislação em vigor.
+Art. 46.º Sobre todas as multas incide o adicional para o Estado, nos termos da legislação em vigor.
 
-###### Art. 47.º - 1. Cabe ao director dos serviços administrativos e financeiros da Emissora Nacional a aplicação das sanções referidas nos artigos anteriores que não forem da competência exclusiva dos tribunais ordinários.
+Art. 47.º - 1. Cabe ao director dos serviços administrativos e financeiros da Emissora Nacional a aplicação das sanções referidas nos artigos anteriores que não forem da competência exclusiva dos tribunais ordinários.
 
 2. As reclamações serão informadas pelo mesmo funcionário e despachadas pelo presidente da direcção.
 
-###### Art. 48.º Em casos excepcionais e mediante despacho do Ministro do Ultramar, pode a Emissora Nacional revogar as licenças de radiodifusão ou para a instalação de antenas ou mandar suspender pelos períodos de tempo julgados necessários o funcionamento de receptores.
+Art. 48.º Em casos excepcionais e mediante despacho do Ministro do Ultramar, pode a Emissora Nacional revogar as licenças de radiodifusão ou para a instalação de antenas ou mandar suspender pelos períodos de tempo julgados necessários o funcionamento de receptores.
 
-###### Art. 49.º Para o efeito do disposto nos artigos 186.º, 188.º e 242.º do Código Penal, consideram-se agentes da autoridade os agentes fiscais da Emissora Nacional quando no exercício da fiscalização prevista neste Regulamento.
+Art. 49.º Para o efeito do disposto nos artigos 186.º, 188.º e 242.º do Código Penal, consideram-se agentes da autoridade os agentes fiscais da Emissora Nacional quando no exercício da fiscalização prevista neste Regulamento.
 
 ### CAPÍTULO VII — Pagamento voluntário das multas. Reclamações e recursos. Cobrança coerciva das taxas e multas
 
-###### Art. 50.º - 1. A Emissora Nacional notificará os interessados do montante das multas e do local onde, no prazo do trinta dias, devem ser pagas, se entretanto não forem objecto de reclamação.
+Art. 50.º - 1. A Emissora Nacional notificará os interessados do montante das multas e do local onde, no prazo do trinta dias, devem ser pagas, se entretanto não forem objecto de reclamação.
 
 2. As notificações serão enviadas pelo correio, com aviso de recepção, começando a correr os prazos para pagamento ou reclamações a partir do dia em que o aviso for assinado.
 
-###### Art. 51.º - 1. As reclamações sobre multas e demais sanções aplicadas pela Emissora Nacional, nos termos deste Regulamento, serão apresentadas por escrito e devem dar entrada na Emissor Regional de S. Tomé e Príncipe dentro do prazo estabelecido no artigo anterior.
+Art. 51.º - 1. As reclamações sobre multas e demais sanções aplicadas pela Emissora Nacional, nos termos deste Regulamento, serão apresentadas por escrito e devem dar entrada na Emissor Regional de S. Tomé e Príncipe dentro do prazo estabelecido no artigo anterior.
 
 2. Das decisões da Emissora Nacional sobre as reclamações referidas neste artigo cabe recurso hierárquico para o Ministro do Ultramar, que será acompanhado de depósito, no montante de 100$00, o qual ficará perdido para a Emissora Nacional, se o recurso não obtiver provimento ou for indeferido o recurso contencioso interposto da decisão ministerial.
 
@@ -414,24 +434,24 @@ e) Os cegos, sendo pobres, nos termos dos n.os 3, 4 e 5 do artigo 29.º
 
 4. Tendo havido reclamação ou reclamação e recurso, o prazo de trinta dias para o pagamento da multa conta-se a partir do conhecimento dado ao interessado da decisão desfavorável de que não haja recurso ou da qual se não tenha recorrido em tempo oportuno.
 
-###### Art. 52.º As taxas, multas e adicionais que não forem pagas nos prazos devidos serão relaxados aos juízos das execuções fiscais.
+Art. 52.º As taxas, multas e adicionais que não forem pagas nos prazos devidos serão relaxados aos juízos das execuções fiscais.
 
-###### Art. 53.º Das decisões da Emissora Nacional relativas à execução deste Regulamento e que não respeitem à aplicação das sanções nele previstas haverá reclamação, a apresentar, por escrito, no prazo de trinta dias, e da decisão desfavorável tomada sobre a reclamação caberá recurso contencioso, nos termos gerais do direito.
+Art. 53.º Das decisões da Emissora Nacional relativas à execução deste Regulamento e que não respeitem à aplicação das sanções nele previstas haverá reclamação, a apresentar, por escrito, no prazo de trinta dias, e da decisão desfavorável tomada sobre a reclamação caberá recurso contencioso, nos termos gerais do direito.
 
 ### CAPÍTULO VIII — Disposições gerais
 
-###### Art. 54.º A Emissora Nacional poderá corresponder-se directamente com a Repartição Provincial dos Serviços de Fazenda e Contabilidade e com a Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones acerca dos assuntos relacionados com a execução deste Regulamento.
+Art. 54.º A Emissora Nacional poderá corresponder-se directamente com a Repartição Provincial dos Serviços de Fazenda e Contabilidade e com a Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones acerca dos assuntos relacionados com a execução deste Regulamento.
 
-###### Art. 55.º As dúvidas que se suscitarem na aplicação deste Regulamento serão resolvidas por despacho do Ministro do Ultramar.
+Art. 55.º As dúvidas que se suscitarem na aplicação deste Regulamento serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 56.º São revogados, na província ultramarina de S. Tomé e Príncipe, a [Portaria n.º 19543](https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610), de 4 de Dezembro de 1962, o [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, e a [Portaria n.º 3382](https://diariodarepublica.pt/dr/detalhe/portaria/3382-1922-207860), de 30 de Maio de 1963, do Governo da província de S. Tomé e Príncipe.
+Art. 56.º São revogados, na província ultramarina de S. Tomé e Príncipe, a [Portaria n.º 19543](https://diariodarepublica.pt/dr/detalhe/portaria/19543-1962-155610), de 4 de Dezembro de 1962, o [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, e a [Portaria n.º 3382](https://diariodarepublica.pt/dr/detalhe/portaria/3382-1922-207860), de 30 de Maio de 1963, do Governo da província de S. Tomé e Príncipe.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Abril de 1971.**
+Promulgado em 23 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de S. Tomé e Príncipe. - J. da Silva Cunha.

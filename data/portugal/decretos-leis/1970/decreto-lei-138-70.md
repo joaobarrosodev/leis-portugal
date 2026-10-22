@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 79/1970, 1º Suplemento, Série I de 1970-04-04
   number: '79'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 397-(397) a 397-(437)
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf
 entry_into_force_dates: []
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-1970-219925
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5d00c6d5e27aaa1b199c202ca3ea6454a0070026fdd66cd2b5c4f27c0c32763c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fad55dd0e710fceb5453095b9a0f354c286b59717d452b864dbdd05f6ea1b8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Classificação Internacional de Doenças
+- Convenção
+- Doença
+- OMS
+- Portugal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:147405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:147405:por
+  label: "Substituída a lista aprovada pelo presente diploma, pelo DEC LEI.513-C1/79.1979.12.27.PCM DR.IS [297]3ºSUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/513-c1-1979-147405
+  date: '1979-12-27'
+- type: cites
+  target: pt:dre:184543:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:141258:por
+  label: "Rectificado pela RECT.DD450.31.07.1970.PC, DG.IS [176] de 31.07.1970, que procedeu à publicação do texto (omisso\
+    \ no presente diploma) em línguas francesa e portuguesa, do Regulamento das Doenças,Traumatismos e Causas de Morte da\
+    \ Organização Nacional de Saúde, aprovado para ratificação pelo presente diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1970-141258
+  date: '1970-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:52Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +111,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o novo Regulamento das Doenças, Traumatismos e Causas de Morte da Organização Mundial de Saúde, de 1967 (8.ª revisão internacional), e listas respectivas (especificada, de 1000 rubricas, A, B, C, D e P), cujos textos em francês e respectiva tradução portuguesa se publicam em anexo.
+Artigo único. É aprovado, para ratificação, o novo Regulamento das Doenças, Traumatismos e Causas de Morte da Organização Mundial de Saúde, de 1967 (8.ª revisão internacional), e listas respectivas (especificada, de 1000 rubricas, A, B, C, D e P), cujos textos em francês e respectiva tradução portuguesa se publicam em anexo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 22 de Novembro de 1969.**
+Promulgado em 22 de Novembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -2565,13 +2587,13 @@ Y 87 Autre naissance multiple, sans précision.
 
 Da Liste A à Liste D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf))](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
 
 Liste P
 
 Liste de cent rubriques pour la mise en tableaux des causes de morbidité et de mortalité périnatales
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf))](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
 
 8.ª Classificação Internacional de Doenças
 
@@ -5341,12 +5363,12 @@ Y 89 Nascimento de tipo não especificado.
 
 Da Lista A à Lista D
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf))](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
 
 Lista P
 
 Lista de cem causas para apresentação da mobilidade da mortalidade perinatais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf))](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/07901/03970437.pdf)
 
 Ministério da Saúde e Assistência, 22 de Novembro de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.

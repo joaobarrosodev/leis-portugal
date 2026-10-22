@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/02/02700/01810182.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1974-407103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7a289b0e1cfe6c5dd05b922c29bb964d931f175a089e73282c5771a38fe0c85e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7c72aa4a3d16ac7c0766e499675d6df9fc9072642503a917a5bd21f2a1e871a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Sindical
+- Definição de Competências
+- Fiscalização
+- Instituto Nacional do Trabalho e Previdência
+- Pagamento
+- Quota Sindical
 relationships:
 - type: amended_by
   target: pt:dre:476364:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:187697:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476364:por
+  label: "Revogado pelo DEC LEI.329/74.10.07.1974.MT, DG.IS [159] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-1974-476364
+  date: '1974-07-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:18Z'
   warnings: []
   errors: []
 ---
@@ -107,17 +122,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O Ministro das Corporações e Segurança Social poderá determinar, por despacho, que as categorias profissionais e económicas representadas pelos sindicatos e que neles se não associem voluntariamente contribuam para as despesas de instalação e funcionamento daqueles organismos corporativos.
+Artigo 1.º - 1. O Ministro das Corporações e Segurança Social poderá determinar, por despacho, que as categorias profissionais e económicas representadas pelos sindicatos e que neles se não associem voluntariamente contribuam para as despesas de instalação e funcionamento daqueles organismos corporativos.
 
 2. O valor das quotas devidas, por força de despacho, pelas entidades referidas no número anterior será, em princípio, igual ao fixado nos estatutos dos organismos para idênticas categorias de associados, mas poderá ser inferior, se assim for determinado, ouvida a Inspecção dos Organismos Corporativos (I. O. C.)
 
-###### Art. 2.º - 1. Os despachos emitidos nos termos do artigo precedente são válidos pelo período prorrogável de três anos, podendo, contudo, a sua validade ser fixada por período inferior se circunstâncias especiais assim o aconselharem.
+Art. 2.º - 1. Os despachos emitidos nos termos do artigo precedente são válidos pelo período prorrogável de três anos, podendo, contudo, a sua validade ser fixada por período inferior se circunstâncias especiais assim o aconselharem.
 
 2. Quando se verifique através de inspecção da I. O. C. que os organismos fizeram inconveniente ou defeituosa utilização das suas receitas, ou deixaram de cumprir encargos a que legalmente se encontrassem sujeitos, poderão, a todo o tempo, ser revogados os despachos de quotização obrigatória, alterado o seu período de validade ou modificadas as suas disposições, nos termos da segunda parte do n.º 2 do artigo 1.º
 
 3. Das decisões tomadas nos termos do número anterior podem os organismos interessados recorrer para o Conselho Corporativo, que deliberará em última instância.
 
-###### Art. 3.º - 1 O despacho a que se refere o artigo 1.º será emitido a requerimento da direcção dos organismos interessados, das entidades que legalmente a substituírem ou das comissões organizadoras dos organismos a constituir.
+Art. 3.º - 1 O despacho a que se refere o artigo 1.º será emitido a requerimento da direcção dos organismos interessados, das entidades que legalmente a substituírem ou das comissões organizadoras dos organismos a constituir.
 
 2. O requerimento mencionado no número anterior deverá ser entregue nas delegações do Instituto Nacional do Trabalho e Previdência e, no distrito de Lisboa, nos Serviços de Acção Social.
 
@@ -125,7 +140,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. O requerimento a que se refere este artigo deverá ser apresentado até dois meses antes de terminado o prazo de validade do despacho anterior, o qual, neste caso, se mantém em vigor até ser proferido novo despacho.
 
-###### Art. 4.º - 1. Sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º, mantêm-se as situações criadas ao abrigo do disposto no [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939.
+Art. 4.º - 1. Sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º, mantêm-se as situações criadas ao abrigo do disposto no [Decreto-Lei n.º 29931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29931-1939-187697), de 15 de Setembro de 1939.
 
 2. Todos os organismos que há três ou mais anos recebam quantias ao abrigo de despachos de quotização obrigatória deverão, caso tenham interesse, apresentar até 30 de Junho do corrente ano o requerimento a que se refere o n.º 1 do artigo anterior.
 
@@ -133,10 +148,10 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 23 de Janeiro de 1974.**
+Promulgado em 23 de Janeiro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

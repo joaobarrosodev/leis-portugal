@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(21) a 1476-(23)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00210023.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-l-1976-353912
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fe90de7471bf116b6d26fd992ce57a4461f69b0caed13c42f5cb48d75ea567f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dc457ae55106016b744c3ae343276018ef4928d43f7a819af62b9e2f0865358
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Banco de Fomento Nacional
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Portugal
+- Rectificação de TIPO de Diploma
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:28Z'
   warnings: []
   errors: []
 ---
@@ -86,21 +92,21 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde sobre o Banco de Fomento Nacional assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde sobre o Banco de Fomento Nacional assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE SOBRE O BANCO DE FOMENTO NACIONAL
 
 ### CAPÍTULO I — Da transferência do departamento
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1. O Estado Português, por intermédio do Banco de Fomento Nacional, transferirá para o Estado de Cabo Verde, por intermédio do Banco de Cabo Verde, o activo e o passivo do departamento daquele Banco em Cabo Verde.
 
@@ -112,33 +118,33 @@ ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE SOBRE O BANCO 
 
 5. Os actos de transferência ficarão isentos de sisa e de quaisquer outros impostos e pela celebração do instrumento ou instrumentos necessários para o efeito não serão cobrados quaisquer taxas, selos ou emolumentos.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 O património a transferir será reportado, para todos os efeitos, aos valores activos e passivos existentes à data da transferência do departamento, embora os apuramentos contabilísticos referentes a esta data possam vir a ser concretizados até quinze dias antes dos apuramentos contabilísticos relativos ao departamento do Banco Nacional Ultramarino e previstos no acordo de transferência do departamento deste Banco.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 A inventariação física dos bens patrimoniais afectos ao departamento do Banco de Fomento Nacional em Cabo Verde, bem como a verificação dos respectivos cofres e sua segurança, deverão estar prontos até à data da transferência do referido departamento.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O Banco de Cabo Verde substituirá o Banco de Fomento Nacional em todas as responsabilidades por este assumidas perante terceiros, existentes à data da transferência do seu departamento em Cabo Verde e respeitantes a este Estado.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Todas as contas do departamento de Cabo Verde com a sede e com outros departamentos serão regularizadas e compensadas entre si, à data da transferência, sendo apenas exigível o saldo resultante desta compensação.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 Consideram-se extintos na data da transferência do departamento do Banco de Fomento Nacional todas as contribuições, taxas e impostos que aquele porventura deva na República de Cabo Verde, bem como quaisquer créditos de natureza tributária que o mesmo departamento possa ter sobre o Tesouro daquele Estado.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 Na data da assinatura do presente Acordo, o Banco de Cabo Verde designará um ou mais representantes para acompanhar a gestão do departamento do Banco de Fomento Nacional em Cabo Verde, os quais serão obrigatoriamente ouvidos, com voto consultivo, sobre todas as operações a realizar pelo mesmo departamento.
 
 ### CAPÍTULO II — Da cedência de créditos da sede
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 O Banco de Fomento Nacional cederá ao Banco de Cabo Verde os saldos dos créditos em moeda portuguesa directamente concedidos pela sede, emergentes dos seguintes contratos:
 
@@ -148,19 +154,19 @@ b) Empréstimo de 20000000$00 à Sociedade Frigorífica Exportadora (Cabo Verde)
 
 c) Empréstimo de 18000000$00 à Moave - Moagem de Cabo Verde, S. A. R. L., celebrado em 1973.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 O preço da cessão a pagar pelo Banco de Cabo Verde ao Banco de Fomento Nacional será o correspondente ao montante das prestações vincendas de cada um dos empréstimos, acrescido do montante de quaisquer prestações e encargos que na data da cessão se encontrem vencidos e não pagos.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 O preço referido no artigo anterior será transformado num crédito do Banco de Fomento Nacional sobre o Banco de Cabo Verde, com um período de reembolso de oito anos, mediante amortizações semestrais e iguais, a primeira das quais se vencerá ano e meio após o Acordo. A taxa de juro é fixa e igual à média ponderada dos empréstimos iniciais, diminuída de 1% ao ano.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 O pagamento do preço será efectuado na sede do Banco de Fomento Nacional, em Lisboa, em escudos portugueses.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 1. O Banco de Cabo Verde substituirá o Banco de Fomento Nacional em todas as responsabilidades por este assumidas e que derivam da garantia prestada perante a firma Miag - Muhlenbau und Industrie, G. m. b. H., até ao montante de DM 104467,86 e respectivo juro relativo ao fornecimento de equipamentos à Moave - Moagem de Cabo Verde, S. A. R. L.
 
@@ -168,23 +174,23 @@ O pagamento do preço será efectuado na sede do Banco de Fomento Nacional, em L
 
 ### CAPÍTULO III — Do pessoal e disposições comuns
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 Ao pessoal do departamento será aplicado o anexo I do Acordo entre a República de Cabo Verde sobre a Transferência do Departamento do Banco Nacional Ultramarino em Cabo Verde, que faz parte integrante do presente Acordo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 No respeitante à transferência do departamento, são aplicáveis subsidiariamente as normas reguladoras do Acordo de Transferência do Departamento do Banco Nacional Ultramarino para o Banco de Cabo Verde.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 Por efeito da transferência do departamento do Banco de Fomento Nacional para o Banco de Cabo Verde, bem como dos créditos considerados no capítulo II este sucederá em todos os direitos e obrigações que se integram na esfera jurídica do departamento ou do Banco de Fomento Nacional e nas acções em que o Banco de Fomento Nacional seja parte, por motivo das actividades em causa.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 O Governo Português e o Governo de Cabo Verde obrigam-se a promover a prática de todos os actos, incluindo a publicação de diplomas legais que se revelem necessários para conferir força jurídica ao presente Acordo, bem como para permitir a sua perfeita execução.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 O presente Acordo entrará em vigor na data da sua assinatura e durará pelo tempo necessário à regularização da transferência do departamento do Banco de Fomento Nacional e dos créditos referidos no capítulo II.
 

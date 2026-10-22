@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/09/22200/29102910.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/395-1980-461822
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb995371f489f7dc8d45f97f8d34c6a40966b40e13f7c0c6952956aeaf1593c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 501bf6f95af48c7a51ba80e64c6184ef62a9155fbd129bd87351d6cb5f3d27a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Administração Interna
+- Serviços Técnicos de Fomento
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:452020:por
+  label: "Aditado o art. 3º-A pelo DEC LEI.270/83.1983.06.17.MFP, DR.IS [137]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1983-452020
+  date: '1983-06-17'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:230898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:02Z'
   warnings: []
   errors: []
 ---
@@ -100,22 +126,22 @@ Considerando o estabelecido no artigo 1.º do [Decreto-Lei n.º 819/76](https://
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Sempre que as assembleias distritais tiverem decidido ou venham a decidir a extinção dos seus Serviços Técnicos de Fomento, os funcionários pertencentes a estes quadros transitam para os quadros dos gabinetes de apoio técnico (GATs) criados pelo [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, mediante anuência das assembleias distritais.
+Artigo 1.º - 1 - Sempre que as assembleias distritais tiverem decidido ou venham a decidir a extinção dos seus Serviços Técnicos de Fomento, os funcionários pertencentes a estes quadros transitam para os quadros dos gabinetes de apoio técnico (GATs) criados pelo [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847), de 29 de Março, mediante anuência das assembleias distritais.
 
 2 - A transição prevista no número anterior será feita para quadro do GAT com sede na área do distrito respectivo ou, a requerimento do interessado e com observância do disposto no [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847) e no [Despacho Normativo n.º 389/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/389-1979-230898), de 31 de Dezembro, para o de qualquer outro GAT.
 
-###### Art. 2.º - 1 - Os funcionários referidos no artigo anterior transitarão para lugares dos GATs em categoria igual àquela em que estão providos.
+Art. 2.º - 1 - Os funcionários referidos no artigo anterior transitarão para lugares dos GATs em categoria igual àquela em que estão providos.
 
 2 - A transição será feita por despacho do Ministro da Administração Interna, com dispensa de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 3.º Se não existirem nos quadros dos GATs vagas correspondentes à categoria para que os funcionários transitem, nos termos do artigo 2.º, consideram-se criadas a partir da data da extinção a que se refere o artigo 1.º, sendo as dotações das carreiras repostas à medida que os lugares forem vagando.
+Art. 3.º Se não existirem nos quadros dos GATs vagas correspondentes à categoria para que os funcionários transitem, nos termos do artigo 2.º, consideram-se criadas a partir da data da extinção a que se refere o artigo 1.º, sendo as dotações das carreiras repostas à medida que os lugares forem vagando.
 
-###### Art. 4.º As despesas resultantes da aplicação do presente diploma serão satisfeitas nos termos do artigo 10.º do [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847).
+Art. 4.º As despesas resultantes da aplicação do presente diploma serão satisfeitas nos termos do artigo 10.º do [Decreto-Lei n.º 58/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1979-382847).
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Agosto de 1980.**
+Promulgado em 24 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

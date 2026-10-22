@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1971-631787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-07-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d623f72471c699d8a12900ad125cc2fb08ea3786ce96c5d4456c59b3197af82d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2161acd7bb893806a5f80409e6f054eb1248dd789d4483451589c8f91413bc56
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administrador
+- Arsenal do Alfeite
+- Conselho de Administração
+- Criação de Lugares
+- Definição de Competências
+- Director Adjunto
+- Extinção de Lugares
+- Gestão Orçamental
+- Marinha
+- Militar
+- Ministro da Marinha
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:181626:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:181626:por
+  label: "Substituído por dois o parágrafo único do art. 7º do Dec Lei 28408 de 31-Dez de 1937, com a redacção constante do\
+    \ presente diploma, pelo DEC LEI.550-A/76.12.07.1976.CR, DR.IS [161-Supl] de 12.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/550-a-1976-181626
+  date: '1976-07-12'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512661:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668912:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:54Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +130,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O [Decreto-Lei n.º 28408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28408-1937-668912), de 31 de Dezembro de 1937, é alterado como se segue:
+Artigo 1.º O [Decreto-Lei n.º 28408](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28408-1937-668912), de 31 de Dezembro de 1937, é alterado como se segue:
 
 a) São acrescentados três parágrafos ao artigo 1.º:
 
@@ -107,7 +142,7 @@ a) São acrescentados três parágrafos ao artigo 1.º:
 
 b) O corpo do artigo 2.º passa a ter a seguinte redacção:
 
-###### Art. 2.º O Arsenal será superiormente dirigido por um administrador e será administrado por um conselho de administração, que terá como presidente o administrador e como vogais os directores.
+Art. 2.º O Arsenal será superiormente dirigido por um administrador e será administrado por um conselho de administração, que terá como presidente o administrador e como vogais os directores.
 
 c) É acrescentado um parágrafo ao artigo 3.º:
 
@@ -117,22 +152,22 @@ d) O § único do artigo 7.º passa a ter a seguinte redacção:
 
 § único. Os oficiais da Armada prestarão serviço em comissão, independentemente da sua hierarquia militar e nas condições estabelecidas no Estatuto do Oficial da Armada.
 
-###### Art. 2.º - 1. Fica autorizada, para vigorar a partir de 1 de Janeiro de 1972, a reestruturação do quadro e ordenados do pessoal do Arsenal do Alfeite, a levar a efeito por alteração do respectivo regulamento e de acordo com as normas estabelecidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 2.º - 1. Fica autorizada, para vigorar a partir de 1 de Janeiro de 1972, a reestruturação do quadro e ordenados do pessoal do Arsenal do Alfeite, a levar a efeito por alteração do respectivo regulamento e de acordo com as normas estabelecidas no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. No respeitante às categorias do pessoal técnico e fabril cuja admissão no quadro tenha lugar por assalariamento, as correspondentes remunerações serão fixadas por despacho do Ministro da Marinha, com o acordo do Ministro das Finanças e depois de ouvido o Ministério das Corporações e Previdência Social.
 
 3. O provimento em novas categorias do pessoal já pertencente ao quadro, bem como a integração no quadro dos actuais serventuários contratados além do quadro, serão feitos pelo Ministro da Marinha, sob proposta da administração do Arsenal, por meio de relação nominal com indicação das respectivas categorias, que, depois de sujeita à anotação do Tribunal de Contas, será publicada no Diário do Governo até 31 de Dezembro próximo.
 
-###### Art. 3.º - 1. São revogados o artigo 2.º do [Decreto-Lei n.º 43379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43379-1960-512661), de 6 de Dezembro de 1960, e o [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.
+Art. 3.º - 1. São revogados o artigo 2.º do [Decreto-Lei n.º 43379](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43379-1960-512661), de 6 de Dezembro de 1960, e o [Decreto n.º 41253](https://diariodarepublica.pt/dr/detalhe/decreto/41253-1957-281218), de 4 de Setembro de 1957.
 
 2. É extinto o cargo de director adjunto da administração, ficando o actual titular na situação de adido, além do quadro, com as funções que lhe forem cometidas pelo administrador.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 11 de Novembro de 1971.**
+Promulgado em 11 de Novembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

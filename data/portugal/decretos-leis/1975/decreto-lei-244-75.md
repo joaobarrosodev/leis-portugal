@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1975-336166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc450d90a0e787a197dafb20be2dc0738e0738989deccd9b4c840b56b6abedc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a448196275219e7747c7c7aa131c84f5ba84a22196b7433872c54c4edb7d51a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Militar
+- Pensão de Reforma
+- Pensão de Reserva
+relationships:
+- type: cites
+  target: pt:dre:465399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:35Z'
   warnings: []
   errors: []
 ---
@@ -88,20 +95,20 @@ Considerando as dúvidas suscitadas na aplicação do disposto no artigo 1.º do
 
 Usando dos poderes conferidos pelo artigo 6.º, n.º 1, da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 1.º e 4.º do [Decreto-Lei n.º 603/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1974-465399), de 12 de Novembro, é rectificada nos seguintes termos:
+Artigo 1.º A redacção dos artigos 1.º e 4.º do [Decreto-Lei n.º 603/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1974-465399), de 12 de Novembro, é rectificada nos seguintes termos:
 
-###### Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.
+Artigo 1.º As pensões de reserva dos militares são iguais à trigésima sexta parte da remuneração ilíquida que serve de base ao seu cálculo, multiplicada pelo número de anos de serviço contados, ao qual não pode ser atribuído valor superior a trinta e seis, continuando o desconto da quota para a Caixa Geral de Aposentações a ser feito em folha.
 
 ...
 
-###### Art. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.
+Art. 4.º As disposições dos artigos anteriores aplicam-se também às pensões de reforma dos militares, sendo o seu cálculo efectuado nos mesmos termos dos estabelecidos para a reserva, mas a remuneração que lhe serve de base tornar-se-á líquida da respectiva quota.
 
-###### Art. 2.º A rectificação constante deste diploma tem efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 603/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1974-465399), de 12 de Novembro.
+Art. 2.º A rectificação constante deste diploma tem efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 603/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/603-1974-465399), de 12 de Novembro.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 16 de Maio de 1975.**
+Promulgado em 16 de Maio de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/07/16200/15531554.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1979-382203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70855658992b94279083e1fbee66dc64f41e25a349457dcb9ee2687ea38d4875
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 934b05ca0195999ff03aed79092fff45beca1badb6c39ccf09c000ec638ef02e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cimpor
+- Estatuto
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:383271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:06Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +117,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 9.º e 12.º dos Estatutos da Cimpor - Cimentos de Portugal, E. P., aprovados pelo [Decreto-Lei n.º 217-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-b-1976-383271), de 26 de Março, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 9.º e 12.º dos Estatutos da Cimpor - Cimentos de Portugal, E. P., aprovados pelo [Decreto-Lei n.º 217-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-b-1976-383271), de 26 de Março, passam a ter a seguinte redacção:
 
-###### Art. 8.º - 1 - O conselho geral será composto por:
+Art. 8.º - 1 - O conselho geral será composto por:
 
 a) Dois representantes do Ministério da Indústria e Tecnologia;
 
@@ -119,7 +135,7 @@ f) Oito representantes dos trabalhadores de toda a indústria cimenteira.
 
 2 - ...
 
-###### Art. 9.º - 1 - Os membros do conselho geral serão designados:
+Art. 9.º - 1 - Os membros do conselho geral serão designados:
 
 a) Os referidos nas alíneas a) a d) do n.º 1 do artigo anterior pelo respectivo Ministro;
 
@@ -131,11 +147,11 @@ c) Os referidos na alínea f) pelo competente órgão dos trabalhadores.
 
 3 - O outro representante do Ministério da Indústria e Tecnologia será o vice-presidente, substituindo o presidente nas suas faltas e impedimentos.
 
-###### Art. 12.º - 1 - O conselho de gerência é composto por um mínimo de cinco e um máximo de sete administradores.
+Art. 12.º - 1 - O conselho de gerência é composto por um mínimo de cinco e um máximo de sete administradores.
 
 2 - Cabe ao Conselho de Ministros, sob proposta do Ministro da Indústria e Tecnologia, ouvidos os trabalhadores da empresa, nomear os administradores e designar de entre eles o presidente do conselho de gerência.
 
-###### Art. 2.º Na redacção do n.º 1 do artigo 41.º dos Estatutos da Cimpor - Cimentos de Portugal, E. P., são introduzidas as seguintes alterações:
+Art. 2.º Na redacção do n.º 1 do artigo 41.º dos Estatutos da Cimpor - Cimentos de Portugal, E. P., são introduzidas as seguintes alterações:
 
 a) É suprimida a alínea e) e reordenadas as alíneas f) e g), que passam, respectivamente, a alíneas e) e f);
 
@@ -143,12 +159,12 @@ b) A nova alínea e) passa a ter a seguinte redacção:
 
 e) O direito a audição prévia no que respeita à designação dos membros do conselho de gerência.
 
-###### Art. 3.º É eliminado o n.º 5 do artigo 15.º dos Estatutos referidos no artigo 1.º deste diploma.
+Art. 3.º É eliminado o n.º 5 do artigo 15.º dos Estatutos referidos no artigo 1.º deste diploma.
 
 Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 3 de Julho de 1979.**
+Promulgado em 3 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

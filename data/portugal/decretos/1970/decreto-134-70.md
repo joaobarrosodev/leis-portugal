@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/134-1970-229106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00119f0d6715fd691319ab1fbefd2f21ba4c07a3ac200665dfb271d568508038
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28ecd2962b25105397f67c5ca7f461b96da944a99bc7f467d7d599299803481a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:249177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:46Z'
   warnings: []
   errors: []
 ---
@@ -85,16 +93,16 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos e para os efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38968-1952-249177) e nos artigos 69.º, n.º 1, e 70.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar da sociedade comercial denominada Fábrica de Tecidos Lionesa, S. A. R. L., a importância de 250000$00 para fundo de manutenção da Cantina Escolar de Idalina Correia dos Santos, anexa às escolas do núcleo e freguesia de Fonte Arcada, concelho de Sernancelhe.
+Artigo 1.º Nos termos e para os efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38968-1952-249177) e nos artigos 69.º, n.º 1, e 70.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar da sociedade comercial denominada Fábrica de Tecidos Lionesa, S. A. R. L., a importância de 250000$00 para fundo de manutenção da Cantina Escolar de Idalina Correia dos Santos, anexa às escolas do núcleo e freguesia de Fonte Arcada, concelho de Sernancelhe.
 
-###### Art. 2.º Em conformidade com a legislação citada no artigo 1.º, à empresa doadora é reservado o privilégio de indicar dois professores para o preenchimento de duas vagas existentes no núcleo beneficiado pela Cantina ou que, nos termos do artigo 17.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956, nele venham a verificar-se no prazo de dez anos após a data do presente diploma.
+Art. 2.º Em conformidade com a legislação citada no artigo 1.º, à empresa doadora é reservado o privilégio de indicar dois professores para o preenchimento de duas vagas existentes no núcleo beneficiado pela Cantina ou que, nos termos do artigo 17.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956, nele venham a verificar-se no prazo de dez anos após a data do presente diploma.
 
-###### Art. 3.º A administração da Cantina é autónoma e será confiada a uma comissão de, pelo menos, três membros nomeados pelo Ministro da Educação Nacional. Farão parte da comissão um dos administradores da sociedade doadora ou um seu representante, como presidente, e dois agentes de ensino, como vogais.
+Art. 3.º A administração da Cantina é autónoma e será confiada a uma comissão de, pelo menos, três membros nomeados pelo Ministro da Educação Nacional. Farão parte da comissão um dos administradores da sociedade doadora ou um seu representante, como presidente, e dois agentes de ensino, como vogais.
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 20 de Março de 1970.**
+Promulgado em 20 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

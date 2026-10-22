@@ -48,36 +48,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1970-147670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76ac38b98ae90628a55a201a2ac0d9dcd324862227a1ba80ddceca79f0e8c3a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2a81f539ac1fce168d7e191f5964455268d05c97fe89a7d3f81388ea2129a02a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Caixa Geral de Depósitos Crédito e Previdência
+- Financiamento
+- Fundo de Renovação e Apetrechamento da Indústria da Pesca
+- Ministério das Finanças
+- Orçamento
+- Plano de Fomento
+relationships:
+- type: cites
+  target: pt:dre:273802:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:08Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +103,18 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo para valer como ler, o seguinte:
 
-###### Artigo 1.º Para ocorrer ao financiamento dos empreendimentos previstos no III Plano de Fomento, o Fundo do Renovação e de Apetrechamento da Indústria da Pesca é autorizado a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo amortizável até ao montante de 225000000$00.
+Artigo 1.º Para ocorrer ao financiamento dos empreendimentos previstos no III Plano de Fomento, o Fundo do Renovação e de Apetrechamento da Indústria da Pesca é autorizado a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo amortizável até ao montante de 225000000$00.
 
-###### Art. 2.º O empréstimo, que vencerá juros à taxa anual de 6 por cento, será amortizado em vinte semestralidades iguais e seguidas, vencendo-se a primeira seis meses após o período de utilização, que será de um ano após a realização do empréstimo.
+Art. 2.º O empréstimo, que vencerá juros à taxa anual de 6 por cento, será amortizado em vinte semestralidades iguais e seguidas, vencendo-se a primeira seis meses após o período de utilização, que será de um ano após a realização do empréstimo.
 
-###### Art. 3.º No orçamento de despesa do Ministério das Finanças serão inscritas anualmente as importâncias necessárias ao pagamento dos encargos de juros e amortizações deste empréstimo, inscrevendo-se no orçamento de receita igual importância a receber do Fundo de Renovação e de Apetrechamento da Indústria da Pesca.
+Art. 3.º No orçamento de despesa do Ministério das Finanças serão inscritas anualmente as importâncias necessárias ao pagamento dos encargos de juros e amortizações deste empréstimo, inscrevendo-se no orçamento de receita igual importância a receber do Fundo de Renovação e de Apetrechamento da Indústria da Pesca.
 
-###### Art. 4.º As operações que o Fundo realizar com o produto deste empréstimo ficam sujeitas ao condicionalismo estabelecido no [Decreto-Lei n.º 48491](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48491-1968-273802), de 19 de Julho de 1968, mas o aval do Estado será prestado pelo director-geral da Fazenda Pública, mediante prévio despacho do Secretário de Estado do Tesouro, na própria escritura do empréstimo.
+Art. 4.º As operações que o Fundo realizar com o produto deste empréstimo ficam sujeitas ao condicionalismo estabelecido no [Decreto-Lei n.º 48491](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48491-1968-273802), de 19 de Julho de 1968, mas o aval do Estado será prestado pelo director-geral da Fazenda Pública, mediante prévio despacho do Secretário de Estado do Tesouro, na própria escritura do empréstimo.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

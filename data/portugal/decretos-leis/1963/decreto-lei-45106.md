@@ -48,40 +48,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45106-1963-693243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:45:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92c8a6a99155b6134836220ff1f087ac92a886dc36d33640ebba73edc12679b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1525358595323c42c262247d697ef44a5e06f6a4f8212521d154761d82f9ee13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:45:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carteira Profissional
+- Contravenção
+- Direcção Geral dos Combustíveis
+- Fiscalização
+- Inspecção do Trabalho
+- Ministério das Corporações e Previdência Social
+- Multa
+- Pessoal Operário
+- Qualificação Profissional
+- Secretaria de Estado da Indústria
 relationships:
 - type: amended_by
   target: pt:dre:295806:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:295806:por
+  label: Transferida para os serviços locais das Regiões Autónomas dos Açores e da Madeira a competência atribuída à Direção-Geral
+    dos Combustíveis, no que se refere à condução de geradores de vapor e à profissão de fogueiro, pelo presente diploma e
+    respetivos regulamentos, pelo(a) Decreto-Lei n.º 89/78 - Diário da República n.º 102/1978, Série I de 1978-05-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/89-1978-295806
+  date: '1978-05-04'
+- type: cites
+  target: pt:dre:165673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:45:28Z'
   warnings: []
   errors: []
 ---
@@ -126,38 +155,38 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A condução de geradores de vapor de instalações fixas, semifixas ou móveis, no continente e ilhas adjacentes, que não estejam adstritas à tracção ferroviária ou à propulsão de embarcações, só poderá realizar-se nas condições estabelecidas no presente diploma e seus regulamentos.
+Artigo 1.º A condução de geradores de vapor de instalações fixas, semifixas ou móveis, no continente e ilhas adjacentes, que não estejam adstritas à tracção ferroviária ou à propulsão de embarcações, só poderá realizar-se nas condições estabelecidas no presente diploma e seus regulamentos.
 
-###### Art. 2.º Para os efeitos do artigo anterior, consideram-se geradores de vapor os definidos no Regulamento de Caldeiras, aprovado pelo [Decreto n.º 8332](https://diariodarepublica.pt/dr/detalhe/decreto/8332-1922-165673), de 17 de Agosto de 1922, com exclusão, porém, dos geradores de vapor dispensados de prova.
+Art. 2.º Para os efeitos do artigo anterior, consideram-se geradores de vapor os definidos no Regulamento de Caldeiras, aprovado pelo [Decreto n.º 8332](https://diariodarepublica.pt/dr/detalhe/decreto/8332-1922-165673), de 17 de Agosto de 1922, com exclusão, porém, dos geradores de vapor dispensados de prova.
 
-###### Art. 3.º A execução deste decreto-lei será regulamentada por decreto a publicar pelos Ministérios das Corporações e Previdência Social e da Economia - Secretaria de Estado da Indústria, em que, designadamente, se estabelecerão os requisitos para aprendizagem e as condições para o ingresso e o exercício da profissão.
+Art. 3.º A execução deste decreto-lei será regulamentada por decreto a publicar pelos Ministérios das Corporações e Previdência Social e da Economia - Secretaria de Estado da Indústria, em que, designadamente, se estabelecerão os requisitos para aprendizagem e as condições para o ingresso e o exercício da profissão.
 
 § 1.º O produto das multas em que incorrerem os transgressores dos regulamentos aprovados pelo decreto referido neste artigo reverterá a favor do Fundo Nacional do Abono de Família.
 
 § 2.º O julgamento das transgressões a que se refere o parágrafo anterior compete aos tribunais do trabalho.
 
-###### Art. 4.º Cabe ao Ministério das Corporações e Previdência Social e à Secretaria de Estado da Indústria a execução do presente diploma e seus regulamentos, salvo na parte respeitante à orientação e fiscalização das inspecções médico-sanitárias exigidas por essa execução, que compete ao Ministério da Saúde e Assistência.
+Art. 4.º Cabe ao Ministério das Corporações e Previdência Social e à Secretaria de Estado da Indústria a execução do presente diploma e seus regulamentos, salvo na parte respeitante à orientação e fiscalização das inspecções médico-sanitárias exigidas por essa execução, que compete ao Ministério da Saúde e Assistência.
 
 § único. O Secretário de Estado da Indústria estabelecerá por despacho e fará publicar no Diário do Governo os programas e regulamentos dos exames de habilitação a que haja lugar.
 
-###### Art. 5.º A fiscalização do cumprimento das disposições regulamentares aprovadas ao abrigo deste diploma compete ao Instituto Nacional do Trabalho e Previdência, pela Inspecção do Trabalho, e à Direcção-Geral dos Combustíveis, pelos respectivos serviços.
+Art. 5.º A fiscalização do cumprimento das disposições regulamentares aprovadas ao abrigo deste diploma compete ao Instituto Nacional do Trabalho e Previdência, pela Inspecção do Trabalho, e à Direcção-Geral dos Combustíveis, pelos respectivos serviços.
 
 § 1.º Para os efeitos do disposto neste artigo, a Direcção-Geral dos Combustíveis remeterá à Inspecção do Trabalho, no prazo de oito dias, auto de notícia das infracções verificadas pelos seus funcionários.
 
 § 2.º Aos autos de notícia levantados pelos funcionários da Direcção-Geral dos Combustíveis é aplicável o disposto no artigo 24.º do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948.
 
-###### Art. 6.º A apreensão temporária ou definitiva de carteiras profissionais, em consequência de suspensão ou inabilidade permanente do exercício da profissão, ou por falta de visto anual, poderá ser solicitada pela Inspecção do Trabalho e pelos funcionários da Direcção-Geral dos Combustíveis a quaisquer autoridades.
+Art. 6.º A apreensão temporária ou definitiva de carteiras profissionais, em consequência de suspensão ou inabilidade permanente do exercício da profissão, ou por falta de visto anual, poderá ser solicitada pela Inspecção do Trabalho e pelos funcionários da Direcção-Geral dos Combustíveis a quaisquer autoridades.
 
-###### Art. 7.º A responsabilidade pelos acidentes causados por geradores de vapor e pelas infracções cometidas no exercício da sua condução regular-se-á pelo disposto nos artigos 56.º e 58.º do Código da Estrada, no que forem aplicáveis e com as necessárias adaptações.
+Art. 7.º A responsabilidade pelos acidentes causados por geradores de vapor e pelas infracções cometidas no exercício da sua condução regular-se-á pelo disposto nos artigos 56.º e 58.º do Código da Estrada, no que forem aplicáveis e com as necessárias adaptações.
 
 § único. Não terá direito a indemnização por acidente devido a caso fortuito, ainda que inerente ao funcionamento do gerador, quem indevidamente permaneça na casa das caldeiras.
 
-###### Art. 8.º Para a execução das disposições do presente diploma e seus regulamentos, são aprovados os modelos dos impressos que vão publicados em anexo, os quais constituem exclusivo da Imprensa Nacional.
+Art. 8.º Para a execução das disposições do presente diploma e seus regulamentos, são aprovados os modelos dos impressos que vão publicados em anexo, os quais constituem exclusivo da Imprensa Nacional.
 
-###### Art. 9.º O presente diploma revoga os artigos 6.º a 8.º do [Decreto-Lei n.º 30645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30645-1940-192226), de 10 de Agosto de 1940, na parte respeitante aos fogueiros.
+Art. 9.º O presente diploma revoga os artigos 6.º a 8.º do [Decreto-Lei n.º 30645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30645-1940-192226), de 10 de Agosto de 1940, na parte respeitante aos fogueiros.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1963/07/15400/09040906.pdf))](https://files.diariodarepublica.pt/1s/1963/07/15400/09040906.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/07/15400/09040906.pdf)

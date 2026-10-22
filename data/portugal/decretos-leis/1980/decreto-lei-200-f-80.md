@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 143/1980, 1º Suplemento, Série I de 1980-06-24
   number: '143'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1456-(9) a 1456-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14301/00090010.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-f-1980-226042
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fb5183fbaf095dd1abb7c903a2b04a0032a5c742c45237369a50ab216a8c890
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e472b643ec852bc39a8d9019c083971543ab878b26935ea244d31247c12a2c8a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arrendamento Urbano não Habitacional
+- Empresa Pública
+- Instalação de Serviços
+- Serviço Público
 relationships:
 - type: amended_by
   target: pt:dre:561469:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:330842:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681999:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:561469:por
+  label: "Revogado pelo DEC LEI.228/95.1995.09.11.MF, DR.IS-A [210]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1995-561469
+  date: '1995-09-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:58Z'
   warnings: []
   errors: []
 ---
@@ -99,14 +116,14 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º A celebração de contratos de arrendamento de imóveis pelos institutos públicos e empresas públicas estaduais para instalação dos seus serviços fica sujeita a autorização do Conselho de Ministros, precedendo parecer das comissões ou peritos a que se refere o [Decreto n.º 38202](https://diariodarepublica.pt/dr/detalhe/decreto/38202-1951-330842), de 13 de Março de 1951, sempre que o montante da renda anual proposta ultrapasse 1440000$00.
+Artigo 1.º A celebração de contratos de arrendamento de imóveis pelos institutos públicos e empresas públicas estaduais para instalação dos seus serviços fica sujeita a autorização do Conselho de Ministros, precedendo parecer das comissões ou peritos a que se refere o [Decreto n.º 38202](https://diariodarepublica.pt/dr/detalhe/decreto/38202-1951-330842), de 13 de Março de 1951, sempre que o montante da renda anual proposta ultrapasse 1440000$00.
 
-###### Art. 2.º A pessoa colectiva interessada, depois de obtido o parecer favorável do Ministério da tutela, enviará os elementos indispensáveis à Direcção-Geral do Património do Estado, que organizará o respectivo processo.
+Art. 2.º A pessoa colectiva interessada, depois de obtido o parecer favorável do Ministério da tutela, enviará os elementos indispensáveis à Direcção-Geral do Património do Estado, que organizará o respectivo processo.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 24 de Junho de 1980.**
+Promulgado em 24 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

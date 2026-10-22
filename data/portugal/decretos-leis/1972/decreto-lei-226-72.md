@@ -46,36 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1972-674399
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 344dd0dc3fc36a718f4fef627bd19fba75f5ad71bebe6e49e307eac24d24bca5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: feef1768b6c8fb51538eeb63139d64fc4941de44c7f5e7fcfd6ec96abae1d187
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Assembleia Nacional
+- Câmara Corporativa
+- Definição de Competências
+- Extinção de Lugares
+- Formas de Provimento
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Geral
+- Secretário Geral
+relationships:
+- type: cites
+  target: pt:dre:195406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264349:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494041:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584588:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:05Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +128,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa, que adiante se designa, abreviadamente, por Secretaria-Geral.
+Artigo 1.º É reorganizada, nos termos do presente diploma, a Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa, que adiante se designa, abreviadamente, por Secretaria-Geral.
 
-###### Art. 2.º A Secretaria-Geral é um órgão de apoio técnico-administrativo e compreende os seguintes serviços:
+Art. 2.º A Secretaria-Geral é um órgão de apoio técnico-administrativo e compreende os seguintes serviços:
 
 a) Gabinete de Estudos;
 
@@ -120,75 +150,75 @@ Serviços de Contabilidade;
 
 e) Biblioteca, Arquivo e Museu Histórico-Bibliográfico.
 
-###### Art. 3.º - 1. Compete ao Gabinete de Estudos: proceder aos estudos e trabalhos de investigação indispensáveis ao apoio a prestar aos relatores das comissões da Assembleia Nacional e dos pareceres da Câmara Corporativa; assistir aos Deputados na preparação das suas intervenções, e prestar às comissões da Assembleia Nacional e às secções e subsecções da Câmara Corporativa os serviços da sua competência para que seja solicitado.
+Art. 3.º - 1. Compete ao Gabinete de Estudos: proceder aos estudos e trabalhos de investigação indispensáveis ao apoio a prestar aos relatores das comissões da Assembleia Nacional e dos pareceres da Câmara Corporativa; assistir aos Deputados na preparação das suas intervenções, e prestar às comissões da Assembleia Nacional e às secções e subsecções da Câmara Corporativa os serviços da sua competência para que seja solicitado.
 
 2. O Gabinete de Estudos disporá dos auditores e técnicos constantes do quadro anexo ao presente diploma, os quais poderão prestar serviço, indistintamente, na Assembleia Nacional e na Câmara Corporativa.
 
 3. A orientação do Gabinete de Estudos incumbirá a um dos auditores, designado pelo secretário-geral.
 
-###### Art. 4.º - 1. Compete no Gabinete de Relações Públicas e Informação: estudar e exercer as actividades relacionadas com a informação e comunicação; estabelecer os contactos para a realização dos actos oficiais; assegurar a edição do Diário das Sessões da Assembleia Nacional e a das Actas da Câmara Corporativa, e organizar as edições oficiais da Constituição Política e dos regimentos, as que respeitem à história das assembleias legislativas e outras julgadas oportunas e convenientes.
+Art. 4.º - 1. Compete no Gabinete de Relações Públicas e Informação: estudar e exercer as actividades relacionadas com a informação e comunicação; estabelecer os contactos para a realização dos actos oficiais; assegurar a edição do Diário das Sessões da Assembleia Nacional e a das Actas da Câmara Corporativa, e organizar as edições oficiais da Constituição Política e dos regimentos, as que respeitem à história das assembleias legislativas e outras julgadas oportunas e convenientes.
 
 2. O Gabinete de Relações Públicas e Informação será orientado por um director e disporá do pessoal técnico especializado constante do quadro anexo ao presente diploma.
 
-###### Art. 5.º - 1. Compete aos Serviços Legislativos assegurar o secretariado das mesas da Assembleia Nacional e da Câmara Corporativa e o cumprimento das suas deliberações, e bem assim executar os serviços dos conselhos, comissões, secções ou subsecções da Assembleia Nacional e da Câmara Corporativa, nas suas funções de natureza legislativa, consultiva ou deliberativa.
+Art. 5.º - 1. Compete aos Serviços Legislativos assegurar o secretariado das mesas da Assembleia Nacional e da Câmara Corporativa e o cumprimento das suas deliberações, e bem assim executar os serviços dos conselhos, comissões, secções ou subsecções da Assembleia Nacional e da Câmara Corporativa, nas suas funções de natureza legislativa, consultiva ou deliberativa.
 
 2. Os Serviços Legislativos serão orientados por um chefe de serviços, que chefiará directamente uma das secções.
 
-###### Art. 6.º - 1. Compete aos Serviços Administrativos: assegurar, através dos Serviços Gerais, os serviços de pessoal, expediente geral e economato e tomar a seu cargo a vigilância e conservação da parte do Palácio de S. Bento ocupada pela Assembleia Nacional, Câmara Corporativa e seus serviços, e exercer, através dos Serviços de Contabilidade, a gestão dos recursos orçamentais ao seu dispor.
+Art. 6.º - 1. Compete aos Serviços Administrativos: assegurar, através dos Serviços Gerais, os serviços de pessoal, expediente geral e economato e tomar a seu cargo a vigilância e conservação da parte do Palácio de S. Bento ocupada pela Assembleia Nacional, Câmara Corporativa e seus serviços, e exercer, através dos Serviços de Contabilidade, a gestão dos recursos orçamentais ao seu dispor.
 
 2. Os Serviços Administrativos serão orientados por um chefe de serviços, que chefiará directamente uma das secções.
 
-###### Art. 7.º - 1. Compete à Biblioteca, Arquivo e Museu Histórico-Bibliográfico: facultar a consulta das publicações em depósito pelos Deputados, Procuradores e serviços da Secretaria-Geral; catalogar e conservar os documentos referentes às legislaturas findas, e seleccionar, guardar e conservar os objectos de arte e espécies documentais e bibliográficas respeitantes à história das assembleias legislativas.
+Art. 7.º - 1. Compete à Biblioteca, Arquivo e Museu Histórico-Bibliográfico: facultar a consulta das publicações em depósito pelos Deputados, Procuradores e serviços da Secretaria-Geral; catalogar e conservar os documentos referentes às legislaturas findas, e seleccionar, guardar e conservar os objectos de arte e espécies documentais e bibliográficas respeitantes à história das assembleias legislativas.
 
 2. A Biblioteca, Arquivo e Museu Histórico-Bibliográfico serão dirigidos e conservados por um bibliotecário-arquivista.
 
-###### Art. 8.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
+Art. 8.º - 1. A Secretaria-Geral disporá do pessoal constante do quadro publicado em anexo ao presente diploma.
 
 2. O secretário-geral determinará, por despacho, a organização interna dos serviços e a distribuição do pessoal.
 
-###### Art. 9.º Os lugares de director do Gabinete de Relações Públicas e Informação, de chefe dos Serviços Legislativos e de chefe dos Serviços Administrativos serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, ouvidos os Presidentes da Assembleia Nacional e da Câmara Corporativa, entre diplomados com curso superior adequado ou entre funcionários do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, dando-se preferência aos da Secretaria-Geral, de categoria superior ou correspondente à letra J, quando tenham boas informações de serviço e a formação e experiência profissional adequadas ao exercício das respectivas funções.
+Art. 9.º Os lugares de director do Gabinete de Relações Públicas e Informação, de chefe dos Serviços Legislativos e de chefe dos Serviços Administrativos serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, ouvidos os Presidentes da Assembleia Nacional e da Câmara Corporativa, entre diplomados com curso superior adequado ou entre funcionários do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), de 6 de Agosto de 1951, dando-se preferência aos da Secretaria-Geral, de categoria superior ou correspondente à letra J, quando tenham boas informações de serviço e a formação e experiência profissional adequadas ao exercício das respectivas funções.
 
-###### Art. 10.º - 1. Dois lugares de técnico de 1.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do Presidente da Assembleia Nacional, entre diplomados com curso superior adequado ao exercício das funções.
+Art. 10.º - 1. Dois lugares de técnico de 1.ª classe serão providos, por escolha do Presidente do Conselho, sob proposta do Presidente da Assembleia Nacional, entre diplomados com curso superior adequado ao exercício das funções.
 
 2. As funções de técnico a que se refere o número anterior poderão ser desempenhadas nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 48618](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48618-1968-264349), de 10 de Outubro de 1968.
 
-###### Art. 11.º - 1. As funções de auditor e de técnico de 1.ª classe poderão ser exercidas em regime de tempo parcial, sendo, nesse caso, a sua remuneração considerada gratificação e o quantitativo proporcional ao número de horas semanais de serviço exigido.
+Art. 11.º - 1. As funções de auditor e de técnico de 1.ª classe poderão ser exercidas em regime de tempo parcial, sendo, nesse caso, a sua remuneração considerada gratificação e o quantitativo proporcional ao número de horas semanais de serviço exigido.
 
 2. O número de horas a que se refere o número anterior será fixado, para cada caso, por despacho do Presidente do Conselho.
 
-###### Art. 12.º O lugar de adjunto do director do Gabinete de Relações Públicas e Informação será provido por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre diplomados com curso superior adequado ou entre indivíduos com a experiência e formação profissional adequadas ao exercício das funções.
+Art. 12.º O lugar de adjunto do director do Gabinete de Relações Públicas e Informação será provido por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre diplomados com curso superior adequado ou entre indivíduos com a experiência e formação profissional adequadas ao exercício das funções.
 
-###### Art. 13.º Os lugares de técnico auxiliar de relações públicas e informação serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre indivíduos que hajam concluído o 3.º ciclo liceal ou possuam habilitações equivalentes ou qualificações adequadas ao exercício das funções.
+Art. 13.º Os lugares de técnico auxiliar de relações públicas e informação serão providos, por escolha do Presidente do Conselho, sob proposta do secretário-geral, entre indivíduos que hajam concluído o 3.º ciclo liceal ou possuam habilitações equivalentes ou qualificações adequadas ao exercício das funções.
 
-###### Art. 14.º Os lugares de chefe de secção serão providos, mediante proposta do secretário-geral, entre diplomados com curso superior adequado ao exercício das funções ou entre funcionários do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), com categoria superior ou correspondente à letra L, desde que tenham mais de três anos de bom e efectivo serviço.
+Art. 14.º Os lugares de chefe de secção serão providos, mediante proposta do secretário-geral, entre diplomados com curso superior adequado ao exercício das funções ou entre funcionários do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), com categoria superior ou correspondente à letra L, desde que tenham mais de três anos de bom e efectivo serviço.
 
-###### Art. 15.º - 1. As nomeações efectuadas nos termos da primeira parte do artigo 9.º, n.º 1 do artigo 10.º, artigos 12.º e 13.º e primeira parte do artigo 14.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
+Art. 15.º - 1. As nomeações efectuadas nos termos da primeira parte do artigo 9.º, n.º 1 do artigo 10.º, artigos 12.º e 13.º e primeira parte do artigo 14.º terão carácter provisório durante dois anos, prorrogáveis por mais um ano.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-###### Art. 16.º - 1. Sempre que circunstâncias imperiosas o exijam, poderão prestar serviço durante o funcionamento da Assembleia Nacional ou da Câmara Corporativa, para apoio aos serviços relacionados com a edição do Diário das Sessões e das Actas da Câmara Corporativa ou para a execução de serviços especiais mandados efectuar fora das horas normais de trabalho, funcionários do quadro do pessoal da Secretaria-Geral, ou do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), ou indivíduos a ele estranhos, desde que possuam preparação adequada ao exercício das funções.
+Art. 16.º - 1. Sempre que circunstâncias imperiosas o exijam, poderão prestar serviço durante o funcionamento da Assembleia Nacional ou da Câmara Corporativa, para apoio aos serviços relacionados com a edição do Diário das Sessões e das Actas da Câmara Corporativa ou para a execução de serviços especiais mandados efectuar fora das horas normais de trabalho, funcionários do quadro do pessoal da Secretaria-Geral, ou do quadro único criado pelo [Decreto-Lei n.º 38364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38364-1951-584588), ou indivíduos a ele estranhos, desde que possuam preparação adequada ao exercício das funções.
 
 2. Os trabalhos extraordinários a que se refere o número anterior serão remunerados com uma gratificação, de quantitativo a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 17.º - 1. O secretário-geral designará de entre os oficiais contratantes do quadro do pessoal administrativo um pagador, especialmente encarregado de receber os fundos destinados aos serviços da Assembleia Nacional e da Câmara Corporativa e efectuar os pagamentos por conta dos mesmos serviços.
+Art. 17.º - 1. O secretário-geral designará de entre os oficiais contratantes do quadro do pessoal administrativo um pagador, especialmente encarregado de receber os fundos destinados aos serviços da Assembleia Nacional e da Câmara Corporativa e efectuar os pagamentos por conta dos mesmos serviços.
 
 2. A este funcionário será abonada uma gratificação, de quantitativo a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
-###### Art. 18.º O secretário-geral proporá, de entre o pessoal dirigente, quem o substitua nas suas faltas ou impedimentos.
+Art. 18.º O secretário-geral proporá, de entre o pessoal dirigente, quem o substitua nas suas faltas ou impedimentos.
 
-###### Art. 19.º Ficam extintos, a partir da entrada em vigor do presente diploma, os lugares de redactor e de catalogador de 2.ª classe do quadro do pessoal a que se refere o artigo 2.º do [Decreto-Lei n.º 48779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48779-1968-257189), de 21 de Dezembro de 1968, considerando-se os seus titulares investidos desde essa data, e sem dependência de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, nos lugares, respectivamente, de técnico auxiliar e de catalogador de 1.ª classe.
+Art. 19.º Ficam extintos, a partir da entrada em vigor do presente diploma, os lugares de redactor e de catalogador de 2.ª classe do quadro do pessoal a que se refere o artigo 2.º do [Decreto-Lei n.º 48779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48779-1968-257189), de 21 de Dezembro de 1968, considerando-se os seus titulares investidos desde essa data, e sem dependência de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, nos lugares, respectivamente, de técnico auxiliar e de catalogador de 1.ª classe.
 
-###### Art. 20.º No quadro do pessoal a que se refere o n.º 1 do artigo 8.º do presente diploma serão extintos, nas primeiras vagas que se derem, um lugar de chefe de secção, dois de segundo-oficial, um de terceiro-oficial, um de escriturário-dactilógrafo de 2.ª classe, quatro de porteiro de 2.ª classe e dois de guarda nocturno de 2.ª classe.
+Art. 20.º No quadro do pessoal a que se refere o n.º 1 do artigo 8.º do presente diploma serão extintos, nas primeiras vagas que se derem, um lugar de chefe de secção, dois de segundo-oficial, um de terceiro-oficial, um de escriturário-dactilógrafo de 2.ª classe, quatro de porteiro de 2.ª classe e dois de guarda nocturno de 2.ª classe.
 
-###### Art. 21.º As despesas resultantes da execução deste decreto-lei serão satisfeitas no ano em curso de conta da correspondente dotação do orçamento em vigor, até ao seu reforço, considerando-se, para esse efeito, antecipados os respectivos duodécimos.
+Art. 21.º As despesas resultantes da execução deste decreto-lei serão satisfeitas no ano em curso de conta da correspondente dotação do orçamento em vigor, até ao seu reforço, considerando-se, para esse efeito, antecipados os respectivos duodécimos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Mota Pereira de Campos - João Augusto Dias Rosas.
 
-**Promulgado em 29 de Junho de 1972.**
+Promulgado em 29 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro a que se refere o n.º 1 do artigo 8.º
 
@@ -256,4 +286,4 @@ Pessoal assalariado:
 
 (nota c) Quatro destes lugares serão extintos nas primeiras vagas que ocorrerem.
 
-**O Presidente do Conselho, Marcello Caetano.**
+O Presidente do Conselho, Marcello Caetano.

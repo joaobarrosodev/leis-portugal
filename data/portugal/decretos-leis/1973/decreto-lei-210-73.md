@@ -46,40 +46,88 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9afc3d1a7c697796590e210a20a2f0c96459195be65fb595fb311abefeafe119
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b6a8e0b1d603d761ba7f20fc615c8733187dfd9dc3398d08228c1bb6e6adfaa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono Suplementar de Invalidez
+- África
+- Cálculo de Pensões
+- Deficiente das Forças Armadas
+- Forças Armadas
+- Guerra
+- Incapacidade Física
+- Invalidez
+- Militar
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Preço de Sangue
+- Pensão de Reforma
+- Pensão Extraordinária
+- Pensões
+- Promoção Profissional
+- Quadro de Pessoal
+- Reconversão Profissional
+- Reforma
+- Regime Jurídico
+- Reintegração de Militares
+- Remuneração
+- Serviço Militar
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:411862:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:196258:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582656:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:39Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +148,13 @@ Além de outras medidas que se entendeu desde já tomar em matérias concernente
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os militares dos quadros permanentes das forças armadas deficientes em consequência de acidentes ou doenças resultantes do serviço de campanha ou de manutenção da ordem pública ou da prática de acto humanitário ou de dedicação à causa pública podem continuar na situação de activo ou optarem pela passagem à situação de reforma extraordinária.
+Artigo 1.º - 1. Os militares dos quadros permanentes das forças armadas deficientes em consequência de acidentes ou doenças resultantes do serviço de campanha ou de manutenção da ordem pública ou da prática de acto humanitário ou de dedicação à causa pública podem continuar na situação de activo ou optarem pela passagem à situação de reforma extraordinária.
 
 2. Ficam exceptuados do âmbito definido no n.º 1 deste artigo os acidentes ou doenças intencionalmente provocados pelo próprio deficiente ou provenientes de acções ou omissões por ele cometidas contra ordens expressas superiores ou em desrespeito das condições de segurança determinadas por autoridades competentes, desde que não justificadas pelo estado de necessidade.
 
 3. No caso de os militares se encontrarem impossibilitados de prestar a declaração referida no n.º 1, o seu silêncio entende-se como desejo de permanecer na situação de activo.
 
-###### Art. 2.º São considerados acidentes ou doenças resultantes do serviço de campanha os provocados por:
+Art. 2.º São considerados acidentes ou doenças resultantes do serviço de campanha os provocados por:
 
 a) Acção positivo directa do inimigo;
 
@@ -116,9 +164,9 @@ c) Eventos determinados no decurso de qualquer outra actividade de natureza oper
 
 d) Eventos não indicados nas alíneas anteriores, assim considerados pelo Ministro da Defesa Nacional, por propostas dos titulares das pastas da Marinha, Exército ou Aeronáutica, conforme os casos.
 
-###### Art. 3.º O disposto no artigo 1.º é aplicável aos militares dos quadros permanentes das forças armadas com o posto ou graduação igual ou superior a primeiro-cabo do Exército e da Força Aérea e a marinheiro da Armada.
+Art. 3.º O disposto no artigo 1.º é aplicável aos militares dos quadros permanentes das forças armadas com o posto ou graduação igual ou superior a primeiro-cabo do Exército e da Força Aérea e a marinheiro da Armada.
 
-###### Art. 4.º - 1. Os militares deficientes que tiverem optado pela continuação na situação de activo são considerados adidos aos respectivos quadros.
+Art. 4.º - 1. Os militares deficientes que tiverem optado pela continuação na situação de activo são considerados adidos aos respectivos quadros.
 
 2. Os deficientes indicados no número anterior serão dispensados da realização de cursos, estágios ou provas que constituam condições especiais de promoção e que sejam incompatíveis com a sua deficiência, conforme parecer da junta médica.
 
@@ -128,9 +176,9 @@ d) Eventos não indicados nas alíneas anteriores, assim considerados pelo Minis
 
 5. Os militares que tiverem optado pela continuação na situação de activo desempenharão as funções que lhes forem possibilitadas pelas suas condições físicas.
 
-###### Art. 5.º Os militares que após o respectivo tratamento tenham sido considerados aptos para todo o serviço activo podem ser de novo presentes à junta médica, a fim de serem julgados aptos para o desempenho de cargos ou funções que dispensem plena validez, quando o seu estado de saúde se agrave por qualquer motivo que não seja dos referidos no n.º 2 do artigo 1.º
+Art. 5.º Os militares que após o respectivo tratamento tenham sido considerados aptos para todo o serviço activo podem ser de novo presentes à junta médica, a fim de serem julgados aptos para o desempenho de cargos ou funções que dispensem plena validez, quando o seu estado de saúde se agrave por qualquer motivo que não seja dos referidos no n.º 2 do artigo 1.º
 
-###### Art. 6.º - 1. Os militares que reúnam as condições de promoção ao posto imediatamente superior, mas não possuam aptidão física em resultado de deficiência nas condições fixadas no artigo 1.º, serão promovidos na altura que lhes competir, independentemente da verificação da aptidão física pela junta médica.
+Art. 6.º - 1. Os militares que reúnam as condições de promoção ao posto imediatamente superior, mas não possuam aptidão física em resultado de deficiência nas condições fixadas no artigo 1.º, serão promovidos na altura que lhes competir, independentemente da verificação da aptidão física pela junta médica.
 
 2. Os militares que em resultado de tratamento a que tenham de ser submetidos não hajam completado as condições especiais de promoção quando esta lhes competir serão graduados com os vencimentos correspondentes ao novo posto e a sua promoção terá lugar logo que o seu estado físico permitir a realização dessas condições ou delas venham a ser dispensados.
 
@@ -138,31 +186,31 @@ d) Eventos não indicados nas alíneas anteriores, assim considerados pelo Minis
 
 4. O disposto neste artigo aplica-se igualmente aos militares deficientes em consequência de acidente ou doença nas condições expressas no n.º 1 do artigo 1.º, mesmo que após a respectiva reabilitação não tenham ficado a sofrer de lesão, deformidade ou enfermidade.
 
-###### Art. 7.º - 1. O disposto nos artigos anteriores aplica-se aos militares do complemento com o posto ou graduação igual ou superior a primeiro-cabo miliciano do Exército, pessoal militar não permanente da Armada com o posto igual ou superior a marinheiro e da Força Aérea com o posto igual ou superior a primeiro-cabo.
+Art. 7.º - 1. O disposto nos artigos anteriores aplica-se aos militares do complemento com o posto ou graduação igual ou superior a primeiro-cabo miliciano do Exército, pessoal militar não permanente da Armada com o posto igual ou superior a marinheiro e da Força Aérea com o posto igual ou superior a primeiro-cabo.
 
 2. Os militares indicados no número anterior que se mantiverem ao serviço efectivo terão ingresso nos quadros permanentes.
 
 3. O ingresso no quadro permanente será estabelecido em portaria a publicar pelos departamentos respectivos.
 
-###### Art. 8.º - 1. Os militares indicados no n.º 1 do artigo 7.º que não desejarem manter-se ou ingressar ao serviço efectivo logo que terminado o tratamento médico a cargo dos serviços de saúde militares terão baixa de serviço e serão encaminhados para a reabilitação médica, vocacional, profissional e social a cargo dos Ministérios da Saúde e Assistência e das Corporações e Previdência Social, nos termos da respectiva legislação.
+Art. 8.º - 1. Os militares indicados no n.º 1 do artigo 7.º que não desejarem manter-se ou ingressar ao serviço efectivo logo que terminado o tratamento médico a cargo dos serviços de saúde militares terão baixa de serviço e serão encaminhados para a reabilitação médica, vocacional, profissional e social a cargo dos Ministérios da Saúde e Assistência e das Corporações e Previdência Social, nos termos da respectiva legislação.
 
 2. Às praças do Exército, Armada e Força Aérea que não são abrangidas pelas disposições anteriores é aplicável o regime estabelecido no número anterior na parte respeitante à reabilitação.
 
 3. Os militares indicados no n.º 2 serão providos mediante requerimento nas vagas de lugares de pessoal civil das unidades, departamentos e estabelecimentos fabris militares logo que o seu grau de reabilitação o permita.
 
-###### Art. 9.º - 1. No caso de o deficiente não poder dispensar assistência constante de terceira pessoa, terá direito a uma prestação suplementar de 25% do vencimento ou pensão fixados.
+Art. 9.º - 1. No caso de o deficiente não poder dispensar assistência constante de terceira pessoa, terá direito a uma prestação suplementar de 25% do vencimento ou pensão fixados.
 
 2. A indicação da necessidade constante do número anterior será feita pela junta médica e a situação revista de três em três anos.
 
 3. A prestação suplementar a que se refere o n.º 1 deste artigo não será abonada enquanto os militares estiverem hospitalizados ou internados a expensas do Estado.
 
-###### Art. 10.º - 1. Aos beneficiários de pensão de reforma extraordinária ou de invalidez é reconhecida preferência, em igualdade de condições, para o provimento em quaisquer lugares do Estado, das províncias ultramarinas, dos institutos públicos, incluindo os organismos de coordenação económica, das autarquias locais, das corporações, das instituições de previdência social e das pessoas colectivas de utilidade pública administrativa.
+Art. 10.º - 1. Aos beneficiários de pensão de reforma extraordinária ou de invalidez é reconhecida preferência, em igualdade de condições, para o provimento em quaisquer lugares do Estado, das províncias ultramarinas, dos institutos públicos, incluindo os organismos de coordenação económica, das autarquias locais, das corporações, das instituições de previdência social e das pessoas colectivas de utilidade pública administrativa.
 
 2. Desde que a incapacidade os não impossibilite do exercício das correspondentes funções, gozam de preferência absoluta no provimento dos lugares para os quais seja mandada observar tal preferência por despacho do Ministro que superintender nos respectivos serviços.
 
-###### Art. 11.º Os militares com deficiência igual ou superior a 60% podem ser recolhidos pelo Estado em estabelecimentos apropriados.
+Art. 11.º Os militares com deficiência igual ou superior a 60% podem ser recolhidos pelo Estado em estabelecimentos apropriados.
 
-###### Art. 12.º - 1. Os beneficiários da pensão de invalidez não são abrangidos pelo disposto no artigo 78.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e no artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, podendo voltar à actividade do Estado, dos institutos públicos, incluindo os organismos de coordenação económica, das províncias ultramarinas, das autarquias locais e das empresas públicas pela prestação de serviços ou provimento em cargos cujo exercício seja compatível com o grau de incapacidade.
+Art. 12.º - 1. Os beneficiários da pensão de invalidez não são abrangidos pelo disposto no artigo 78.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, e no artigo 23.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, podendo voltar à actividade do Estado, dos institutos públicos, incluindo os organismos de coordenação económica, das províncias ultramarinas, das autarquias locais e das empresas públicas pela prestação de serviços ou provimento em cargos cujo exercício seja compatível com o grau de incapacidade.
 
 2. Quando, porém, as funções exercidas sejam remuneradas, os beneficiários continuarão a perceber a pensão na totalidade e dois terços da remuneração do cargo em que forem providos se não optarem pela totalidade de remuneração e dois terços da pensão.
 
@@ -172,32 +220,32 @@ d) Eventos não indicados nas alíneas anteriores, assim considerados pelo Minis
 
 Os militares na situação de reforma extraordinária com posto superior a marinheiro ou equivalente são abrangidos pelo artigo 78.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188).
 
-###### Art. 13.º - 1. Quando, pelo exercício de novas funções públicas, o beneficiário venha a ter direito à pensão de aposentação, pode optar pela pensão de reforma extraordinária ou de invalidez, acrescida da pensão de aposentação, calculada na base de dois terços da remuneração, ou pela pensão de aposentação, calculada com base na totalidade da remuneração.
+Art. 13.º - 1. Quando, pelo exercício de novas funções públicas, o beneficiário venha a ter direito à pensão de aposentação, pode optar pela pensão de reforma extraordinária ou de invalidez, acrescida da pensão de aposentação, calculada na base de dois terços da remuneração, ou pela pensão de aposentação, calculada com base na totalidade da remuneração.
 
 2. Nos casos previstos no número anterior não tem aplicação o disposto no artigo 122.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 14.º - 1. É aplicável às pensões de reforma e de invalidez atribuídas nos termos deste diploma o preceituado no artigo 54.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Art. 14.º - 1. É aplicável às pensões de reforma e de invalidez atribuídas nos termos deste diploma o preceituado no artigo 54.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
 2. A actualização das pensões dos inválidos de guerra da 1.ª Guerra Mundial e das campanhas ultramarinas anteriores é regulada pelo disposto no artigo 59.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 15.º - 1. Os militares que pelos motivos Indicados no artigo 1.º já se encontram na situação de reforma extraordinária ou fruindo pensão de invalidez podem voltar à situação de activo desde que o requeiram no prazo de um ano, a contar do início da vigência deste diploma.
+Art. 15.º - 1. Os militares que pelos motivos Indicados no artigo 1.º já se encontram na situação de reforma extraordinária ou fruindo pensão de invalidez podem voltar à situação de activo desde que o requeiram no prazo de um ano, a contar do início da vigência deste diploma.
 
 2. Os vencimentos e demais abonos a que vierem a ter direito são devidos somente a partir da data da portaria que os coloca na situação de activo.
 
 3. Os militares que regressem à situação de activo nos termos deste diploma serão colocados no posto e no lugar que lhes competiria se não tivesse havido interrupção de serviço.
 
-###### Art. 16.º Serão sempre concedidas pensões de preço de sangue se o falecido tiver contraído, nas condições do artigo 1.º, deficiência de grau igual ou superior a 60%, mesmo que a morte não tenha resultado da causa que tenha determinado essa deficiência.
+Art. 16.º Serão sempre concedidas pensões de preço de sangue se o falecido tiver contraído, nas condições do artigo 1.º, deficiência de grau igual ou superior a 60%, mesmo que a morte não tenha resultado da causa que tenha determinado essa deficiência.
 
-###### Art. 17.º O presente diploma aplica-se aos militares que se tenham tornado inválidos pelos motivos indicados no artigo 1.º, a partir de 1 de Janeiro de 1961, inclusive.
+Art. 17.º O presente diploma aplica-se aos militares que se tenham tornado inválidos pelos motivos indicados no artigo 1.º, a partir de 1 de Janeiro de 1961, inclusive.
 
-###### Art. 18.º Fica revogado o disposto no [Decreto-Lei n.º 44995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258), de 24 de Abril de 1963; os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964; o [Decreto-Lei n.º 382/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1971-632762), de 17 de Setembro, e a [Portaria n.º 127/72](https://diariodarepublica.pt/dr/detalhe/portaria/127-1972-398818), de 6 de Março.
+Art. 18.º Fica revogado o disposto no [Decreto-Lei n.º 44995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258), de 24 de Abril de 1963; os artigos 4.º, 5.º e 6.º do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964; o [Decreto-Lei n.º 382/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1971-632762), de 17 de Setembro, e a [Portaria n.º 127/72](https://diariodarepublica.pt/dr/detalhe/portaria/127-1972-398818), de 6 de Março.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 3 de Maio de 1973.**
+Promulgado em 3 de Maio de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

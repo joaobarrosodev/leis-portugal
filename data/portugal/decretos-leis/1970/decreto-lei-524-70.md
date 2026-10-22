@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/11/25800/16681669.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-1970-147785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 550f18a029be90288658b2fece8f10c071edc68d8ab2a0380dfda6fa1066153c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7ac6a436f7a4be047353d424b746f8382532693ed6b77c89fa9d5c237fb8229
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Técnica
+- Conselho Superior da Aeronáutica
+- Definição de Competências
+- Força Aérea
+- Formação Profissional
+- Militar
+- Orgânica
+- Promoção Profissional
+- Secretaria de Estado da Aeronáutica
 relationships:
 - type: amended_by
   target: pt:dre:309753:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:293546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307577:por
+  label: "Revogado pelo DEC LEI.492/75.09.09.1975.CR, DG.IS [208] de 09.09.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/492-1975-307577
+  date: '1975-09-09'
+- type: repealed_by
+  target: pt:dre:309753:por
+  label: "Revogado, a partir de 26.11.1975, pelo DEC LEI.658/75.21.11.1975.CR, DG.IS [270] de 21.11.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/658-1975-309753
+  date: '1975-11-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:58Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +122,9 @@ Sendo conveniente distinguir os casos em que os pareceres do Conselho Superior d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os artigos 18.º, 19.º, 20.º, 21.º, 22.º e 23.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41310, 45668, 45752 e 48156, respectivamente de 8 de Outubro de 1957, de 18 de Abril de 1964, de 4 de Junho de 1964 e de 26 de Dezembro de 1967, passam a ter a redacção que se segue:
+Artigo único. Os artigos 18.º, 19.º, 20.º, 21.º, 22.º e 23.º do [Decreto-Lei n.º 40949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40949-1956-293546), de 28 de Dezembro de 1956, alterado pelos Decretos-Leis n.os 41310, 45668, 45752 e 48156, respectivamente de 8 de Outubro de 1957, de 18 de Abril de 1964, de 4 de Junho de 1964 e de 26 de Dezembro de 1967, passam a ter a redacção que se segue:
 
-###### Art. 18.º O Conselho Superior da Aeronáutica é um órgão consultivo da Secretaria de Estado da Aeronáutica.
+Art. 18.º O Conselho Superior da Aeronáutica é um órgão consultivo da Secretaria de Estado da Aeronáutica.
 
 § 1.º O Conselho Superior da Aeronáutica é obrigatòriamente consultado sobre as altas questões respeitantes à doutrina de emprego, à organização e à preparação da Força Aérea e relativas à mobilização oportuna do pessoal, material, infra-estruturas e organismos que lhe são necessários em caso de emergência ou de guerra.
 
@@ -127,7 +154,7 @@ f) Dispensa de condições especiais de promoção a oficial general respeitante
 
 § 6.º É igualmente bastante a homologação do Secretário de Estado da Aeronáutica quando se trate de pareceres relacionados com questões por ele directamente postas ao Conselho Superior da Aeronáutica e que seja da sua competência resolver.
 
-###### Art. 19.º O Conselho Superior da Aeronáutica tem a seguinte constituição:
+Art. 19.º O Conselho Superior da Aeronáutica tem a seguinte constituição:
 
 Presidente - Chefe do Estado-Maior General das Forças Armadas;
 
@@ -155,13 +182,13 @@ Outros generais da Força Aérea, no activo que o presidente mandar convocar.
 
 § 4.º O expediente e o arquivo do Conselho Superior da Aeronáutica são assegurados pelo gabinete do chefe do Estado-Maior da Força Aérea.
 
-###### Art. 20.º O Conselho Superior da Aeronáutica reúne por determinação do Ministro da Defesa Nacional ou de Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior General das Forças Armadas ou do chefe do Estado-Maior da Força Aérea.
+Art. 20.º O Conselho Superior da Aeronáutica reúne por determinação do Ministro da Defesa Nacional ou de Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior General das Forças Armadas ou do chefe do Estado-Maior da Força Aérea.
 
 § 1.º O Ministro da Defesa Nacional ou o Secretário de Estado da Aeronáutica podem presidir às reuniões do Conselho Superior da Aeronáutica.
 
 § 2.º Sempre que o Ministro da Defesa Nacional presida às reuniões do Conselho Superior da Aeronáutica, nelas deve também participar o Secretário de Estado da Aeronáutica.
 
-###### Art. 21.º A Comissão Técnica da Força Aérea é um órgão consultivo da Secretaria de Estado da Aeronáutica.
+Art. 21.º A Comissão Técnica da Força Aérea é um órgão consultivo da Secretaria de Estado da Aeronáutica.
 
 § 1.º A Comissão Técnica da Força Aérea é obrigatòriamente consultada sobre todos os assuntos, em especial os de natureza técnica, importantes para a eficiência da Força Aérea e que não tenham de ser examinados pelo Conselho Superior da Aeronáutica.
 
@@ -181,7 +208,7 @@ c) Dispensa de condições especiais de promoção dos oficiais respeitantes ao 
 
 § 6.º A Comissão Técnica da Força Aérea constitui também órgão suplementar de consulta directa e coordenação expedita do chefe do Estado-Maior da Força Aérea, em assuntos urgentes, importantes e complexos.
 
-###### Art. 22.º A Comissão Técnica da Força Aérea tem a seguinte constituição:
+Art. 22.º A Comissão Técnica da Força Aérea tem a seguinte constituição:
 
 Presidente - Chefe do Estado-Maior da Força Aérea.
 
@@ -209,7 +236,7 @@ Directores dos serviços da Força Aérea.
 
 § 4.º O expediente e o arquivo da Comissão Técnica da Força Aérea são assegurados pelo gabinete do chefe do Estado-Maior da Força Aérea.
 
-###### Art. 23.º A Comissão Técnica da Força Aérea reúne por determinação do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior da Força Aérea.
+Art. 23.º A Comissão Técnica da Força Aérea reúne por determinação do Secretário de Estado da Aeronáutica, por sua iniciativa ou sob proposta do chefe do Estado-Maior da Força Aérea.
 
 § 1.º O Secretário de Estado da Aeronáutica pode presidir às reuniões da Comissão Técnica da Força Aérea.
 
@@ -217,8 +244,8 @@ Directores dos serviços da Força Aérea.
 
 Visto e aprovado cm Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ

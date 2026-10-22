@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/16700/18001804.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1980-472529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2001-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fd875a2d1f7b1e558f7ff3b0d46492f8f52d27934facf372bbb3335b98edd84
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70ef745b8e0645e71ad5afbcc665b93aeb8781c7be5d77cac499427c664d5bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Português do Património Cultural
+- Património Cultural
+- Pessoal Técnico de Conservação e Restauro
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:321289:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:663513:por
+  label: "Revogado o art. 6º e o nº 3 dos arts. 9º, 10º, 11º, 17º, 18º e 19º, e alterado os arts. 12º, 15º, 20º e nº 2 do\
+    \ art. 22º pelo DEC LEI.25/87.13.01.1987.MEC, DR.IS [10] de 13.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-1987-663513
+  date: '1987-01-13'
+- type: repealed_by
+  target: pt:dre:321289:por
+  label: "Revogado, com a redacção introduzida pelo Dec lei 25/87 de 13-Jan, pelo DEC LEI.55/2001.2001.02.15.MC DR.IS-A [39]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/55-2001-321289
+  date: '2001-02-15'
 article_structure:
   article_count: 31
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:48Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +127,9 @@ As carreiras de conservação e restauro relativas a outros domínios específic
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-## TÍTULO I — SECÇÃO I
+## TÍTULO I
+
+#### SECÇÃO I
 
 ###### Artigo 1.º — (Âmbito de aplicação)
 
@@ -327,12 +349,12 @@ Este diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 25 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 8 de Julho de 1980.**
+Promulgado em 8 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa a que se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/16700/18001804.pdf))](https://files.diariodarepublica.pt/1s/1980/07/16700/18001804.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/07/16700/18001804.pdf)

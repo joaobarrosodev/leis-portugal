@@ -46,36 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44604-1962-160366
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 540eea99724ebca931b8ebc4b2b46c0fe48539f369be59d36b0c59671025f7ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e05da8990fed3d64931593d60b63fa516aa4f35f0e8fd003083e50fd8b5df6f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Algodão
+- Comissão Reguladora do Comércio do Algodão em RAMA
+- Direcção Geral das Alfândegas
+- Exportação
+- Importação
+- Indústria Têxtil
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: pt:dre:178858:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:32Z'
   warnings: []
   errors: []
 ---
@@ -86,8 +97,8 @@ Considerando que, em face das razões aduzidas pela Secretaria de Estado do Com�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O prazo referido no artigo único do [Decreto-Lei n.º 44138](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44138-1961-178858), de 30 de Dezembro de 1961, é prorrogado por mais um ano, a contar da data nele mencionada.
+Artigo único. O prazo referido no artigo único do [Decreto-Lei n.º 44138](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44138-1961-178858), de 30 de Dezembro de 1961, é prorrogado por mais um ano, a contar da data nele mencionada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

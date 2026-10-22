@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/11/26000/16081616.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/441-1972-686195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:24:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46e3e4210d36c1c0e39a6904585f338c1e27f7b0e932f68f0bcf34198cfb1588
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0942d35982914b05390c8e3bbf2bd653a8d0f4c8e1bf3efe00b5ac4d7605b3ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:24:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Escola Nacional de Saúde Pública
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:189475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:384417:por
+  label: "Alterado o artigo 79º pelo DEC.26/84.24.05.1984.PCM, DR.IS [120] de 24.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-governo/26-1984-384417
+  date: '1984-05-24'
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:244878:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:444749:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:691873:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:189475:por
+  label: "Revogado pelo Dec-Lei.239/96.1996.12.14.ME, DR.IS-A [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1996-189475
+  date: '1996-12-14'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:24:27Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +136,15 @@ REGULAMENTO DA ESCOLA NACIONAL DE SAÚDE PÚBLICA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. A Escola Nacional de Saúde Pública, designada no presente diploma por Escola, tem como finalidade o ensino, a investigação e a divulgação no campo da saúde pública e rege-se pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, pelo presente Regulamento e, na parte aplicável, pelo Regulamento do Instituto Nacional de Saúde Dr. Ricardo Jorge, referido abreviadamente por Instituto.
+Artigo 1.º - 1. A Escola Nacional de Saúde Pública, designada no presente diploma por Escola, tem como finalidade o ensino, a investigação e a divulgação no campo da saúde pública e rege-se pelo [Decreto-Lei n.º 372/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1972-691873), de 2 de Outubro, pelo presente Regulamento e, na parte aplicável, pelo Regulamento do Instituto Nacional de Saúde Dr. Ricardo Jorge, referido abreviadamente por Instituto.
 
 2. A Escola constitui o sector de ensino do Instituto, com as atribuições referidas nas alíneas f) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e d) do n.º 1 do artigo 3.º do [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
 
-###### Art. 2.º - 1. Além das instalações do Instituto, a Escola poderá utilizar as de outros serviços do Ministério da Saúde e Assistência, mediante despacho ministerial que definirá as condições da referida utilização.
+Art. 2.º - 1. Além das instalações do Instituto, a Escola poderá utilizar as de outros serviços do Ministério da Saúde e Assistência, mediante despacho ministerial que definirá as condições da referida utilização.
 
 2. A Escola pode organizar cursos ou secções de ensino em qualquer ponto do País onde se mostrem convenientes, os quais serão criados por portaria ministerial que regulamentará o seu funcionamento.
 
-###### Art. 3.º - 1. Dentro das suas finalidades de ensino, investigação e divulgação, são atribuições da Escola:
+Art. 3.º - 1. Dentro das suas finalidades de ensino, investigação e divulgação, são atribuições da Escola:
 
 a) Promover a preparação dos técnicos necessários ao desenvolvimento das actividades dos serviços de saúde e assistência, ministrando o ensino de saúde pública fixado neste Regulamento;
 
@@ -120,7 +160,7 @@ e) Difundir os conhecimentos relativos às matérias que constituem objecto das 
 
 3. Para o cabal desempenho das suas atribuições a Escola diligenciará colaborar na evolução das estruturas, na actividade de todos os serviços de saúde e na satisfação das correspondentes necessidades no campo científico e profissional.
 
-###### Art. 4.º Tendo em vista a realização das suas atribuições, é da competência da Escola:
+Art. 4.º Tendo em vista a realização das suas atribuições, é da competência da Escola:
 
 a) Ministrar os cursos indicados neste Regulamento e outros que venham a ser autorizados superiormente;
 
@@ -146,7 +186,7 @@ j) Realizar trabalhos de que seja incumbida por entidades oficiais ou particular
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 5.º A Escola terá:
+Art. 5.º A Escola terá:
 
 a) Cadeiras, disciplinas e serviços delas dependentes;
 
@@ -156,9 +196,9 @@ c) Serviços administrativos.
 
 #### SECÇÃO II — Das cadeiras
 
-###### Art. 6.º As cadeiras são as unidades fundamentais para o exercício das funções docentes e de investigação, correspondendo cada uma delas a um ramo bem definido ou individualizado das ciências ou das técnicas que dizem respeito às actividades de saúde pública.
+Art. 6.º As cadeiras são as unidades fundamentais para o exercício das funções docentes e de investigação, correspondendo cada uma delas a um ramo bem definido ou individualizado das ciências ou das técnicas que dizem respeito às actividades de saúde pública.
 
-###### Art. 7.º - 1. As cadeiras existentes na Escola são as seguintes:
+Art. 7.º - 1. As cadeiras existentes na Escola são as seguintes:
 
 1.ª Técnica e Administração de Saúde Pública;
 
@@ -182,7 +222,7 @@ c) Serviços administrativos.
 
 2. A criação de novas cadeiras, bem como a substituição ou extinção das actualmente existentes, será feita por portaria do Ministro da Saúde e Assistência, sob proposta do conselho escolar, tendo em atenção o disposto no artigo 11.º e sem prejuízo dos direitos adquiridos pelo pessoal docente.
 
-###### Art. 8.º As cadeiras serão regidas pelos respectivos professores catedráticos, substituídos, em casos de falta ou impedimento, e segundo designação do conselho escolar:
+Art. 8.º As cadeiras serão regidas pelos respectivos professores catedráticos, substituídos, em casos de falta ou impedimento, e segundo designação do conselho escolar:
 
 a) Por um professor extraordinário da mesma cadeira;
 
@@ -192,9 +232,9 @@ c) Por um assistente da mesma cadeira;
 
 d) Por professor catedrático ou extraordinário de outra cadeira.
 
-###### Art. 9.º A distribuição do pessoal docente em cada cadeira será fixada pelo conselho escolar.
+Art. 9.º A distribuição do pessoal docente em cada cadeira será fixada pelo conselho escolar.
 
-###### Art. 10.º - 1. A convite ou mediante autorização do conselho escolar, homologados pelo Ministro da Saúde e Assistência, poderão ser admitidos como colaboradores quaisquer cientistas nacionais ou estrangeiros de reconhecido mérito como prelectores ou para efeitos de realização de investigação científica.
+Art. 10.º - 1. A convite ou mediante autorização do conselho escolar, homologados pelo Ministro da Saúde e Assistência, poderão ser admitidos como colaboradores quaisquer cientistas nacionais ou estrangeiros de reconhecido mérito como prelectores ou para efeitos de realização de investigação científica.
 
 2. Mediante despacho do Ministro da Saúde e Assistência, sob requerimento devidamente informado pelos respectivos professores, poderão ser admitidos como estagiários quaisquer indivíduos de nacionalidade portuguesa ou estrangeira, devidamente qualificados, que queiram realizar trabalhos de investigação científica ou aperfeiçoamento técnico dentro do âmbito de actividade das cadeiras, indicando o despacho de autorização quais as despesas ocasionadas pelos trabalhos referidos, que deverão ser total ou parcialmente suportadas pelos interessados.
 
@@ -202,7 +242,7 @@ d) Por professor catedrático ou extraordinário de outra cadeira.
 
 #### SECÇÃO III — Das disciplinas
 
-###### Art. 11.º - 1. Quando as necessidades do ensino o justifiquem, poderão as cadeiras existentes ser subdivididas em disciplinas ou algumas das suas actividades ser organizadas numa ou mais disciplinas.
+Art. 11.º - 1. Quando as necessidades do ensino o justifiquem, poderão as cadeiras existentes ser subdivididas em disciplinas ou algumas das suas actividades ser organizadas numa ou mais disciplinas.
 
 2. Poderão ainda Ser criadas disciplinas independentes das cadeiras existentes, quando digam respeito a ramos do conhecimento não incluídos no âmbito normal das actividades a estas atribuídas.
 
@@ -210,7 +250,7 @@ d) Por professor catedrático ou extraordinário de outra cadeira.
 
 4. As alterações referidas no presente artigo serão feitas por portaria do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
 
-###### Art. 12.º A regência dias disciplinas cabe a professores catedráticos ou extraordinários das respectivas cadeiras ou de outras afins, indicados pelo conselho escolar, e que serão substituídos, no caso de falta ou impedimento, segundo designação do referido conselho:
+Art. 12.º A regência dias disciplinas cabe a professores catedráticos ou extraordinários das respectivas cadeiras ou de outras afins, indicados pelo conselho escolar, e que serão substituídos, no caso de falta ou impedimento, segundo designação do referido conselho:
 
 a) Por um professor auxiliar da mesma cadeira;
 
@@ -222,7 +262,7 @@ d) Por um professor auxiliar de outra cadeira;
 
 e) Por prelectores propostos anualmente, pelo professor responsável, ao conselho escolar.
 
-###### Art. 13.º - 1. Aplica-se às disciplinas o disposto mo artigo 9.º, podendo ser-lhes atribuído pessoal próprio, de acordo com as seguintes modalidades:
+Art. 13.º - 1. Aplica-se às disciplinas o disposto mo artigo 9.º, podendo ser-lhes atribuído pessoal próprio, de acordo com as seguintes modalidades:
 
 a) Por afectação especial de pessoal do quadro da cadeira onde se encontrem incluídas;
 
@@ -234,7 +274,7 @@ c) Por pessoal especialmente contratado.
 
 #### SECÇÃO IV — Dos cursos
 
-###### Art. 14.º - 1. Os cursos professados na Escola têm carácter de preparação técnica de pós-graduados ou de especialização e podem ser normais, complementares e eventuais.
+Art. 14.º - 1. Os cursos professados na Escola têm carácter de preparação técnica de pós-graduados ou de especialização e podem ser normais, complementares e eventuais.
 
 2. Os cursos normais destinam-se à preparação regular de profissionais qualificados nos diversos ramos da sua actividade.
 
@@ -242,7 +282,7 @@ c) Por pessoal especialmente contratado.
 
 4. Os cursos eventuais destinam-se a satisfazer necessidades ocasionais de preparação profissional, de aperfeiçoamento, de actualização e de divulgação.
 
-###### Art. 15.º São cursos normais os seguintes:
+Art. 15.º São cursos normais os seguintes:
 
 a) Curso de Saúde Pública;
 
@@ -250,7 +290,7 @@ b) Curso de Medicina do Trabalho;
 
 c) Curso de Administração Hospitalar.
 
-###### Art. 16.º - 1. Os cursos complementares e eventuais serão organizados pelo conselho escolar quando as necessidades o justificarem.
+Art. 16.º - 1. Os cursos complementares e eventuais serão organizados pelo conselho escolar quando as necessidades o justificarem.
 
 2. Consideram-se desde já os seguintes cursos complementares:
 
@@ -260,29 +300,29 @@ b) Curso complementar de Epidemiologia;
 
 c) Curso complementar de Administração Hospitalar.
 
-###### Art. 17.º - 1. A criação de cursos normais ou complementares, bem como a mudança de designação ou a sua extinção, serão feitas por portaria do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
+Art. 17.º - 1. A criação de cursos normais ou complementares, bem como a mudança de designação ou a sua extinção, serão feitas por portaria do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
 
 2. A realização de cursos eventuais fica dependente de despacho de autorização do Ministro da Saúde e Assistência, sob proposta do conselho escolar ou a pedido de entidades interessadas que suportarão, no todo ou em parte, os encargos.
 
-###### Art. 18.º Os cursos serão constituídos pelas matérias adequadas a ministrar pelo conjunto das cadeiras e disciplinas constantes dos respectivos planos, podendo, porém, de acordo com as suas características, assumir, total ou parcialmente, a forma de seminários multidisciplinares.
+Art. 18.º Os cursos serão constituídos pelas matérias adequadas a ministrar pelo conjunto das cadeiras e disciplinas constantes dos respectivos planos, podendo, porém, de acordo com as suas características, assumir, total ou parcialmente, a forma de seminários multidisciplinares.
 
-###### Art. 19.º - 1. Os planos dos cursos serão estabelecidos pelo conselho escolar e aprovados pelo Ministro da Saúde e Assistência, devendo ser periòdicamente revistos, sob proposta do respectivo conselho do curso, de acordo com o desenvolvimento das ciências da saúde e dos recursos da Escola.
+Art. 19.º - 1. Os planos dos cursos serão estabelecidos pelo conselho escolar e aprovados pelo Ministro da Saúde e Assistência, devendo ser periòdicamente revistos, sob proposta do respectivo conselho do curso, de acordo com o desenvolvimento das ciências da saúde e dos recursos da Escola.
 
 2. A actividade das cadeiras e disciplinas dos vários cursos poderá estender-se por um ou mais trimestres, conforme for disposto no respectivo plano e de acordo com as necessidades do ensino e possibilidades da Escola.
 
 3. O ensino de cada cadeira ou disciplina poderá abranger, além das diversas modalidades de aulas necessárias, trabalhos de campo, visitas escolares e estágios, conforme as suas características o indicarem.
 
-###### Art. 20.º - 1. Os programas, bem como os tempos lectivos e demais questões relativas ao regime das actividades de cada cadeira ou disciplina, serão aprovados, na generalidade, pelo conselho escolar, sob proposta do respectivo professor, e deles será dada publicidade, bem como da correspondente bibliografia recomendada.
+Art. 20.º - 1. Os programas, bem como os tempos lectivos e demais questões relativas ao regime das actividades de cada cadeira ou disciplina, serão aprovados, na generalidade, pelo conselho escolar, sob proposta do respectivo professor, e deles será dada publicidade, bem como da correspondente bibliografia recomendada.
 
 2. A coordenação de actividades e a harmonização de programas em cada curso ficará a cargo do respectivo conselho do curso.
 
 3. As lições e outra documentação essencial do ensino serão distribuídas aos alunos oportunamente, sob a forma impressa ou policopiada, cabendo a respectiva edição à Escola.
 
-###### Art. 21.º - 1. O ano escolar, incluindo a época de exame, decorre desde o dia da 1.ª quinzena de Outubro que for fixado pelo director, ouvido o conselho escolar, até 30 de Julho.
+Art. 21.º - 1. O ano escolar, incluindo a época de exame, decorre desde o dia da 1.ª quinzena de Outubro que for fixado pelo director, ouvido o conselho escolar, até 30 de Julho.
 
 2. Os cursos eventuais terão, porém, início e terminarão nas datas que forem fixadas com a devida antecedência pelo conselho escolar.
 
-###### Art. 22.º - 1. A frequência dos cursos professados na Escola depende da matrícula.
+Art. 22.º - 1. A frequência dos cursos professados na Escola depende da matrícula.
 
 2. Os alunos poderão matricular-se em cursos completos ou apenas em uma ou mais cadeiras do mesmo ou diferentes cursos, ficando, porém, a aceitação definitiva da matrícula, neste último caso, dependente da verificação da compatibilidade dos horários.
 
@@ -290,7 +330,7 @@ c) Curso complementar de Administração Hospitalar.
 
 4. O número de alunos a admitir em cada curso pode ser limitado pelo conselho escolar, tendo em vista as necessidades de profissionais e as possibilidades da Escola.
 
-###### Art. 23.º - 1. As habilitações exigíveis para a matrícula nos diferentes cursos são as seguintes:
+Art. 23.º - 1. As habilitações exigíveis para a matrícula nos diferentes cursos são as seguintes:
 
 a) Para o curso de Saúde Pública, a licenciatura em Medicina, Medicina Veterinária, Farmácia e Biologia;
 
@@ -306,23 +346,23 @@ d) Para os cursos complementares, a habilitação de um curso normal adequado da
 
 4. Além das habilitações exigíveis nos termos dos n.os 1 e 2, podem efectuar-se provas de cultura geral ou destinadas a averiguar o grau de aptidão dos candidatos para os cursos desejados.
 
-###### Art. 24.º - 1. As matrículas para os cursos normais e complementares serão feitas de 15 a 30 de Setembro.
+Art. 24.º - 1. As matrículas para os cursos normais e complementares serão feitas de 15 a 30 de Setembro.
 
 2. A data das matrículas dos cursos eventuais será fixada pelo director, ouvido o conselho escolar.
 
-###### Art. 25.º Mediante autorização do professor respectivo, poderão ser admitidos como ouvintes quaisquer indivíduos a que interessem as matérias professadas nas cadeiras ou disciplinas dos cursos.
+Art. 25.º Mediante autorização do professor respectivo, poderão ser admitidos como ouvintes quaisquer indivíduos a que interessem as matérias professadas nas cadeiras ou disciplinas dos cursos.
 
-###### Art. 26.º - 1. As normas e requisitos de que dependem a validação e manutenção da frequência e a aprovação final em cada cadeira ou disciplina serão regulamentadas superiormente, para cada curso, sob proposta do conselho escolar e por este periòdicamente revistas, de acordo com as sugestões recebidas dos conselhos de curso e a evolução das técnicas pedagógicas e didácticas em uso na Escola.
+Art. 26.º - 1. As normas e requisitos de que dependem a validação e manutenção da frequência e a aprovação final em cada cadeira ou disciplina serão regulamentadas superiormente, para cada curso, sob proposta do conselho escolar e por este periòdicamente revistas, de acordo com as sugestões recebidas dos conselhos de curso e a evolução das técnicas pedagógicas e didácticas em uso na Escola.
 
 2. O director da Escola providenciará para que os alunos tomem conhecimento dessas normas regulamentares no início do curso, quer mantendo-as afixadas em lugar visível, quer fornecendo-lhes sempre que possível, cópias individuais.
 
-###### Art. 27.º - 1. A conclusão dos cursos ordinários implica a aprovação em todas as cadeiras e disciplinas que os compõem, mesmo que tal se verifique em anos diferentes, não podendo o período de intervalo exceder dois anos escolares, e traduzir-se-á por uma classificação de curso em que serão devidamente consideradas todas as classificações finais naquelas obtidas.
+Art. 27.º - 1. A conclusão dos cursos ordinários implica a aprovação em todas as cadeiras e disciplinas que os compõem, mesmo que tal se verifique em anos diferentes, não podendo o período de intervalo exceder dois anos escolares, e traduzir-se-á por uma classificação de curso em que serão devidamente consideradas todas as classificações finais naquelas obtidas.
 
 2. Os respectivos regulamentos fixarão o modo de determinar a classificação do curso com os critérios de valorização adoptados para as cadeiras e disciplinas, com ou sem exame final.
 
 3. Nos cursos eventuais que pelo seu tipo o justifiquem poderá estabelecer-se apenas a atribuição de um certificado de frequência.
 
-###### Art. 28.º - 1. A conclusão de um curso dará direito ao respectivo diploma, conforme modelo aprovado, salvo relativamente aos cursos eventuais que o conselho escolar regulamentará.
+Art. 28.º - 1. A conclusão de um curso dará direito ao respectivo diploma, conforme modelo aprovado, salvo relativamente aos cursos eventuais que o conselho escolar regulamentará.
 
 2. Poderão, além disso, ser passadas certidões ou certificados:
 
@@ -332,13 +372,13 @@ b) Aos alunos aprovados em curso que não confira diploma;
 
 c) Aos alunos aprovados em cadeiras isoladas.
 
-###### Art. 29.º - 1. Pela passagem de diplomas, certidões e certificados serão devidos os emolumentos constantes da tabela anexa.
+Art. 29.º - 1. Pela passagem de diplomas, certidões e certificados serão devidos os emolumentos constantes da tabela anexa.
 
 2. Em relação a cursos eventuais, o conselho escolar poderá determinar que seja gratuita a concessão de certificados de frequência.
 
 #### SECÇÃO V — Dos serviços administrativos
 
-###### Art. 30.º - 1. Incumbe aos serviços administrativos a elaboração do expediente geral e, bem assim, do relativo ao pessoal, aos alunos e à administração da Escola.
+Art. 30.º - 1. Incumbe aos serviços administrativos a elaboração do expediente geral e, bem assim, do relativo ao pessoal, aos alunos e à administração da Escola.
 
 2. Igualmente lhes cabe assegurar e coordenar a utilização das instalações do Instituto e outros serviços, nos termos do n.º 1 do artigo 2.º deste Regulamento.
 
@@ -350,7 +390,7 @@ c) Aos alunos aprovados em cadeiras isoladas.
 
 #### SECÇÃO VI — Disposições gerais
 
-###### Art. 31.º - 1. São órgãos de direcção e administração da Escola:
+Art. 31.º - 1. São órgãos de direcção e administração da Escola:
 
 a) A direcção;
 
@@ -362,15 +402,15 @@ d) O conselho administrativo.
 
 2. Aos órgãos da Escola cabe promover a realização dos objectivos da Escola, cumprir e fazer cumprir as leis e cooperar com os serviços públicos e entidades privadas que se proponham melhorar o estado de saúde das populações.
 
-###### Art. 32.º Os membros dos conselhos referidos no artigo anterior são solidàriamente responsáveis pelas deliberações tomadas com a sua concordância.
+Art. 32.º Os membros dos conselhos referidos no artigo anterior são solidàriamente responsáveis pelas deliberações tomadas com a sua concordância.
 
 #### SECÇÃO VII — Da direcção
 
-###### Art. 33.º - 1. A direcção da Escola será constituída por um director, um subdirector e um secretário.
+Art. 33.º - 1. A direcção da Escola será constituída por um director, um subdirector e um secretário.
 
 2. A direcção superintende no funcionamento geral da Escola, avalia os resultados obtidos e elabora os relatórios anuais, propondo ou deliberando o que julgar conveniente para o aperfeiçoamento dos serviços.
 
-###### Art. 34.º - 1. O director do Instituto é, por inerência, o da Escola.
+Art. 34.º - 1. O director do Instituto é, por inerência, o da Escola.
 
 2. O subdirector é nomeado pelo Ministro da Saúde e Assistência de entre os professores catedráticos da Escola.
 
@@ -378,11 +418,11 @@ d) O conselho administrativo.
 
 4. O subdirector e o secretário servem por um período de três anos, prorrogável ano a ano até ao limite de seis.
 
-###### Art. 35.º - 1. Nas suas faltas e impedimentos, o director será substituído pelo subdirector.
+Art. 35.º - 1. Nas suas faltas e impedimentos, o director será substituído pelo subdirector.
 
 2. O director poderá delegar no subdirector funções próprias do seu cargo.
 
-###### Art. 36.º - 1. Compete em geral ao director assegurar a unidade de realização dos fins do estabelecimento e, designadamente:
+Art. 36.º - 1. Compete em geral ao director assegurar a unidade de realização dos fins do estabelecimento e, designadamente:
 
 a) Cumprir e fazer cumprir disposições legais e regulamentares, exercendo efectiva fiscalização sobre a sua rigorosa observância, pelo que respeita aos serviços docentes, de investigação ou administrativos;
 
@@ -408,9 +448,9 @@ k) Assinar os diplomas e certificados de curso.
 
 2. O director submeterá directamente a despacho ministerial os assuntos que excedam a competência dos órgãos da Escola.
 
-###### Art. 37.º Compete ao subdirector coadjuvar o director e exercer funções que lhe sejam conferidas ao abrigo dos n.os 1 e 2 do artigo 35.º
+Art. 37.º Compete ao subdirector coadjuvar o director e exercer funções que lhe sejam conferidas ao abrigo dos n.os 1 e 2 do artigo 35.º
 
-###### Art. 38.º Compete ao secretário:
+Art. 38.º Compete ao secretário:
 
 a) Desempenhar as atribuições a que se referem as alíneas a) e b) do artigo 48.º deste Regulamento;
 
@@ -420,7 +460,7 @@ c) Superintender no serviço de biblioteca, documentação e informação, dentr
 
 #### SECÇÃO VIII — Do conselho escolar
 
-###### Art. 39.º - 1. O conselho escolar será presidido pelo director e nele terão assento como vogais:
+Art. 39.º - 1. O conselho escolar será presidido pelo director e nele terão assento como vogais:
 
 a) Todos os membros do corpo docente que sejam providos por nomeação, conforme o disposto no artigo 12.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 23 de Março;
 
@@ -434,7 +474,7 @@ c) Dois representantes dos assistentes, por estes designados anualmente antes da
 
 4. No caso de falta, impedimento ou delegação do director, o conselho será presidido pelo subdirector.
 
-###### Art. 40.º Compete ao conselho escolar:
+Art. 40.º Compete ao conselho escolar:
 
 a) Superintender, nos termos definidos pelo presente Regulamento, em tudo o que diga respeito às actividades do ensino, investigação e divulgação que competirem à Escola;
 
@@ -448,27 +488,27 @@ e) Intervir na admissão, distribuição e regime do pessoal docente e técnico 
 
 f) Resolver dúvidas e estabelecer doutrinas sobre assuntos de carácter pedagógico que lhe sejam submetidos nos termos da lei ou por iniciativa de qualquer dos seus membros.
 
-###### Art. 41.º - 1. O conselho reunirá ordinàriamente no princípio de cada mês, durante os períodos escolares, e extraordinàriamente sempre que seja convocado pelo director, por sua iniciativa ou a solicitação escrita de, pelo menos, dois dos seus vogais, com indicação expressa dos assuntos a tratar.
+Art. 41.º - 1. O conselho reunirá ordinàriamente no princípio de cada mês, durante os períodos escolares, e extraordinàriamente sempre que seja convocado pelo director, por sua iniciativa ou a solicitação escrita de, pelo menos, dois dos seus vogais, com indicação expressa dos assuntos a tratar.
 
 2. O conselho funcionará em sessões plenárias ou por secções.
 
 3. As secções serão organizadas pelo conselho escolar em sessão plenária e serão presididas pelo director da Escola ou pelo professor da secção em quem delegue.
 
-###### Art. 42.º As sessões do conselho terão ordem do dia, sendo nulas as deliberações tomadas à margem desta, salvo se nenhum dos membros presentes arguir a nulidade no decorrer da sessão.
+Art. 42.º As sessões do conselho terão ordem do dia, sendo nulas as deliberações tomadas à margem desta, salvo se nenhum dos membros presentes arguir a nulidade no decorrer da sessão.
 
-###### Art. 43.º As convocações serão feitas com a antecedência de três dias úteis, pelo menos, salvo caso de urgência.
+Art. 43.º As convocações serão feitas com a antecedência de três dias úteis, pelo menos, salvo caso de urgência.
 
-###### Art. 44.º - 1. A não comparência às sessões do conselho é considerada para todos os efeitos como falta ao serviço, salvo motivo devidamente justificado.
+Art. 44.º - 1. A não comparência às sessões do conselho é considerada para todos os efeitos como falta ao serviço, salvo motivo devidamente justificado.
 
 2. Verificando-se o caso previsto na parte final do artigo 41.º, n.º 1, a sessão não poderá realizar-se sem a presença dos vogais que a hajam promovido, salvo relativamente a outros assuntos incluídos na mesma ordem do dia.
 
-###### Art. 45.º As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
+Art. 45.º As deliberações do conselho serão tomadas por maioria de votos, tendo o presidente voto de qualidade.
 
-###### Art. 46.º - 1. De todas as sessões se lavrará acta, a qual, depois de aprovada na sessão seguinte pela maioria dos membros presentes que hajam assistido, será assinada por todos os referidos membros presentes.
+Art. 46.º - 1. De todas as sessões se lavrará acta, a qual, depois de aprovada na sessão seguinte pela maioria dos membros presentes que hajam assistido, será assinada por todos os referidos membros presentes.
 
 2. Será enviada a cada membro do conselho cópia das actas, depois de aprovadas, e afixar-se-á em lugar próprio da Escola o resumo das deliberações tomadas em cada reunião, salvo quando o conselho considerar reservadas essas deliberações.
 
-###### Art. 47.º Como presidente do conselho escolar, compete essencialmente ao director:
+Art. 47.º Como presidente do conselho escolar, compete essencialmente ao director:
 
 a) Convocar o conselho e fixar a ordem do dia das respectivas sessões;
 
@@ -478,13 +518,13 @@ c) Dirigir a discussão dos assuntos nas sessões e mandar proceder à respectiv
 
 d) Tomar, nos intervalos das sessões, quaisquer decisões urgentes em matéria da competência do conselho, dando delas conhecimento na sessão imediata.
 
-###### Art. 48.º Compete ao secretário:
+Art. 48.º Compete ao secretário:
 
 a) Elaborar os projectos das actas e distribuí-las pelos membros do conselho;
 
 b) Coadjuvar o director no decurso das sessões.
 
-###### Art. 49.º - 1. São deveres dos vogais do conselho escolar:
+Art. 49.º - 1. São deveres dos vogais do conselho escolar:
 
 a) Comparecer às reuniões à hora marcada e votar as suas deliberações;
 
@@ -506,7 +546,7 @@ d) Ditar para a acta, quando o entenda necessário, uma justificação do seu vo
 
 #### SECÇÃO IX — Dos conselhos de cursos
 
-###### Art. 50.º - 1. Cada um dos cursos normais e complementares professados na Escola terá um conselho com a seguinte composição:
+Art. 50.º - 1. Cada um dos cursos normais e complementares professados na Escola terá um conselho com a seguinte composição:
 
 a) O director do curso, que preside;
 
@@ -518,7 +558,7 @@ c) Dois representantes dos alunos, por estes designados no começo do funcioname
 
 3. O director do curso será um professor catedrático nomeado anualmente pelo conselho escolar, que, nas suas faltas ou impedimentos, será substituído pelo membro do conselho de curso de maior categoria e antiguidade.
 
-###### Art. 51.º - 1. Compete aos conselhos de cursos:
+Art. 51.º - 1. Compete aos conselhos de cursos:
 
 a) Coordenar e orientar toda a actividade geral do curso, nomeadamente no que diz respeito aos programas das diversas disciplinas e às datas dos exames;
 
@@ -538,11 +578,11 @@ c) Apresentar anualmente ao director da Escola um relatório sobre a actividade 
 
 d) Assinar, juntamente com o director da Escola, os diplomas de curso.
 
-###### Art. 52.º Os conselhos de cursos reúnem por convocação do director, feita com a antecedência mínima de três dias, pelo menos uma vez por trimestre, ou a pedido de qualquer dos seus membros, igualmente dentro dos três dias úteis que se seguirem à entrega do pedido escrito ao respectivo director.
+Art. 52.º Os conselhos de cursos reúnem por convocação do director, feita com a antecedência mínima de três dias, pelo menos uma vez por trimestre, ou a pedido de qualquer dos seus membros, igualmente dentro dos três dias úteis que se seguirem à entrega do pedido escrito ao respectivo director.
 
 #### SECÇÃO X — Do conselho administrativo
 
-###### Art. 53.º - 1. O conselho administrativo é constituído por:
+Art. 53.º - 1. O conselho administrativo é constituído por:
 
 a) O director, que preside;
 
@@ -554,19 +594,19 @@ d) O chefe dos serviços administrativos do Instituto.
 
 2. Os substitutos dos membros do conselho serão os funcionários de categoria idêntica ou imediatamente inferior indicados pelos membros em causa e com a aprovação do director.
 
-###### Art. 54.º Compete ao conselho administrativo:
+Art. 54.º Compete ao conselho administrativo:
 
 a) Elaborar, ouvido o conselho escolar, os orçamentos da Escola, que serão conjuntos com os do Instituto;
 
 b) Todas as correspondentes competências referidas nas alíneas b), c), d), f), g), h), i), j) k) e l) do n.º 1 do artigo 13.º do Regulamento do Instituto, aprovado pelo [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
 
-###### Art. 55.º - 1. O conselho administrativo reunirá, ordinàriamente, uma vez por mês, e, extraordinàriamente, quando o presidente o convocar.
+Art. 55.º - 1. O conselho administrativo reunirá, ordinàriamente, uma vez por mês, e, extraordinàriamente, quando o presidente o convocar.
 
 2. O livro das actas do conselho administrativo, bem como os livros fundamentais de contabilidade, terão sempre termos de abertura e de encerramento e as folhas rubricadas pelo presidente.
 
 3. O conselho administrativo só poderá deliberar em sessão com a presença da maioria dos seus membros ou dos substitutos.
 
-###### Art. 56.º - 1. As deliberações do conselho administrativo serão tomadas por maioria, tendo o presidente voto de qualidade.
+Art. 56.º - 1. As deliberações do conselho administrativo serão tomadas por maioria, tendo o presidente voto de qualidade.
 
 2. De todas as sessões se lavrará acta, que será submetida à aprovação na sessão seguinte.
 
@@ -574,7 +614,7 @@ b) Todas as correspondentes competências referidas nas alíneas b), c), d), f),
 
 #### SECÇÃO XI — Disposições gerais
 
-###### Art. 57.º - 1. Para o exercício das suas actividades a Escola poderá dispor do seguinte pessoal:
+Art. 57.º - 1. Para o exercício das suas actividades a Escola poderá dispor do seguinte pessoal:
 
 a) Pessoal docente das categorias constantes da tabela anexa ao [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), do 19 de Novembro;
 
@@ -586,33 +626,33 @@ d) Pessoal não docente, com as categorias da tabela do pessoal do Instituto, an
 
 2. O número de assistentes da tabela a que se refere a alínea a) do número anterior constará dos orçamentos da Escola, mediante proposta do conselho escolar.
 
-###### Art. 58.º - 1. Os professores e assistentes, qualquer que seja a forma do seu provimento, podem exercer no Instituto, em regime de acumulação, funções relacionadas com as matérias por que são responsáveis, mediante despacho do Ministro da Saúde e Assistência, aplicando-se idêntico regime ao pessoal do Instituto devidamente habilitado.
+Art. 58.º - 1. Os professores e assistentes, qualquer que seja a forma do seu provimento, podem exercer no Instituto, em regime de acumulação, funções relacionadas com as matérias por que são responsáveis, mediante despacho do Ministro da Saúde e Assistência, aplicando-se idêntico regime ao pessoal do Instituto devidamente habilitado.
 
 2. As acumulações devem obedecer ao disposto no artigo 25.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
-###### Art. 59.º O pessoal não docente é recrutado, segundo as respectivas categorias, de harmonia com o disposto no Regulamento do Instituto, aprovado pelo [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
+Art. 59.º O pessoal não docente é recrutado, segundo as respectivas categorias, de harmonia com o disposto no Regulamento do Instituto, aprovado pelo [Decreto n.º 35/72](https://diariodarepublica.pt/dr/detalhe/decreto/35-1972-244878), de 31 de Janeiro.
 
-###### Art. 60.º - 1. O período normal de trabalho das diversas categorias de pessoal, com excepção do pessoal docente, regulado polo artigo 62º, será adaptado pelo director de harmonia com a natureza e finalidade dos serviços, mediante autorização superior.
+Art. 60.º - 1. O período normal de trabalho das diversas categorias de pessoal, com excepção do pessoal docente, regulado polo artigo 62º, será adaptado pelo director de harmonia com a natureza e finalidade dos serviços, mediante autorização superior.
 
 2. O director poderá delegar nos responsáveis pelos serviços a fixação dos respectivos horários de trabalho e sua vigilância.
 
-###### Art. 61.º - 1. Mediante despacho do director, poderão ser distribuídas batas ou outros resguardos apropriados ao pessoal cujas funções o justifique.
+Art. 61.º - 1. Mediante despacho do director, poderão ser distribuídas batas ou outros resguardos apropriados ao pessoal cujas funções o justifique.
 
 2. O pessoal nestas condições considerar-se-á fiel depositário desses artigos, respondendo pela sua existência e estado de conservação durante o período de duração que lhes estiver assinalado.
 
-###### Art. 62.º O pessoal docente é obrigado a cumprir um horário de doze horas semanais, que será, para cada caso, o que for fixado pelo director, sob proposta dos directores dos cursos, de harmonia com as necessidades do ensino.
+Art. 62.º O pessoal docente é obrigado a cumprir um horário de doze horas semanais, que será, para cada caso, o que for fixado pelo director, sob proposta dos directores dos cursos, de harmonia com as necessidades do ensino.
 
-###### Art. 63.º As remunerações do pessoal docente são as que constam da tabela anexa ao [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), de 19 de Novembro.
+Art. 63.º As remunerações do pessoal docente são as que constam da tabela anexa ao [Decreto-Lei n.º 504/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-1971-631654), de 19 de Novembro.
 
-###### Art. 64.º Têm direito a gratificações fixadas pelos Ministros das Finanças e da Saúde e Assistência os professores que exercerem as funções de director, subdirector e secretário e os professores e assistentes pela regência de cadeiras e disciplinas, além daquelas por que são normalmente responsáveis, e pela direcção de cursos ou seminários.
+Art. 64.º Têm direito a gratificações fixadas pelos Ministros das Finanças e da Saúde e Assistência os professores que exercerem as funções de director, subdirector e secretário e os professores e assistentes pela regência de cadeiras e disciplinas, além daquelas por que são normalmente responsáveis, e pela direcção de cursos ou seminários.
 
-###### Art. 65.º Os professores auxiliares e assistentes não abrangidos por regime de acumulação e que prestarem mais de doze horas semanais de serviço docente, excluído o caso de serviço relativo a provas de aproveitamento dos alunos, terão direito por cada hora de serviço, além daquele limite, à gratificação mensal correspondente a 1/48 do vencimento, mediante despacho do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
+Art. 65.º Os professores auxiliares e assistentes não abrangidos por regime de acumulação e que prestarem mais de doze horas semanais de serviço docente, excluído o caso de serviço relativo a provas de aproveitamento dos alunos, terão direito por cada hora de serviço, além daquele limite, à gratificação mensal correspondente a 1/48 do vencimento, mediante despacho do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
 
-###### Art. 66.º A [Portaria n.º 202/71](https://diariodarepublica.pt/dr/detalhe/portaria/202-1971-444749), de 19 de Abril, aplica-se ao corpo docente da Escola, com as modificações que vierem a ser aprovadas por despacho ministerial, sob proposta do conselho escolar.
+Art. 66.º A [Portaria n.º 202/71](https://diariodarepublica.pt/dr/detalhe/portaria/202-1971-444749), de 19 de Abril, aplica-se ao corpo docente da Escola, com as modificações que vierem a ser aprovadas por despacho ministerial, sob proposta do conselho escolar.
 
 #### SECÇÃO XII — Do recrutamento do pessoal docente
 
-###### Art. 67.º - 1. Os lugares de professor auxiliar de cada cadeira são providos, mediante proposta do conselho escolar, por indivíduos aprovados em curso de provas públicas de esquema idêntico ao exigido para concessão de grau de doutor das Universidades.
+Art. 67.º - 1. Os lugares de professor auxiliar de cada cadeira são providos, mediante proposta do conselho escolar, por indivíduos aprovados em curso de provas públicas de esquema idêntico ao exigido para concessão de grau de doutor das Universidades.
 
 2. Podem requerer a prestação de provas de concurso:
 
@@ -626,13 +666,13 @@ d) Os habilitados com os cursos complementares correspondentes;
 
 e) Individualidades de cujo curriculum vitae constem trabalhos profissionais ou estudos científicos sobre matérias da cadeira ou da disciplina considerados de grande mérito por deliberação de dois terços do conselho escolar, baseada em relatório de professores nacionais ou estrangeiros da especialidade.
 
-###### Art. 68.º - 1. O júri do concurso para professor auxiliar será presidido pelo director da Escola e poderá incluir, além do corpo docente, até um máximo de três vogais a ele estranhos, expressamente solicitados para o efeito, de acordo com deliberação do conselho escolar.
+Art. 68.º - 1. O júri do concurso para professor auxiliar será presidido pelo director da Escola e poderá incluir, além do corpo docente, até um máximo de três vogais a ele estranhos, expressamente solicitados para o efeito, de acordo com deliberação do conselho escolar.
 
 2. É fixado em trinta o número de exemplares da dissertação a entregar pelo candidato.
 
-###### Art. 69.º Os lugares de professor auxiliar podem ser providos por convite, sob proposta de um professor da Escola, aprovada por maioria de dois terços do conselho escolar.
+Art. 69.º Os lugares de professor auxiliar podem ser providos por convite, sob proposta de um professor da Escola, aprovada por maioria de dois terços do conselho escolar.
 
-###### Art. 70.º - 1. Aos concursos para professores extraordinários poderão concorrer:
+Art. 70.º - 1. Aos concursos para professores extraordinários poderão concorrer:
 
 a) Os professores auxiliares da mesma disciplina ou de outras disciplinas da mesma cadeira;
 
@@ -648,29 +688,29 @@ f) Assistentes da mesma cadeira que tenham já comunicado ao conselho escolar a 
 
 2. No caso previsto na alínea f) do número anterior, o prosseguimento do concurso ficará automàticamente adiado até o concorrente em causa ter prestado as provas para professor auxiliar, mas esse adiamento cessará seis meses após o fecho do concurso, quando entretanto aquele não tiver entregue a respectiva dissertação, ou logo que, por qualquer forma, se verificar a impossibilidade de o fazer.
 
-###### Art. 71.º Os lugares de professor extraordinário poderão ser providos por transferência requerida por um professor extraordinário de disciplina afim, com obediência às normas estabelecidas para o recrutamento por transferência de professores catedráticos.
+Art. 71.º Os lugares de professor extraordinário poderão ser providos por transferência requerida por um professor extraordinário de disciplina afim, com obediência às normas estabelecidas para o recrutamento por transferência de professores catedráticos.
 
-###### Art. 72.º Os lugares de professor extraordinário podem ser providos por convite, nos termos da alínea e) do n.º 1 do artigo 70.º, sob proposta de um professor da Escola.
+Art. 72.º Os lugares de professor extraordinário podem ser providos por convite, nos termos da alínea e) do n.º 1 do artigo 70.º, sob proposta de um professor da Escola.
 
-###### Art. 73.º - 1. Aos concursos para professor catedrático podem concorrer os professores extraordinários da mesma cadeira ou outra disciplina independente do mesmo departamento.
+Art. 73.º - 1. Aos concursos para professor catedrático podem concorrer os professores extraordinários da mesma cadeira ou outra disciplina independente do mesmo departamento.
 
 2. Mediante parecer favorável de dois terços do conselho escolar, poderão ainda Ser admitidos a concurso professores extraordinários de outras cadeiras ou disciplinas independentes.
 
 3. Mediante parecer favorável de dois terços do conselho escolar, poderão também ser admitidos a concurso professores extraordinários das Universidades das cadeiras correspondentes ou afins.
 
-###### Art. 74.º Os lugares de professor catedrático podem ser providos por convite, nos termos da alínea e) do n.º 1 do artigo 70.º, sob proposta de um professor da Escola.
+Art. 74.º Os lugares de professor catedrático podem ser providos por convite, nos termos da alínea e) do n.º 1 do artigo 70.º, sob proposta de um professor da Escola.
 
-###### Art. 75.º Os júris dos concursos para professor catedrático e extraordinário são presididos pelo director da Escola e nele tomarão parte os professores de categoria igual ou superior ao lugar a concurso.
+Art. 75.º Os júris dos concursos para professor catedrático e extraordinário são presididos pelo director da Escola e nele tomarão parte os professores de categoria igual ou superior ao lugar a concurso.
 
-###### Art. 76.º - 1. Quando o conselho escolar entender conveniente, os júris de concurso para professores catedráticos e extraordinários poderão incluir professores universitários nacionais ou estrangeiros, preferentemente de cadeiras correspondentes ou afins, expressamente solicitados para o efeito.
+Art. 76.º - 1. Quando o conselho escolar entender conveniente, os júris de concurso para professores catedráticos e extraordinários poderão incluir professores universitários nacionais ou estrangeiros, preferentemente de cadeiras correspondentes ou afins, expressamente solicitados para o efeito.
 
 2. As normas a seguir para as designações previstas no número anterior, bem como aquela a que se refere o n.º 1 do artigo 68.º, serão acordadas entre os Ministros competentes.
 
-###### Art. 77.º O regulamento das provas de concurso para as diversas categorias do pessoal docente da Escola será fixado por portaria do Ministro da Saúde e Assistência.
+Art. 77.º O regulamento das provas de concurso para as diversas categorias do pessoal docente da Escola será fixado por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 78.º Uma vez nomeados definitivamente os professores catedráticos e extraordinários, não poderão ser deslocados das disciplinas a que concorreram, excepto quando autorizada a transferência, a seu pedido ou com a sua concordância.
+Art. 78.º Uma vez nomeados definitivamente os professores catedráticos e extraordinários, não poderão ser deslocados das disciplinas a que concorreram, excepto quando autorizada a transferência, a seu pedido ou com a sua concordância.
 
-###### Art. 79.º Os assistentes serão recrutados entre os diplomados com cursos professados na Escola ou que estejam ao serviço como funcionários do Ministério da Saúde e Assistência em lugar adequado, por convite ou concurso documental, preferindo, no último caso:
+Art. 79.º Os assistentes serão recrutados entre os diplomados com cursos professados na Escola ou que estejam ao serviço como funcionários do Ministério da Saúde e Assistência em lugar adequado, por convite ou concurso documental, preferindo, no último caso:
 
 a) Os que possuam aprovação em cursos complementares;
 
@@ -678,7 +718,7 @@ b) Os que sejam assistentes livres, por ordem de tempo de serviço prestado;
 
 c) Os que sejam funcionários do Ministério da Saúde e Assistência, por ordem de categoria e tempo de serviço prestado.
 
-###### Art. 80.º - 1. Os assistentes livres serão recrutados entre os diplomados com um dos cursos professados na Escola em cujo plano esteja incluída a disciplina em causa, ou entre diplomados com um curso adequado de escola estrangeira a que o conselho escolar confira a devida equivalência.
+Art. 80.º - 1. Os assistentes livres serão recrutados entre os diplomados com um dos cursos professados na Escola em cujo plano esteja incluída a disciplina em causa, ou entre diplomados com um curso adequado de escola estrangeira a que o conselho escolar confira a devida equivalência.
 
 2. Poderão ser ainda admitidos, com o acordo prévio do conselho escolar, diplomados com um curso superior adequado que tenham frequentado, com o aproveitamento mínimo de Bom, as cadeiras do departamento a que concorrem.
 
@@ -688,11 +728,11 @@ c) Os que sejam funcionários do Ministério da Saúde e Assistência, por ordem
 
 ### CAPÍTULO V — Da administração financeira e patrimonial
 
-###### Art. 81.º - 1. A Escola, pelo conselho administrativo, ouvido o conselho escolar, elaborará até 30 de Junho o projecto de orçamento ordinário.
+Art. 81.º - 1. A Escola, pelo conselho administrativo, ouvido o conselho escolar, elaborará até 30 de Junho o projecto de orçamento ordinário.
 
 2. O orçamento ordinário será elaborado, conjuntamente com o do Instituto, para aprovação do Ministro da Saúde e Assistência, até 31 de Janeiro.
 
-###### Art. 82.º - 1. Constituem receitas da Escola:
+Art. 82.º - 1. Constituem receitas da Escola:
 
 a) O subsídio atribuído à Escola no orçamento do Instituto;
 
@@ -704,49 +744,49 @@ d) As taxas devidas por serviços prestados nos termos das tabelas devidamente a
 
 2. Os subsídios e os donativos podem ser atribuídos com fins expressos dentro das atribuições da Escola, designadamente pelo que respeita à criação de prémios.
 
-###### Art. 83.º Os membros do conselho administrativo serão pessoal e solidàriamente responsáveis:
+Art. 83.º Os membros do conselho administrativo serão pessoal e solidàriamente responsáveis:
 
 a) Pelas despesas ou pagamentos que autorizem em contrário das disposições legais;
 
 b) Pelas irregularidade verificadas no serviço de tesouraria, quando devidas a negligência da respectiva fiscalização.
 
-###### Art. 84.º O inventário discriminará os bens da Escola, conforme a origem das verbas com que hajam sido adquiridos, de harmonia com os dados constantes das rubricas dos respectivos orçamentos.
+Art. 84.º O inventário discriminará os bens da Escola, conforme a origem das verbas com que hajam sido adquiridos, de harmonia com os dados constantes das rubricas dos respectivos orçamentos.
 
-###### Art. 85.º - 1. Nenhum material inventariado poderá ser considerado inútil ou inutilizado sem autorização do conselho administrativo.
+Art. 85.º - 1. Nenhum material inventariado poderá ser considerado inútil ou inutilizado sem autorização do conselho administrativo.
 
 2. A justificação do material abatido ao efectivo será feita através dos respectivos autos de inutilização ou de venda em hasta pública.
 
-###### Art. 86.º O pessoal da Escola responderá civil e disciplinarmente pela infracção ao disposto nos artigos anteriores e, do uma maneira geral, por todos os danos causados ao património da Escola.
+Art. 86.º O pessoal da Escola responderá civil e disciplinarmente pela infracção ao disposto nos artigos anteriores e, do uma maneira geral, por todos os danos causados ao património da Escola.
 
 ### CAPÍTULO VI — Da investigação, informação e divulgação
 
-###### Art. 87.º - 1. As actividades de investigação da Escola desenvolver-se-ão no âmbito das cadeiras e disciplinas de acordo com os programas elaborados pelos seus dirigentes ou responsáveis, em estreita ligação com os planos gerais do Instituto.
+Art. 87.º - 1. As actividades de investigação da Escola desenvolver-se-ão no âmbito das cadeiras e disciplinas de acordo com os programas elaborados pelos seus dirigentes ou responsáveis, em estreita ligação com os planos gerais do Instituto.
 
 2. Poderá, porém, o conselho escolar, por sua iniciativa ou no seguimento de solicitações recebidas ou encargos assumidos, distribuir àquelas unidades programas de investigação definidos, dentro do estabelecido pelo número anterior.
 
 3. Poderá ainda o conselho escolar, pelas mesmas razões e dentro do mesmo critério, estabelecer programas de trabalhos multidisciplinares, cuja realização deverá regulamentar em plano específico.
 
-###### Art. 88.º - 1. A Escola poderá organizar missões de estudo, individuais ou colectivas, no País ou no estrangeiro, mediante autorização do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
+Art. 88.º - 1. A Escola poderá organizar missões de estudo, individuais ou colectivas, no País ou no estrangeiro, mediante autorização do Ministro da Saúde e Assistência, sob proposta do conselho escolar.
 
 2. À falta do outro prazo expressamente estabelecido, os relatórios das missões referidas neste artigo deverão ser apresentados ao conselho escolar dentro de três meses, a contar da data da conclusão dos trabalhos, salvo caso de força maior.
 
-###### Art. 89.º A Escola poderá proceder à realização dos inquéritos que se tornarem indispensáveis aos estudos levados a efeito no âmbito das suas actividades, sem prejuízo da legislação própria do Instituto Nacional de Estatística e procurando a colaboração dos serviços respectivos.
+Art. 89.º A Escola poderá proceder à realização dos inquéritos que se tornarem indispensáveis aos estudos levados a efeito no âmbito das suas actividades, sem prejuízo da legislação própria do Instituto Nacional de Estatística e procurando a colaboração dos serviços respectivos.
 
-###### Art. 90.º Compete ao director providenciar para que se realizem com regularidade reuniões do pessoal docente destinadas à divulgação e troca de informações sobre os trabalhos em curso e actividades desenvolvidas nas diversas cadeiras.
+Art. 90.º Compete ao director providenciar para que se realizem com regularidade reuniões do pessoal docente destinadas à divulgação e troca de informações sobre os trabalhos em curso e actividades desenvolvidas nas diversas cadeiras.
 
-###### Art. 91.º - 1. Mediante deliberação do conselho escolar ou por iniciativa do director, poderá a Escola organizar sessões para exposição e discussão de temas científicos ou de ensino, considerando-se obrigatória a comparência dos membros do corpo docente, no domínio dos mesmos temas, e participar nas que forem organizadas por outras entidades.
+Art. 91.º - 1. Mediante deliberação do conselho escolar ou por iniciativa do director, poderá a Escola organizar sessões para exposição e discussão de temas científicos ou de ensino, considerando-se obrigatória a comparência dos membros do corpo docente, no domínio dos mesmos temas, e participar nas que forem organizadas por outras entidades.
 
 2. No âmbito das actividades previstas neste artigo, poderão ser convidadas individualidades de reconhecida competência a tomarem parte nas sessões e a realizarem prelecções ou conferências sobre matérias da sua especialidade.
 
 3. Quando, porém, tais actividades envolvam a participação de entidades ou pessoas de nacionalidade estrangeira, tornar-se-á necessária a autorização do respectivo Ministro, consoante as verbas por que devem ser suportados os encargos.
 
-###### Art. 92.º A Escola promoverá a divulgação dos conhecimentos respeitantes à saúde pública, em ligação com o departamento respectivo do Instituto.
+Art. 92.º A Escola promoverá a divulgação dos conhecimentos respeitantes à saúde pública, em ligação com o departamento respectivo do Instituto.
 
 ### CAPÍTULO VII — Das bolsas de estudo, prémios e galardões
 
-###### Art. 93.º A Escola poderá conceder bolsas de estudo de especialização ou aperfeiçoamento por deliberação do conselho escolar ou do conselho administrativo, conforme os casos, e prémios, de acordo com os planos gerais aprovados pelo Ministro da Saúde e Assistência, conforme o disposto nas alíneas f) e g) do artigo 4.º do presente Regulamento.
+Art. 93.º A Escola poderá conceder bolsas de estudo de especialização ou aperfeiçoamento por deliberação do conselho escolar ou do conselho administrativo, conforme os casos, e prémios, de acordo com os planos gerais aprovados pelo Ministro da Saúde e Assistência, conforme o disposto nas alíneas f) e g) do artigo 4.º do presente Regulamento.
 
-###### Art. 94.º - 1. Poderá ainda a Escola instituir galardões ou títulos honoríficos destinados a distinguir personalidades ou instituições que, nos campos da saúde pública, tenham prestado serviços relevantes.
+Art. 94.º - 1. Poderá ainda a Escola instituir galardões ou títulos honoríficos destinados a distinguir personalidades ou instituições que, nos campos da saúde pública, tenham prestado serviços relevantes.
 
 2. A instituição e as condições de atribuição das distinções previstas neste artigo serão estabelecidas em portaria ministerial elaborada sob proposta do conselho escolar.
 
@@ -754,7 +794,7 @@ b) Pelas irregularidade verificadas no serviço de tesouraria, quando devidas a 
 
 ### CAPÍTULO VIII — Dos alunos
 
-###### Art. 95.º - 1. A Escola procurará suscitar ou desenvolver nos alunos o espírito científico, crítico e criador, sobretudo aplicado às ciências e técnicas da saúde no meio português.
+Art. 95.º - 1. A Escola procurará suscitar ou desenvolver nos alunos o espírito científico, crítico e criador, sobretudo aplicado às ciências e técnicas da saúde no meio português.
 
 2. Procurará ainda fomentar neles o interesse pelas actividades de saúde pública e criar, sem prejuízo do esforço pessoal de aprendizagem e valorização, hábitos de trabalho em equipas multidisciplinares.
 
@@ -766,7 +806,7 @@ b) Pelas irregularidade verificadas no serviço de tesouraria, quando devidas a 
 
 6. Os alunos terão processos individuais relativos à sua actividade escolar.
 
-###### Art. 96.º - 1. A Escola procurará manter contacto com os antigos alunos, facultando-lhes informações, bibliografia e outros apoios técnicos e profissionais.
+Art. 96.º - 1. A Escola procurará manter contacto com os antigos alunos, facultando-lhes informações, bibliografia e outros apoios técnicos e profissionais.
 
 2. Os antigos alunos da Escola poderão constituir-se em associação com o objectivo de continuarem a valorizar-se profissionalmente e de colaborarem com a Escola na melhoria do ensino.
 
@@ -774,15 +814,15 @@ b) Pelas irregularidade verificadas no serviço de tesouraria, quando devidas a 
 
 ### CAPÍTULO IX — Disposição final
 
-###### Art. 97.º O Ministro da Saúde e Assistência resolverá, por despacho, ouvido o conselho escolar, as dúvidas que se suscitarem na execução e aplicação deste diploma.
+Art. 97.º O Ministro da Saúde e Assistência resolverá, por despacho, ouvido o conselho escolar, as dúvidas que se suscitarem na execução e aplicação deste diploma.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 27 de Outubro de 1972.**
+Promulgado em 27 de Outubro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 TABELA N.º 1
 
@@ -824,4 +864,4 @@ c) De qualquer facto ou situação ... 40$00
 
 3 - Diplomas de curso ... 150$00
 
-**O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**
+O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/11-1973-288460
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bfe632d3b521b9c6812062ff3ad0c973395977f954d82ad343b7ba58a6bbd362
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83d8a50d0707e90a293ea01ba19fb9a5422acf93d8c349645912fdd0fc2108fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:578729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688581:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:28Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +109,7 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. Os Governos das províncias ultramarinas são autorizados a criar, mediante portaria, nas respectivas províncias, por um período de cinco anos,
+Artigo 1.º - 1. Os Governos das províncias ultramarinas são autorizados a criar, mediante portaria, nas respectivas províncias, por um período de cinco anos,
 
 cursos especiais e intensivos para promoção de auxiliares de enfermagem à categoria de enfermeiros.
 
@@ -109,9 +121,9 @@ cursos especiais e intensivos para promoção de auxiliares de enfermagem à cat
 
 5. A equiparação dos cursos aos que funcionam na metrópole reger-se-á pelo Decreto n.º 49173, de 5 de Agosto de 1969.
 
-###### Art. 2.º O número de alunos a admitir anualmente em cada curso, bem como as quotas de admissão a conceder a organismos, serviços ou instituições não oficiais serão fixados por despacho do Governo da província em que o mesmo se realize, tendo em conta a capacidade das escolas, o número de monitores e as necessidades dos serviços.
+Art. 2.º O número de alunos a admitir anualmente em cada curso, bem como as quotas de admissão a conceder a organismos, serviços ou instituições não oficiais serão fixados por despacho do Governo da província em que o mesmo se realize, tendo em conta a capacidade das escolas, o número de monitores e as necessidades dos serviços.
 
-###### Art. 3.º São condições de admissão dos candidatos ao curso de promoção de auxiliares de enfermagem a enfermeiros:
+Art. 3.º São condições de admissão dos candidatos ao curso de promoção de auxiliares de enfermagem a enfermeiros:
 
 a) Estarem diplomados com o curso de auxiliares de enfermagem, de acordo com a legislação em vigor;
 
@@ -121,7 +133,7 @@ c) Terem prestado, pelo menos, quatro anos de bom e efectivo serviço profission
 
 d) Possuírem boa saúde física e mental, comprovada por exame médico na altura da admissão à escola onde se realiza o curso.
 
-###### Art. 4.º São condições de preferência na admissão ao curso:
+Art. 4.º São condições de preferência na admissão ao curso:
 
 a) Maiores habilitações literárias;
 
@@ -133,16 +145,16 @@ d) Maior tempo de exercício profissional;
 
 e) Mais idade.
 
-###### Art. 5.º Os auxiliares de enfermagem que se encontrem a trabalhar em departamentos dependentes dos serviços de saúde e assistência das províncias ultramarinas poderão ser propostos pelas direcções dos serviços de saúde para a frequência dos cursos de promoção que venham a ser criados, em condições a estabelecer pelos respectivos Governos.
+Art. 5.º Os auxiliares de enfermagem que se encontrem a trabalhar em departamentos dependentes dos serviços de saúde e assistência das províncias ultramarinas poderão ser propostos pelas direcções dos serviços de saúde para a frequência dos cursos de promoção que venham a ser criados, em condições a estabelecer pelos respectivos Governos.
 
-###### Art. 6.º É revogado o artigo 116.º do [Decreto n.º 45818](https://diariodarepublica.pt/dr/detalhe/decreto/45818-1964-578729), de 15 de Julho de 1964.
+Art. 6.º É revogado o artigo 116.º do [Decreto n.º 45818](https://diariodarepublica.pt/dr/detalhe/decreto/45818-1964-578729), de 15 de Julho de 1964.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Janeiro de 1973.**
+Promulgado em 3 de Janeiro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

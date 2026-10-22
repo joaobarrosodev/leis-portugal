@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 148/1975, 3º Suplemento, Série I de 1975-06-30
   number: '148'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 908-(71) a 908-(73)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14803/00710073.pdf
 entry_into_force_dates: []
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-b-1975-234077
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:42:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5707a7d7520f709b26385362ce61b58c33eff615baa6ff37db2fd0366e81de3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d225fee895b09fe1c1451245839471aedfdf6a9668e26b7d6b2b2ef2143f24c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:42:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Diretor
+- Estado Maior do Exército
+- Ministério do Exército
+- Serviço de Informática do Exército
+- Subdiretor
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:251469:por
+  label: "Revogados os nºs. 2 e 3 do artigo 12º pelo DEC LEI.185/77.07.05.1977.CR, DR.IS [106] de 07.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1977-251469
+  date: '1977-05-07'
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente\
+    \ em vigor, nos termos do seu art. 32º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:42:08Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +135,7 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Serviço de Informática do Exército (SIE), que constitui uma direcção do Estado-Maior do Exército, na dependência directa do Vice-Chefe do Estado-Maior do Exército, e competindo-lhe:
+Artigo 1.º É criado o Serviço de Informática do Exército (SIE), que constitui uma direcção do Estado-Maior do Exército, na dependência directa do Vice-Chefe do Estado-Maior do Exército, e competindo-lhe:
 
 a) Definir a política de informática do Exército e informar sobre as possibilidades do serviço;
 
@@ -122,7 +149,7 @@ e) Representar o Exército nas actividades relativas à informática, extensivas
 
 f) Executar todas as operações decorrentes da aplicação da política de informática do Exército.
 
-###### Art. 2.º O Serviço de Informática do Exército é constituído por:
+Art. 2.º O Serviço de Informática do Exército é constituído por:
 
 a) Direcção;
 
@@ -134,13 +161,13 @@ d) Repartição de Administração;
 
 e) Centros Automáticos de Tratamento de Dados (CATD), os que vierem a tornar-se necessários.
 
-###### Art. 3.º A Direcção é exercida por um director, coadjuvado por um subdirector e assistido por:
+Art. 3.º A Direcção é exercida por um director, coadjuvado por um subdirector e assistido por:
 
 a) Gabinete de Inspectores;
 
 b) Conselho de Utentes.
 
-###### Art. 4.º - 1. O director é um oficial general do Exército, de preferência com uma experiência prévia no ramo da informática, nomeado pelo Chefe do Estado-Maior do Exército, por proposta do Vice-Chefe do Estado-Maior do Exército.
+Art. 4.º - 1. O director é um oficial general do Exército, de preferência com uma experiência prévia no ramo da informática, nomeado pelo Chefe do Estado-Maior do Exército, por proposta do Vice-Chefe do Estado-Maior do Exército.
 
 Eventualmente, quando aptidões técnicas especiais o aconselhem, o director do SIE poderá ser um coronel de qualquer arma ou serviço.
 
@@ -168,15 +195,15 @@ i) Estabelecer os planos de formação e reciclagem do pessoal;
 
 j) Tomar e propor as medidas conducentes ao estabelecimento de sãs relações de trabalho.
 
-###### Art. 5.º - 1. O subdirector é um oficial superior do Exército que, de preferência, já tenha anteriormente prestado serviço nos órgãos de informática do Exército, e nomeado pelo Vice-Chefe do Estado-Maior do Exército, mediante proposta do director do SIE.
+Art. 5.º - 1. O subdirector é um oficial superior do Exército que, de preferência, já tenha anteriormente prestado serviço nos órgãos de informática do Exército, e nomeado pelo Vice-Chefe do Estado-Maior do Exército, mediante proposta do director do SIE.
 
 2. O subdirector coadjuva o director, tomando a seu cargo todas as funções que lhe forem determinadas por este e substituindo-o em todos os casos de impedimento legal.
 
-###### Art. 6.º - 1. O Gabinete de Inspectores, de composição variável, tem por missão executar as inspecções, técnicas ou administrativas, que lhe forem determinadas pelo director do SIE.
+Art. 6.º - 1. O Gabinete de Inspectores, de composição variável, tem por missão executar as inspecções, técnicas ou administrativas, que lhe forem determinadas pelo director do SIE.
 
 2. A nomeação dos inspectores será feita mediante proposta do director do SIE.
 
-###### Art. 7.º - 1. O Conselho de Utentes é o órgão de consulta, à disposição do director do SIE, para todos os assuntos relativos às aplicações mecanográficas, e, em especial, quanto aos seguintes pontos, sobre os quais não deverá deixar de ser ouvido:
+Art. 7.º - 1. O Conselho de Utentes é o órgão de consulta, à disposição do director do SIE, para todos os assuntos relativos às aplicações mecanográficas, e, em especial, quanto aos seguintes pontos, sobre os quais não deverá deixar de ser ouvido:
 
 a) Decisão quanto à implementação de novas aplicações mecanográficas;
 
@@ -186,9 +213,9 @@ b) Consideração de alterações significativas às aplicações mecanográfica
 
 3. O director do SIE proporá a composição do Conselho de Utentes - plenário ou restrito -, a aprovar por despacho do Vice-Chefe do Estado-Maior do Exército.
 
-###### Art. 8.º A Secretaria tem por missão levar a efeito as tarefas de processamento de correspondência, expediente, arquivo, organização do serviço interno, justiça e outras actividades de administração do pessoal, de acordo com a legislação em vigor.
+Art. 8.º A Secretaria tem por missão levar a efeito as tarefas de processamento de correspondência, expediente, arquivo, organização do serviço interno, justiça e outras actividades de administração do pessoal, de acordo com a legislação em vigor.
 
-###### Art. 9.º - 1. A Repartição de Estudos Gerais, chefiada por um oficial superior ou civil devidamente qualificado, tem por missão geral apoiar a direcção em todos os estudos de aplicação da informática, competindo-lhe, especialmente, as missões de:
+Art. 9.º - 1. A Repartição de Estudos Gerais, chefiada por um oficial superior ou civil devidamente qualificado, tem por missão geral apoiar a direcção em todos os estudos de aplicação da informática, competindo-lhe, especialmente, as missões de:
 
 a) Coordenação, planeamento e contrôle;
 
@@ -208,7 +235,7 @@ c) Programação e análise;
 
 d) Instrução.
 
-###### Art. 10.º - 1. A Repartição de Administração, chefiada por um oficial superior, tem por missão apoiar a direcção em todos os assuntos administrativos, competindo-lhe especialmente as missões de:
+Art. 10.º - 1. A Repartição de Administração, chefiada por um oficial superior, tem por missão apoiar a direcção em todos os assuntos administrativos, competindo-lhe especialmente as missões de:
 
 a) Assuntos gerais administrativos;
 
@@ -224,22 +251,22 @@ b) Pessoal;
 
 c) Instalações e equipamento.
 
-###### Art. 11.º Um Centro Automático de Tratamento de Dados (CATD) deverá ter uma configuração de máquinas de acordo com o volume e a natureza das aplicações a seu cargo.
+Art. 11.º Um Centro Automático de Tratamento de Dados (CATD) deverá ter uma configuração de máquinas de acordo com o volume e a natureza das aplicações a seu cargo.
 
-###### Art. 12.º - 1. A CIE (Comissão de Informática do Exército) será extinta logo que activado o SIE (Serviço de Informática do Exército), mediante proposta do seu director.
+Art. 12.º - 1. A CIE (Comissão de Informática do Exército) será extinta logo que activado o SIE (Serviço de Informática do Exército), mediante proposta do seu director.
 
 2. Posteriormente, e por proposta do director do SIE, serão extintos o SME (Serviço Mecanográfico do Exército) e o GACEFE (Gabinete de Administração Conjunta dos Estabelecimentos Fabris do Exército), logo que concluídos os estudos para activação do serviço.
 
 3. Os meios disponíveis do SME e GACEFE serão reorganizados e redistribuídos, de forma a conseguir-se a maior rendibilidade de todos os recursos em pessoal, equipamento e instalações.
 
-###### Art. 13.º O quadro orgânico do SIE será regulado por diploma especial.
+Art. 13.º O quadro orgânico do SIE será regulado por diploma especial.
 
-###### Art. 14.º O presente diploma será revisto dentro do prazo de um ano, a partir da data de activação do SIE.
+Art. 14.º O presente diploma será revisto dentro do prazo de um ano, a partir da data de activação do SIE.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 30 de Junho de 1975.**
+Promulgado em 30 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 303/1966, 1º Suplemento, Série I de 1966-12-31
   number: '303'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2500 - 2510
   pdf_url: https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47479-1966-436271
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c91b889916aebe7080262704211c2ed42531179787d0614651fe6ab2f99403a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ec2b43aae3bbe1cf0db52967d352d7f11e60f12f9447672c2558b006954838e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Cooperação Internacional
+- OMS
+- Portugal
+- Regulamento Sanitário Internacional
+- Saúde Pública
 relationships:
 - type: amended_by
   target: pt:dre:646747:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:646747:por
+  label: "Revogado pelo DEC LEI.299/71.13.07.1971.MNE, DG.IS [163-Supl] de 13.07.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/299-1971-646747
+  date: '1971-07-13'
 article_structure:
-  article_count: 1
-  section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:46Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +99,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovados, para ratificação, os seguintes regulamentos adicionais, cujos textos, em francês e respectiva tradução para português, abaixo se transcrevem:
+Artigo 1.º São aprovados, para ratificação, os seguintes regulamentos adicionais, cujos textos, em francês e respectiva tradução para português, abaixo se transcrevem:
 
 I) Regulamento adicional de 26 de Maio de 1955, modificando o Regulamento Sanitário Internacional no que respeita à febre-amarela;
 
@@ -100,7 +111,7 @@ IV) Regulamento adicional de 23 de Maio de 1963, modificando o Regulamento Sanit
 
 V) Regulamento adicional de 12 de Maio de 1965, emendando o Regulamento Sanitário Internacional, em particular no que diz respeito à desinsectização dos navios e aeronaves e anexos 3 e 4: modelos de certificados internacionais de vacinação ou de revacinação contra a febre-amarela e contra a varíola.
 
-###### Art. 2.º O Governo Português só aceita o regulamento adicional de 26 de Maio de 1955, que modifica o Regulamento Sanitário Internacional sob as reservas seguintes respeitantes às zonas de receptividade amarílica:
+Art. 2.º O Governo Português só aceita o regulamento adicional de 26 de Maio de 1955, que modifica o Regulamento Sanitário Internacional sob as reservas seguintes respeitantes às zonas de receptividade amarílica:
 
 a) Nas zonas de receptividade amarílica do território português o Governo entende limitar a aplicação do regulamento adicional àquelas zonas ou circunscrições sanitárias onde a erradicação do Aëdes aegyti já tenha sido efectuada.
 
@@ -108,7 +119,7 @@ b) Antes de 1 de Outubro de 1956, o Governo Português notificará a Organizaç�
 
 c) De acordo com a alínea anterior, é feita notificação da adopção do regulamento adicional a partir de 1 de Outubro de 1956 em todo o território metropolitano português e na circunscrição sanitária do aeroporto de Santa Maria (Açores).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -274,7 +285,7 @@ Tendo em atenção os artigos 2-k), 21-a) e 22 da Constituição da Organizaçã
 
 Adopta, aos 26 de Maio de 1955, o seguinte Regulamento adicional:
 
-ARTIGO I
+###### ARTIGO I
 
 São introduzidas as seguintes modificações nos artigos 1 a 104 do Regulamento Sanitário Internacional:
 
@@ -392,21 +403,21 @@ No parágrafo 1 deste artigo, depois das palavras «um navio», acrescentar o se
 
 No parágrafo 1 do presente artigo, suprimir as palavras «tornar mais eficaz e menos incómoda a aplicação das medidas sanitárias estabelecidas», e substituí-las pelas seguintes: «facilitar a aplicação do presente Regulamento».
 
-ARTIGO II
+###### ARTIGO II
 
 De acordo com o artigo 22 da Constituição da Organização, o prazo previsto para formular quaisquer recusas ou reservas é de nove meses a contar da data em que o director-geral tenha notificado a adopção do presente Regulamento adicional pela Assembleia Mundial de Saúde.
 
-ARTIGO III
+###### ARTIGO III
 
 O presente Regulamento adicional entra em vigor em 1 de Outubro de 1956.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As seguintes disposições finais do Regulamento Sanitário Internacional aplicam-se ao presente Regulamento adicional: artigo 106, parágrafo 3; artigo 107, parágrafos 1, 2 e 5; artigo 108; artigo 109, parágrafo 2, sob reserva da substituição da data mencionada no referido artigo 109 pela indicada no artigo III do presente Regulamento adicional; artigos 110 a 113, inclusive.
 
 Em firmeza do que o presente acto foi assinado na cidade do México aos vinte e seis de Maio de 1955.
 
-**O Presidente da Assembleia Mundial de Saúde:**
+O Presidente da Assembleia Mundial de Saúde:
 
 Ignacio Morones Prieto.
 
@@ -492,7 +503,7 @@ Tendo em atenção os artigos 2-k), 21-a) e 22 da Constituição da Organizaçã
 
 Adopta, em 23 de Maio de 1956, o seguinte Regulamento adicional:
 
-ARTIGO I
+###### ARTIGO I
 
 1. São introduzidas as seguintes modificações aos artigos 1, 102 e 103, ao Anexo 2 e aos Anexos A e B do Regulamento Sanitário Internacional:
 
@@ -524,21 +535,21 @@ Eliminar todo este anexo.
 
 2. Os Estados ligados ao presente Regulamento adicional comprometem-se a exigir a observação de normas apropriadas de higiene e de instalação material a bordo dos navios e das aeronaves que transportam peregrinos tomando parte em ajuntamentos periódicos importantes, não devendo estas normas ser inferiores às que eram aplicadas em virtude do Regulamento Sanitário Internacional anteriormente à entrada em vigor do presente Regulamento adicional.
 
-ARTIGO II
+###### ARTIGO II
 
 De acordo com o artigo 22 da Constituição da Organização, o prazo previsto para formular recusas ou reservas é de seis meses, a contar da data em que o director-geral tenha notificado a adopção do presente Regulamento adicional pela Assembleia Mundial de Saúde.
 
-ARTIGO III
+###### ARTIGO III
 
 O presente Regulamento adicional entra em vigor em 1 de Janeiro de 1957.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As seguintes disposições finais do Regulamento Sanitário Internacional aplicam-se ao presente Regulamento adicional: artigo 106, parágrafo 3; artigo 107, parágrafos 1 e 2 e primeira frase do parágrafo 5; artigo 108; artigo 109, parágrafo 2, sob reserva da substituição da data mencionada no referido artigo 109 pela data que figura no artigo III do presente Regulamento adicional; artigos 110 a 113, inclusive.
 
 Em firmeza do que o presente acto foi assinado em Genebra em 23 de Maio de 1956.
 
-**O Presidente da Assembleia Mundial de Saúde:**
+O Presidente da Assembleia Mundial de Saúde:
 
 Jacques Parisot.
 
@@ -618,7 +629,7 @@ Tendo em vista os artigos 2-k), 21-a) e 22 da Constituição da Organização Mu
 
 Adopta, em 19 de Maio de 1960, o regulamento adicional seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Deverão ser feitas as seguintes emendas ao artigo 97 e ao Anexo 6 (parte relativa às questões sanitárias da Declaração geral da aeronave):
 
@@ -626,7 +637,9 @@ Deverão ser feitas as seguintes emendas ao artigo 97 e ao Anexo 6 (parte relati
 
 No primeiro parágrafo, suprimir as palavras «um exemplar da parte da Declaração geral da aeronave que contém as informações sanitárias especificadas no Anexo 6» e inserir: «a parte relativa às questões sanitárias da Declaração geral da aeronave, que deve ser conforme ao modelo dado no Anexo 6».
 
-## Anexo 6 — Parte relativa às questões sanitárias da Declaração geral da aeronave
+## Anexo 6
+
+## Parte relativa às questões sanitárias da Declaração geral da aeronave
 
 Suprimir o texto e substituí-lo pelo seguinte:
 
@@ -648,21 +661,21 @@ Assinatura se necessária, ...
 
 (Membro da tripulação)
 
-ARTIGO II
+###### ARTIGO II
 
 O prazo previsto, de acordo com o artigo 22 da Constituição da Organização, para formular qualquer recusa ou reservas, é de três meses a contar da data na qual o director-geral tenha notificado a adopção do presente Regulamento adicional pela Assembleia Mundial de Saúde.
 
-ARTIGO III
+###### ARTIGO III
 
 O presente regulamento adicional entra em vigor em 1 de Janeiro de 1961.
 
-ARTIGO IV
+###### ARTIGO IV
 
 As seguintes disposições finais do Regulamento Sanitário Internacional aplicam-se ao presente Regulamento adicional: artigo 106, parágrafo 3; artigo 107, parágrafos 1 e 2 e primeira frase do parágrafo 5; artigo 108; artigo 109, parágrafo 2, sob reserva da substituição da data mencionada no artigo 3 do presente Regulamento adicional por aquela que figura no referido artigo 109; artigos 110 a 113, inclusive.
 
 Em fé do que a presente acta foi assinada em Genebra, em 19 de Maio de 1960.
 
-**O Presidente da Décima Terceira Assembleia Mundial de Saúde:**
+O Presidente da Décima Terceira Assembleia Mundial de Saúde:
 
 Dr. H. B. Turdott.
 
@@ -752,7 +765,7 @@ Tendo em conta os artigos 2-k), 21-a) e 22 da Constituição da Organização Mu
 
 Adopta em 23 de Maio de 1963 o Regulamento adicional seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As alterações seguintes são feitas aos artigos 1, 3, 36 e 97 do Regulamento Sanitário Internacional:
 
@@ -792,19 +805,17 @@ Juntar o parágrafo 3 seguinte:
 
 No parágrafo 1, depois das palavras «deste aeroporto», inserir: «, a menos que a administração sanitária o não exija,».
 
-ARTIGO II
+###### ARTIGO II
 
 O prazo previsto, de harmonia como artigo 22 da Constituição da Organização, para apresentar qualquer recusa ou reserva, é de três meses a contar da data da notificação pelo director-geral da adopção do presente Regulamento adicional pela Assembleia Mundial de Saúde.
 
-ARTIGO III
-
-O presente Regulamento adicional entra em vigor no dia 1 de Outubro de 1963.ARTIGO IV
+###### ARTIGO III — O presente Regulamento adicional entra em vigor no dia 1 de Outubro de 1963.ARTIGO IV
 
 As disposições finais seguintes do Regulamento Sanitário Internacional aplicam-se ao presente Regulamento adicional: artigo 106, parágrafo 3; artigo 107, parágrafos 1 e 2 e a primeira frase do parágrafo 5; artigo 108; artigo 109, parágrafo 2, sob reserva de substituição da data mencionada no artigo III do presente Regulamento adicional, àquela que figura no dito artigo 109; artigos 110 e 113 incluídos.
 
 Em firmeza do que o presente acto foi assinado em Genebra aos vinte e três de Maio de 1963.
 
-**O Presidente da Décima Sexta Assembleia Mundial de Saúde:**
+O Presidente da Décima Sexta Assembleia Mundial de Saúde:
 
 Dr. M. A. Majekodunmi.
 
@@ -878,7 +889,7 @@ Après les mots «a été vacciné(e) ou revacciné(e) contre la variole à la d
 
 Supprimer le contenu du cadre de cette annexe et le remplacer par le suivant:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf))](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf)
 
 ARTICLE II
 
@@ -918,7 +929,7 @@ Tendo em vista os artigos 22-k), 21-a) e 22 da Constituição da Organização M
 
 Adopta, em 12 de Maio de 1965, o Regulamento adicional seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Deverão ser feitas as emendas abaixo indicadas aos artigos seguintes e aos Anexos 3 e 4 do Regulamento Sanitário Internacional:
 
@@ -976,29 +987,29 @@ Depois das palavras «foi vacinad... ou revacinad... contra a varíola na data i
 
 Suprimir o conteúdo do quadro deste anexo e substituí-lo pelo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf))](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/12/30301/25002510.pdf)
 
-ARTIGO II
+###### ARTIGO II
 
 1. A duração de validade de qualquer certificado internacional de vacinação ou de revacinação contra a febre-amarela emitido antes da entrada em vigor do presente Regulamento adicional é por ele prolongada de seis anos para dez anos.
 
 2. Depois da entrada em vigor do presente Regulamento adicional, os certificados de vacinação ou de revacinação contra a varíola conformes ao modelo que constitui o Anexo 4 do Regulamento Sanitário Internacional poderão continuar a ser emitidos até 1 de Janeiro de 1967. Todo o certificado de vacinação assim emitido continuará a ser válido durante o período de validade que lhe era anteriormente reconhecido.
 
-ARTIGO III
+###### ARTIGO III
 
 O prazo previsto, de acordo com o artigo 22 da Constituição da Organização, para formular qualquer recusa ou reservas é de três meses, a contar da data na qual o director-geral tenha notificado a adopção do presente Regulamento adicional pela Assembleia Mundial de Saúde.
 
-ARTIGO IV
+###### ARTIGO IV
 
 O presente Regulamento adicional entrará em vigor em 1 de Janeiro de 1966.
 
-ARTIGO V
+###### ARTIGO V
 
 As seguintes disposições finais do Regulamento Sanitário Internacional aplicam-se ao presente Regulamento adicional: artigo 106, parágrafo 3; artigo 107, parágrafos 1 e 2 e primeira frase do parágrafo 5; artigo 108; artigo 109, parágrafo 2, sob reserva da substituição da data mencionada no artigo IV do presente Regulamento adicional por aquela que figura no referido artigo 109; artigos 110 e 113, inclusive.
 
 Em fé do que a presente acta foi assinada em Genebra, em 12 de Maio de 1965.
 
-**O Presidente da Décima Oitava Assembleia Mundial de Saúde:**
+O Presidente da Décima Oitava Assembleia Mundial de Saúde:
 
 Dr. V. V. Olguín.
 

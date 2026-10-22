@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1970-275252
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e804c5f90eee32f5b32a199066634a02388afdbc9f3428f6b5e0368446efa5f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5b67edd0b5315d9d9d7a0f84abfe2c35bf1e8ef2094e926a95c16b2ff8458f57
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:23Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Ao abrigo do § 1.º do artigo 150.º da Constituição, por motivo de urgência
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Empresa do Cobre de Angola, S. A. R. L., a constituir, juntamente com a Société Anonyme du Chrome, uma sociedade, que se denominará Sociedade de Investigações Mineiras, Lda. (Simeira), destinada a continuar a pesquisa de jazigos minerais, a seguir designada sociedade pesquisadora, nas condições dos números seguintes.
+Artigo 1.º - 1. É autorizada a Empresa do Cobre de Angola, S. A. R. L., a constituir, juntamente com a Société Anonyme du Chrome, uma sociedade, que se denominará Sociedade de Investigações Mineiras, Lda. (Simeira), destinada a continuar a pesquisa de jazigos minerais, a seguir designada sociedade pesquisadora, nas condições dos números seguintes.
 
 2. A área que é objecto da autorização referida no número anterior é a parte do manifesto mineiro Maquela do Zombo-Pacheche, provisòriamente demarcado pela Empresa do Cobre de Angola, como consta do n.º 15 do aviso publicado no Boletim Oficial de Angola, 2.ª série, n.º 28, de 13 de Julho de 1960, compreendida entre os paralelos 6º 10' 00" e 6º 15' 00" de latitude sul, situando-se o ponto de partida do referido manifesto sobre o marco do Mavoio, cujas coordenadas aproximadas são 6º 13' 02" de latitude sul e 15º 02' 37" de longitude este de Greenwich.
 
@@ -118,35 +126,35 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 10. A sociedade pesquisadora gozará das isenções e facilidades previstas nos artigos 16.º e 18.º, observando-se o estabelecido no artigo 17.º deste decreto, na parte correspondente à sua natureza e aplicável ao seu objecto social.
 
-###### Art. 2.º - 1. No caso de os trabalhos de pesquisa a que se refere o artigo anterior terem evidenciado a existência de ocorrências minerais susceptíveis de exploração económica, como tais reconhecidas pelo Governo, ficam a Empresa do Cobre de Angola e a Société Anonyme du Chrome obrigadas a transformar a sociedade pesquisadora em sociedade exploradora, para a qual se considerarão transferidos todos os direitos mineiros que a Empresa do Cobre de Angola detém, respeitantes à área referida no n.º 2 do artigo 1.º deste diploma.
+Art. 2.º - 1. No caso de os trabalhos de pesquisa a que se refere o artigo anterior terem evidenciado a existência de ocorrências minerais susceptíveis de exploração económica, como tais reconhecidas pelo Governo, ficam a Empresa do Cobre de Angola e a Société Anonyme du Chrome obrigadas a transformar a sociedade pesquisadora em sociedade exploradora, para a qual se considerarão transferidos todos os direitos mineiros que a Empresa do Cobre de Angola detém, respeitantes à área referida no n.º 2 do artigo 1.º deste diploma.
 
 2. No caso de constituição da sociedade exploradora, procederão os Serviços de Geologia e Minas provinciais à demarcação definitiva dos jazigos descobertos e serão passados os respectivos títulos de concessão.
 
 3. A transformação a que se refere o n.º 1 deverá operar-se o mais tardar dentro de sessenta dias após terminado o período de pesquisas ou da prorrogação, se a houver, e, se assim não suceder, fica o Governo desobrigado de celebrar o contrato a que se refere o artigo seguinte, aplicando-se então as disposições do artigo 27.º quanto ao destino legal da área da concessão e direitos mineiros da Empresa do Cobre de Angola.
 
-###### Art. 3.º - 1. A exploração dos jazigos será feita ao abrigo de contrato a assinar entre o Governo e a sociedade exploradora, o qual se conformará com as disposições aplicáveis deste decreto e seguirá, sem prejuízo das mesmas, o texto dos contratos congéneres respeitantes a jazigos minerais situados no ultramar português em condições susceptíveis de comparação.
+Art. 3.º - 1. A exploração dos jazigos será feita ao abrigo de contrato a assinar entre o Governo e a sociedade exploradora, o qual se conformará com as disposições aplicáveis deste decreto e seguirá, sem prejuízo das mesmas, o texto dos contratos congéneres respeitantes a jazigos minerais situados no ultramar português em condições susceptíveis de comparação.
 
 2. O contrato deverá ser celebrado no prazo máximo de noventa dias após a constituição da sociedade exploradora.
 
-###### Art. 4.º - 1. A sociedade exploradora será uma sociedade anónima de responsabilidade limitada, com o capital social mínimo de 60000 contos, o qual será integralmente realizado logo que o prosseguimento dos trabalhos tal exija, ficando entendido que a sociedade exploradora não poderá recorrer a empréstimos antes da referida realização, excluídos os empréstimos relativos a pagamentos diferidos de equipamento.
+Art. 4.º - 1. A sociedade exploradora será uma sociedade anónima de responsabilidade limitada, com o capital social mínimo de 60000 contos, o qual será integralmente realizado logo que o prosseguimento dos trabalhos tal exija, ficando entendido que a sociedade exploradora não poderá recorrer a empréstimos antes da referida realização, excluídos os empréstimos relativos a pagamentos diferidos de equipamento.
 
 2. Do capital social referido no número anterior a Empresa do Cobre de Angola subscreverá 30 ou 40 por cento, consoante deseje e declare antes de constituída a sociedade exploradora, pertencendo à Société Anonyme du Chrome a subscrição obrigatória do restante.
 
 3. Estas percentagens complementares de capital a subscrever por ambas as entidades poderão ser modificadas por mútuo acordo, desde que o Governo tal aprove.
 
-###### Art. 5.º - 1. Para a realização da quota-parte do seu capital social a Empresa do Cobre de Angola poderá entrar com as despesas por si efectuadas com as pesquisas, de harmonia com o previsto no n.º 4 do artigo 1.º, acrescidas dos correspondentes juros e também das suas imobilizações corpóreas e incorpóreas afectas aos jazigos pesquisados, que ingressarão na sociedade exploradora.
+Art. 5.º - 1. Para a realização da quota-parte do seu capital social a Empresa do Cobre de Angola poderá entrar com as despesas por si efectuadas com as pesquisas, de harmonia com o previsto no n.º 4 do artigo 1.º, acrescidas dos correspondentes juros e também das suas imobilizações corpóreas e incorpóreas afectas aos jazigos pesquisados, que ingressarão na sociedade exploradora.
 
 2. Para efeitos do número anterior, será atribuído o valor de 86700 contos ao conjunto de imobilizações, constituído pelos edifícios, maquinismos, mobiliário, estudos geológicos, mineralógicos e mineiros que evidenciaram a riqueza mineira das ocorrências situadas na área definida no n.º 2 do artigo 1.º, e outros bens tangíveis.
 
 3. Se o montante total assim calculado exceder a quota-parte correspondente à participação da Empresa do Cobre de Angola no capital social, será o excedente considerado como empréstimo facultado por esta entidade à sociedade exploradora.
 
-###### Art. 6.º - 1. Para realização da quota-parte do seu capital social a Société Anonyme du Chrome poderá entrar com as despesas por si efectuadas com as pesquisas, de harmonia com o previsto no n.º 4 do artigo 1.º
+Art. 6.º - 1. Para realização da quota-parte do seu capital social a Société Anonyme du Chrome poderá entrar com as despesas por si efectuadas com as pesquisas, de harmonia com o previsto no n.º 4 do artigo 1.º
 
 2. No caso de tais despesas excederem a quota-parte correspondente à sua participação, será o excedente considerado como empréstimo facultado pela Société Anonyme du Chrome à sociedade exploradora.
 
 3. Por despesas de pesquisa suportadas pela Société Anonyme du Chrome entende-se um montante que se calculará deduzindo a parte suportada pela Empresa do Cobre de Angola da despesa total efectivada durante as pesquisas.
 
-###### Art. 7.º A despesa total efectivada durante as pesquisas será a soma das seguintes parcelas:
+Art. 7.º A despesa total efectivada durante as pesquisas será a soma das seguintes parcelas:
 
 a) Custo para o estabelecimento da sociedade pesquisadora;
 
@@ -166,13 +174,13 @@ h) Compensações ou indemnizações pagas por cancelamento de contratos de trab
 
 i) Juros relativos às posições anteriores, cuja contagem se iniciará a partir da data da respectiva despesa, devendo estes juros estar ao nível dos que se praticam geralmente no mercado nacional ou internacional de capitais, consoante os casos, em circunstâncias susceptíveis de comparação.
 
-###### Art. 8.º - 1. A sociedade exploradora ficará obrigada a proceder a intensivo aproveitamento dos jazigos descobertos.
+Art. 8.º - 1. A sociedade exploradora ficará obrigada a proceder a intensivo aproveitamento dos jazigos descobertos.
 
 2. Os fundos requeridos para construções, desenvolvimento dos jazigos e operações, que excedam as disponibilidades em capital social e não possam ser realizados os empréstimos directos da sociedade exploradora, serão obtidos pela Empresa do Cobre de Angola e pela Société Anonyme du Chrome na percentagem das suas participações no capital da sociedade.
 
 3. Os juros dos empréstimos que assim forem obtidos deverão estar ao nível dos que se praticam geralmente no mercado nacional ou internacional de capitais, consoante os casos, em circunstâncias susceptíveis de comparação.
 
-###### Art. 9.º Os fundos obtidos pela Empresa do Cobre de Angola e pela Société Anonyme du Chrome para os efeitos do artigo anterior serão considerados empréstimos feitos à sociedade exploradora, observando-se relativamente aos mesmos o seguinte:
+Art. 9.º Os fundos obtidos pela Empresa do Cobre de Angola e pela Société Anonyme du Chrome para os efeitos do artigo anterior serão considerados empréstimos feitos à sociedade exploradora, observando-se relativamente aos mesmos o seguinte:
 
 a) Sem prejuízo da participação que cabe ao Governo, os excedentes de tesouraria da sociedade exploradora serão utilizados para amortização do empréstimos contraídos para financiar as despesas de 1.º estabelecimento e pagamento dos respectivos juros e outros gastos correlacionados, não podendo a sociedade distribuir dividendos antes que tais encargos estejam completamente saldados;
 
@@ -180,15 +188,15 @@ b) Os juros referidos na alínea anterior serão determinados por acordo entre a
 
 c) Estes juros deverão estar ao nível dos que se praticam geralmente no mercado nacional ou internacional de capitais, consoante os casos, em circunstâncias susceptíveis de comparação.
 
-###### Art. 10.º A sociedade exploradora entregará à província de Angola, inteiramente liberadas e gratuitamente, acções correspondentes a 10 por cento do capital que venha a emitir, seja qual for a sua natureza, as quais darão direito aos mesmos dividendos e participações a atribuir aos restantes accionistas e nas mesmas condições.
+Art. 10.º A sociedade exploradora entregará à província de Angola, inteiramente liberadas e gratuitamente, acções correspondentes a 10 por cento do capital que venha a emitir, seja qual for a sua natureza, as quais darão direito aos mesmos dividendos e participações a atribuir aos restantes accionistas e nas mesmas condições.
 
-###### Art. 11.º - 1. A província de Angola terá direito de participar nos lucros da sociedade exploradora, de harmonia com o estabelecido no n.º 2 deste artigo, ou de receber uma royalty segundo o artigo 15.º, consoante o que for mais elevado, observando-se o seguinte:
+Art. 11.º - 1. A província de Angola terá direito de participar nos lucros da sociedade exploradora, de harmonia com o estabelecido no n.º 2 deste artigo, ou de receber uma royalty segundo o artigo 15.º, consoante o que for mais elevado, observando-se o seguinte:
 
 2. A participação nos lucros será de 30 por cento do montante dos lucros líquidos, depois de feitas as amortizações, participação esta que durante os primeiros cinco anos que se seguirem ao inicio da produção comercial será reduzida para 15 por cento dos mesmos lucros.
 
 3. Por início da produção comercial entende-se a data na qual as instalações de concentração de minério, durante trinta dias consecutivos, pelo menos, venham a atingir 70 por cento da sua capacidade nominal, ficando entendido que tal início nunca poderá ser posterior ao 12.º mês decorrido depois de completada a construção das referidas instalações.
 
-###### Art. 12.º Para cálculo dos lucros líquidos respeitantes a determinado ano proceder-se-á da seguinte forma:
+Art. 12.º Para cálculo dos lucros líquidos respeitantes a determinado ano proceder-se-á da seguinte forma:
 
 a) Ao valor das vendas serão primeiramente deduzidos os custos de pesquisa, exploração e gastos gerais respeitantes ao ano;
 
@@ -198,7 +206,7 @@ c) Será aberta uma conta especial para despesas de primeiro estabelecimento e r
 
 d) A amortização técnica anual referida é calculada só para efeito de determinação da participação do Governo, mas tal não significa que esta amortização técnica se possa duplicar com outras amortizações, qualquer que seja o seu carácter.
 
-###### Art. 13.º Para cálculo das amortizações técnicas utilizar-se-á a seguinte tabela:
+Art. 13.º Para cálculo das amortizações técnicas utilizar-se-á a seguinte tabela:
 
 ... Percentagens
 
@@ -264,11 +272,11 @@ Equipamento não considerado nesta tabela ... 20
 
 Intangíveis ... 20
 
-###### Art. 14.º - 1. Quando no fecho de contas de cada ano se verifique que o total de encargos ou despesas que é permitido deduzir no cômputo dos lucros líquidos tributáveis do ano excede o rendimento anual, tal excesso será transportado para os anos seguintes e considerado nos mesmos como dedução adicional no cômputo dos lucros líquidos tributáveis.
+Art. 14.º - 1. Quando no fecho de contas de cada ano se verifique que o total de encargos ou despesas que é permitido deduzir no cômputo dos lucros líquidos tributáveis do ano excede o rendimento anual, tal excesso será transportado para os anos seguintes e considerado nos mesmos como dedução adicional no cômputo dos lucros líquidos tributáveis.
 
 2. Esta dedução adicional deverá ser considerada, tanto quanto possível, no primeiro ano subsequente, e, no caso de não poder ter lugar nesse ano, no ano seguinte e assim sucessivamente, mas não excedendo três anos, e só poderá efectuar-se desde que se verifique, pelo sistema de contabilidade usado, que essas importâncias não foram já deduzidas por outra forma.
 
-###### Art. 15.º A royalty incidirá sobre o valor de venda dos concentrados na mina e calcular-se-á segundo a tabela:
+Art. 15.º A royalty incidirá sobre o valor de venda dos concentrados na mina e calcular-se-á segundo a tabela:
 
 1.º ano de produção comercial - 1 por cento;
 
@@ -292,7 +300,7 @@ Intangíveis ... 20
 
 11.º ano de produção comercial e seguintes - 5 por cento, se outro valor não for acordado pela partes.
 
-###### Art. 16.º - 1. Em contrapartida das obrigações assumidas e da tributação a que fica sujeita, a sociedade exploradora gozará das seguintes facilidades.
+Art. 16.º - 1. Em contrapartida das obrigações assumidas e da tributação a que fica sujeita, a sociedade exploradora gozará das seguintes facilidades.
 
 2. A sociedade, bem como os seus accionistas e credores não residentes em território nacional, ficarão isentos de quaisquer contribuições, impostos, taxas ou prestações análogas, seja qual for a sua origem, natureza ou título, presentes ou futuros, ordinários ou extraordinários, nacionais, provinciais ou municipais, incluindo os que respeitarem a imóveis ou construções de carácter precário pertencentes à sociedade e que estejam exclusivamente afectos às operações de pesquisa e exploração e os relativos a acções, capital, empréstimos e obrigações da sociedade ou aos correspondentes lucros, reservas ou juros.
 
@@ -310,9 +318,9 @@ e) As mercadorias importadas ao abrigo do disposto neste número poderão ser ex
 
 f) O governador-geral de Angola pode condicionar a aplicação do regime especial estabelecido neste número a prévio parecer dos Serviços das Alfândegas, ouvidos os Serviços de Geologia e Minas.
 
-###### Art. 17.º A sociedade não fica isenta do pagamento de taxas que não tenham características fiscais ou tributárias e que correspondam a pagamentos de serviços que lhe sejam prestados.
+Art. 17.º A sociedade não fica isenta do pagamento de taxas que não tenham características fiscais ou tributárias e que correspondam a pagamentos de serviços que lhe sejam prestados.
 
-###### Art. 18.º - 1. O Governo tomará, na medida do possível, as providências necessárias para que a sociedade possa exercer livre e eficazmente a sua actividade, procurando, nomeadamente, assegurar-lhe:
+Art. 18.º - 1. O Governo tomará, na medida do possível, as providências necessárias para que a sociedade possa exercer livre e eficazmente a sua actividade, procurando, nomeadamente, assegurar-lhe:
 
 a) O uso e aproveitamento, para fins exclusivamente mineiros ou para construção de instalações acessórias ou destinadas a facilitar aqueles, de todos e quaisquer terrenos dentro da área da concessão e o direito de obter, nos termos e para os fins previstos no Decreto de 20 de Setembro de 1906, a sua expropriação por utilidade pública, bem como das construções e benfeitorias neles existentes, correndo por conta da sociedade as despesas correspondentes;
 
@@ -330,43 +338,43 @@ e) A construção e instalação de condutas de água e de combustíveis líquid
 
 4. As autoridades autorizarão e facilitarão, respeitados os interesses e a segurança nacionais, a entrada e a saída dos territórios portugueses dos indivíduos de qualquer nacionalidade que a sociedade tenha admitido ou despedido, assim como quaisquer entidades que com ela cooperem nas suas operações, sem prejuízo dos regulamentos aplicáveis.
 
-###### Art. 19.º Todas as operações efectuadas entre a sociedade exploradora e quaisquer entidades de direito público a privado não residentes ou domiciliadas na província ficam sujeitas às prescrições estabelecidas pela legislação cambial em vigor, incluída a entrega obrigatória ao Fundo Cambial da província de Angola das divisas provenientes das exportações.
+Art. 19.º Todas as operações efectuadas entre a sociedade exploradora e quaisquer entidades de direito público a privado não residentes ou domiciliadas na província ficam sujeitas às prescrições estabelecidas pela legislação cambial em vigor, incluída a entrega obrigatória ao Fundo Cambial da província de Angola das divisas provenientes das exportações.
 
-###### Art. 20.º A sociedade exploradora poderá transferir, em qualquer altura, para entidade à sua escolha, no todo ou em parte, o seu capital social e direitos mineiros, desde que para tal obtenha aprovação do Governo, podendo este também autorizar, se o julgar conveniente, que uma entidade estrangeira adquira a maioria do capital social da sociedade, passando a controlar a sua gestão.
+Art. 20.º A sociedade exploradora poderá transferir, em qualquer altura, para entidade à sua escolha, no todo ou em parte, o seu capital social e direitos mineiros, desde que para tal obtenha aprovação do Governo, podendo este também autorizar, se o julgar conveniente, que uma entidade estrangeira adquira a maioria do capital social da sociedade, passando a controlar a sua gestão.
 
-###### Art. 21.º A sociedade exploradora poderá exportar livremente os concentrados produzidos, devendo os contratos de venda ser aprovados pelo Governo, tendo em conta os superiores interesses e a segurança nacionais.
+Art. 21.º A sociedade exploradora poderá exportar livremente os concentrados produzidos, devendo os contratos de venda ser aprovados pelo Governo, tendo em conta os superiores interesses e a segurança nacionais.
 
-###### Art. 22.º - 1. Quando a produção anual do cobre ultrapasse 60000 t, reportadas a cobre metálico, e as reservas econòmicamente exploráveis excedam 1500000 t, a sociedade exploradora efectuará um estudo sobre a viabilidade da montagem de uma instalação metalúrgica para obtenção de cobre com a capacidade de tratamento de 50 por cento dos concentrados produzidos, devendo as conclusões de tal estudo ser apresentadas ao Governo.
+Art. 22.º - 1. Quando a produção anual do cobre ultrapasse 60000 t, reportadas a cobre metálico, e as reservas econòmicamente exploráveis excedam 1500000 t, a sociedade exploradora efectuará um estudo sobre a viabilidade da montagem de uma instalação metalúrgica para obtenção de cobre com a capacidade de tratamento de 50 por cento dos concentrados produzidos, devendo as conclusões de tal estudo ser apresentadas ao Governo.
 
 2. No caso de, em consequência de tal estudo, a sociedade exploradora considerar económica a montagem de uma instalação metalúrgica, procurará directamente, ou através de uma companhia associada, efectuar a referida montagem.
 
 3. A montagem da metalurgia do cobre ficará, em qualquer hipótese, sujeita aos condicionamentos legais gerais que lhe forem aplicáveis.
 
-###### Art. 23.º - 1. No caso de vir a ser montada uma instalação metalúrgica na província de Angola, a sociedade exploradora compromete-se, desde que sejam passados dez anos a partir do início da exploração dos seus jazigos, a fornecer, para tratamento em tal instalação, até 50 por cento dos concentrados produzidos.
+Art. 23.º - 1. No caso de vir a ser montada uma instalação metalúrgica na província de Angola, a sociedade exploradora compromete-se, desde que sejam passados dez anos a partir do início da exploração dos seus jazigos, a fornecer, para tratamento em tal instalação, até 50 por cento dos concentrados produzidos.
 
 2. Na hipótese do número anterior, o Governo procurará assegurar à sociedade exploradora, ou a uma sua associada, a participação no capital social da entidade que proceda à metalurgia do cobre, em condições equitativas a estudar, tendo em consideração, entre o mais, a percentagem dos concentrados fornecidos pela sociedade exploradora, que virão a ser utilizados na metalurgia.
 
 3. Os preços a que serão fornecidos os concentrados referidos no número anterior serão calculados a partir dos preços que a sociedade exploradora obtenha na exportação, mas tendo em conta, se for caso disso, as circunstâncias que devam ser consideradas para sua correcção equitativa, tais como a duração dos contratos, o volume das vendas, o local da província em que os concentrados serão entregues ao adquirente, ou outros aspectos que devam ser tomados em conta com critério equitativo.
 
-###### Art. 24.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente usufruídas pelos principais países produtores das substâncias que vierem a ser exploradas, fica estabelecido que, decorridos dez anos a partir do início da produção comercial, como definido no n.º 3 do artigo 11.º, ou quando a produção atingir o nível de 30000 t de cobre metálico por ano, durante três meses consecutivos, pelo menos, consoante o que primeiro ocorrer, o Governo e a sociedade procederão à revisão das disposições contratuais de forma a equipará-las quanto possível às dos demais contratos ou condições vigentes no continente africano para jazigos de características análogas em condições susceptíveis de comparação.
+Art. 24.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente usufruídas pelos principais países produtores das substâncias que vierem a ser exploradas, fica estabelecido que, decorridos dez anos a partir do início da produção comercial, como definido no n.º 3 do artigo 11.º, ou quando a produção atingir o nível de 30000 t de cobre metálico por ano, durante três meses consecutivos, pelo menos, consoante o que primeiro ocorrer, o Governo e a sociedade procederão à revisão das disposições contratuais de forma a equipará-las quanto possível às dos demais contratos ou condições vigentes no continente africano para jazigos de características análogas em condições susceptíveis de comparação.
 
 2. Com a mesma finalidade, serão as referidas disposições contratuais revistas de dez em dez anos, durante a vigência do contrato, após a primeira revisão prevista, ficando também estabelecido que, para efeitos meramente tributários, a revisão efectuar-se-á de cinco em cinco anos, após o primeiro período de dez anos a partir do início da produção comercial.
 
 3. As revisões terão também como objectivo uniformizar, na medida do possível e aconselhável, as disposições contratuais com as de outros contratos congéneres vigentes no ultramar português.
 
-###### Art. 25.º Quando a sociedade exploradora vier a ser constituída, o Governo e a sociedade acordarão no montante que esta deve entregar anualmente ao Fundo de Fomento Mineiro Ultramarino, tendo em consideração o valor dos jazigos descobertos e as possibilidades futuras.
+Art. 25.º Quando a sociedade exploradora vier a ser constituída, o Governo e a sociedade acordarão no montante que esta deve entregar anualmente ao Fundo de Fomento Mineiro Ultramarino, tendo em consideração o valor dos jazigos descobertos e as possibilidades futuras.
 
-###### Art. 26.º O limite superior da participação da província de Angola nos lucros líquidos da Empresa do Cobre de Angola, fixado em 50 por cento na alínea b) do artigo 14.º do seu contrato com o Governo, datado de 6 de Fevereiro de 1945, com a nova redacção que lhe foi dada pela 4.ª apostila a este contrato, celebrada em 16 de Setembro de 1955, passará a ser de 55 por cento.
+Art. 26.º O limite superior da participação da província de Angola nos lucros líquidos da Empresa do Cobre de Angola, fixado em 50 por cento na alínea b) do artigo 14.º do seu contrato com o Governo, datado de 6 de Fevereiro de 1945, com a nova redacção que lhe foi dada pela 4.ª apostila a este contrato, celebrada em 16 de Setembro de 1955, passará a ser de 55 por cento.
 
-###### Art. 27.º - 1. Se a sociedade pesquisadora a que se refere o artigo 1.º tiver dado cabal satisfação às suas obrigações legais e, não obstante, passado o período previsto para as pesquisas e suas prorrogações, se as houver, se reconhecer, com a concordância do Governo, que os resultados obtidos não são suficientemente favoráveis para que se possa constituir a sociedade exploradora, retirando-se, assim, a seu desejo, a Société Anonyme du Chrome, a Empresa do Cobre de Angola fica obrigada a submeter à aprovação do Governo, dentro do prazo de cento e oitenta dias, contados a partir do termo das pesquisas, propostas para valorização da área referida no n.º 2 do artigo 1.º
+Art. 27.º - 1. Se a sociedade pesquisadora a que se refere o artigo 1.º tiver dado cabal satisfação às suas obrigações legais e, não obstante, passado o período previsto para as pesquisas e suas prorrogações, se as houver, se reconhecer, com a concordância do Governo, que os resultados obtidos não são suficientemente favoráveis para que se possa constituir a sociedade exploradora, retirando-se, assim, a seu desejo, a Société Anonyme du Chrome, a Empresa do Cobre de Angola fica obrigada a submeter à aprovação do Governo, dentro do prazo de cento e oitenta dias, contados a partir do termo das pesquisas, propostas para valorização da área referida no n.º 2 do artigo 1.º
 
 2. Em caso de aprovação das propostas, continuará esta área a ficar afecta aos contratos da Empresa do Cobre de Angola com o Governo; caso contrário, o Governo disporá da mesma como melhor entender, ficando entendido que a aprovação do Governo não será recusada se os projectos apresentados puderem ser considerados de harmonia com o valor das ocorrências minerais reconhecidas.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 26 de Dezembro de 1969.**
+Promulgado em 26 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Janeiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

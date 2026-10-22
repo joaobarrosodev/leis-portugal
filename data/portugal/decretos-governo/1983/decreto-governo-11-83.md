@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/11-1983-311041
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:26:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ecd4b7b64f99df32685e6511743e12a17c30e377ec0f6d6086330d5a9db8a445
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 835f1856a3a9ab555f5aabdcd7f9e1c27288eb1f64ef23a0f04881d930fb5fa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:26:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Criação de Serviços
+- Instituto Superior Técnico
+- Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:332911:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:332911:por
+  label: "Extintos os lugares do quadro de pessoal constantes no mapa II, pela PORT.143/90.21.02.1990.MF, DR.IS [44] de 21.02.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/143-1990-332911
+  date: '1990-02-21'
+- type: cites
+  target: pt:dre:157074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:26:23Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +132,13 @@ O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — (Natureza e atribuições)
 
-###### Artigo 1.º É criado o Centro de Informática do Instituto Superior Técnico, da Universidade Técnica de Lisboa (CIIST), na dependência directa do conselho directivo do Instituto Superior Técnico (CDIST), e adiante designado por Centro.
+Artigo 1.º É criado o Centro de Informática do Instituto Superior Técnico, da Universidade Técnica de Lisboa (CIIST), na dependência directa do conselho directivo do Instituto Superior Técnico (CDIST), e adiante designado por Centro.
 
-###### Art. 2.º - 1 - O Centro criado tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, aos organismos do referido Instituto e secundariamente a outros organismos públicos, mormente aos dependentes do Ministério da Educação, podendo eventualmente prestar o mesmo tipo de serviços a entidades privadas.
+Art. 2.º - 1 - O Centro criado tem por finalidade a prestação de serviços informáticos, tanto ao nível de processamento como de apoio técnico e formação, aos organismos do referido Instituto e secundariamente a outros organismos públicos, mormente aos dependentes do Ministério da Educação, podendo eventualmente prestar o mesmo tipo de serviços a entidades privadas.
 
 2 - Como organismo de prestação de serviços, o Centro não prosseguirá fins próprios e não produzirá investigação autónoma, salvo na estrita medida das suas necessidades de actualização tecnológica.
 
-###### Art. 3.º Para cumprimento dos fins referidos no artigo anterior as grandes áreas operacionais do Centro de Informática são as seguintes:
+Art. 3.º Para cumprimento dos fins referidos no artigo anterior as grandes áreas operacionais do Centro de Informática são as seguintes:
 
 a) Aplicações científicas;
 
@@ -112,15 +146,15 @@ b) Promoção e divulgação das técnicas informáticas;
 
 c) Aplicações administrativas.
 
-###### Art. 4.º O cálculo científico, prestado prioritariamente aos estabelecimentos de ensino superior integrados na respectiva universidade e seus organismos de investigação, compreende essencialmente o processamento e a consultoria ao nível da utilização dos sistemas de exploração, compiladores, interpretadores, programas utilitários e outros programas de uso generalizado.
+Art. 4.º O cálculo científico, prestado prioritariamente aos estabelecimentos de ensino superior integrados na respectiva universidade e seus organismos de investigação, compreende essencialmente o processamento e a consultoria ao nível da utilização dos sistemas de exploração, compiladores, interpretadores, programas utilitários e outros programas de uso generalizado.
 
-###### Art. 5.º A promoção e divulgação das técnicas informáticas compreendem o seguinte:
+Art. 5.º A promoção e divulgação das técnicas informáticas compreendem o seguinte:
 
 a) Apoio, em termos de processamento, ao ensino ministrado no Instituto Superior Técnico;
 
 b) Organização e implementação de cursos intensivos de formação de pessoal informático, tanto do próprio Centro como das escolas e institutos da Universidade, que poderão eventualmente ser extensíveis a entidades exteriores à Universidade.
 
-###### Art. 6.º As aplicações administrativas compreendem o seguinte:
+Art. 6.º As aplicações administrativas compreendem o seguinte:
 
 a) Organização e racionalização de processos;
 
@@ -130,17 +164,17 @@ c) Análise e programação;
 
 d) Processamento e controle de qualidade dos serviços.
 
-###### Art. 7.º O Centro não organizará qualquer apoio sistemático ao nível de análise e programação propriamente ditas no domínio das aplicações científicas.
+Art. 7.º O Centro não organizará qualquer apoio sistemático ao nível de análise e programação propriamente ditas no domínio das aplicações científicas.
 
 ### CAPÍTULO II — (Órgãos e serviços)
 
-###### Art. 8.º São órgãos do Centro:
+Art. 8.º São órgãos do Centro:
 
 a) O conselho directivo;
 
 b) O conselho de utentes.
 
-###### Art. 9.º - 1 - O conselho directivo do Centro de Informática do Instituto Superior Técnico terá a seguinte constituição:
+Art. 9.º - 1 - O conselho directivo do Centro de Informática do Instituto Superior Técnico terá a seguinte constituição:
 
 a) 1 docente nomeado pelo reitor, sob proposta do conselho directivo do Instituto Superior Técnico, que presidirá;
 
@@ -150,7 +184,7 @@ c) 1 funcionário da carreira de informática nomeado pelo reitor, sob proposta 
 
 2 - Os mandatos terão a duração de 2 anos.
 
-###### Art. 10.º Compete ao conselho directivo:
+Art. 10.º Compete ao conselho directivo:
 
 a) Propor superiormente o plano geral a que deverá subordinar-se o Centro, bem como as medidas legislativas e administrativas necessárias ao bom desempenho das suas atribuições;
 
@@ -172,7 +206,7 @@ i) Propor a realização de trabalho extraordinário em situações excepcionais
 
 j) Propor as tarifas previstas no artigo 19.º para os serviços prestados pelo Centro, as quais serão homologadas.
 
-###### Art. 11.º - 1 - O cargo de presidente do conselho directivo do Centro será desempenhado a tempo inteiro, em comissão de serviço.
+Art. 11.º - 1 - O cargo de presidente do conselho directivo do Centro será desempenhado a tempo inteiro, em comissão de serviço.
 
 2 - Ao presidente do conselho directivo compete:
 
@@ -188,7 +222,7 @@ e) Participar nas reuniões do conselho de utentes.
 
 3 - Nas deliberações do conselho directivo o presidente terá voto de qualidade.
 
-###### Art. 12.º - 1 - O conselho de utentes do Centro terá a seguinte constituição:
+Art. 12.º - 1 - O conselho de utentes do Centro terá a seguinte constituição:
 
 a) O presidente do conselho directivo do Instituto Superior Técnico, ou pessoa em quem ele delegar, que presidirá;
 
@@ -202,7 +236,7 @@ e) O presidente do conselho directivo do Centro de Informática do Instituto Sup
 
 2 - A primeira reunião do conselho de utentes será convocada pelo seu presidente nos 30 dias seguintes à posse do conselho directivo do Centro.
 
-###### Art. 13.º Compete ao conselho de utentes:
+Art. 13.º Compete ao conselho de utentes:
 
 a) Colaborar, mediante a apresentação de sugestões, na elaboração do plano de actividades e do programa de trabalhos do Centro;
 
@@ -214,7 +248,7 @@ d) Elaborar o seu regulamento;
 
 e) Dar parecer sobre as tarifas e limites de tempo previstos, a que se refere o artigo 17.º
 
-###### Art. 14.º - 1 - O Centro de Informática tem os seguintes núcleos:
+Art. 14.º - 1 - O Centro de Informática tem os seguintes núcleos:
 
 a) Núcleo de exploração;
 
@@ -236,9 +270,9 @@ d) Núcleo de apoio administrativo.
 
 ### CAPÍTULO III — (Gestão patrimonial e financeira)
 
-###### Art. 15.º O orçamento do Centro constituirá uma subdivisão orgânica do orçamento da Universidade Técnica no Orçamento Geral do Estado.
+Art. 15.º O orçamento do Centro constituirá uma subdivisão orgânica do orçamento da Universidade Técnica no Orçamento Geral do Estado.
 
-###### Art. 16.º - 1 - O Centro disporá das seguintes receitas:
+Art. 16.º - 1 - O Centro disporá das seguintes receitas:
 
 a) As importâncias cobradas por serviços prestados a organismos exteriores;
 
@@ -258,17 +292,17 @@ f) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título l
 
 4 - Nos termos do número anterior, o conselho directivo do Centro gozará da competência atribuída aos órgãos responsáveis dos serviços com autonomia administrativa.
 
-###### Art. 17.º - 1 - O Centro não cobrará os serviços prestados, até limites de tempo fixados superiormente sob proposta do conselho directivo, quer aos organismos da Universidade quer ainda a quaisquer outros organismos do Ministério da Educação que funcionem sem fins lucrativos.
+Art. 17.º - 1 - O Centro não cobrará os serviços prestados, até limites de tempo fixados superiormente sob proposta do conselho directivo, quer aos organismos da Universidade quer ainda a quaisquer outros organismos do Ministério da Educação que funcionem sem fins lucrativos.
 
 2 - Os serviços prestados para além dos limites referidos no número anterior, bem como os prestados a organismos exteriores ao Ministério da Educação, serão cobrados de acordo com as tarifas aprovadas superiormente.
 
 3 - As tarifas serão afixadas genérica ou casuisticamente, consoante o tipo de serviço, atendendo aos meios humanos e materiais utilizados, bem como aos recursos consumidos e aos custos indirectos de funcionamento, e havendo ainda que ponderar-se a complexidade e responsabilidade dos serviços prestados.
 
-###### Art. 18.º A execução da gestão orçamental do Centro será assegurada pelos serviços administrativos do Instituto Superior Técnico.
+Art. 18.º A execução da gestão orçamental do Centro será assegurada pelos serviços administrativos do Instituto Superior Técnico.
 
 ### CAPÍTULO IV — (Pessoal)
 
-###### Art. 19.º O quadro de pessoal do Centro é o constante do mapa II anexo a este diploma e compreenderá os seguintes grupos de pessoal:
+Art. 19.º O quadro de pessoal do Centro é o constante do mapa II anexo a este diploma e compreenderá os seguintes grupos de pessoal:
 
 1) Pessoal informático integrado nas seguintes carreiras e categorias específicas:
 
@@ -290,7 +324,7 @@ h) Correspondentes de informática.
 
 2) Pessoal técnico-profissional, administrativo e auxiliar.
 
-###### Art. 20.º - 1 - O recrutamento e provimento dos lugares de quadro das carreiras constantes do n.º 1) do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+Art. 20.º - 1 - O recrutamento e provimento dos lugares de quadro das carreiras constantes do n.º 1) do artigo anterior serão feitos de acordo com o disposto no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
 
 2 - O recrutamento e provimento dos lugares de quadro das restantes carreiras, constantes do n.º 2) do artigo anterior, serão feitos de acordo com o disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
@@ -298,7 +332,7 @@ h) Correspondentes de informática.
 
 ### CAPÍTULO V — (Disposições gerais e transitórias)
 
-###### Art. 21.º - 1 - O primeiro provimento no quadro de pessoal do Centro far-se-á da seguinte forma:
+Art. 21.º - 1 - O primeiro provimento no quadro de pessoal do Centro far-se-á da seguinte forma:
 
 a) O pessoal que à data da publicação do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, desempenhava, a qualquer título, função informática será provido tendo em conta o disposto no n.º 5 do artigo 30.º desse diploma, de acordo com as características funcionais fixadas respectivamente nos n.os 1 e 3 dos artigos 14.º e 15.º, n.os 1 e 4 do artigo 16.º, n.os 1, 2 e 3 do artigo 17.º, n.os 1, 2 e 4 do artigo 18.º e do artigo 20.º desse diploma;
 
@@ -314,37 +348,37 @@ b) Para lugar do quadro de categoria a que corresponde letra de vencimento idên
 
 3 - A aplicação do disposto no n.º 1 e na alínea b) do n.º 2 deste artigo fica condicionada a que o serviço certifique, em todos os casos, o exercício efectivo das funções que integram a categoria em que se verifique o provimento.
 
-###### Art. 22.º A transição para as novas categorias será efectuada mediante listas nominativas, aprovadas pelo Ministro da Educação, e diplomas individuais de provimento, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
+Art. 22.º A transição para as novas categorias será efectuada mediante listas nominativas, aprovadas pelo Ministro da Educação, e diplomas individuais de provimento, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 23.º - 1 - As listas nominativas a que se refere o artigo anterior, depois de elaboradas pelos respectivos serviços, de acordo com o disposto no capítulo V do presente diploma, serão afixadas com menção de que delas cabe reclamação a deduzir no prazo de 8 dias, a contar da data da afixação no respectivo serviço.
+Art. 23.º - 1 - As listas nominativas a que se refere o artigo anterior, depois de elaboradas pelos respectivos serviços, de acordo com o disposto no capítulo V do presente diploma, serão afixadas com menção de que delas cabe reclamação a deduzir no prazo de 8 dias, a contar da data da afixação no respectivo serviço.
 
 2 - Subsequentemente, serão as listas remetidas à Direcção-Geral do Ensino Superior, bem como as reclamações que os interessados julgarem pertinentes.
 
-###### Art. 24.º Para efeitos de progressão na carreira é contado na nova categoria o tempo de serviço prestado no exercício das funções correspondentes à categoria de integração.
+Art. 24.º Para efeitos de progressão na carreira é contado na nova categoria o tempo de serviço prestado no exercício das funções correspondentes à categoria de integração.
 
-###### Art. 25.º Os funcionários que à data de aplicação do presente diploma estiverem providos definitivamente serão integrados, com nomeação definitiva, nas novas categorias.
+Art. 25.º Os funcionários que à data de aplicação do presente diploma estiverem providos definitivamente serão integrados, com nomeação definitiva, nas novas categorias.
 
-###### Art. 26.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho directivo, divulgar as actividades que aí se desenvolvem, bem como o resultado das mesmas.
+Art. 26.º O pessoal do Centro não poderá, sem prévia autorização do respectivo conselho directivo, divulgar as actividades que aí se desenvolvem, bem como o resultado das mesmas.
 
-###### Art. 27.º Os docentes universitários poderão, eventualmente, exercer funções no Centro, para além das funções docentes, e dentro do seu horário normal, mediante despacho do conselho científico do Instituto Superior Técnico, sem direito a qualquer remuneração adicional.
+Art. 27.º Os docentes universitários poderão, eventualmente, exercer funções no Centro, para além das funções docentes, e dentro do seu horário normal, mediante despacho do conselho científico do Instituto Superior Técnico, sem direito a qualquer remuneração adicional.
 
-###### Art. 28.º O Centro poderá atribuir bolsas aos alunos do Instituto Superior Técnico, pagas pelas suas verbas próprias, de acordo com regulamento a aprovar pelo Ministro da Educação.
+Art. 28.º O Centro poderá atribuir bolsas aos alunos do Instituto Superior Técnico, pagas pelas suas verbas próprias, de acordo com regulamento a aprovar pelo Ministro da Educação.
 
-###### Art. 29.º Enquanto não for possível estabelecer no orçamento do Instituto Superior Técnico dotação própria do Centro, proceder-se-á da seguinte forma:
+Art. 29.º Enquanto não for possível estabelecer no orçamento do Instituto Superior Técnico dotação própria do Centro, proceder-se-á da seguinte forma:
 
 a) Os encargos resultantes da reclassificação ora operada serão satisfeitos mediante reforço de verbas, nos termos do artigo 34.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio;
 
 b) Os encargos resultantes da sua criação e funcionamento serão suportados pelo orçamento do Instituto Superior Técnico.
 
-###### Art. 30.º O Centro ora criado será reestruturado quando da criação do complexo informático da Universidade Técnica de Lisboa.
+Art. 30.º O Centro ora criado será reestruturado quando da criação do complexo informático da Universidade Técnica de Lisboa.
 
-###### Art. 31.º - 1 - É extinto o Centro de Cálculo da Universidade de Lisboa.
+Art. 31.º - 1 - É extinto o Centro de Cálculo da Universidade de Lisboa.
 
 2 - O material e equipamento pertencentes ao Centro de Cálculo da Universidade de Lisboa à data da sua extinção são transferidos para o Centro de Informática do Instituto Superior Técnico, passando a constituir património do mesmo.
 
 3 - As verbas previstas para o Centro de Cálculo da Universidade de Lisboa no orçamento do Instituto Nacional de Investigação Científica para o ano de 1982 serão transferidas para o orçamento do Centro de Informática do Instituto Superior Técnico.
 
-###### Art. 32.º - 1 - O pessoal que desempenha funções no Centro de Cálculo da Universidade de Lisboa à data da publicação do presente diploma será provido em lugares de quadro do Centro de Informática do Instituto Superior Técnico, nos termos do disposto no seu capítulo V.
+Art. 32.º - 1 - O pessoal que desempenha funções no Centro de Cálculo da Universidade de Lisboa à data da publicação do presente diploma será provido em lugares de quadro do Centro de Informática do Instituto Superior Técnico, nos termos do disposto no seu capítulo V.
 
 2 - São extintos, à medida que se realizar o previsto no n.º 1, no quadro de pessoal do Instituto Nacional de Investigação Científica, criado pela [Portaria n.º 712-A/79](https://diariodarepublica.pt/dr/detalhe/portaria/712-a-1979-157074), de 19 de Dezembro, os seguintes lugares:
 
@@ -358,34 +392,34 @@ b) Os encargos resultantes da sua criação e funcionamento serão suportados pe
 
 3 - As dotações do orçamento do Instituto Nacional de Investigação Científica abertas pela transferência do pessoal referido na alínea anterior serão transferidas para o orçamento do Centro de Informática do Instituto Superior Técnico.
 
-###### Art. 33.º São extintos os lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe das Universidades de Lisboa e Técnica de Lisboa, constantes do mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
+Art. 33.º São extintos os lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe das Universidades de Lisboa e Técnica de Lisboa, constantes do mapa I anexo ao [Decreto-Lei n.º 536/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1979-231307), de 31 de Dezembro.
 
-###### Art. 34.º São criados nas Universidades de Lisboa e Técnica de Lisboa os lugares de monitor, operador de registo de dados principal e operador de registo de dados, em substituição dos lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe extintos nos termos do artigo anterior.
+Art. 34.º São criados nas Universidades de Lisboa e Técnica de Lisboa os lugares de monitor, operador de registo de dados principal e operador de registo de dados, em substituição dos lugares de mecanógrafo de 1.ª classe, de 2.ª classe e de 3.ª classe extintos nos termos do artigo anterior.
 
-###### Art. 35.º O normativo constante dos n.os 1, alínea a), 2 e 3 do artigo 21.º e dos artigos 22.º, 23.º, 24.º e 25.º aplica-se a todo o pessoal informático dos organismos do ensino superior, dependentes do Ministério da Educação, cujos quadros serão publicados por portaria conjunta dos Ministérios das Finanças e do Plano, da Educação e da Reforma Administrativa, no prazo de 90 dias contados a partir da data da publicação do presente diploma.
+Art. 35.º O normativo constante dos n.os 1, alínea a), 2 e 3 do artigo 21.º e dos artigos 22.º, 23.º, 24.º e 25.º aplica-se a todo o pessoal informático dos organismos do ensino superior, dependentes do Ministério da Educação, cujos quadros serão publicados por portaria conjunta dos Ministérios das Finanças e do Plano, da Educação e da Reforma Administrativa, no prazo de 90 dias contados a partir da data da publicação do presente diploma.
 
-###### Art. 36.º Os primeiros membros do conselho directivo do Centro previsto no artigo 9.º serão nomeados pelo reitor, no prazo de 30 dias, a contar da data da publicação do presente diploma.
+Art. 36.º Os primeiros membros do conselho directivo do Centro previsto no artigo 9.º serão nomeados pelo reitor, no prazo de 30 dias, a contar da data da publicação do presente diploma.
 
-###### Art. 37.º As alterações resultantes das revalorizações operadas pela aplicação do disposto no presente diploma, para cumprimento do disposto no n.º 5 do artigo 30.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, produzirão efeitos desde 1 de Julho de 1979.
+Art. 37.º As alterações resultantes das revalorizações operadas pela aplicação do disposto no presente diploma, para cumprimento do disposto no n.º 5 do artigo 30.º do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio, produzirão efeitos desde 1 de Julho de 1979.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - João José Fraústo da Silva - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 1 de Fevereiro de 1983.**
+Promulgado em 1 de Fevereiro de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 2 de Fevereiro de 1983.**
+Referendado em 2 de Fevereiro de 1983.
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
 
 MAPA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf)
 
 Mapa II
 
 Quadro de pessoal do Centro de Informática do Instituto Superior Técnico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf))](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/02/03800/04690474.pdf)

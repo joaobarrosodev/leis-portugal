@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 80/1979, 2º Suplemento, Série I de 1979-04-05
   number: '80'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 566-(3) a 566-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/04/08002/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-1979-172913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:26:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1a9f2fc2765426cc0ab8817f3075bc04aea3a292ef76775546ab9dbb66857bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8afb8c48ccd8843f945ac97a7dbd71781432cfdd223ed77cad35b4a672d918b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:26:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Empresa Privada
+- Gestão
+- Intervenção do Estado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:485645:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:26:29Z'
   warnings: []
   errors: []
 ---
@@ -97,10 +114,10 @@ Assim, porque se considera essencial que não sejam destruídas as condições e
 
 Por estas razões, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Sempre que a complexidade das situações e a relevância das empresas envolvidas para o respectivo sector de actividade o justifiquem, o prazo previsto no n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, com a redacção dada pelo [Decreto-Lei n.º 67/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1978-485645), de 5 de Abril, poderá ser prorrogado por resolução do Conselho de Ministros por um período máximo de doze meses.
+Artigo único. Sempre que a complexidade das situações e a relevância das empresas envolvidas para o respectivo sector de actividade o justifiquem, o prazo previsto no n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, com a redacção dada pelo [Decreto-Lei n.º 67/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-1978-485645), de 5 de Abril, poderá ser prorrogado por resolução do Conselho de Ministros por um período máximo de doze meses.
 
 Visto e aprovado em Conselho de Ministros de 19 de Março de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 5 de Abril de 1979.**
+Promulgado em 5 de Abril de 1979.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES**
+O Presidente da República, ANTÓNIO RAMALHO EANES

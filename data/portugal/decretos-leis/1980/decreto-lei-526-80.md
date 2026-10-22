@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/11/25600/37503757.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1980-457463
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-07-18T00:00:00Z'
+  retrieved_at: '2026-10-22T23:34:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46e06b07a0d52ddc59c418c00983287ca267549021ef790e5936efb65b8f2a24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e9ee2a291b540bf66f83abbecc425c55bc58a55c74e1ecde5b14f62b76abbfc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:34:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Planeamento
+- Criação de Serviços
+- Definição de Competências
+- Grupo de Estudos Básicos de Economia Industrial
+- Instituto de Análise da Conjuntura e Estudos de Planeamento
+- Integração de Serviços
+- Integração de Trabalhadores
+- Orgânica
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:228027:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:568492:por
+  label: "Prorrogado, por 90 dias, o período a que se refere o n.º 1 do artigo 24.º pelo DN.335/81.30.10.1981.MFP, DR.IS [267]\
+    \ de 19.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/335-1981-568492
+  date: '1981-10-30'
+- type: amended_by
+  target: pt:dre:178083:por
+  label: "Alterados os arts. 13º, 14º e 20º e revogados a al. e) do nº 1 do art. 22º, os arts. 23º, 24º, 25º, 26º, 27º e 29º\
+    \ pelo DEC LEI.437/85.24.10.1985.MFP, DR.IS [245] de 24.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/437-1985-178083
+  date: '1985-10-24'
+- type: amended_by
+  target: pt:dre:193610:por
+  label: "Extinto o Instituto de Análise da Conjuntura e Estudos de Planeamento (IACEP), criado pelo presente diploma, ora\
+    \ revogado, pelo DEC LEI.41/86.06.03.1986.MPAT, DR.IS [54] de 06.03.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1986-193610
+  date: '1986-03-06'
+- type: cites
+  target: pt:dre:140525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
 article_structure:
   article_count: 30
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:34:12Z'
   warnings: []
   errors: []
 ---
@@ -554,8 +613,8 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Outubro de 1980.**
+Promulgado em 25 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

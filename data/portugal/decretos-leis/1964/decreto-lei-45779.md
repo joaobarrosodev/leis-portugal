@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45779-1964-578106
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca8c67acebf26d87567faa17d482561a7d9a77eb13d672cc2d3ab1eb7ef81aeb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da635005317debe7b12b7aaa2cfe46e124ae64ad8012f57e94e1983f28fc8392
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Formas de Provimento
+- Horta
+- Ministério das Obras Públicas
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:195269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248841:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:49:36Z'
   warnings: []
   errors: []
 ---
@@ -89,31 +101,31 @@ Reconhecendo-se a conveniência de melhorar as condições de acesso dos agentes
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Direcção de Obras Públicas do distrito da Horta, aprovado pelo [Decreto-Lei n.º 40482](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40482-1955-248841), de 31 de Dezembro de 1955, é substituído pelo constante do mapa anexo, que baixa assinado pelo Ministro das Obras Públicas.
+Artigo 1.º O quadro do pessoal da Direcção de Obras Públicas do distrito da Horta, aprovado pelo [Decreto-Lei n.º 40482](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40482-1955-248841), de 31 de Dezembro de 1955, é substituído pelo constante do mapa anexo, que baixa assinado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º O provimento dos lugares de director e de adjunto pode ser feito em regime de comissão de serviço, nos termos do presente diploma, para qualquer das classes previstas no quadro a que se refere o artigo anterior, por livre decisão do Ministro.
+Art. 2.º O provimento dos lugares de director e de adjunto pode ser feito em regime de comissão de serviço, nos termos do presente diploma, para qualquer das classes previstas no quadro a que se refere o artigo anterior, por livre decisão do Ministro.
 
 § único. Os lugares de agente técnico de engenharia do quadro referido no corpo do artigo podem também ser providos em regime de comissão de serviço, nos termos do presente diploma.
 
-###### Art. 3.º A nomeação de funcionários dos quadros permanentes nos termos do artigo anterior determina a imediata abertura da vaga nos respectivos lugares.
+Art. 3.º A nomeação de funcionários dos quadros permanentes nos termos do artigo anterior determina a imediata abertura da vaga nos respectivos lugares.
 
 § único. Durante a comissão de serviço os funcionários poderão apresentar-se aos concursos de promoção realizados nos seus quadros de origem e contarão, para todos os efeitos legais, o tempo em que nela permanecerem.
 
-###### Art. 4.º Depois de decorrido o período mínimo de três anos da comissão de serviço, pode o Ministro das Obras Públicas autorizar, a pedido dos interessados, o seu provimento definitivo nos lugares que estiverem ocupando no quadro da Direcção de Obras Públicas do distrito da Horta.
+Art. 4.º Depois de decorrido o período mínimo de três anos da comissão de serviço, pode o Ministro das Obras Públicas autorizar, a pedido dos interessados, o seu provimento definitivo nos lugares que estiverem ocupando no quadro da Direcção de Obras Públicas do distrito da Horta.
 
 § 1.º Decorrido o período referido no corpo do artigo, podem os funcionários requerer o regresso ao respectivo lugar do quadro de origem, cabendo-lhes a primeira vaga que se verificar depois da entrada do requerimento no serviço interessado.
 
 § 2.º Os funcionários nomeados em comissão de serviço beneficiarão do disposto no [Decreto-Lei n.º 44932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44932-1963-195269), de 25 de Março de 1963.
 
-###### Art. 5.º O titular do lugar de agente técnico de engenharia civil de 3.ª classe que conte cinco anos de serviço ininterrupto nesta situação poderá ser promovido à classe imediata mediante concurso.
+Art. 5.º O titular do lugar de agente técnico de engenharia civil de 3.ª classe que conte cinco anos de serviço ininterrupto nesta situação poderá ser promovido à classe imediata mediante concurso.
 
-###### Art. 6.º O pessoal destacado por qualquer dos serviços do Ministério para a realização de estudos ou trabalhos no distrito da Horta poderá ser adstrito à Direcção de Obras Públicas nas condições fixadas por despacho ministerial.
+Art. 6.º O pessoal destacado por qualquer dos serviços do Ministério para a realização de estudos ou trabalhos no distrito da Horta poderá ser adstrito à Direcção de Obras Públicas nas condições fixadas por despacho ministerial.
 
-###### Art. 7.º (transitório). O pessoal de qualquer dos serviços do Ministério das Obras Públicas que à data do presente diploma tenha completado três anos de serviço ininterrupto no distrito da Horta poderá ser nomeado pelo Ministro das Obras Públicas para os lugares vagos do quadro aprovado pelo presente diploma, tendo em conta as respectivas habilitações, informações e tempo de serviço e a categoria e classe que presentemente ocupa, contando-se para efeito de promoção o tempo de serviço prestado na actual situação. Considerar-se-ão dispensadas, quanto a este pessoal, as formalidades de visto do Tribunal de Contas e de posse.
+Art. 7.º (transitório). O pessoal de qualquer dos serviços do Ministério das Obras Públicas que à data do presente diploma tenha completado três anos de serviço ininterrupto no distrito da Horta poderá ser nomeado pelo Ministro das Obras Públicas para os lugares vagos do quadro aprovado pelo presente diploma, tendo em conta as respectivas habilitações, informações e tempo de serviço e a categoria e classe que presentemente ocupa, contando-se para efeito de promoção o tempo de serviço prestado na actual situação. Considerar-se-ão dispensadas, quanto a este pessoal, as formalidades de visto do Tribunal de Contas e de posse.
 
-###### Art. 8.º Os encargos a que der lugar o presente diploma no corrente ano serão suportados por força das disponibilidades das dotações consignadas à Direcção de Obras Públicas do distrito da Horta no orçamento em vigor.
+Art. 8.º Os encargos a que der lugar o presente diploma no corrente ano serão suportados por força das disponibilidades das dotações consignadas à Direcção de Obras Públicas do distrito da Horta no orçamento em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

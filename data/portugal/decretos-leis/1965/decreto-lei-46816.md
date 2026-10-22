@@ -49,36 +49,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46816-1965-508437
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5258807e8e1afccc276c01c26eef1244822e2f987025548581500faf1711acf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96bc0e0d7ba096e70df05599308a7ed1d677d3e71b0d00ee8b3200befa74f300
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Crédito Especial
+- Encargos Gerais da Nação
+- Gestão Orçamental
+- Ministério das Finanças
+- Orçamento
+relationships:
+- type: cites
+  target: pt:dre:305007:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:55:50Z'
   warnings: []
   errors: []
 ---
@@ -87,15 +96,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 2050000$00, devendo a mesma importância ser inscrita sob o n.º 1) «Para pagamento das despesas com a sua construção e aquisição dos terrenos necessários» do artigo 317.º-A «Centro de Comunicações de Évora», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 2050000$00, devendo a mesma importância ser inscrita sob o n.º 1) «Para pagamento das despesas com a sua construção e aquisição dos terrenos necessários» do artigo 317.º-A «Centro de Comunicações de Évora», capítulo 12.º, do orçamento dos Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 2.º Para compensação do crédito aludido no artigo precedente, é adicionada igual quantia à verba descrita no capítulo 9.º, artigo 301.º «Outros recursos extraordinários», do orçamento das receitas do Estado presentemente em execução.
+Art. 2.º Para compensação do crédito aludido no artigo precedente, é adicionada igual quantia à verba descrita no capítulo 9.º, artigo 301.º «Outros recursos extraordinários», do orçamento das receitas do Estado presentemente em execução.
 
-###### Art. 3.º Ao crédito aberto nos termos do artigo 1.º deste diploma e às verbas que em futuros orçamentos sejam inscritas para o mesmo fim é aplicável o disposto no artigo 4.º do [Decreto-Lei n.º 41575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41575-1958-305007), de 1 de Abril de 1958.
+Art. 3.º Ao crédito aberto nos termos do artigo 1.º deste diploma e às verbas que em futuros orçamentos sejam inscritas para o mesmo fim é aplicável o disposto no artigo 4.º do [Decreto-Lei n.º 41575](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41575-1958-305007), de 1 de Abril de 1958.
 
-###### Art. 4.º Este diploma entra imediatamente em vigor.
+Art. 4.º Este diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/10/25000/19861989.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1973-412600
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:28:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e9cca540341ed11403bedbdfa36a6c346ac710ee51476fd054bf96bb5ebe3b2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d7f99fa9b11b9d84bd8254166df97787c6b4e8e768cdd171a0cb1371c9af317
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:28:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Nacional dos Preços
+- Conselho Superior de Economia
+- Criação de Serviços
+- Definição de Competências
+- Ministério da Economia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:560232:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:560232:por
+  label: "Extinto o Conselho Nacional dos Preços e revogado o presente diploma pelo DEC LEI.329-B/74.10.07.1974.MCE, DG.IS\
+    \ [159-3ºSupl] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-b-1974-560232
+  date: '1974-07-10'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249521:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579491:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:28:49Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +150,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Composição e funcionamento do Conselho Nacional dos Preços
 
-###### Artigo 1.º - 1. É criado no Ministério da Economia o Conselho Nacional dos Preços.
+Artigo 1.º - 1. É criado no Ministério da Economia o Conselho Nacional dos Preços.
 
 2. O Conselho é presidido por individualidades de reconhecida competência e idoneidade, a designar pelo Ministro da Economia, e será constituído por cinco membros permanentes e um número indeterminado de membros eventuais.
 
 3. Em caso de impedimento do presidente, será designado para o substituir, por despacho do Ministro da Economia, um dos membros permanentes do Conselho.
 
-###### Art. 2.º - 1. Os membros permanentes serão designados pelo Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministro da Economia.
+Art. 2.º - 1. Os membros permanentes serão designados pelo Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministro da Economia.
 
 2. São membros eventuais, designados de acordo com a natureza do assunto a tratar, para cada sessão ou para todas as que respeitem à mesma matéria:
 
@@ -144,7 +176,7 @@ d) Representantes dos consumidores.
 
 6. Os representantes dos consumidores serão designados pelo Ministro da Economia nos termos estabelecidos em despacho que considere a representação dos organismos de defesa dos consumidores existentes ou que vierem a ser instituídos.
 
-###### Art. 3.º - 1. O Conselho reunirá ordinariamente uma vez por mês e, extraordinariamente, sempre que o presidente o convocar, por sua iniciativa ou a pedido de qualquer dos membros permanentes.
+Art. 3.º - 1. O Conselho reunirá ordinariamente uma vez por mês e, extraordinariamente, sempre que o presidente o convocar, por sua iniciativa ou a pedido de qualquer dos membros permanentes.
 
 2. O presidente determinará a composição do Conselho para cada sessão, quer seja ordinária, quer extraordinária, em função do assunto a tratar, devendo ser sempre convocados:
 
@@ -160,7 +192,7 @@ d) Representantes dos consumidores.
 
 4. Nas sessões poderão participar, com voto consultivo, os assessores técnicos que o presidente designar.
 
-###### Art. 4.º Os membros do Conselho não podem intervir em deliberações relativas a assuntos:
+Art. 4.º Os membros do Conselho não podem intervir em deliberações relativas a assuntos:
 
 a) Em que sejam interessados eles próprios ou algum parente ou afim até ao 3.º grau, ou pessoa a eles ligada pelo vínculo da adopção;
 
@@ -170,9 +202,9 @@ c) Em que sejam notórias as suas relações com os interessados na matéria.
 
 ### CAPÍTULO II — Atribuições e competência
 
-###### Art. 5.º O Conselho tem funções de estudo, de informação e de negociação.
+Art. 5.º O Conselho tem funções de estudo, de informação e de negociação.
 
-###### Art. 6.º - 1. No âmbito das funções de estudo, compete ao Conselho:
+Art. 6.º - 1. No âmbito das funções de estudo, compete ao Conselho:
 
 a) Acompanhar a evolução da conjuntura e os movimentos globais dos preços;
 
@@ -192,7 +224,7 @@ g) Dar parecer sobre todos os assuntos que, em matéria de preços, lhe sejam su
 
 3. O Conselho poderá encarregar instituições privadas de reconhecida competência e idoneidade da elaboração dos estudos gerais ou sectoriais a que por si não possa proceder.
 
-###### Art. 7.º No desempenho das funções de informação, compete ao Conselho:
+Art. 7.º No desempenho das funções de informação, compete ao Conselho:
 
 a) Propor e promover as iniciativas que se mostrem convenientes à informação do consumidor;
 
@@ -204,7 +236,7 @@ d) Participar à Inspecção-Geral das Actividades Económicas quaisquer infrac�
 
 e) Elaborar, até 31 de Julho de cada ano, um relatório sobre a política de preços relativa ao ano anterior, a publicar pela Imprensa Nacional-Casa da Moeda.
 
-###### Art. 8.º - 1. No exercício das suas funções de negociação, compete ao Conselho:
+Art. 8.º - 1. No exercício das suas funções de negociação, compete ao Conselho:
 
 a) Negociar e celebrar acordos de estabilidade relativos aos preços de bens ou serviços sujeitos ou não a regime de tabelamento ou homologação;
 
@@ -214,7 +246,7 @@ c) Deliberar sobre quais os benefícios a conceder em cada caso.
 
 2. Os acordos de estabilidade são preparados pelos serviços técnicos do Conselho com a participação de um membro permanente deste, dependendo a sua negociação e subsequente celebração de despacho do Ministro da Economia, que os homologará depois de celebrados.
 
-###### Art. 9.º - 1. Através dos acordos de estabilidade, as empresas obrigam-se a não elevar os preços ou a não os elevar além de certas margens ou limites no período convencionalmente fixado, assegurando o Estado a contrapartida de determinados benefícios.
+Art. 9.º - 1. Através dos acordos de estabilidade, as empresas obrigam-se a não elevar os preços ou a não os elevar além de certas margens ou limites no período convencionalmente fixado, assegurando o Estado a contrapartida de determinados benefícios.
 
 2. Os benefícios a que se refere o número anterior deste artigo poderão ser os seguintes:
 
@@ -228,32 +260,32 @@ c) Possibilidade de as empresas acelerarem, dentro dos limites das percentagens 
 
 4. Em portaria dos Ministros das Finanças e da Economia poderão ser concedidos outros benefícios previstos em lei geral, para além dos que constam no n.º 2 deste artigo.
 
-###### Art. 10.º Os acordos de estabilidade deverão ser celebrados com empresas ou grupos de empresas que se dediquem à mesma actividade, a actividades complementares ou outras que tenham influência relevante na formação dos preços, sempre que possível por intermédio dos organismos corporativos que representem os sectores económicos em causa.
+Art. 10.º Os acordos de estabilidade deverão ser celebrados com empresas ou grupos de empresas que se dediquem à mesma actividade, a actividades complementares ou outras que tenham influência relevante na formação dos preços, sempre que possível por intermédio dos organismos corporativos que representem os sectores económicos em causa.
 
-###### Art. 11.º A falta de cumprimento pelas empresas das obrigações decorrentes do acordo de estabilidade importa a perda automática dos benefícios concedidos, a restituição do montante dos benefícios pecuniários que dele tenham resultado, bem como a simultânea rescisão dos contratos de empréstimo celebrados nos termos da alínea a) do n.º 2 do artigo 9.º, sem prejuízo de outras sanções estipuladas no acordo.
+Art. 11.º A falta de cumprimento pelas empresas das obrigações decorrentes do acordo de estabilidade importa a perda automática dos benefícios concedidos, a restituição do montante dos benefícios pecuniários que dele tenham resultado, bem como a simultânea rescisão dos contratos de empréstimo celebrados nos termos da alínea a) do n.º 2 do artigo 9.º, sem prejuízo de outras sanções estipuladas no acordo.
 
-###### Art. 12.º A celebração de acordos de estabilidade relativos a preços não sujeitos a regime de tabelamento pode ser declarada, em portaria do Ministro da Economia, condição para que às empresas do sector sejam reconhecidos ou concedidos os benefícios fiscais genericamente previstos na lei.
+Art. 12.º A celebração de acordos de estabilidade relativos a preços não sujeitos a regime de tabelamento pode ser declarada, em portaria do Ministro da Economia, condição para que às empresas do sector sejam reconhecidos ou concedidos os benefícios fiscais genericamente previstos na lei.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 13.º A execução dos serviços do Conselho Nacional dos Preços será assegurada pelos serviços e pessoal do Conselho Superior de Economia, em cujo quadro se introduzirão as modificações necessárias, nos termos do disposto no n.º 3 do artigo 15.º do [Decreto-Lei n.º 403/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195), de 11 de Agosto.
+Art. 13.º A execução dos serviços do Conselho Nacional dos Preços será assegurada pelos serviços e pessoal do Conselho Superior de Economia, em cujo quadro se introduzirão as modificações necessárias, nos termos do disposto no n.º 3 do artigo 15.º do [Decreto-Lei n.º 403/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1973-419195), de 11 de Agosto.
 
-###### Art. 14.º - 1. Ao lugar de presidente do Conselho Nacional dos Preços corresponde a categoria B do mapa do pessoal civil dos Ministérios civis anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
+Art. 14.º - 1. Ao lugar de presidente do Conselho Nacional dos Preços corresponde a categoria B do mapa do pessoal civil dos Ministérios civis anexo ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
 
 2. As funções de presidente, bem como as de membros permanentes do Conselho poderão ser exercidas em acumulação por funcionário de qualquer departamento, obtida a concordância do Ministro a que esteja subordinado.
 
 3. No caso previsto no número anterior, no que respeita ao presidente e, em qualquer caso, relativamente aos membros permanentes, o exercício das funções será remunerado por gratificação a fixar pelos Ministros das Finanças e da Economia, sendo a gratificação acumulável com quaisquer outras remunerações pelo exercício de cargos públicos.
 
-###### Art. 15.º Os membros do Conselho, quer permanentes, quer eventuais, bem como as entidades convocadas nos termos do n.º 3 do artigo 3.º, terão direito, por cada sessão a que assistam e nos termos legais, a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa.
+Art. 15.º Os membros do Conselho, quer permanentes, quer eventuais, bem como as entidades convocadas nos termos do n.º 3 do artigo 3.º, terão direito, por cada sessão a que assistam e nos termos legais, a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa.
 
-###### Art. 16.º O presidente poderá, no exercício das suas funções, solicitar de quaisquer entidades ou organismos, públicos ou privados, todas as informações de que careça para o desempenho das atribuições do Conselho.
+Art. 16.º O presidente poderá, no exercício das suas funções, solicitar de quaisquer entidades ou organismos, públicos ou privados, todas as informações de que careça para o desempenho das atribuições do Conselho.
 
-###### Art. 17.º Para satisfação, no corrente ano, dos encargos resultantes da execução do presente decreto-lei utilizar-se-ão as disponibilidades das dotações inscritas no orçamento da Secretaria de Estado do Comércio.
+Art. 17.º Para satisfação, no corrente ano, dos encargos resultantes da execução do presente decreto-lei utilizar-se-ão as disponibilidades das dotações inscritas no orçamento da Secretaria de Estado do Comércio.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 16 de Outubro de 1973.**
+Promulgado em 16 de Outubro de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 74/1978, 1º Suplemento, Série I de 1978-03-30
   number: '74'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 608-(1) a 608-(64)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07401/00010064.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,128 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1978-456873
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-06-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ed9d06d1249b6853585989351a75f1da0d722dcb798680697615ef7b87fe570
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 675b070e14fbf239f856d8487bc5d6331ad6901f9187e71b064e9a5127ec7d87
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Registo Civil
+- Emolumento
+- Registo Civil
 relationships:
 - type: amended_by
   target: pt:dre:521238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364877:por
+  label: "Alterado o art. 6.º do Código, pelo DEC LEI.418/79.17.10.1979.MJ, DR.IS [240] de 17.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/418-1979-364877
+  date: '1979-10-17'
+- type: amended_by
+  target: pt:dre:475296:por
+  label: "Alterado o n.º 1 do artigo 256.º do Código pelo DEC LEI.106/80.10.05.1980.MAI, DR.IS [108] de 10.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-1980-475296
+  date: '1980-05-10'
+- type: amended_by
+  target: pt:dre:375778:por
+  label: "Alterados os artigos 2.º, 6.º, 7.º, 13.º, 16.º, 17.º, 21.º, 23.º, 26.º, 31.º, 35.º, 41.º, 42.º, 45.º, 54.º, 61.º,\
+    \ 65.º, 67.º, 68.º, 69.º, 73.º, 76.º, 78.º, 84.º, 86.º, 87.º, 94.º, 95.º, 99.º, 100.º, 101.º, 108.º, 114.º, 115.º, 118.º,\
+    \ 119.º, 122.º, 125.º, 126.º, 128.º, 139.º, 151.º, 153.º, 154.º, 159.º, 166.º, 167.º, 177.º, 180.º, 201.º, 217.º, 223.º,\
+    \ 227.º, 240.º, 247.º, 256.º, 257.º, 263.º, 267.º, 269.º, 276.º, 279.º, 294.º, 295.º, 301.º, 303.º, 340.º, 341.º, 345.º,\
+    \ 346.º e 375.º do Código, pelo DEC LEI.379/82.14.09.1982.MJ, DR.IS [213] de 14.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/379-1982-375778
+  date: '1982-09-14'
+- type: amended_by
+  target: pt:dre:400014:por
+  label: "Alteradas as verbas emolumentares constantes dos artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 8.º, 9.º, 12.º, 13.º, 14.º\
+    \ e 16.º, bem como altera os artigos 7.º, 11.º, 19.º e 20.º, todos da tabela de emolumentos do registo civil anexa ao\
+    \ código aprovado pelo presente diploma, com a redacção que lhe foi conferida pelo Decreto Lei 397/83, de 04-Nov, pela\
+    \ PORT.795/84.11.10.1984.MJ, DR.IS [236] de 11.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/795-1984-400014
+  date: '1984-10-11'
+- type: amended_by
+  target: pt:dre:599487:por
+  label: "Alterado o art. 235º do Código, pelo DEC LEI.20/87.12.01.1987.MJ, DR.IS [9] de 12.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/20-1987-599487
+  date: '1987-01-10'
+- type: amended_by
+  target: pt:dre:663521:por
+  label: "Alterado o n.º 1 do artigo 170.º e aditada a alínea l) ao artigo 166.º do Código, pelo DEC LEI.29/87.14.01.1987.MJ,\
+    \ DR.IS [11] de 14.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1987-663521
+  date: '1987-01-14'
+- type: amended_by
+  target: pt:dre:334648:por
+  label: Alterados os arts. 129.º, 234.º, 240.º, 257.º e 365.º do Código do Registo Civil, aprovado pelo presente diploma,
+    pelo(a) Decreto-Lei n.º 54/90 - Diário da República n.º 37/1990, Série I de 1990-02-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1990-334648
+  date: '1990-02-13'
+- type: amended_by
+  target: pt:dre:288404:por
+  label: "Alterados o nº 6 do art. 11º, nº 2 do art. 13º (o último artigo, na redacção da Port 486/87, de 08-Jun), nºs 1 e\
+    \ 2 do art. 14º , art. 15º e nºs 1 e 4 do art. 16º da tabela de emolumentos do registo civil , pela PORT.1046/91.12.10.1991.SEA-MJ,\
+    \ DR.IS-B [235] de 12.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1046-1991-288404
+  date: '1991-10-12'
+- type: cites
+  target: pt:dre:184543:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:436826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448532:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:297429:por
+  label: Rectificado pela DECL.DD7612.20.07.1978.PCM, DR.IS [165] de 20.07.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-297429
+  date: '1978-07-20'
+- type: repealed_by
+  target: pt:dre:521238:por
+  label: "Revogado pelo DEC LEI.131/95.06.06.1995.MF, DR.IS-A [131] de 06.06.1995, a partir de 15.09.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/131-1995-521238
+  date: '1995-06-06'
 article_structure:
-  article_count: 425
+  article_count: 424
   section_count: 86
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:25Z'
   warnings: []
   errors: []
 ---
@@ -134,21 +222,21 @@ Assim:
 
 Usando da autorização conferida pela [Lei n.º 15/78](https://diariodarepublica.pt/dr/detalhe/lei/15-1978-409706), de 28 de Março, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o novo Código do Registo Civil, que faz parte integrante deste diploma e segue assinado pelo Ministro da Justiça.
+Artigo 1.º É aprovado o novo Código do Registo Civil, que faz parte integrante deste diploma e segue assinado pelo Ministro da Justiça.
 
-###### Art. 2.º A tabela de emolumentos do registo civil, aprovada pelo [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), é substituída pela tabela anexa ao presente diploma.
+Art. 2.º A tabela de emolumentos do registo civil, aprovada pelo [Decreto-Lei n.º 31/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1978-448532), é substituída pela tabela anexa ao presente diploma.
 
-###### Art. 3.º O Código do Registo Civil e a nova tabela entram em vigor no dia 1 de Abril de 1978.
+Art. 3.º O Código do Registo Civil e a nova tabela entram em vigor no dia 1 de Abril de 1978.
 
-###### Art. 4.º Após a entrada em vigor do novo Código, fica revogada toda a legislação especial a que se faça expressa referência.
+Art. 4.º Após a entrada em vigor do novo Código, fica revogada toda a legislação especial a que se faça expressa referência.
 
 Visto e aprovado em Conselho de Ministros. - Mário Firmino Miguel - José Dias dos Santos Pais.
 
-**Promulgado em 29 de Março de 1978.**
+Promulgado em 29 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 CÓDIGO DO REGISTO CIVIL
 
@@ -3216,7 +3304,7 @@ Em caso de falsidade das certidões ou atestados, os signatários e os que deles
 
 As taxas de imposto do selo da verba 84 da respectiva tabela são pagas por guia, que deve ser junta ao processo.
 
-**O Ministro da Justiça, José Dias dos Santos Pais.**
+O Ministro da Justiça, José Dias dos Santos Pais.
 
 TABELA DE EMOLUMENTOS DO REGISTO CIVIL
 
@@ -3474,8 +3562,8 @@ Os actos que não estiverem expressamente compreendidos nesta tabela serão prat
 
 Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.
 
-**O Ministro da Justiça, José Dias dos Santos Pais.**
+O Ministro da Justiça, José Dias dos Santos Pais.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/03/07401/00010064.pdf))](https://files.diariodarepublica.pt/1s/1978/03/07401/00010064.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/03/07401/00010064.pdf)
 
-**O Ministro da Justiça, José Dias dos Santos Pais.**
+O Ministro da Justiça, José Dias dos Santos Pais.

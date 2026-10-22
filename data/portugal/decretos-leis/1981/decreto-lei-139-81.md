@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/05/12400/12411242.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1981-574572
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:36:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fd701c63e3a0d454814593f9d4c4a461b39975a5637dd9840d97254eac2c2cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea0a608b122cfcc2c36847e35d3ccc6839972df402f606e8b8faba569647a928
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:36:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Capitais
+- Imposto de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:667768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:36:31Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +112,9 @@ Usando da autorização legislativa concedida pelo artigo 16.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 14.º, 21.º e 22.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 14.º, 21.º e 22.º do Código do Imposto de Capitais passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 1.º ...
 
@@ -126,7 +138,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 11.º ...
 
-###### Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 15%, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
+Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 15%, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
 
 § 1.º A taxa será revista anualmente, mediante portaria do Ministro das Finanças e do Plano.
 
@@ -134,7 +146,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 3.º ...
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 § 1.º ...
 
@@ -146,7 +158,7 @@ O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da
 
 § 5.º ...
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 a) ...
 
@@ -158,9 +170,9 @@ d) ...
 
 e) ...
 
-###### Art. 2.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º, ambos do Código do Imposto de Capitais, não terão aplicação aos rendimentos respeitantes ao ano de 1981.
+Art. 2.º As disposições do § único do artigo 7.º e da parte final do n.º 2.º do artigo 19.º, ambos do Código do Imposto de Capitais, não terão aplicação aos rendimentos respeitantes ao ano de 1981.
 
-###### Art. 3.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e as alterações aos artigos 14.º e 21.º do Código do Imposto de Capitais aplicam-se, respectivamente, aos rendimentos sujeitos aos impostos de capitais, secção A, respeitantes aos anos de 1981 e seguintes, quando o imposto for liquidado a partir da data da entrada em vigor deste diploma, e aos rendimentos sujeitos ao imposto de capitais, secção B, cujo facto gerador da obrigação do imposto ocorra a partir da mesma data.
+Art. 3.º - 1 - O presente diploma entra em vigor no dia imediato ao da sua publicação e as alterações aos artigos 14.º e 21.º do Código do Imposto de Capitais aplicam-se, respectivamente, aos rendimentos sujeitos aos impostos de capitais, secção A, respeitantes aos anos de 1981 e seguintes, quando o imposto for liquidado a partir da data da entrada em vigor deste diploma, e aos rendimentos sujeitos ao imposto de capitais, secção B, cujo facto gerador da obrigação do imposto ocorra a partir da mesma data.
 
 2 - A taxa constante do artigo 14.º, segundo a redacção dada por este diploma, não se aplica, porém, aos mútuos e aberturas de crédito relativamente aos quais tenha sido solicitado o manifesto antes da entrada em vigor do presente diploma e, bem assim, àqueles relativamente aos quais, não tendo ainda sido feita a referida solicitação, esteja a decorrer o prazo respectivo, quando os contratos correspondentes constem de documento autêntico ou autenticado ou de documento particular cuja data seja aceite como justificada pela Direcção-Geral das Contribuições e Impostos.
 
@@ -168,8 +180,8 @@ e) ...
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 19 de Maio de 1981.**
+Promulgado em 19 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

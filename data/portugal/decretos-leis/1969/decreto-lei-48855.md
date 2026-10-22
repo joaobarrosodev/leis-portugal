@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/02/02700/01140114.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48855-1969-526643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T22:08:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 761a199033e2dc3fe3e48bb8a4b040d9db258a7316bf01665cd3b61d11a370be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33cc91b6374b69ad85770903faa075d3cf2a241bee7955dc5c6897ea3feac3ff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:08:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação
+- Fretamento
+- Junta Nacional da Marinha Mercante
+- Marinha Mercante
+- Ministro da Marinha
+- Ministro do Ultramar
+- Presidente
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:673850:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:654481:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:673850:por
+  label: "Revogado pelo DEC LEI.218/72.27.06.1972.MMAR, DG.IS [148] de 27.06.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/218-1972-673850
+  date: '1972-06-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:08:22Z'
   warnings: []
   errors: []
 ---
@@ -101,15 +118,15 @@ Considerando que a competência atribuída aos Ministros da Marinha e do Ultrama
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º No uso da competência que lhes atribui o § 2.º do artigo 1.º do [Decreto-Lei n.º 39375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39375-1953-654481), de 3 de Outubro de 1953, poderão os Ministros da Marinha e do Ultramar delegar no presidente da Junta Nacional da Marinha Mercante a faculdade de autorizar o transporte de cargas em navio estrangeiro, por uma ou mais viagens, entre portos portugueses.
+Artigo 1.º No uso da competência que lhes atribui o § 2.º do artigo 1.º do [Decreto-Lei n.º 39375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39375-1953-654481), de 3 de Outubro de 1953, poderão os Ministros da Marinha e do Ultramar delegar no presidente da Junta Nacional da Marinha Mercante a faculdade de autorizar o transporte de cargas em navio estrangeiro, por uma ou mais viagens, entre portos portugueses.
 
-###### Art. 2.º O presidente da Junta Nacional da Marinha Mercante, quando o entender conveniente para apressar a utilização dos navios estrangeiros nos casos de comprovada carência da navegação nacional, poderá atribuir aos delegados do referido organismo de coordenação económica em Angola e Moçambique a competência que lhe é delegada, em relação a carregamentos a efectuar em cada uma daquelas províncias ultramarinas, quer para portos da mesma ou de outra província, quer para os da metrópole.
+Art. 2.º O presidente da Junta Nacional da Marinha Mercante, quando o entender conveniente para apressar a utilização dos navios estrangeiros nos casos de comprovada carência da navegação nacional, poderá atribuir aos delegados do referido organismo de coordenação económica em Angola e Moçambique a competência que lhe é delegada, em relação a carregamentos a efectuar em cada uma daquelas províncias ultramarinas, quer para portos da mesma ou de outra província, quer para os da metrópole.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 22 de Janeiro de 1969.**
+Promulgado em 22 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

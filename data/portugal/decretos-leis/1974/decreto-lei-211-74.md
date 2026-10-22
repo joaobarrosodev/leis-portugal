@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/05/11800/06380638.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1974-623428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:31:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 70f2aa3d750f289045ec3b676eb60a54db33095f8b6eb7a3d703dfa89372341f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eefda6b5398bf1bd575ea6a2be95aa4fb708d5ab7b65c8650884416561ec56e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:31:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Orgânica
+- Tropa Paraquedista
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:272874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:31:19Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +107,7 @@ de 21 de Maio
 
 Tendo a Junta de Salvação Nacional assumido os poderes legislativos que competem ao Governo, decreta, para valer como lei, o seguinte:
 
-###### Artigo 1.º As tropas pára-quedistas têm a constituição que segue:
+Artigo 1.º As tropas pára-quedistas têm a constituição que segue:
 
 Um regimento de caçadores pára-quedistas, na dependência directa do chefe do Estado-Maior da Força Aérea e com sede em Tancos;
 
@@ -102,26 +119,26 @@ Os Batalhões de Caçadores Pára-Quedistas n.os 31 e 32, na dependência do com
 
 Dois centros de instrução, um com sede em Luanda e outro na Beira, na dependência, respectivamente, dos comandantes da 2.ª e 3.ª Regiões Aéreas.
 
-###### Art. 2.º - 1. O Regimento de Caçadores Pára-Quedistas compreende dois batalhões: um de caçadores pára-quedistas e outro de instrução.
+Art. 2.º - 1. O Regimento de Caçadores Pára-Quedistas compreende dois batalhões: um de caçadores pára-quedistas e outro de instrução.
 
 2. Os batalhões de caçadores pára-quedistas têm orgânica idêntica e são constituídos por três companhias de caçadores pára-quedistas cada um, podendo, quando necessário ou conveniente, ser acrescidos de uma companhia de caçadores pára-quedistas como reforço.
 
 3. Os centros de instrução referidos no artigo 1.º deste diploma têm a finalidade de recrutar e preparar, local e anualmente, cada um, duas companhias de caçadores pára-quedistas.
 
-###### Art. 3.º Os efectivos, os organogramas e os quadros de pessoal pormenorizados das unidades atrás referidas serão fixados por diploma subscrito do chefe do Estado-Maior da Força Aérea no uso das atribuições que lhe são conferidas pelo [Decreto-Lei n.º 174/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1974-411350), de 27 de Abril, sem que de tal facto resulte alteração aos quadros no [Decreto n.º 48466](https://diariodarepublica.pt/dr/detalhe/decreto/48466-1968-272874), de 4 de Julho de 1968.
+Art. 3.º Os efectivos, os organogramas e os quadros de pessoal pormenorizados das unidades atrás referidas serão fixados por diploma subscrito do chefe do Estado-Maior da Força Aérea no uso das atribuições que lhe são conferidas pelo [Decreto-Lei n.º 174/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-1974-411350), de 27 de Abril, sem que de tal facto resulte alteração aos quadros no [Decreto n.º 48466](https://diariodarepublica.pt/dr/detalhe/decreto/48466-1968-272874), de 4 de Julho de 1968.
 
-###### Art. 4.º Os encargos resultantes deste diploma serão custeados no ano em curso:
+Art. 4.º Os encargos resultantes deste diploma serão custeados no ano em curso:
 
 a) Na metrópole, por reforço das verbas adequadas do orçamento ordinário de Encargos Gerais da Nação;
 
 b) No ultramar, pelas verbas da despesa extraordinária do Orçamento Geral do Estado «Defesa Nacional - Forças militares extraordinárias no ultramar».
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado pela Junta de Salvação Nacional em 14 de Maio de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.**
+O Presidente da Junta de Salvação Nacional, ANTÓNIO DE SPÍNOLA.
 
 Para ser publicado nos «Boletins Oficiais» dos Estados de Angola e Moçambique e das províncias ultramarinas de Cabo Verde e da Guiné.

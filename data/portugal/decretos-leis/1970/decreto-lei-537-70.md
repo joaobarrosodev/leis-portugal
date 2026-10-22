@@ -47,36 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/537-1970-147203
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 864da6de3fa859b0646167a6469189c241271b40955c43a7da88ec4f2b3485ce
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2e02f35f21c256f086e4a544d47f3d7bd8ae7049f3c75d88a27049a7148b2f29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa Geral de Aposentações
+- Funcionário Público
+- Incapacidade Permanente
+- Incapacidade Temporária
+- Militar
+- Ministério da Marinha
+- Ministério do Exército
+- Pessoal Assalariado
+- Pessoal Contratado
+- Proteção Social
+- Protecção na Doença
+- Regime de Pessoal
+- Regime Jurídico
+- Secretaria de Estado da Aeronáutica
+- Tempo de Serviço
+relationships:
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:08Z'
   warnings: []
   errors: []
 ---
@@ -89,17 +108,17 @@ Convindo definir a forma de aplicar aos departamentos militares as disposições
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São integralmente aplicáveis aos funcionários, contratados ou assalariados, ou outros servidores civis do Departamento da Defesa Nacional, dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica as disposições do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
+Artigo 1.º São integralmente aplicáveis aos funcionários, contratados ou assalariados, ou outros servidores civis do Departamento da Defesa Nacional, dos Ministérios do Exército e da Marinha e da Secretaria de Estado da Aeronáutica as disposições do [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048), de 27 de Maio de 1969.
 
-###### Art. 2.º São aplicáveis a todos os militares das forças armadas as disposições dos artigos 17.º, 19.º e 20.º do referido [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048).
+Art. 2.º São aplicáveis a todos os militares das forças armadas as disposições dos artigos 17.º, 19.º e 20.º do referido [Decreto-Lei n.º 49031](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49031-1969-201048).
 
-###### Art. 3.º - 1. Aos militares inscritos na Caixa Geral de Aposentações será levado em conta, para efeitos de reserva e reforma, todo o tempo de serviço prestado ao Estado em qualquer situação, e bem assim aos serviços autónomos e às autarquias locais anteriormente à sua inscrição na mesma Caixa, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
+Art. 3.º - 1. Aos militares inscritos na Caixa Geral de Aposentações será levado em conta, para efeitos de reserva e reforma, todo o tempo de serviço prestado ao Estado em qualquer situação, e bem assim aos serviços autónomos e às autarquias locais anteriormente à sua inscrição na mesma Caixa, aplicando-se à liquidação das quotas devidas o disposto na legislação respectiva.
 
 2. A contagem do tempo de serviço prestado deve ser requerida até à data em que o interessado tiver atingido o limite de idade, requerer a passagem à reserva ou reforma ou estas lhe sejam impostas.
 
 3. Os pedidos serão dirigidos à Caixa Geral de Aposentações, instruídos com os documentos comprovativos, podendo ser concedida a prorrogação do prazo para junção de documentos se se provar a impossibilidade, sem culpa dos interessados, de os obterem dentro do prazo legal.
 
-###### Art. 4.º - 1. Por motivo de doença ou de licença da competente junta médica ou ainda pelos dois motivos em conjunto, poderá um militar encontrar-se ausente do serviço, com direito a vencimentos, até ao limite máximo de doze meses.
+Art. 4.º - 1. Por motivo de doença ou de licença da competente junta médica ou ainda pelos dois motivos em conjunto, poderá um militar encontrar-se ausente do serviço, com direito a vencimentos, até ao limite máximo de doze meses.
 
 2. Para o efeito da contagem do prazo fixado no n.º 1, são considerados todos os períodos de impedimento por doença e por licença da junta, desde que o intervalo entre dois períodos consecutivos de impedimento seja inferior a trinta dias.
 
@@ -109,8 +128,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Angusto Dias Rosas.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

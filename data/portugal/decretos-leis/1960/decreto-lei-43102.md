@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43102-1960-501257
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:33:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7941c5757488fd55feb270fc792e70e6ce3b41ea63c2f691b806704b0829b8c1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f5e7e254414a0fb8506b54c14b8da9fddff20d4c70e60e1f463963380d38d32e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:33:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Armazenagem
+- Autorização de Despesas
+- Definição de Competências
+- Empréstimo
+- Junta Nacional das Frutas
+relationships:
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:33:09Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +116,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É atribuída à Junta Nacional das Frutas a faculdade de instituir o regime de armazéns gerais para abranger as mercadorias da produção industrial das actividades sujeitas à sua disciplina.
+Artigo 1.º É atribuída à Junta Nacional das Frutas a faculdade de instituir o regime de armazéns gerais para abranger as mercadorias da produção industrial das actividades sujeitas à sua disciplina.
 
 § 1.º Para os efeitos deste artigo, a Junta poderá, mediante autorização do Secretário de Estado do Comércio, contrair empréstimos e prestar as garantias adequadas.
 
@@ -115,26 +124,26 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A dívida resultante do crédito concedido, sempre que o mutuário seja casado, presumir-se-á contraída em proveito comum do casal.
 
-###### Art. 2.º Para os efeitos do artigo anterior, os armazéns nele referidos são equiparados aos armazéns gerais industriais e os conhecimentos de depósito e respectivas cautelas de penhor (warrants) emitidos pela Junta Nacional das Frutas são títulos sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação aplicável, com ressalva das disposições especiais do presente decreto-lei.
+Art. 2.º Para os efeitos do artigo anterior, os armazéns nele referidos são equiparados aos armazéns gerais industriais e os conhecimentos de depósito e respectivas cautelas de penhor (warrants) emitidos pela Junta Nacional das Frutas são títulos sujeitos ao regime jurídico dos artigos 408.º e seguintes do Código Comercial e demais legislação aplicável, com ressalva das disposições especiais do presente decreto-lei.
 
-###### Art. 3.º Os créditos representados pelos títulos, e bem assim os juros, as despesas de armazenagem e outras legítimas, são garantidos pelo penhor das mercadorias depositadas.
+Art. 3.º Os créditos representados pelos títulos, e bem assim os juros, as despesas de armazenagem e outras legítimas, são garantidos pelo penhor das mercadorias depositadas.
 
-###### Art. 4.º A Junta pode efectuar o desconto das cautelas de penhor em favor dos depositantes.
+Art. 4.º A Junta pode efectuar o desconto das cautelas de penhor em favor dos depositantes.
 
-###### Art. 5.º As mercadorias a que se refere o artigo 1.º poderão ser recolhidas em armazéns dos industriais interessados, situados ou não nos seus estabelecimentos, desde que prèviamente o depositário tenha efectuado o seguro contra incêndio do seu armazém ou armazéns pelo prazo de desconto do título ou pelo da sua prorrogação e entregue à Junta a respectiva apólice.
+Art. 5.º As mercadorias a que se refere o artigo 1.º poderão ser recolhidas em armazéns dos industriais interessados, situados ou não nos seus estabelecimentos, desde que prèviamente o depositário tenha efectuado o seguro contra incêndio do seu armazém ou armazéns pelo prazo de desconto do título ou pelo da sua prorrogação e entregue à Junta a respectiva apólice.
 
 § único. Pela posse do produto objecto do penhor fica o mutuário havido como fiel depositário, observando-se quanto à sua responsabilidade o regime estabelecido no [Decreto-Lei n.º 29833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29833-1939-200596), de 17 de Agosto de 1939.
 
-###### Art. 6.º A Junta Nacional das Frutas procederá, por conta dos industriais, ao seguro das mercadorias depositadas contra qualquer risco, pelo prazo referido no artigo 5.º deste diploma.
+Art. 6.º A Junta Nacional das Frutas procederá, por conta dos industriais, ao seguro das mercadorias depositadas contra qualquer risco, pelo prazo referido no artigo 5.º deste diploma.
 
-###### Art. 7.º O limite máximo do desconto dos títulos emitidos é de 75 por cento do valor atribuído pela Junta Nacional das Frutas às mercadorias a depositar.
+Art. 7.º O limite máximo do desconto dos títulos emitidos é de 75 por cento do valor atribuído pela Junta Nacional das Frutas às mercadorias a depositar.
 
-###### Art. 8.º O prazo de vencimento dos títulos é de seis meses, podendo ser prorrogado por dois períodos de três meses.
+Art. 8.º O prazo de vencimento dos títulos é de seis meses, podendo ser prorrogado por dois períodos de três meses.
 
-###### Art. 9.º A Junta Nacional das Frutas poderá promover a venda da mercadoria armazenada cujo prazo de depósito tenha expirado ou que respeite a cautelas de penhor vencidas e não pagas, sem dependência de leilão ou de qualquer outra formalidade.
+Art. 9.º A Junta Nacional das Frutas poderá promover a venda da mercadoria armazenada cujo prazo de depósito tenha expirado ou que respeite a cautelas de penhor vencidas e não pagas, sem dependência de leilão ou de qualquer outra formalidade.
 
-###### Art. 10.º As normas de utilização dos serviços de armazéns gerais, as características dos produtos admitidos e as tarifas a cobrar, bem como as demais condições da operação de warrantagem, serão fixadas em portaria do Secretário de Estado do Comércio.
+Art. 10.º As normas de utilização dos serviços de armazéns gerais, as características dos produtos admitidos e as tarifas a cobrar, bem como as demais condições da operação de warrantagem, serão fixadas em portaria do Secretário de Estado do Comércio.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

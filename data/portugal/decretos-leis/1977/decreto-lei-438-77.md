@@ -46,40 +46,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1977-277111
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08cb4826bc180c750ca2727f9651574944b4b0d4365b3d9aabc7cf3b2890eae4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cf4a9cff98162bb998fc1e1f7515793bd33c3496655affe3085282999f6bfb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Colocação de Professores
+- Concurso
+- Definição de Competências
+- Direcção Geral de Pessoal e Administração
+- Direcção Geral do Ensino Básico
+- Escola do Magistério Primário
+- Formas de Provimento
+- Pessoal Docente
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:370673:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:161299:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409367:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503611:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:370673:por
+  label: "Revogado pelo DEC LEI.369/79.05.09.1979.ME, DR.IS [205] de 05.09.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/369-1979-370673
+  date: '1979-09-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:10Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +142,7 @@ I
 
 Dos lugares vagos e seu preenchimento
 
-###### Artigo 1.º - 1 - O preenchimento dos lugares docentes que em cada escola do magistério e em cada disciplina ou especialidade não possa ser assegurado por pessoal docente dos quadros das mesmas escolas será feito pelos docentes que a seguir se indicam, por ordem de prioridade:
+Artigo 1.º - 1 - O preenchimento dos lugares docentes que em cada escola do magistério e em cada disciplina ou especialidade não possa ser assegurado por pessoal docente dos quadros das mesmas escolas será feito pelos docentes que a seguir se indicam, por ordem de prioridade:
 
 a) Professores profissionalizados dos ensinos primário, preparatório e secundário que, em consequência de concurso anterior, tenham obtido colocação na escola e requeiram prorrogação do seu destacamento, para efeito de exercício em disciplina ou especialidade a que corresponde a sua habilitação;
 
@@ -120,13 +162,13 @@ II
 
 Do «curriculum» dos cursos das escolas - Habilitações próprias para a docência de cada uma das disciplinas ou especialidades.
 
-###### Art. 2.º As habilitações próprias para a docência das disciplinas do curriculum das escolas do magistério, bem como o respectivo escalonamento, serão fixadas em portaria ministerial.
+Art. 2.º As habilitações próprias para a docência das disciplinas do curriculum das escolas do magistério, bem como o respectivo escalonamento, serão fixadas em portaria ministerial.
 
 III
 
 Da definição de competências em matéria de concursos e outras formas de recrutamento
 
-###### Art. 3.º Aos directores das escolas do magistério primário incumbe:
+Art. 3.º Aos directores das escolas do magistério primário incumbe:
 
 a) Determinar, pela forma e em data a fixar pela Direcção-Geral de Pessoal e Administração, o número de lugares docentes a preencher por disciplinas ou especialidades, expressos em horários completos, em conformidade com as normas fixadas neste diploma;
 
@@ -134,13 +176,13 @@ b) Propor para homologação, à Direcção-Geral do Ensino Básico, a lista dos
 
 c) Apresentar perante a Direcção-Geral do Ensino Básico as propostas individuais a que se refere o artigo 10.º, a qual as submeterá a despacho ministerial e as remeterá à Direcção-Geral de Pessoal e Administração.
 
-###### Art. 4.º Compete à Direcção-Geral de Pessoal e Administração:
+Art. 4.º Compete à Direcção-Geral de Pessoal e Administração:
 
 a) Realizar o concurso referido no artigo 7.º;
 
 b) Publicar o aviso de concurso referido no artigo 6.º
 
-###### Art. 5.º Compete à Direcção-Geral do Ensino Básico:
+Art. 5.º Compete à Direcção-Geral do Ensino Básico:
 
 a) Submeter a despacho ministerial as propostas a que se refere a alínea c) do artigo 4.º;
 
@@ -150,7 +192,7 @@ IV
 
 Da abertura do concurso
 
-###### Art. 6.º - 1 - Por despacho ministerial, determinar-se-á, para cada ano escolar, a publicação no Diário da República do aviso de concurso para professores das escolas do magistério primário, a fim de assegurar o preenchimento de lugares docentes ainda existentes após a prorrogação dos destacamentos e as reconduções previstas na alínea a) do artigo 5.º
+Art. 6.º - 1 - Por despacho ministerial, determinar-se-á, para cada ano escolar, a publicação no Diário da República do aviso de concurso para professores das escolas do magistério primário, a fim de assegurar o preenchimento de lugares docentes ainda existentes após a prorrogação dos destacamentos e as reconduções previstas na alínea a) do artigo 5.º
 
 2 - Poderão ser opositores ao concurso referido no número anterior os indivíduos possuidores de estágio pedagógico para o ciclo preparatório, do ensino secundário ou curso do magistério primário, desde que portadores das habilitações constantes da portaria referida no artigo 2.º deste diploma.
 
@@ -168,7 +210,7 @@ V
 
 Do mecanismo do concurso
 
-###### Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim aprovado por despacho ministerial e distribuído pela Direcção-Geral de Pessoal e Administração, do qual constarão:
+Art. 7.º - 1 - A apresentação ao concurso far-se-á mediante o preenchimento de um boletim aprovado por despacho ministerial e distribuído pela Direcção-Geral de Pessoal e Administração, do qual constarão:
 
 a) Os elementos legais de identificação dos candidatos;
 
@@ -194,19 +236,19 @@ c) Documentos comprovativos de aptidão física referida no artigo 4.º do [Decr
 
 4 - Serão excluídos do concurso os candidatos que não cumpram o determinado nos números anteriores.
 
-###### Art. 8.º - 1 - Os documentos de admissão a concurso referidos no artigo anterior serão remetidos para o endereço indicado no aviso de abertura do concurso, dentro do prazo legalmente estabelecido, sob registo e com aviso de recepção.
+Art. 8.º - 1 - Os documentos de admissão a concurso referidos no artigo anterior serão remetidos para o endereço indicado no aviso de abertura do concurso, dentro do prazo legalmente estabelecido, sob registo e com aviso de recepção.
 
 2 - Por despacho ministerial, será nomeado um júri ou uma comissão encarregada de apreciar os processos de concurso e de elaborar as listas ordenadas provisórias e definitivas dos candidatos, por escolas e por especialidades ou disciplinas.
 
 3 - O júri ou comissão a que se refere o número anterior dissolver-se-á após a homologação ministerial das listas ordenadas definitivas.
 
-###### Art. 9.º - 1 - As listas provisórias ordenadas dos candidatos serão afixadas nas escolas do magistério primário a que concorrem, podendo, no prazo de cinco dias, contados a partir do dia seguinte ao da sua fixação, reclamar da sua ordenação.
+Art. 9.º - 1 - As listas provisórias ordenadas dos candidatos serão afixadas nas escolas do magistério primário a que concorrem, podendo, no prazo de cinco dias, contados a partir do dia seguinte ao da sua fixação, reclamar da sua ordenação.
 
 2 - A decisão sobre as reclamações referidas no número anterior é da competência do Ministro, as quais só poderão ser consideradas quando, devidamente fundamentadas, lhe forem dirigidas nos termos legais e sob registo com aviso de recepção, endereçado conforme constar no aviso de abertura do concurso.
 
 3 - As listas definitivas ordenadas dos candidatos são publicadas no Diário da República, não havendo lugar a nova reclamação.
 
-###### Art. 10.º - 1 - Após o preenchimento dos lugares docentes através do concurso a que se refere o artigo 7.º deste diploma, os lugares ainda existentes poderão ser preenchidos por indivíduos que, embora não satisfazendo as condições do concurso, sejam considerados, por despacho ministerial, como reunindo as condições para o exercício das respectivas funções.
+Art. 10.º - 1 - Após o preenchimento dos lugares docentes através do concurso a que se refere o artigo 7.º deste diploma, os lugares ainda existentes poderão ser preenchidos por indivíduos que, embora não satisfazendo as condições do concurso, sejam considerados, por despacho ministerial, como reunindo as condições para o exercício das respectivas funções.
 
 2 - Para efeitos do número anterior, o preenchimento dos lugares ainda vagos e disponíveis será feito por propostas individuais, devidamente fundamentadas, dos directores das escolas do magistério primário, a apresentar à Direcção-Geral do Ensino Básico, que as informará, colherá o necessário despacho ministerial e as remeterá à Direcção-Geral de Pessoal e Administração, que, por sua vez, procederá aos consequentes actos de nomeação e colocação.
 
@@ -214,9 +256,9 @@ VI
 
 Das nomeações e colocações
 
-###### Art. 11.º As nomeações e colocações ao abrigo dos artigos 13.º e 14.º deste diploma consideram-se efectuadas por urgente conveniência de serviço, aplicando-se-lhes o disposto no § 1.º do artigo 24.º do Decreto-Lei n.º 22227, de 25 de Fevereiro de 1933, e no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, tendo os professores direito aos respectivos vencimentos desde o dia em que entraram em exercício de funções nas escolas do magistério primário até 30 de Setembro seguinte e ininterruptamente.
+Art. 11.º As nomeações e colocações ao abrigo dos artigos 13.º e 14.º deste diploma consideram-se efectuadas por urgente conveniência de serviço, aplicando-se-lhes o disposto no § 1.º do artigo 24.º do Decreto-Lei n.º 22227, de 25 de Fevereiro de 1933, e no artigo 1.º do [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958, tendo os professores direito aos respectivos vencimentos desde o dia em que entraram em exercício de funções nas escolas do magistério primário até 30 de Setembro seguinte e ininterruptamente.
 
-###### Art. 12.º - 1 - Os professores, efectivos ou não, qualquer que seja o vínculo que os liga ao Ministério da Educação e Investigação Científica, colocados nas escolas do magistério primário ao abrigo do presente diploma, exercerão as suas funções em regime de destacamento total, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967.
+Art. 12.º - 1 - Os professores, efectivos ou não, qualquer que seja o vínculo que os liga ao Ministério da Educação e Investigação Científica, colocados nas escolas do magistério primário ao abrigo do presente diploma, exercerão as suas funções em regime de destacamento total, conforme o disposto no artigo 3.º do [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967.
 
 2 - Os processos de nomeação dos professores não efectivos continuarão a correr pelos estabelecimentos de ensino onde foram colocados ou reconduzidos, aos quais se manterão vinculados.
 
@@ -224,15 +266,15 @@ Das nomeações e colocações
 
 4 - Sem prejuízo do disposto no número anterior, as colocações em regime de destacamento efectuar-se-ão pelo período de um ano escolar, podendo prorrogar-se por idênticos períodos de tempo, independentemente de quaisquer outras formalidades legais.
 
-###### Art. 13.º - 1 - Os candidatos que sejam funcionários públicos ou administrativos com provimento definitivo, em exercício de funções não docentes, serão nomeados e colocados em comissão de serviço, nos termos do [Decreto-Lei n.º 146/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1975-161299), de 21 de Março, por um ano escolar.
+Art. 13.º - 1 - Os candidatos que sejam funcionários públicos ou administrativos com provimento definitivo, em exercício de funções não docentes, serão nomeados e colocados em comissão de serviço, nos termos do [Decreto-Lei n.º 146/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1975-161299), de 21 de Março, por um ano escolar.
 
 2 - Para efeitos do disposto no número anterior, é necessária a apresentação da autorização do Ministro de quem os candidatos dependem.
 
 3 - As nomeações e colocações dos professores referidos no n.º 1 deste artigo poderão ser prorrogadas por período idêntico ao mencionado na mesma disposição legal, se nisso houver conveniência e se respeite o disposto no número anterior.
 
-###### Art. 14.º - 1 - Os candidatos que se não encontrem nas situações referidas nos artigos 12.º e 13.º deste diploma serão nomeados professores provisórios ou eventuais por um ano escolar.
+Art. 14.º - 1 - Os candidatos que se não encontrem nas situações referidas nos artigos 12.º e 13.º deste diploma serão nomeados professores provisórios ou eventuais por um ano escolar.
 
-###### Art. 15.º - 1 - Para preenchimento de horários incompletos nas escolas do magistério primário poderão ser autorizadas acumulações, de acordo com o [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho.
+Art. 15.º - 1 - Para preenchimento de horários incompletos nas escolas do magistério primário poderão ser autorizadas acumulações, de acordo com o [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho.
 
 2 - As acumulações referidas no número anterior cessarão logo que termine o ano lectivo, ou antes, se nisso houver conveniência.
 
@@ -240,7 +282,7 @@ VII
 
 Das remunerações
 
-###### Art. 16.º Os vencimentos a auferir pelos professores colocados nas escolas do magistério primário, ao abrigo deste diploma, são os seguintes:
+Art. 16.º Os vencimentos a auferir pelos professores colocados nas escolas do magistério primário, ao abrigo deste diploma, são os seguintes:
 
 a) Para os professores profissionalizados dos ensinos preparatório e secundário destacados nas escolas do magistério primário, os correspondentes à sua categoria, nos termos do [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho;
 
@@ -248,34 +290,34 @@ b) Para os professores provisórios destacados ou nomeados ao abrigo dos artigos
 
 c) Para os professores profissionalizados do ensino primário, o que lhes couber no lugar de origem ou, em opção, o que corresponder, nos termos da alínea anterior, ao exercício das suas funções nas escolas do magistério primário.
 
-###### Art. 17.º - 1 - Os vencimentos dos professores colocados nas escolas do magistério primário em regime de destacamento, conforme o previsto no artigo 18.º deste diploma, serão processados pelas escolas de origem, sem quaisquer outras formalidades legais.
+Art. 17.º - 1 - Os vencimentos dos professores colocados nas escolas do magistério primário em regime de destacamento, conforme o previsto no artigo 18.º deste diploma, serão processados pelas escolas de origem, sem quaisquer outras formalidades legais.
 
 2 - O processamento dos vencimentos a realizar nos termos do número anterior é feito mediante a apresentação mensal do mapa de assiduidade fornecido pelas escolas do magistério primário.
 
-###### Art. 18.º Os vencimentos dos professores nomeados e colocados nos termos dos artigos 13.º, 14.º e 15.º deste diploma serão processados pelas respectivas escolas do magistério primário, sem prejuízo do disposto no [Decreto-Lei n.º 146/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1975-161299), de 21 de Março, e [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho.
+Art. 18.º Os vencimentos dos professores nomeados e colocados nos termos dos artigos 13.º, 14.º e 15.º deste diploma serão processados pelas respectivas escolas do magistério primário, sem prejuízo do disposto no [Decreto-Lei n.º 146/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1975-161299), de 21 de Março, e [Decreto-Lei n.º 266/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1977-250429), de 1 de Julho.
 
-###### Art. 19.º - 1 - Os docentes que prestam serviço nas escolas do magistério primário continuam a ter direito a uma gratificação de quantitativo e processamento idênticos à que for praticada para os orientadores de estágio dos ensinos preparatório e secundário.
+Art. 19.º - 1 - Os docentes que prestam serviço nas escolas do magistério primário continuam a ter direito a uma gratificação de quantitativo e processamento idênticos à que for praticada para os orientadores de estágio dos ensinos preparatório e secundário.
 
 2 - Os docentes com horário incompleto perceberão gratificação proporcional ao número de horas curriculares semanais de serviço prestado nas escolas do magistério primário, calculadas na base do expresso no número anterior.
 
 3 - Sem prejuízo do disposto nos números anteriores, as gratificações atrás referidas são devidas apenas pelos meses de duração do ano lectivo, não podendo exceder em caso algum o dia 31 de Julho.
 
-###### Art. 20.º Os encargos que resultarem da aplicação deste diploma serão suportados pelas verbas inscritas no orçamento do Ministério da Educação e Investigação Científica.
+Art. 20.º Os encargos que resultarem da aplicação deste diploma serão suportados pelas verbas inscritas no orçamento do Ministério da Educação e Investigação Científica.
 
 VIII
 
 Disposições finais
 
-###### Art. 21.º As escolas do magistério primário mantêm-se, até despacho ministerial em contrário, ao abrigo do regime de experiências pedagógicas fixado pelo [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967.
+Art. 21.º As escolas do magistério primário mantêm-se, até despacho ministerial em contrário, ao abrigo do regime de experiências pedagógicas fixado pelo [Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967.
 
-###### Art. 22.º É revogado o [Decreto-Lei n.º 725/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/725-1976-409367), de 13 de Outubro.
+Art. 22.º É revogado o [Decreto-Lei n.º 725/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/725-1976-409367), de 13 de Outubro.
 
-###### Art. 23.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
+Art. 23.º As dúvidas que se suscitem na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 2 de Outubro de 1977.**
+Promulgado em 2 de Outubro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

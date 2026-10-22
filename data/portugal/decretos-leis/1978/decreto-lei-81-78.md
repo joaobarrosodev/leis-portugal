@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1978-425528
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-01-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:16:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 248e9182bffc44f5a9729c6d91f5090dd18efd95c724a0edfe34bda2ee618332
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b4e2b4d45addbf77c88d872b7e8f54be94fe42f1fe555462477bae073976dea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:16:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direito de Reserva
+- Expropriação
+- Indemnização
+- Instituto de Gestão e Estruturação Fundiária
+- Prédio Rústico
+- Reforma Agrária
+- Reserva Agrícola
 relationships:
 - type: amended_by
   target: pt:dre:540831:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:138490:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:16:55Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +135,9 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O processo de exercício do direito de reserva previsto no capítulo IV da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, passa a reger-se pelo presente decreto-lei.
+Artigo 1.º O processo de exercício do direito de reserva previsto no capítulo IV da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, passa a reger-se pelo presente decreto-lei.
 
-###### Art. 2.º - 1 - O processo regulado por este decreto-lei pode ser desencadeado oficiosamente ou a requerimento do reservatário ou de qualquer outra pessoa jurídica com interesse relevante sobre o prédio rústico a que a reserva se refere.
+Art. 2.º - 1 - O processo regulado por este decreto-lei pode ser desencadeado oficiosamente ou a requerimento do reservatário ou de qualquer outra pessoa jurídica com interesse relevante sobre o prédio rústico a que a reserva se refere.
 
 2 - Os requerimentos deverão ser feitos em papel selado e em conformidade com as normas estabelecidas pelo Instituto de Gestão e Estruturação Fundiária e acompanhados dos documentos necessários à instrução dos processos.
 
@@ -110,13 +145,13 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 4 - O Secretário de Estado da Estruturação Agrária ou a entidade em quem delegar poderá determinar, quando haja conveniência em que sejam despachados simultaneamente, a apensação de diversos processos, indicando qual deles é o principal, a que os outros devem ser apensados.
 
-###### Art. 3.º - 1 - O processo de exercício do direito de reserva é de interesse público e particular, conjuntamente.
+Art. 3.º - 1 - O processo de exercício do direito de reserva é de interesse público e particular, conjuntamente.
 
 2 - As formalidades estatuídas no presente diploma não são essenciais, salvo menção em contrário.
 
 3 - Os interessados poderão consultar o processo, no local onde este se encontre, e, mediante requerimento em papel selado, dirigido ao director do organismo respectivo, obter certidão de peças do mesmo, devendo estas ser passadas no prazo máximo de quinze dias.
 
-###### Art. 4.º - 1 - Será criado no IGEF um registo dos prédios rústicos situados na zona de intervenção, para cuja elaboração as direcções regionais deverão fornecer os necessários elementos.
+Art. 4.º - 1 - Será criado no IGEF um registo dos prédios rústicos situados na zona de intervenção, para cuja elaboração as direcções regionais deverão fornecer os necessários elementos.
 
 2 - Será também criado no IGEF um registo dos processos regulados pelo presente decreto-lei, os quais serão identificados em função de um número, do nome ou firma do reservatário e da descrição dos prédios rústicos a que a reserva diga respeito.
 
@@ -124,11 +159,11 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 4 - Dos requerimentos e documentos recebidos nos serviços serão passados os respectivos recibos com menção do número do processo respectivo.
 
-###### Art. 5.º - 1 - Quando o processo de exercício do direito de reserva respeitar a prédios situados no âmbito de diferentes direcções regionais, será competente a direcção regional em cuja área se situe o mais pontuado daqueles prédios.
+Art. 5.º - 1 - Quando o processo de exercício do direito de reserva respeitar a prédios situados no âmbito de diferentes direcções regionais, será competente a direcção regional em cuja área se situe o mais pontuado daqueles prédios.
 
 2 - A transferência de procesos em consequência dos princípios estabelecidos no número anterior não prejudica a validade do anteriormente processado.
 
-###### Art. 6.º - 1 - Os factos invocados por qualquer interessado deverão ser provados, nos termos do direito civil, com as especialidades dos números seguintes.
+Art. 6.º - 1 - Os factos invocados por qualquer interessado deverão ser provados, nos termos do direito civil, com as especialidades dos números seguintes.
 
 2 - A prova testemunhal ou por declarações só será válida quando reduzida a auto assinado pelo funcionário da direcção-geral competente encarregado da inquirição e pela testemunha ou declarante ou, quando esta não souber assinar, autenticado pela aposição de impressão digital.
 
@@ -140,7 +175,7 @@ O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO II — Reservas relativas a prédios já expropriados
 
-###### Art. 7.º - 1 - As reservas relativas a prédios já expropriados devem ser requeridas pelos interessados, sob pena de caducidade do respectivo direito, dentro de qualquer dos seguintes prazos que decorra primeiro:
+Art. 7.º - 1 - As reservas relativas a prédios já expropriados devem ser requeridas pelos interessados, sob pena de caducidade do respectivo direito, dentro de qualquer dos seguintes prazos que decorra primeiro:
 
 a) Vinte dias após a notificação a que se refere o artigo seguinte;
 
@@ -150,7 +185,7 @@ b) 30 de Junho de 1978.
 
 3 - A instrução do processo deverá obedecer ao disposto nos artigos anteriores e deverá, salvo justificado impedimento, mostrar-se finda dentro do prazo de sessenta dias.
 
-###### Art. 8.º - 1 - A competente direcção regional do Ministério da Agricultura e Pescas notificará o titular do direito de reserva sobre prédios já expropriados que ainda o não haja exercido para, no prazo de vinte dias, declarar se pretende exercê-lo.
+Art. 8.º - 1 - A competente direcção regional do Ministério da Agricultura e Pescas notificará o titular do direito de reserva sobre prédios já expropriados que ainda o não haja exercido para, no prazo de vinte dias, declarar se pretende exercê-lo.
 
 2 - As notificações previstas no número anterior serão feitas por simples ofício registado e com aviso de recepção, remetido para o último domicílio conhecido do titular do direito de reserva ou do seu legal representante, quando conhecidos, ou por editais afixados nas juntas de freguesia ou câmaras municipais em cuja área se situem os prédios expropriados, quando não tiver sido recebido pelo destinatário o ofício remetido ou quando o titular do direito de reserva ou o seu legal representante não forem conhecidos, quando se desconheça o seu domicílio ou se encontrem ausentes.
 
@@ -166,17 +201,17 @@ b) Dez dias após o termo do prazo de afixação dos editais previstos no mesmo 
 
 6 - Será válido o requerimento assinada por gestor de negócios, desde que ratificado no prazo de trinta dias.
 
-###### Art. 9.º Após a apresentação do requerimento a que se refere o artigo 7.º, a direcção regional apreciará, no prazo máximo de vinte dias, os fundamentos de facto e de direito invocados pelos interessados e elaborará informação técnica e jurídica, propondo decisão sobre:
+Art. 9.º Após a apresentação do requerimento a que se refere o artigo 7.º, a direcção regional apreciará, no prazo máximo de vinte dias, os fundamentos de facto e de direito invocados pelos interessados e elaborará informação técnica e jurídica, propondo decisão sobre:
 
 a) Número de reservas a que há lugar;
 
 b) Pontuação ou área que lhes deve corresponder.
 
-###### Art. 10.º A proposta de decisão será comunicada, por carta registada com aviso de recepção, ao reservatário e às empresas agrícolas explorantes que possam ser afectadas pela demarcação da reserva, a fim de reclamarem, querendo, no prazo de dez dias contados da data da assinatura do aviso de recepção.
+Art. 10.º A proposta de decisão será comunicada, por carta registada com aviso de recepção, ao reservatário e às empresas agrícolas explorantes que possam ser afectadas pela demarcação da reserva, a fim de reclamarem, querendo, no prazo de dez dias contados da data da assinatura do aviso de recepção.
 
-###### Art. 11.º Recebidas as respostas ou decorrido o prazo sem que estas hajam sido recebidas, a direcção regional, se for caso disso, realizará, no prazo máximo de dez dias, as diligências complementares para apuramento dos factos que interessam à decisão.
+Art. 11.º Recebidas as respostas ou decorrido o prazo sem que estas hajam sido recebidas, a direcção regional, se for caso disso, realizará, no prazo máximo de dez dias, as diligências complementares para apuramento dos factos que interessam à decisão.
 
-###### Art. 12.º - 1 - Na comunicação referida no artigo 10.º a direcção regional convidará o reservatário a definir, se ainda o não tiver feito no requerimento a que se refere o artigo 7.º, no prazo de cinco dias, onde pretende a localização da reserva.
+Art. 12.º - 1 - Na comunicação referida no artigo 10.º a direcção regional convidará o reservatário a definir, se ainda o não tiver feito no requerimento a que se refere o artigo 7.º, no prazo de cinco dias, onde pretende a localização da reserva.
 
 2 - Na resposta o interessado deduzirá os fundamentos da sua pretensão, com os respectivos elementos de prova.
 
@@ -184,7 +219,7 @@ b) Pontuação ou área que lhes deve corresponder.
 
 4 - A comunicação aos trabalhadores prevista no número anterior deverá ser entregue em mão a um membro da comissão de trabalhadores, que dela passará recibo, ou, não a havendo, a qualquer deles, com a advertência de que a deverá transmitir aos restantes.
 
-###### Art. 13.º - 1 - No prazo de dez dias, a contar da data do aviso de recepção ou da entrega em mão referidos no artigo anterior, as empresas agrícolas explorantes e os trabalhadores permanentes podem manifestar a sua discordância sobre a demarcação pretendida, e aquelas podem indicar as suas necessidades em crédito bonificado, reclamar o valor das benfeitorias úteis e necessárias que hajam realizado na área da reserva em causa e dos frutos pendentes correspondentes a esta, apontar as zonas dos prédios rústicos pertencentes ao potencial reservatário onde não tenham efectuado investimentos, bem como invocar a inviabilidade económica da exploração causada pela demarcação pretendida.
+Art. 13.º - 1 - No prazo de dez dias, a contar da data do aviso de recepção ou da entrega em mão referidos no artigo anterior, as empresas agrícolas explorantes e os trabalhadores permanentes podem manifestar a sua discordância sobre a demarcação pretendida, e aquelas podem indicar as suas necessidades em crédito bonificado, reclamar o valor das benfeitorias úteis e necessárias que hajam realizado na área da reserva em causa e dos frutos pendentes correspondentes a esta, apontar as zonas dos prédios rústicos pertencentes ao potencial reservatário onde não tenham efectuado investimentos, bem como invocar a inviabilidade económica da exploração causada pela demarcação pretendida.
 
 2 - As empresas agrícolas que invoquem os factos referidos no número anterior devem juntar logo os documentos em que se baseiem e indicar quaisquer outros elementos de prova.
 
@@ -192,11 +227,11 @@ b) Pontuação ou área que lhes deve corresponder.
 
 4 - A direcção regional, após averiguações da verdade dos factos invocados, apreciará os mesmos factos elaborando um estudo técnico sobre a sua pertinência no prazo máximo de dez dias.
 
-###### Art. 14.º - 1 - Concluídas as diligências previstas nos artigos anteriores, a direcção regional elaborará proposta de demarcação da reserva, que o director regional, juntamente com o processo respectivo, remeterá ao IGEF no prazo máximo de quinze dias.
+Art. 14.º - 1 - Concluídas as diligências previstas nos artigos anteriores, a direcção regional elaborará proposta de demarcação da reserva, que o director regional, juntamente com o processo respectivo, remeterá ao IGEF no prazo máximo de quinze dias.
 
 2 - O IGEF elaborará a sua informação técnica e jurídica e, no prazo de dez dias, remetê-la-á, juntamente com o processo, ao Secretário de Estado da Estruturação Agrária, para despacho no prazo máximo de trinta dias.
 
-###### Art. 15.º - 1 - Devolvido o processo com a decisão final, a direcção regional notificará o reservatário, os titulares de direitos reais menores e arrendatários interessados na área de reserva, bem como as empresas agrícolas explorantes dessa área, para comparecerem no local respectivo a fim de se proceder à demarcação da reserva.
+Art. 15.º - 1 - Devolvido o processo com a decisão final, a direcção regional notificará o reservatário, os titulares de direitos reais menores e arrendatários interessados na área de reserva, bem como as empresas agrícolas explorantes dessa área, para comparecerem no local respectivo a fim de se proceder à demarcação da reserva.
 
 2 - A demarcação da reserva deverá efectuar-se, salvo impedimento justificado, no prazo máximo de quarenta e cinco dias contados a partir da data da remessa da informação do IGEF e do processo para despacho ministerial.
 
@@ -206,35 +241,35 @@ b) Pontuação ou área que lhes deve corresponder.
 
 5 - Da demarcação da reserva será elaborada acta, assinada pelos presentes ou, no caso de recusa destes ou de ausência dos interessados, pelo funcionário do Ministério da Agricultura e Pescas e duas testemunhas.
 
-###### Art. 16.º São essenciais as formalidades previstas no artigo 10.º, nos n.os 1, 3 e 4 do artigo 12.º e no artigo 15.º
+Art. 16.º São essenciais as formalidades previstas no artigo 10.º, nos n.os 1, 3 e 4 do artigo 12.º e no artigo 15.º
 
 ### CAPÍTULO III — Reservas relativas a prédios a expropriar
 
-###### Art. 17.º Por iniciativa própria, por indicação do IGEF, a pedido de um conselho regional de agricultura, ou a requerimento de qualquer interessado, as direcções regionais remeterão ao IGEF propostas de expropriação de prédios expropriáveis nos termos do artigo 23.º e seguintes da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
+Art. 17.º Por iniciativa própria, por indicação do IGEF, a pedido de um conselho regional de agricultura, ou a requerimento de qualquer interessado, as direcções regionais remeterão ao IGEF propostas de expropriação de prédios expropriáveis nos termos do artigo 23.º e seguintes da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
 
-###### Art. 18.º - 1 - O IGEF notificará os proprietários dos prédios a que se refere o artigo anterior para exercerem o respectivo direito de reserva no prazo de dez dias.
+Art. 18.º - 1 - O IGEF notificará os proprietários dos prédios a que se refere o artigo anterior para exercerem o respectivo direito de reserva no prazo de dez dias.
 
 2 - À notificação e ao requerimento aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 7.º e no artigo 8.º
 
-###### Art. 19.º Deverão seguir-se, com as necessárias adaptações, os trâmites estatuídos nos artigos 9.º a 16.º, com as necessárias adaptações.
+Art. 19.º Deverão seguir-se, com as necessárias adaptações, os trâmites estatuídos nos artigos 9.º a 16.º, com as necessárias adaptações.
 
-###### Art. 20.º O original da acta de demarcação da reserva será remetido à Secretaria de Estado da Estruturação Agrária, a fim de poder ser declarada a utilidade pública, para expropriação, da área não reservada dos prédios rústicos em causa.
+Art. 20.º O original da acta de demarcação da reserva será remetido à Secretaria de Estado da Estruturação Agrária, a fim de poder ser declarada a utilidade pública, para expropriação, da área não reservada dos prédios rústicos em causa.
 
-###### Art. 21.º O disposto neste capítulo aplica-se às expropriações previstas no n.º 1 do artigo 30.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, e, em geral, a todas as expropriações de áreas já reservadas.
+Art. 21.º O disposto neste capítulo aplica-se às expropriações previstas no n.º 1 do artigo 30.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, e, em geral, a todas as expropriações de áreas já reservadas.
 
 ### CAPÍTULO IV — Reservas já demarcadas
 
-###### Art. 22.º Nos processos de revisão das reservas previstos no artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, seguir-se-ão os termos dos capítulos I e II com as especialidades constantes dos artigos seguintes.
+Art. 22.º Nos processos de revisão das reservas previstos no artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, seguir-se-ão os termos dos capítulos I e II com as especialidades constantes dos artigos seguintes.
 
-###### Art. 23.º - 1 - Só terão seguimento os requerimentos que hajam dado entrada em qualquer serviço do Ministério da Agricultura e Pescas até 13 de Novembro de 1977, de acordo com o estipulado no n.º 1 do artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
+Art. 23.º - 1 - Só terão seguimento os requerimentos que hajam dado entrada em qualquer serviço do Ministério da Agricultura e Pescas até 13 de Novembro de 1977, de acordo com o estipulado no n.º 1 do artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
 
 2 - Os requerimentos que tenham dado ou dêem entrada depois da data referida no número anterior serão arquivados pela competente direcção regional, com comunicação aos requerentes.
 
-###### Art. 24.º - 1 - Os requerimentos que devam ter seguimento serão presentes para parecer, no prazo de vinte dias a contar da data da entrada em vigor deste diploma, ao conselho regional de agricultura em cujo âmbito se situe a reserva já demarcada.
+Art. 24.º - 1 - Os requerimentos que devam ter seguimento serão presentes para parecer, no prazo de vinte dias a contar da data da entrada em vigor deste diploma, ao conselho regional de agricultura em cujo âmbito se situe a reserva já demarcada.
 
 2 - Se o conselho regional de agricultura não estiver constituído, serão os requerimentos presentes, para o mesmo efeito, às associações de classe da respectiva área, relativas à agricultura.
 
-###### Art. 25.º - 1 - A decisão final revestirá a forma de portaria do Ministro da Agricultura e Pescas, se não der lugar à aplicação da substituição prevista no n.º 3 do artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
+Art. 25.º - 1 - A decisão final revestirá a forma de portaria do Ministro da Agricultura e Pescas, se não der lugar à aplicação da substituição prevista no n.º 3 do artigo 65.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
 
 2 - Quando for decidida a substituição, total ou parcial, será ouvido previamente o Ministro das Finanças e do Plano.
 
@@ -246,9 +281,9 @@ b) Pontuação ou área que lhes deve corresponder.
 
 ### CAPÍTULO V — Verificação da não expropriabilidade de prédios
 
-###### Art. 26.º Sempre que dos processos organizados nos termos dos capítulos II e III deva concluir-se pela não expropriabilidade de prédios rústicos à luz da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, seguir-se-á o disposto nos artigos seguintes.
+Art. 26.º Sempre que dos processos organizados nos termos dos capítulos II e III deva concluir-se pela não expropriabilidade de prédios rústicos à luz da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, seguir-se-á o disposto nos artigos seguintes.
 
-###### Art. 27.º - 1 - Se o prédio tiver sido expropriado, será revogada a correspondente portaria de expropriação mediante portaria do Ministro da Agricultura e Pescas.
+Art. 27.º - 1 - Se o prédio tiver sido expropriado, será revogada a correspondente portaria de expropriação mediante portaria do Ministro da Agricultura e Pescas.
 
 2 - A nova portaria é título suficiente de reversão e produz os seus efeitos trinta dias após a data da sua publicação.
 
@@ -258,41 +293,41 @@ b) Pontuação ou área que lhes deve corresponder.
 
 5 - À acta referida no número anterior aplica-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 15.º
 
-###### Art. 28.º Se o prédio não tiver sido expropriado, mas tiver sido ocupado, a decisão final declarará a sua não expropriabilidade, aplicando-se, com as necessárias adaptações, o disposto no artigo anterior.
+Art. 28.º Se o prédio não tiver sido expropriado, mas tiver sido ocupado, a decisão final declarará a sua não expropriabilidade, aplicando-se, com as necessárias adaptações, o disposto no artigo anterior.
 
 ### CAPÍTULO VI — Reservas relativas a prédios nacionalizados
 
-###### Art. 29.º As disposições dos capítulos I, II, IV e V são aplicáveis às reservas relativas a prédios rústicos nacionalizados.
+Art. 29.º As disposições dos capítulos I, II, IV e V são aplicáveis às reservas relativas a prédios rústicos nacionalizados.
 
 ### CAPÍTULO VII — Reservas de titulares de outros direitos
 
-###### Art. 30.º Aos direitos dos usufrutuários, superficiários, usuários ou rendeiros aplica-se o disposto nos capítulos anteriores com as necessárias adaptações e a especialidade constante do artigo seguinte.
+Art. 30.º Aos direitos dos usufrutuários, superficiários, usuários ou rendeiros aplica-se o disposto nos capítulos anteriores com as necessárias adaptações e a especialidade constante do artigo seguinte.
 
-###### Art. 31.º Salvo motivo ponderoso devidamente justificado, as reservas para salvaguarda dos direitos referidos no artigo anterior deverão ser demarcadas em sobreposição às reservas dos respectivos proprietários.
+Art. 31.º Salvo motivo ponderoso devidamente justificado, as reservas para salvaguarda dos direitos referidos no artigo anterior deverão ser demarcadas em sobreposição às reservas dos respectivos proprietários.
 
 ### CAPÍTULO VIII — Disposições gerais e transitórias
 
-###### Art. 32.º - 1 - Da proposta definitiva de pontuação ou área prevista no artigo 14.º e, por remissão, nos capítulos III, IV, VI e VII cabe recurso hierárquico directamente para o Ministro da Agricultura e Pescas e deste cabe recurso contencioso e de reapreciação do mérito.
+Art. 32.º - 1 - Da proposta definitiva de pontuação ou área prevista no artigo 14.º e, por remissão, nos capítulos III, IV, VI e VII cabe recurso hierárquico directamente para o Ministro da Agricultura e Pescas e deste cabe recurso contencioso e de reapreciação do mérito.
 
 2 - Todos os recursos previstos no número anterior têm efeito meramente devolutivo.
 
-###### Art. 33.º Da decisão final proferida nos processos regulados no presente decreto-lei cabe recurso contencioso, nos termos gerais do direito administrativo, e de reapreciação do mérito, nos termos do artigo 72.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
+Art. 33.º Da decisão final proferida nos processos regulados no presente decreto-lei cabe recurso contencioso, nos termos gerais do direito administrativo, e de reapreciação do mérito, nos termos do artigo 72.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro.
 
-###### Art. 34.º A competência ministerial prevista na lei e no presente decreto-lei relativa aos processos neste regulados será exercida pelo Secretário de Estado da Estruturação Agrária, salvo o poder de avocação ou de reserva em contrário do Ministro da Agricultura e Pescas e sem prejuízo das menções expressas em contrário do presente decreto-lei.
+Art. 34.º A competência ministerial prevista na lei e no presente decreto-lei relativa aos processos neste regulados será exercida pelo Secretário de Estado da Estruturação Agrária, salvo o poder de avocação ou de reserva em contrário do Ministro da Agricultura e Pescas e sem prejuízo das menções expressas em contrário do presente decreto-lei.
 
-###### Art. 35.º - 1 - Pela interposição de recurso hierárquico e pela emissão de certidões serão devidos emolumentos, cujo montante e forma de pagamento constarão de portaria do Ministro da Agricultura e Pescas.
+Art. 35.º - 1 - Pela interposição de recurso hierárquico e pela emissão de certidões serão devidos emolumentos, cujo montante e forma de pagamento constarão de portaria do Ministro da Agricultura e Pescas.
 
 2 - As receitas provenientes dos emolumentos reverterão para os fundos previstos na alínea b) do artigo 6.º do [Decreto Regulamentar n.º 45/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1977-250414), de 2 de Julho, em termos a definir na portaria prevista no número anterior.
 
 3 - Enquanto não entrar em vigor a portaria a que se refere o n.º 1, os actos nele previstos serão gratuitos.
 
-###### Art. 36.º - 1 - Os processos relativos a prédios não expropriáveis têm prioridade sobre todos os outros.
+Art. 36.º - 1 - Os processos relativos a prédios não expropriáveis têm prioridade sobre todos os outros.
 
 2 - Os processos pendentes da decisão final organizados com vista às finalidades reguladas no presente decreto-lei serão aproveitados, na fase em que se encontram, sem prejuízo do cumprimento das formalidades ora estatuídas, tendo prioridade sobre os restantes não contemplados no número anterior.
 
-###### Art. 37.º O modelo de alvará previsto no n.º 5 do artigo 38.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, será aprovado por portaria conjunta dos Ministros da Justiça e da Agricultura e Pescas, no prazo de trinta dias a contar da entrada em vigor do presente diploma.
+Art. 37.º O modelo de alvará previsto no n.º 5 do artigo 38.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, será aprovado por portaria conjunta dos Ministros da Justiça e da Agricultura e Pescas, no prazo de trinta dias a contar da entrada em vigor do presente diploma.
 
-###### Art. 38.º - 1 - Na organização e decisão dos processos, salvo motivo ponderoso em contrário, utilizar-se-á a seguinte escala de prioridade relativamente aos diversos titulares do direito de reserva:
+Art. 38.º - 1 - Na organização e decisão dos processos, salvo motivo ponderoso em contrário, utilizar-se-á a seguinte escala de prioridade relativamente aos diversos titulares do direito de reserva:
 
 a) Aos que tinham como profissão a de agricultores;
 
@@ -304,16 +339,16 @@ c) Aos não compreendidos nas alíneas anteriores.
 
 3 - Das regras estabelecidas nos números anteriores não resulta qualquer direito para os interessados na demarcação da reserva.
 
-###### Art. 39.º As dúvidas suscitadas pela interpretação e aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 39.º As dúvidas suscitadas pela interpretação e aplicação do presente decreto-lei serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
-###### Art. 40.º Ficam revogados os artigos 3.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, 4.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, 8.º e 14.º a 16.º do [Decreto-Lei n.º 493/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1976-431058), de 23 de Julho, e o [Decreto Regulamentar n.º 11/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1977-138490), de 3 de Fevereiro.
+Art. 40.º Ficam revogados os artigos 3.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, 4.º do [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, 8.º e 14.º a 16.º do [Decreto-Lei n.º 493/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1976-431058), de 23 de Julho, e o [Decreto Regulamentar n.º 11/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-1977-138490), de 3 de Fevereiro.
 
-###### Art. 41.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 41.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - José Dias dos Santos Pais - Luís Silvério Gonçalves Saias.
 
-**Promulgado em 14 de Abril de 1978.**
+Promulgado em 14 de Abril de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

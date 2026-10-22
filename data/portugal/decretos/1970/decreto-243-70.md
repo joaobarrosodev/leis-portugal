@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/243-1970-142484
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:12:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08160caea80c33a3587b1a012777ec548239e84ac9b4115708b60db24e9ff705
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a64c47320c3e4c50ea8db3d337c454be1c9cb0be39c1453c64feb4b884f61246
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:12:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253809:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:12:36Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +99,21 @@ Por motivo de urgência, nos termos do disposto no § 1.º do artigo 150.º da C
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São elevados para as importâncias que se indicam os quantitativos fixados nas seguintes disposições do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969:
+Artigo único. São elevados para as importâncias que se indicam os quantitativos fixados nas seguintes disposições do [Decreto n.º 49431](https://diariodarepublica.pt/dr/detalhe/decreto/49431-1969-253809), de 6 de Dezembro de 1969:
 
-###### Artigo 17.º, alínea a) ... 10945259$00
+Artigo 17.º, alínea a) ... 10945259$00
 
-###### Artigo 17.º, alínea b), n.º 3) ... 1887500$00
+Artigo 17.º, alínea b), n.º 3) ... 1887500$00
 
-###### Artigo 23.º, alínea a) ... 8896706$00
+Artigo 23.º, alínea a) ... 8896706$00
 
-###### Artigo 25.º, alínea a) ... 527345$00
+Artigo 25.º, alínea a) ... 527345$00
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Maio de 1970.**
+Promulgado em 11 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

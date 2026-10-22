@@ -50,40 +50,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1981-573759
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2003-11-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbeb69da1cd3ee108e91d2ca37d921c29a9817e2410c7aa24b9d5e490edc768c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2dfcd3f244c317e72523e37bdd3a00aa71081ac5587684632745a12bbff82d79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Justiça Militar
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Reintegração de Militares
+- Sanção Disciplinar
+- Sanção Militar
 relationships:
 - type: amended_by
   target: pt:dre:446475:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:446475:por
+  label: "Revogado a partir de 14 de Setembro de 2004 o Código de Justiça Militar, aprovado Dec Lei 141/77 de 09-Abr, com\
+    \ a redacção conferida pelo presente diploma, pela LEI.100/2003.15.11.2003.AR, DR.IS-A [265] de 15.11.2003, e remetidas\
+    \ para as disposições correspondentes do novo Código, aprovado por aquela lei, as remissões feitas ao Código anterior\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2003-446475
+  date: '2003-11-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:59Z'
   warnings: []
   errors: []
 ---
@@ -104,16 +119,16 @@ Face a estas considerações, considera-se de justiça determinar o regresso aos
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os oficiais dos quadros permanentes que depois de 25 de Abril de 1974 tivessem sido demitidos nos termos da segunda parte do § único do artigo 173.º do anterior Código de Justiça Militar, na redacção do Decreto n.º 33493, de 11 de Janeiro de 1944, e não tivessem, entretanto, sido condenados pelo crime de deserção ou outro que implique acessoriamente a sua demissão ou expulsão, serão reintegrados nos respectivos quadros à data em que fizeram ou venham a fazer a sua apresentação, seja esta voluntária ou por captura, desde que o requeiram no prazo de noventa dias a contar da entrada em vigor do presente diploma.
+Artigo 1.º Os oficiais dos quadros permanentes que depois de 25 de Abril de 1974 tivessem sido demitidos nos termos da segunda parte do § único do artigo 173.º do anterior Código de Justiça Militar, na redacção do Decreto n.º 33493, de 11 de Janeiro de 1944, e não tivessem, entretanto, sido condenados pelo crime de deserção ou outro que implique acessoriamente a sua demissão ou expulsão, serão reintegrados nos respectivos quadros à data em que fizeram ou venham a fazer a sua apresentação, seja esta voluntária ou por captura, desde que o requeiram no prazo de noventa dias a contar da entrada em vigor do presente diploma.
 
-###### Art. 2.º A reintegração prevista no artigo anterior far-se-á no posto que os desertores tinham à data em que foram demitidos e na situação de reserva.
+Art. 2.º A reintegração prevista no artigo anterior far-se-á no posto que os desertores tinham à data em que foram demitidos e na situação de reserva.
 
-###### Art. 3.º O presente diploma entra em vigor na data da sua publicação.
+Art. 3.º O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho da Revolução em 5 de Maio de 1981.
 
-**Promulgado em 5 de Maio de 1981.**
+Promulgado em 5 de Maio de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26000/25372540.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8ab915d5bd62da0235eaa238c3785073d5c4336a129191490fa1d9e76d29c72
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eac9b13184f98e27c11f4a564cfa1eb271d26a75cb4aaa8e8fcd1ad6c7e2b33e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Construção Clandestina
+- Expropriação
+- Habitação
+- Indemnização
+- Licenciamento de Obras
+- Loteamento Urbano
+- Ordenamento do Território
+- Projeto
+- Urbanização
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140291:por
+  label: "Alterados os artigos 3.º, 4.º, 5.º, 6.º e 16.º pelo DEC LEI.90/77.09.03.1977.MHUC, DR.IS [57] de 09.03.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-1977-140291
+  date: '1977-03-09'
+- type: cites
+  target: pt:dre:409292:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643320:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:19Z'
   warnings: []
   errors: []
 ---
@@ -108,13 +139,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Consideram-se áreas de construção clandestina aquelas em que se verifique acentuada percentagem de construções efectuadas sem licença legalmente exigida, incluindo as realizadas em terrenos loteados sem a competente licença.
+Artigo 1.º - 1. Consideram-se áreas de construção clandestina aquelas em que se verifique acentuada percentagem de construções efectuadas sem licença legalmente exigida, incluindo as realizadas em terrenos loteados sem a competente licença.
 
 2. As áreas de construção clandestina poderão, consoante as circunstâncias, ser objecto de medidas tendentes à legalização das mesmas, à sua manutenção temporária ou à sua imediata ou próxima demolição.
 
 3. As medidas previstas no número anterior poderão ser aplicadas conjuntamente dentro da mesma área se esta apresentar zonas com diferentes condições.
 
-###### Art. 2.º - 1. Deverá procurar-se a legalização, em princípio, quando se verifiquem cumulativamente os seguintes requisitos:
+Art. 2.º - 1. Deverá procurar-se a legalização, em princípio, quando se verifiquem cumulativamente os seguintes requisitos:
 
 a) Ser aceitável, sob o aspecto de ordenamento do território, a ocupação da área para fins habitacionais;
 
@@ -128,7 +159,7 @@ c) Serem aceitáveis, em significativa percentagem no conjunto da área, as cons
 
 4. Na decisão sobre a legalização ter-se-á em especial atenção o número de construções existentes e a situação económico-social da generalidade das populações das áreas, de modo a conceder-se especial protecção aos agregados familiares de menores recursos económicos.
 
-###### Art. 3.º - 1. Deverá procurar assegurar-se, em princípio, a manutenção temporária da área, desde que:
+Art. 3.º - 1. Deverá procurar assegurar-se, em princípio, a manutenção temporária da área, desde que:
 
 a) A sua ocupação, para fins habitacionais, seja aceitável sob o aspecto de ordenamento do território;
 
@@ -138,11 +169,11 @@ c) A manutenção das construções existentes e da sua ocupação não apresent
 
 2. É aplicável às decisões sobre manutenção temporária de áreas clandestinas o princípio estabelecido no n.º 4 do artigo anterior.
 
-###### Art. 4.º Deverá decidir-se a demolição das construções clandestinas da área sempre que se verifique qualquer das circunstâncias referidas no artigo anterior.
+Art. 4.º Deverá decidir-se a demolição das construções clandestinas da área sempre que se verifique qualquer das circunstâncias referidas no artigo anterior.
 
-###### Art. 5.º Uma vez verificada pelos serviços competentes da Administração, numa zona de construção clandestina, aplicar-se-á o disposto no capítulo XI do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, com as necessárias adaptações.
+Art. 5.º Uma vez verificada pelos serviços competentes da Administração, numa zona de construção clandestina, aplicar-se-á o disposto no capítulo XI do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, com as necessárias adaptações.
 
-###### Art. 6.º - 1. Quando após os adequados estudos preliminares se presuma ser aceitável a legalização de uma área de construção clandestina, deve a Administração preparar um projecto para a urbanização ou reconversão da mesma, no qual serão previstos, além do mais que seja conveniente:
+Art. 6.º - 1. Quando após os adequados estudos preliminares se presuma ser aceitável a legalização de uma área de construção clandestina, deve a Administração preparar um projecto para a urbanização ou reconversão da mesma, no qual serão previstos, além do mais que seja conveniente:
 
 a) O equipamento social e as infra-estruturas a instalar ou melhorar e o volume das despesas a realizar para esse efeito;
 
@@ -156,7 +187,7 @@ d) A comparticipação a assumir pelas pessoas a que se refere o n.º 3 do prese
 
 3. O reordenamento dos lotes referidos na alínea b) do n.º 1 deverá ser proporcional, em princípio, às respectivas superfícies, procurando-se salvaguardar, porém, não só as construções existentes que se possam manter, mas também os lotes que, pelas suas mais reduzidas áreas, não sejam susceptíveis de correspondente redução sem prejuízo da edificabilidade.
 
-###### Art. 7.º - 1. O projecto a que se refere o artigo anterior poderá prever:
+Art. 7.º - 1. O projecto a que se refere o artigo anterior poderá prever:
 
 a) O pagamento em prestações das comparticipações contempladas nas alíneas c) e d) do n.º 1 do mesmo artigo;
 
@@ -168,17 +199,17 @@ c) A realização pela Administração, embora através de empreitada, das obras
 
 3. Os empréstimos previstos na alínea b) do n.º 1 e a responsabilidade pelos pagamentos previstos na alínea c) do mesmo preceito serão objecto de garantia adequada.
 
-###### Art. 8.º - 1. O projecto poderá prever que os terrenos da área passem a pertencer à Administração em propriedade, ficando os possuidores dos lotes ou construções exclusivamente com direito de superfície.
+Art. 8.º - 1. O projecto poderá prever que os terrenos da área passem a pertencer à Administração em propriedade, ficando os possuidores dos lotes ou construções exclusivamente com direito de superfície.
 
 2. Será obrigatório este regime para as áreas de construção clandestina que constituam novos aglomerados urbanos ou expansão de aglomerados sujeitos ao disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 9.º Elaborado o projecto para a legalização de uma área de construção clandestina, a Administração deverá procurar obter a concordância dos proprietários e possuidores dos terrenos e construções abrangidos pelo projecto para a respectiva execução, designadamente quanto aos seguintes aspectos:
+Art. 9.º Elaborado o projecto para a legalização de uma área de construção clandestina, a Administração deverá procurar obter a concordância dos proprietários e possuidores dos terrenos e construções abrangidos pelo projecto para a respectiva execução, designadamente quanto aos seguintes aspectos:
 
 a) Reordenamento dos lotes;
 
 b) Pagamento das comparticipações a que se referem as alíneas c) e d) do n.º 1 do artigo 6.º
 
-###### Art. 10.º - 1. Se for obtido o acordo de parte significativa dos interessados, em termos de se mostrar viável a execução do projecto, tal como foi elaborado ou com modificações por aqueles sugeridas e aceites pela Administração, deverá proceder-se, com as devidas adaptações, nos termos do capítulo V do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e expropriar-se por utilidade pública os terrenos e construções dos restantes.
+Art. 10.º - 1. Se for obtido o acordo de parte significativa dos interessados, em termos de se mostrar viável a execução do projecto, tal como foi elaborado ou com modificações por aqueles sugeridas e aceites pela Administração, deverá proceder-se, com as devidas adaptações, nos termos do capítulo V do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e expropriar-se por utilidade pública os terrenos e construções dos restantes.
 
 2. As indemnizações pela expropriação de terrenos serão arbitradas nos termos do artigo 3.º do Código das Expropriações, deduzida a quota proporcional das despesas prováveis a realizar com as infra-estruturas se o expropriado tiver loteado clandestinamente o terreno.
 
@@ -188,7 +219,7 @@ b) Pagamento das comparticipações a que se referem as alíneas c) e d) do n.º
 
 5. Se as construções não puderem ser mantidas, proceder-se-á à respectiva demolição, observando-se, com as devidas adaptações, o disposto sobre demolição de edifícios em zonas críticas de recuperação e reconversão urbanísticas no capítulo XI do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
 
-###### Art. 11.º - 1. Quando se não mostre viável a execução do projecto de legalização de uma área de construção clandestina através da associação com os interessados, poderá a Administração optar:
+Art. 11.º - 1. Quando se não mostre viável a execução do projecto de legalização de uma área de construção clandestina através da associação com os interessados, poderá a Administração optar:
 
 a) Pela manutenção temporária da área, nos termos do artigo seguinte;
 
@@ -198,11 +229,11 @@ c) Pela demolição de todas as construções clandestinas.
 
 2. É aplicável às indemnizações pela expropriação e à demolição das construções o disposto nos n.os 2 a 5 do artigo anterior.
 
-###### Art. 12.º - 1. Quando, após os adequados estudos preliminares, se considerar que uma área de construção clandestina pode ser mantida temporariamente, deverá ser a mesma delimitada nos termos do artigo 5.º
+Art. 12.º - 1. Quando, após os adequados estudos preliminares, se considerar que uma área de construção clandestina pode ser mantida temporariamente, deverá ser a mesma delimitada nos termos do artigo 5.º
 
 2. Logo que se torne desaconselhável o prolongamento da manutenção da área de construção clandestina, por-se-á fim à ocupação da mesma, promovendo-se a demolição das construções nela existentes e expropriando-se, se for necessário, os respectivos terrenos.
 
-###### Art. 13.º - 1. Nas expropriações de imóveis situados em áreas de construção clandestina, como tais identificadas pelo expropriante, consideram-se sempre como interessados, além dos demais, os respectivos possuidores.
+Art. 13.º - 1. Nas expropriações de imóveis situados em áreas de construção clandestina, como tais identificadas pelo expropriante, consideram-se sempre como interessados, além dos demais, os respectivos possuidores.
 
 2. Os referidos possuidores deverão ser identificados pelo expropriante.
 
@@ -212,15 +243,15 @@ c) Pela demolição de todas as construções clandestinas.
 
 5. Se a questão se mostrar de complexa indagação, a entrega da indemnização aguardará o esclarecimento do facto através dos meios judiciais comuns.
 
-###### Art. 14.º - 1. A Administração, sempre que tal lhe for possível, deverá facultar aos possuidores de lotes ou construções situadas em áreas de construção clandestina e destinados à habitação do possuidor ou do respectivo agregado familiar, que não sejam susceptíveis de legalização, lotes, em propriedade ou em direito de superfície, destinados ao mesmo fim.
+Art. 14.º - 1. A Administração, sempre que tal lhe for possível, deverá facultar aos possuidores de lotes ou construções situadas em áreas de construção clandestina e destinados à habitação do possuidor ou do respectivo agregado familiar, que não sejam susceptíveis de legalização, lotes, em propriedade ou em direito de superfície, destinados ao mesmo fim.
 
 2. Os lotes deverão ser cedidos em direito de superfície nos casos previstos no n.º 2 do artigo 8.º
 
 3. Quando os terrenos disponíveis pela Administração não sejam suficientes para satisfazer todos os interessados será dada preferência àqueles cujas construções sejam prioritariamente demolidas e cujos agregados familiares tenham menos recursos económicos.
 
-###### Art. 15.º A Administração poderá conceder aos possuidores de lotes ou construções situados em áreas de construção clandestina e destinados a habitação própria ou do respectivo agregado familiar, que não sejam susceptíveis de legalização, empréstimos ou subsídios não reembolsáveis, quando, em virtude das suas precárias condições económicas e das circunstâncias em que se tenha verificado a aquisição do lote, a privação do terreno ou a demolição da construção constituam um prejuízo incomportável para a economia do agregado familiar.
+Art. 15.º A Administração poderá conceder aos possuidores de lotes ou construções situados em áreas de construção clandestina e destinados a habitação própria ou do respectivo agregado familiar, que não sejam susceptíveis de legalização, empréstimos ou subsídios não reembolsáveis, quando, em virtude das suas precárias condições económicas e das circunstâncias em que se tenha verificado a aquisição do lote, a privação do terreno ou a demolição da construção constituam um prejuízo incomportável para a economia do agregado familiar.
 
-###### Art. 16.º - 1. Os proprietários ou possuidores de terrenos que, directamente ou através de outras pessoas, tenham procedido ao respectivo loteamento sem a competente licença e, embora por negócio juridicamente inválido, hajam cedido lotes ou permitido a sua utilização para construção são obrigados a indemnizar a Administração pelas despesas que esta tenha de suportar cem a instalação ou o melhoramento das infra-estruturas que sejam necessárias para suprimir as carências ou insuficiências resultantes dos loteamentos clandestinos e das construções a que estes deram causa ou tornaram possíveis.
+Art. 16.º - 1. Os proprietários ou possuidores de terrenos que, directamente ou através de outras pessoas, tenham procedido ao respectivo loteamento sem a competente licença e, embora por negócio juridicamente inválido, hajam cedido lotes ou permitido a sua utilização para construção são obrigados a indemnizar a Administração pelas despesas que esta tenha de suportar cem a instalação ou o melhoramento das infra-estruturas que sejam necessárias para suprimir as carências ou insuficiências resultantes dos loteamentos clandestinos e das construções a que estes deram causa ou tornaram possíveis.
 
 2. As indemnizações serão fixadas tendo em conta, designadamente, em relação a cada responsável:
 
@@ -234,14 +265,14 @@ b) Os lucros por ele obtidos.
 
 5. Na falta de acordo sobre a existência de responsabilidade e os quantitativos das indemnizações, a Administração exercerá os seus direitos através dos meios ordinários, no tribunal comum.
 
-###### Art. 17.º Não são susceptíveis de legalização as áreas que tenham sido objecto de loteamento clandestino ou de cedência para construção em fraude à exigência legal de licença de loteamento depois da entrada em vigor do [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril.
+Art. 17.º Não são susceptíveis de legalização as áreas que tenham sido objecto de loteamento clandestino ou de cedência para construção em fraude à exigência legal de licença de loteamento depois da entrada em vigor do [Decreto-Lei n.º 275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), de 13 de Abril.
 
-###### Art. 18.º Fica revogado o [Decreto-Lei n.º 278/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1971-643320), de 23 de Junho.
+Art. 18.º Fica revogado o [Decreto-Lei n.º 278/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1971-643320), de 23 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 22 de Outubro de 1976.**
+Promulgado em 22 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

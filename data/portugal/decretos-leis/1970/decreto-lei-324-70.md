@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1970-140331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:14:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b3d55a03773a98918f62f7bbd43c99f6beb68ad54be224d5b0a7d8fbd63bd51
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62934fca844cada7a67b6fab3bf81eee3e8733d570e18730aa9467619ee890d5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:14:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Direcção Geral da Previdência e Habitações Económicas
+- Extinção de Lugares
+- Formas de Provimento
+- Instituto Nacional do Trabalho e Previdência
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:676456:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:676456:por
+  label: "Alterados os quadros a que se referem o nº 1 do art. 5º e o art. 4º, e dada nova redacção aos nºs 4 e 6 do art.\
+    \ 6º pelo DEC LEI.320/72.18.08.1972.MCPS, DG.IS [192] de 18.08.1972\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1972-676456
+  date: '1972-08-18'
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:14:16Z'
   warnings: []
   errors: []
 ---
@@ -97,13 +119,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São criadas na Direcção-Geral da Previdência e Habitações Económicas a 4.ª Repartição e a 10.ª, 11.ª e 12.ª Secções, dependentes da Direcção dos Serviços da Previdência Social.
+Artigo 1.º - 1. São criadas na Direcção-Geral da Previdência e Habitações Económicas a 4.ª Repartição e a 10.ª, 11.ª e 12.ª Secções, dependentes da Direcção dos Serviços da Previdência Social.
 
 2. A actual 1.ª Repartição da Direcção dos Serviços referida no número anterior, além da 2.ª, 3.ª e 7.ª Secções, passa a abranger também a 11.ª e a 12.ª Secções.
 
 3. Na 4.ª Repartição, agora criada, são integradas a 1.ª, a 6.ª e a 10.ª Secções.
 
-###### Art. 2.º - 1. À 1.ª Repartição compete o estudo e o expediente dos assuntos relativos a instituições de previdência dependentes do Ministério, discriminados nos números seguintes, com referência às respectivas secções.
+Art. 2.º - 1. À 1.ª Repartição compete o estudo e o expediente dos assuntos relativos a instituições de previdência dependentes do Ministério, discriminados nos números seguintes, com referência às respectivas secções.
 
 2. A 2.ª Secção compreende:
 
@@ -137,7 +159,7 @@ a) Expediente geral;
 
 b) Registo e arquivo.
 
-###### Art. 3.º - 1. À 4.ª Repartição compete o estudo e expediente dos assuntos discriminados nos números seguintes, com referência às respectivas secções.
+Art. 3.º - 1. À 4.ª Repartição compete o estudo e expediente dos assuntos discriminados nos números seguintes, com referência às respectivas secções.
 
 2. A 1.ª Secção compreende as questões relativas às caixas sindicais de previdência, com excepção das caixas de seguros, e às caixas de reforma ou de previdência, designadamente:
 
@@ -163,15 +185,15 @@ a) Questões relativas ao regime jurídico das associações de socorros mútuos
 
 b) Assuntos respeitantes às caixas de seguros e instituições de previdência especiais.
 
-###### Art. 4.º - 1. O Serviço do Contencioso e Notariado passa a ser chefiado por um funcionário com a categoria de chefe de divisão, coadjuvado por dois técnicos de 2.ª classe licenciados em Direito, que funcionarão como assessores.
+Art. 4.º - 1. O Serviço do Contencioso e Notariado passa a ser chefiado por um funcionário com a categoria de chefe de divisão, coadjuvado por dois técnicos de 2.ª classe licenciados em Direito, que funcionarão como assessores.
 
 2. O Serviço referido no número anterior continuará a depender directamente do director-geral da Previdência e Habitações Económicas.
 
-###### Art. 5.º - 1. Junto do director-geral da Previdência e Habitações Económicas funcionará um núcleo de técnicos composto por um técnico especialista, dois técnicos de 1.ª classe, três de 2.ª classe e quatro de 3.ª classe.
+Art. 5.º - 1. Junto do director-geral da Previdência e Habitações Económicas funcionará um núcleo de técnicos composto por um técnico especialista, dois técnicos de 1.ª classe, três de 2.ª classe e quatro de 3.ª classe.
 
 2. Ao núcleo de técnicos referido no número anterior incumbe proceder aos estudos de natureza jurídica e administrativa que interessem à resolução de problemas de previdência social e de habitação económica.
 
-###### Art. 6.º - 1. Os lugares de chefe da 4.ª Repartição e de chefe de divisão do Serviço do Contencioso e Notariado serão providos, por escolha, por indivíduos do quadro do Ministério ou estranhos a ele, com a licenciatura em Direito.
+Art. 6.º - 1. Os lugares de chefe da 4.ª Repartição e de chefe de divisão do Serviço do Contencioso e Notariado serão providos, por escolha, por indivíduos do quadro do Ministério ou estranhos a ele, com a licenciatura em Direito.
 
 2. Os lugares de chefes das secções criadas pelo presente diploma serão providos por indivíduos que satisfaçam as condições gerais fixadas para a admissão nesta categoria nos quadros do Ministério.
 
@@ -183,21 +205,21 @@ b) Assuntos respeitantes às caixas de seguros e instituições de previdência 
 
 6. O lugar de técnico especialista previsto no n.º 1 do artigo 5.º será provido por promoção entre os técnicos de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço.
 
-###### Art. 7.º O primeiro provimento dos lugares de técnicos de 1.ª e 2.ª classes será feito directamente, sem dependência do tempo de serviço prestado em categoria inferior, entre licenciados com curso superior adequado ao exercício das respectivas funções que já sejam funcionários dos quadros com boa informação de serviço.
+Art. 7.º O primeiro provimento dos lugares de técnicos de 1.ª e 2.ª classes será feito directamente, sem dependência do tempo de serviço prestado em categoria inferior, entre licenciados com curso superior adequado ao exercício das respectivas funções que já sejam funcionários dos quadros com boa informação de serviço.
 
-###### Art. 8.º - 1. As nomeações para os lugares do quadro referidos nos artigos 1.º, 4.º e 5.º terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
+Art. 8.º - 1. As nomeações para os lugares do quadro referidos nos artigos 1.º, 4.º e 5.º terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver dado provas de aptidão para o lugar, ou exonerado, no caso contrário.
 
 2. Se o funcionário já tiver provimento definitivo noutro lugar, manterá o direito ao mesmo durante o prazo de nomeação provisória, que, nesse caso, será reduzido a um ano; entretanto, poderá aquele lugar ser provido interinamente.
 
 3. A primeira nomeação para os lugares do quadro a que se refere o n.º 1 poderá ser definitiva e feita mediante relação nominal a publicar no Diário do Governo, sem dependência de quaisquer formalidades, incluindo o visto do Tribunal de Contas e posse. Os provimentos estabelecidos nessa relação e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir do início do mês seguinte ao da sua publicação.
 
-###### Art. 9.º - 1. O aumento de encargos resultantes do disposto neste diploma será suportado pelo Fundo Nacional do Abono de Família.
+Art. 9.º - 1. O aumento de encargos resultantes do disposto neste diploma será suportado pelo Fundo Nacional do Abono de Família.
 
 2. Os encargos com as remunerações serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo Nacional do Abono de Família, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
 
 3. O número e os vencimentos dos lugares referidos nos artigos anteriores serão os constantes do mapa anexo a este diploma.
 
-###### Art. 10.º - 1. É extinto, na data da publicação no Diário do Governo da relação nominal a que se refere o artigo 8.º, um lugar de chefe de secção do quadro da Direcção-Geral da Previdência e Habitações Económicas que estava afecto ao Serviço do Contencioso.
+Art. 10.º - 1. É extinto, na data da publicação no Diário do Governo da relação nominal a que se refere o artigo 8.º, um lugar de chefe de secção do quadro da Direcção-Geral da Previdência e Habitações Económicas que estava afecto ao Serviço do Contencioso.
 
 2. A partir da entrada em vigor do presente diploma, consideram-se revogados:
 
@@ -207,18 +229,18 @@ b) Os artigos 48.º, 49.º e 50.º do Regulamento referido na alínea anterior.
 
 3. Considera-se alterado o § único do artigo 16.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, na parte em que contraria o disposto no presente diploma.
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 1 de Julho de 1970.**
+Promulgado em 1 de Julho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa do pessoal a que se refere o n.º 3 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/07/16000/09170918.pdf))](https://files.diariodarepublica.pt/1s/1970/07/16000/09170918.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/07/16000/09170918.pdf)
 
 Ministério das Corporações e Previdência Social, 1 de Julho de 1970. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/53-1970-227667
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e74b08166f4a1ec7115eb342f59d199ff4932aa52cfced8bb721ade670d3c7ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0bcc8a02b650187b4d0e5f705eaedf4056bd226d21be56a214a672ec54cf2b9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:02Z'
   warnings: []
   errors: []
 ---
@@ -93,21 +109,21 @@ Com parecer favorável do Conselho de Ministros para os Assuntos Económicos, no
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a constituição na província de Moçambique de uma sociedade por quotas de responsabilidade limitada, com sede na cidade da Beira; que adoptará a denominação de Casa Bancária de Moçambique, Lda., devendo esta instituição de crédito satisfazer as condições constantes dos artigos subsequentes.
+Artigo 1.º É autorizada a constituição na província de Moçambique de uma sociedade por quotas de responsabilidade limitada, com sede na cidade da Beira; que adoptará a denominação de Casa Bancária de Moçambique, Lda., devendo esta instituição de crédito satisfazer as condições constantes dos artigos subsequentes.
 
-###### Art. 2.º - 1. O capital social de constituição da Casa Bancária de Moçambique, Lda., será de 50000000$00.
+Art. 2.º - 1. O capital social de constituição da Casa Bancária de Moçambique, Lda., será de 50000000$00.
 
 2. No acto de constituição, a sociedade depositará, pelo menos, 50 por cento do valor do seu capital social no Banco Nacional Ultramarino em Moçambique.
 
-###### Art. 3.º - 1. O exercício do comércio de câmbios na província pela Casa Bancária de Moçambique, Lda., fica condicionada ao cumprimento do disposto no artigo 11.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, com a nova redacção que lhe foi dada pelo artigo 50 do [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 11 de Outubro de 1969.
+Art. 3.º - 1. O exercício do comércio de câmbios na província pela Casa Bancária de Moçambique, Lda., fica condicionada ao cumprimento do disposto no artigo 11.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, com a nova redacção que lhe foi dada pelo artigo 50 do [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 11 de Outubro de 1969.
 
 2. A autorização concedida ao sócio Carlos Abel de Sousa e Brito para o exercício do comércio de câmbios considera-se cancelada logo que, constituída a Casa Bancária de Moçambique, Lda., a mesma esteja em condições legais de exercer aquela actividade.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Fevereiro de 1970.**
+Promulgado em 3 de Fevereiro de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Fevereiro de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

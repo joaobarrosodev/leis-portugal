@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/08/19100/20142020.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1977-256209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2006-10-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:05:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 563962e277f562b46f73afb2fd50051076f2df171b9875b23bf558e5df8dcb30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14398e47d5cfd194a37185031c1fb53b878013938ea193138a3a870e99cacb04
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:05:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ifadap
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:545637:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447691:por
+  label: "Alterado pela LEI.14/78.1978.03.23.AR, DR.IS [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/14-1978-447691
+  date: '1978-03-23'
+- type: amended_by
+  target: pt:dre:442169:por
+  label: "Alterados os art.s 3º, 14º, 15º, 16º, 18º, 22º, 24º, 25º, 28º, 31º, 34º e 41º do Estatuto, pelo DEC LEI.359/83.13.09.1983.MAFA,\
+    \ DR.IS [211] de 13.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/359-1983-442169
+  date: '1983-09-13'
+- type: amended_by
+  target: pt:dre:550395:por
+  label: "Alterado o art. 26º e revogado o art. 37º do Estatuto, pelo DEC LEI.430/89.15.12.1989.MF, DR.IS [287] de 15.12.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/430-1989-550395
+  date: '1989-12-15'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ": REVOGADO O ARTIGO 37 DO ESTATUTO DO IFADAP, DO DECRETO LEI NUMERO 430/89, PUBLICADO NO DIARIO DA REPUBLICA, I\
+    \ SERIE, NUMERO 287, DE 15/12/89. ALTERADO PELA LEI NUMERO 14/78, PUBLICADA NO DIARIO DA REPUBLICA, I SERIE, NUMERO 69,\
+    \ DE 23/3/78. REVOGADO PELO DECRETO LEI 414/93, DE 23 DE DEZEMBRO, PUBLICADO NO DR.IS-A, 298, DE 931223.\031223.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1993-12-23'
+- type: amended_by
+  target: pt:dre:545637:por
+  label: "Extinto, sendo objecto de fusão, o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas,\
+    \ cujos estatutos foram aprovados pelo Dec Lei 414/93, de 23-Dez, sendo as suas atribuições integradas no Instituto de\
+    \ Financiamento da Agricultura e Pescas, I.P., na Inspecção-Geral da Agricultura e Pescas e no Gabinete de Planeamento\
+    \ e Políticas (nos termos da al. f) do nº 2 do art. 21º), pelo DEC LEI.209/2006.27.10.2006.MADRP, DR.IS [208] de 27.10.2006\0\
+    6\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2006-545637
+  date: '2006-10-27'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:05:19Z'
   warnings: []
   errors: []
 ---
@@ -132,7 +167,7 @@ Paralelamente, deverá tal instituição prestar estreita colaboração ao Minis
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É criado junto do Banco de Portugal o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), pessoa colectiva de direito público dotada de autonomia administrativa e financeira e de património próprio, cujo estatuto é anexo ao presente decreto-lei e dele constitui parte integrante.
+Artigo 1.º - 1. É criado junto do Banco de Portugal o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), pessoa colectiva de direito público dotada de autonomia administrativa e financeira e de património próprio, cujo estatuto é anexo ao presente decreto-lei e dele constitui parte integrante.
 
 2. O Banco acompanhará a gestão e o funcionamento do Instituto, nos termos das disposições do referido estatuto e demais legislação aplicável.
 
@@ -142,23 +177,23 @@ a) Na apreciação das operações de apoio financeiro directo ou indirecto às 
 
 b) Na definição dos tipos e normas técnicas de operações que, de acordo com a política daquele Ministério, devam merecer prioridade na distribuição de crédito ao sector primário.
 
-###### Art. 2.º - 1. O Governo, pelos Ministérios das Finanças e da Agricultura e Pescas, procederá, com a maior brevidade possível, à revisão das disposições reguladoras das operações de crédito, incluindo as do chamado crédito agrícola de emergência e de outras formas de apoio financeiro ao desenvolvimento e melhoria das condições de actividade dos mencionados sectores, ponderando devidamente a coexistência, nos ditos sectores, de empresas privadas, cooperativas e públicas.
+Art. 2.º - 1. O Governo, pelos Ministérios das Finanças e da Agricultura e Pescas, procederá, com a maior brevidade possível, à revisão das disposições reguladoras das operações de crédito, incluindo as do chamado crédito agrícola de emergência e de outras formas de apoio financeiro ao desenvolvimento e melhoria das condições de actividade dos mencionados sectores, ponderando devidamente a coexistência, nos ditos sectores, de empresas privadas, cooperativas e públicas.
 
 2. Nos dispositivos legais a promulgar em conformidade com o número precedente ter-se-á em atenção, especialmente, o objectivo de apoiar, por meios apropriados, as cooperativas agrícolas e outras modalidades de associativismo agrícola, como agricultura de grupo, as pequenas e as médias explorações agrárias individuais e as cooperativas ou outras associações de pescadores.
 
-###### Art. 3.º O disposto no presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+Art. 3.º O disposto no presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 ESTATUTO DO INSTITUTO FINANCEIRO DE APOIO AO DESENVOLVIMENTO DA AGRICULTURA E PESCAS
 
 ### CAPÍTULO I — Da natureza, objecto e fins do Instituto
 
-###### Artigo 1.º - 1. O Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), adiante designado abreviadamente por Instituto, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira e de património próprio, funcionando junto do Banco de Portugal.
+Artigo 1.º - 1. O Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), adiante designado abreviadamente por Instituto, é uma pessoa colectiva de direito público, dotada de personalidade jurídica e de autonomia administrativa e financeira e de património próprio, funcionando junto do Banco de Portugal.
 
 2. O Instituto rege-se pelo estabelecido no presente Estatuto, no seu regulamento e demais legislação aplicável, bem como pelas instruções de ordem técnica que, para seu cumprimento, forem emitidas pelo Banco de Portugal.
 
-###### Art. 2.º O Instituto tem sede em Lisboa, competindo ao Banco de Portugal acompanhar a sua gestão.
+Art. 2.º O Instituto tem sede em Lisboa, competindo ao Banco de Portugal acompanhar a sua gestão.
 
-###### Art. 3.º - 1. O Instituto tem por objectivos fundamentais contribuir para o desenvolvimento e melhoria das condições, orgânicas e funcionais, da actividade dos sectores da agricultura, silvicultura, pecuária e pesca, mediante as seguintes operações:
+Art. 3.º - 1. O Instituto tem por objectivos fundamentais contribuir para o desenvolvimento e melhoria das condições, orgânicas e funcionais, da actividade dos sectores da agricultura, silvicultura, pecuária e pesca, mediante as seguintes operações:
 
 a) Refinanciamento de operações de crédito agrícola e piscatória, a curto, a médio ou a longo prazo, realizadas pelas instituições de crédito;
 
@@ -178,35 +213,35 @@ c) Caracterizar as operações que deverão ser submetidas a compromisso prévio
 
 d) Assegurar ou propor às instâncias adequadas as correspondentes acções de formação profissional permanente do sistema bancário.
 
-###### Art. 4.º Nos objectivos do Instituto compreende-se ainda a realização de operações no domínio dos mercados monetário e financeiro directamente relacionadas com a sua actividade.
+Art. 4.º Nos objectivos do Instituto compreende-se ainda a realização de operações no domínio dos mercados monetário e financeiro directamente relacionadas com a sua actividade.
 
 ### CAPÍTULO II — Do capital e outros recursos do Instituto
 
-###### Art. 5.º O Instituto disporá de um capital inicial de 1 milhão de contos.
+Art. 5.º O Instituto disporá de um capital inicial de 1 milhão de contos.
 
-###### Art. 6.º - 1. O Instituto emitirá 1000 títulos de participação de valor nominal de 1000 contos cada um, em representação do seu capital.
+Art. 6.º - 1. O Instituto emitirá 1000 títulos de participação de valor nominal de 1000 contos cada um, em representação do seu capital.
 
 2. Os títulos de participação no capital do Instituto beneficiarão de todos os privilégios, garantias e isenções concedidos aos títulos da dívida pública.
 
-###### Art. 7.º Os títulos de participação referidos no artigo anterior serão sempre nominativos e o seu averbamento somente poderá fazer-se a favor do Banco de Portugal e das demais instituições de crédito que exerçam a sua actividade em território nacional.
+Art. 7.º Os títulos de participação referidos no artigo anterior serão sempre nominativos e o seu averbamento somente poderá fazer-se a favor do Banco de Portugal e das demais instituições de crédito que exerçam a sua actividade em território nacional.
 
-###### Art. 8.º - 1. Os títulos de participação são transmissíveis por todos os modos admitidos em direito, mas a transmissão só produzirá efeitos relativamente ao Instituto e a terceiros desde a data do respectivo averbamento.
+Art. 8.º - 1. Os títulos de participação são transmissíveis por todos os modos admitidos em direito, mas a transmissão só produzirá efeitos relativamente ao Instituto e a terceiros desde a data do respectivo averbamento.
 
 2. As transmissões a título oneroso serão sempre efectuadas pelo valor nominal dos títulos transmitidos.
 
-###### Art. 9.º Mediante a utilização do fundo de reserva que for constituído nos termos do artigo 11.º, o Instituto poderá resgatar os mencionados títulos de participação.
+Art. 9.º Mediante a utilização do fundo de reserva que for constituído nos termos do artigo 11.º, o Instituto poderá resgatar os mencionados títulos de participação.
 
-###### Art. 10.º - 1. As importâncias a distribuir anualmente pelo Instituto como rendimento dos mencionados títulos de participação serão fixadas por despacho do Ministro das Finanças, sob proposta do Banco de Portugal, mas não poderão, em caso algum, ser inferiores à taxa básica de desconto do Banco de Portugal, nem exceder esta taxa em mais de 2%.
+Art. 10.º - 1. As importâncias a distribuir anualmente pelo Instituto como rendimento dos mencionados títulos de participação serão fixadas por despacho do Ministro das Finanças, sob proposta do Banco de Portugal, mas não poderão, em caso algum, ser inferiores à taxa básica de desconto do Banco de Portugal, nem exceder esta taxa em mais de 2%.
 
 2. O Estado garantirá a atribuição do rendimento mínimo previsto no número anterior.
 
-###### Art. 11.º- 1. Os resultados líquidos apurados anualmente pelo Instituto, na parte em que excedam as verbas a atribuir como rendimento dos títulos de participação nos termos do artigo anterior, serão transferidos para um fundo de reserva.
+Art. 11.º- 1. Os resultados líquidos apurados anualmente pelo Instituto, na parte em que excedam as verbas a atribuir como rendimento dos títulos de participação nos termos do artigo anterior, serão transferidos para um fundo de reserva.
 
 2. O fundo de reserva não terá limite máximo.
 
 3. No caso de prejuízos apurados pelo Instituto, a respectiva cobertura far-se-á por recurso ao fundo de reserva, mas, se o montante deste fundo não chegar para a liquidação daqueles prejuízos, o Ministro das Finanças, sob proposta do Banco de Portugal, adoptará, até 30 de Junho do ano seguinte, as providências orçamentais e financeiras adequadas à reconstituição do seu capital.
 
-###### Art. 12.º Além do capital e do fundo de reserva, o Instituto disporá dos seguintes recursos e outras receitas:
+Art. 12.º Além do capital e do fundo de reserva, o Instituto disporá dos seguintes recursos e outras receitas:
 
 a) Dotações correntes, através do Orçamento Geral do Estado, para satisfação de encargos;
 
@@ -224,11 +259,11 @@ f) Quaisquer outros bens, rendimentos ou receitas que sejam atribuídos ao Insti
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 13.º - 1. Para efeitos do disposto no presente Estatuto, serão considerados como operações de crédito agrícola ou piscatório os empréstimos e outros créditos, qualquer que seja a forma, a natureza, título ou o prazo destes, quando tenham por objecto facultar recursos para apoio ao investimento em unidades produtivas dos sectores da agricultura, silvicultura, pecuária ou pesca, e respectivo funcionamento, ou para a formação, reestruturação, melhoria ou desagravamento do capital fundiário das explorações agrícolas, florestais ou pecuárias.
+Art. 13.º - 1. Para efeitos do disposto no presente Estatuto, serão considerados como operações de crédito agrícola ou piscatório os empréstimos e outros créditos, qualquer que seja a forma, a natureza, título ou o prazo destes, quando tenham por objecto facultar recursos para apoio ao investimento em unidades produtivas dos sectores da agricultura, silvicultura, pecuária ou pesca, e respectivo funcionamento, ou para a formação, reestruturação, melhoria ou desagravamento do capital fundiário das explorações agrícolas, florestais ou pecuárias.
 
 2. Serão ainda considerados como operações de crédito agrícola ou piscatório os empréstimos e outros créditos cujo objecto seja financiar a criação, a montagem, o aperfeiçoamento, a renovação total ou parcial de instalações ou equipamento que tenham por fim a transformação, o melhoramento ou a conservação de produtos agrícolas, silvícolas, pecuários ou piscatórios e cujo domínio pertença àquelas unidades produtivas.
 
-###### Art. 14.º - 1. Poderão ser equiparados às operações de crédito agrícola ou piscatório, a que alude o artigo precedente e poderão beneficiar, consequentemente, do apoio do Instituto os empréstimos e outros créditos que se destinem a financiar:
+Art. 14.º - 1. Poderão ser equiparados às operações de crédito agrícola ou piscatório, a que alude o artigo precedente e poderão beneficiar, consequentemente, do apoio do Instituto os empréstimos e outros créditos que se destinem a financiar:
 
 a) A construção ou melhoria de infra-estruturas económicas e sociais relacionadas directamente com o desenvolvimento das unidades produtivas dos referidos sectores de actividade;
 
@@ -236,7 +271,7 @@ b) A realização de outros empreendimentos de reconhecido interesse para o dese
 
 2. A equiparação prevista no número anterior será determinada por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas, ouvido o Banco de Portugal, salvo quando as operações em referência hajam sido contempladas em diplomas reguladores da actividade de instituições de crédito ou os empreendimentos se encontrem expressamente previstos no Plano.
 
-###### Art. 15.º Entre os beneficiários das operações de crédito agrícola ou piscatório serão considerados especialmente:
+Art. 15.º Entre os beneficiários das operações de crédito agrícola ou piscatório serão considerados especialmente:
 
 a) As pessoas individuais ou colectivas proprietárias ou comproprietárias de empresas cuja actividade respeite, exclusiva ou principalmente, aos sectores da agricultura, silvicultura, pecuária ou pesca ou de empresas equiparadas a estas por despacho do Ministro da Agricultura e Pescas;
 
@@ -248,7 +283,7 @@ d) Os rendeiros que, nos termos da lei, venham a realizar investimentos em capit
 
 #### SECÇÃO II — Das operações de financiamento
 
-###### Art. 16.º - 1. As operações de financiamento do Instituto serão efectuadas apenas com instituições de crédito, em relação directa com operações de crédito agrícola ou piscatório realizadas ou a realizar pelas mesmas instituições a curto, médio ou longo prazo.
+Art. 16.º - 1. As operações de financiamento do Instituto serão efectuadas apenas com instituições de crédito, em relação directa com operações de crédito agrícola ou piscatório realizadas ou a realizar pelas mesmas instituições a curto, médio ou longo prazo.
 
 2. As referidas operações de financiamento poderão assumir, consoante os casos, as formas seguintes:
 
@@ -262,23 +297,23 @@ b) A concessão de empréstimos ou a abertura de crédito, reembolsáveis a curt
 
 5. As operações de crédito a médio e longo prazos a conceder a qualquer empresa pressupõem assegurado o financiamento a curto prazo adequado ao seu plano de desenvolvimento.
 
-###### Art. 17.º - 1. O Instituto fixará, em regulamento, as condições de refinanciamento que venha a praticar, nomeadamente as taxas de juro a aplicar e a forma de assegurar que as bonificações de juro concedidas pelo Instituto revertam a favor dos beneficiários finais das operações de crédito agrícola ou piscatório.
+Art. 17.º - 1. O Instituto fixará, em regulamento, as condições de refinanciamento que venha a praticar, nomeadamente as taxas de juro a aplicar e a forma de assegurar que as bonificações de juro concedidas pelo Instituto revertam a favor dos beneficiários finais das operações de crédito agrícola ou piscatório.
 
 2. Do regulamento constará, ainda, a definição das operações de crédito agrícola ou piscatório que, para efeitos de eventual refinanciamento pelo Instituto ou pelo Banco de Portugal, deverão previamente ser submetidas à sua apreciação.
 
-###### Art. 18.º - 1. Relativamente a todas as operações enquadradas no crédito ao sector primário realizadas pelo sistema bancário, o Instituto poderá proceder, directamente pelos seus serviços ou por via dos serviços competentes do Banco de Portugal ou do Ministério da Agricultura e Pescas, ao contrôle das aplicações dadas aos fundos concedidos pelas instituições de crédito financiadas.
+Art. 18.º - 1. Relativamente a todas as operações enquadradas no crédito ao sector primário realizadas pelo sistema bancário, o Instituto poderá proceder, directamente pelos seus serviços ou por via dos serviços competentes do Banco de Portugal ou do Ministério da Agricultura e Pescas, ao contrôle das aplicações dadas aos fundos concedidos pelas instituições de crédito financiadas.
 
 2. Quando a utilização do crédito for escalonada no tempo, a indevida aplicação do montante de qualquer levantamento acarretará o cancelamento da utilização dos demais e a imediata exigibilidade dos já efectuados.
 
 3. A indevida aplicação do crédito acarretará, em qualquer caso, a imediata exigibilidade dos respectivos montante e juros, sem prejuízo do que a lei prescrever para o tipo de falta de que em cada caso se trate.
 
-###### Art. 19.º - 1. As instituições de crédito que hajam submetido à apreciação do Instituto operações de crédito agrícola e piscatório para ulterior refinanciamento ficam obrigadas a comunicar ao Instituto quaisquer factos que respeitem à situação dos beneficiários de crédito e fundamentem dúvidas sobre a liquidação do mesmo crédito na data do respectivo vencimento.
+Art. 19.º - 1. As instituições de crédito que hajam submetido à apreciação do Instituto operações de crédito agrícola e piscatório para ulterior refinanciamento ficam obrigadas a comunicar ao Instituto quaisquer factos que respeitem à situação dos beneficiários de crédito e fundamentem dúvidas sobre a liquidação do mesmo crédito na data do respectivo vencimento.
 
 2. As referidas instituições não poderão, sem prévia autorização do Instituto, alterar as condições dos créditos que tenham obtido refinanciamento do mesmo Instituto.
 
 #### SECÇÃO III — Das operações de garantia
 
-###### Art. 20.º - 1. O Instituto poderá conceder a instituições de crédito garantias a operações de crédito agrícola ou piscatório realizadas há menos de um ano ou a realizar pelas mesmas instituições.
+Art. 20.º - 1. O Instituto poderá conceder a instituições de crédito garantias a operações de crédito agrícola ou piscatório realizadas há menos de um ano ou a realizar pelas mesmas instituições.
 
 2. A garantia não excederá 80% do montante de cada empréstimo concedido pelas instituições de crédito.
 
@@ -286,31 +321,31 @@ b) A concessão de empréstimos ou a abertura de crédito, reembolsáveis a curt
 
 4. Serão, ainda, fixados regulamentarmente os termos e condições em que as garantias se tornam exigíveis por incumprimento dos devedores, com sub-rogação dos correspondentes direitos pelo Instituto.
 
-###### Art. 21.º O disposto no artigo 19.º é igualmente aplicável às operações de crédito garantidas pelo Instituto.
+Art. 21.º O disposto no artigo 19.º é igualmente aplicável às operações de crédito garantidas pelo Instituto.
 
-###### Art. 22.º Para as operações de crédito agrícola ou piscatório, a determinar por regulamento, o Instituto poderá delegar nos serviços competentes do Ministério da Agricultura e Pescas a prestação de garantias em nome e por conta daquele.
+Art. 22.º Para as operações de crédito agrícola ou piscatório, a determinar por regulamento, o Instituto poderá delegar nos serviços competentes do Ministério da Agricultura e Pescas a prestação de garantias em nome e por conta daquele.
 
-###### Art. 23.º Não serão garantidas pelo Instituto as operações de crédito agrícola ou piscatório cujos riscos possam ser suficientemente cobertos por contratos de seguro, celebrados nos termos da legislação aplicável.
+Art. 23.º Não serão garantidas pelo Instituto as operações de crédito agrícola ou piscatório cujos riscos possam ser suficientemente cobertos por contratos de seguro, celebrados nos termos da legislação aplicável.
 
 #### SECÇÃO IV — Dos subsídios
 
-###### Art. 24.º - 1. O Instituto liquidará os subsídios correntes pelos respectivos montantes, para os fins e às entidades que se estabelecem por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas.
+Art. 24.º - 1. O Instituto liquidará os subsídios correntes pelos respectivos montantes, para os fins e às entidades que se estabelecem por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas.
 
 2. Será aberta na contabilidade do Instituto uma conta de subsídios que nunca poderá apresentar saldo devedor e na qual serão escriturados a crédito os montantes recebidos do Estado para a distribuição de subsídios e a débito os subsídios efectivamente atribuídos.
 
 ### CAPÍTULO IV — Da administração e fiscalização do Instituto
 
-###### Art. 25.º - 1. A gestão do Instituto será assegurada por uma comissão directiva, com o mínimo de três membros e o máximo de sete, a nomear por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas, por proposta do Banco de Portugal.
+Art. 25.º - 1. A gestão do Instituto será assegurada por uma comissão directiva, com o mínimo de três membros e o máximo de sete, a nomear por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas, por proposta do Banco de Portugal.
 
 2. Em conformidade com o disposto neste Estatuto e demais legislação aplicável, competirá a essa comissão directiva a prática de todos os actos necessários à prossecução dos fins que ao Instituto são cometidos.
 
-###### Art. 26.º A gestão do Instituto será acompanhada pelo conselho de administração do Banco de Portugal, e a fiscalização do seu funcionamento, pelo conselho de auditoria do Banco.
+Art. 26.º A gestão do Instituto será acompanhada pelo conselho de administração do Banco de Portugal, e a fiscalização do seu funcionamento, pelo conselho de auditoria do Banco.
 
 ### CAPÍTULO V — Do Conselho Consultivo para o Financiamento da Agricultura e Pescas
 
-###### Art. 27.º O Instituto disporá, ainda, de um Conselho Consultivo para o Financiamento da Agricultura e Pescas, adiante designado abreviadamente por Conselho.
+Art. 27.º O Instituto disporá, ainda, de um Conselho Consultivo para o Financiamento da Agricultura e Pescas, adiante designado abreviadamente por Conselho.
 
-###### Art. 28.º - 1. O Conselho será presidido pelo presidente da comissão directiva a que alude o artigo 25.º ou por quem o substitua e é composto por representantes das seguintes entidades:
+Art. 28.º - 1. O Conselho será presidido pelo presidente da comissão directiva a que alude o artigo 25.º ou por quem o substitua e é composto por representantes das seguintes entidades:
 
 a) Ministérios das Finanças, da Agricultura e Pescas, do Plano e Coordenação Económica e do Comércio e Turismo;
 
@@ -324,31 +359,31 @@ e) Unidades produtivas da agricultura e pescas.
 
 2. Os Ministérios das Finanças e da Agricultura e Pescas fixarão, por portaria, o número de vogais do Conselho.
 
-###### Art. 29.º - 1. Os vogais do Conselho e respectivos suplentes terão direito ao abono das despesas de transporte e a ajudas de custo, quando tenham de deslocar-se no exercício das suas funções.
+Art. 29.º - 1. Os vogais do Conselho e respectivos suplentes terão direito ao abono das despesas de transporte e a ajudas de custo, quando tenham de deslocar-se no exercício das suas funções.
 
 2. Os encargos a que alude o número precedente serão suportados pelo Instituto.
 
-###### Art. 30.º O Conselho é um órgão consultivo no domínio das políticas de financiamento dos sectores da agricultura e da pesca, cabendo-lhe, nomeadamente:
+Art. 30.º O Conselho é um órgão consultivo no domínio das políticas de financiamento dos sectores da agricultura e da pesca, cabendo-lhe, nomeadamente:
 
 a) Dar parecer ou formular propostas sobre providências que forem julgadas convenientes para a maior eficiência do sistema de crédito nacional, de modo a melhor responder às necessidades de financiamento das unidades produtivas dos aludidos sectores de actividade;
 
 b) Dar parecer sobre as condições, gerais ou particulares, reguladoras das operações de crédito agrícola ou piscatório, bem como sobre quaisquer assuntos que, no domínio da sua competência, lhe sejam submetidos pelo Ministro das Finanças, pelo Ministro da Agricultura e Pescas ou pela comissão directiva a que alude o artigo 25.º
 
-###### Art. 31.º As normas de funcionamento do Conselho serão estabelecidas pelos Ministérios das Finanças e da Agricultura e Pescas, ouvido o Banco de Portugal, no prazo de sessenta dias.
+Art. 31.º As normas de funcionamento do Conselho serão estabelecidas pelos Ministérios das Finanças e da Agricultura e Pescas, ouvido o Banco de Portugal, no prazo de sessenta dias.
 
 ### CAPÍTULO VI — Dos serviços do Instituto
 
-###### Art. 32.º - 1. Para apoio à comissão directiva a que se refere o artigo 25.º e ao Conselho mencionado no artigo 27.º, será criada uma estrutura orgânica adequada ao desempenho da actividade do Instituto, na qual se integrará o pessoal a contratar.
+Art. 32.º - 1. Para apoio à comissão directiva a que se refere o artigo 25.º e ao Conselho mencionado no artigo 27.º, será criada uma estrutura orgânica adequada ao desempenho da actividade do Instituto, na qual se integrará o pessoal a contratar.
 
 2. O Instituto poderá requisitar, nos termos da lei, o pessoal necessário à prossecução dos seus fins.
 
 3. Os encargos decorrentes da estrutura prevista nos números precedentes serão suportados pelo Instituto.
 
-###### Art. 33.º - 1. Sem prejuízo do estabelecido no artigo anterior, os demais serviços do Banco prestarão a colaboração que se mostre necessária ao cumprimento das funções atribuídas ao Instituto.
+Art. 33.º - 1. Sem prejuízo do estabelecido no artigo anterior, os demais serviços do Banco prestarão a colaboração que se mostre necessária ao cumprimento das funções atribuídas ao Instituto.
 
 2. O recurso pelo Instituto aos órgãos e serviços do Banco de Portugal, nos termos do número anterior e do artigo 26.º, não implicará o pagamento de qualquer remuneração ou compensação de despesas.
 
-###### Art. 34.º O Instituto disporá, ainda, em regiões que venham a ser definidas por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas, de técnicos que o representem e cujas funções consistirão em:
+Art. 34.º O Instituto disporá, ainda, em regiões que venham a ser definidas por despacho conjunto dos Ministros das Finanças e da Agricultura e Pescas, de técnicos que o representem e cujas funções consistirão em:
 
 a) Supervisionar a análise técnica do crédito;
 
@@ -358,28 +393,28 @@ c) Representar o Instituto nos conselhos técnicos regionais das direcções reg
 
 ### CAPÍTULO VII — Do orçamento e contas do Instituto
 
-###### Art. 35.º - 1. Anualmente será elaborado um orçamento da actividade do Instituto, para o que lhe deverão ser oportunamente transmitidas as informações sobre dotações previstas a seu favor no Orçamento Geral do Estado e as indicações respeitantes a subsídios a atribuir pelo Governo e a distribuir pelo Instituto, bem como acerca de outros financiamentos a realizar pelo mesmo e incluídos no Plano.
+Art. 35.º - 1. Anualmente será elaborado um orçamento da actividade do Instituto, para o que lhe deverão ser oportunamente transmitidas as informações sobre dotações previstas a seu favor no Orçamento Geral do Estado e as indicações respeitantes a subsídios a atribuir pelo Governo e a distribuir pelo Instituto, bem como acerca de outros financiamentos a realizar pelo mesmo e incluídos no Plano.
 
 2. O orçamento de cada ano será comunicado ao Ministro das Finanças até 15 de Novembro do ano anterior.
 
-###### Art. 36.º Será elaborado um plano de contas que permita a escrituração das operações realizadas pelo Instituto e que identifique perfeitamente a estrutura patrimonial e o funcionamento do mesmo Instituto.
+Art. 36.º Será elaborado um plano de contas que permita a escrituração das operações realizadas pelo Instituto e que identifique perfeitamente a estrutura patrimonial e o funcionamento do mesmo Instituto.
 
-###### Art. 37.º - 1. O Banco de Portugal assegurará o envio, até 31 de Março de cada ano, ao Ministro das Finanças, para aprovação, do relatório, balanço e contas anuais de gerência do Instituto respeitantes ao ano anterior, depois de discutidos e apreciados pelo conselho de administração do Banco e com o parecer do respectivo conselho de auditoria.
+Art. 37.º - 1. O Banco de Portugal assegurará o envio, até 31 de Março de cada ano, ao Ministro das Finanças, para aprovação, do relatório, balanço e contas anuais de gerência do Instituto respeitantes ao ano anterior, depois de discutidos e apreciados pelo conselho de administração do Banco e com o parecer do respectivo conselho de auditoria.
 
 2. A publicação do relatório, balanço e contas do Instituto é feita no Diário da República, no prazo de trinta dias após a sua aprovação.
 
 ### CAPÍTULO VIII — Disposições gerais
 
-###### Art. 38.º O Instituto obriga-se pela assinatura de dois elementos da comissão directiva, constituída nos termos do artigo 25.º
+Art. 38.º O Instituto obriga-se pela assinatura de dois elementos da comissão directiva, constituída nos termos do artigo 25.º
 
-###### Art. 39.º No caso de dissolução do Instituto, o montante dos títulos de participação não coberto pelo património do Instituto será reembolsado pelo Estado, através de emissão de títulos da dívida pública.
+Art. 39.º No caso de dissolução do Instituto, o montante dos títulos de participação não coberto pelo património do Instituto será reembolsado pelo Estado, através de emissão de títulos da dívida pública.
 
-###### Art. 40.º Mediante proposta do Banco de Portugal, o Governo, pelo Ministro das Finanças, fará publicar no Diário da República os regulamentos das operações do Instituto previstas neste estatuto.
+Art. 40.º Mediante proposta do Banco de Portugal, o Governo, pelo Ministro das Finanças, fará publicar no Diário da República os regulamentos das operações do Instituto previstas neste estatuto.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - António Miguel Morais Barreto.
 
-**Promulgado em 1 de Agosto de 1977.**
+Promulgado em 1 de Agosto de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

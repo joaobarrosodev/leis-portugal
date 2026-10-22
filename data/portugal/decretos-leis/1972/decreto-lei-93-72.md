@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1972-396704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:25:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1cf9e4e4f0dbee90d4f61f031b0994da57aac4eed4eca8baa1833863f1bac02f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d048405373b77bdb562d2e588fc97774f3e85b0f38b9f51aad71eb95bd9c6b30
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:25:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Funchal
+- Madeira.ilha Adjacente
+- Porto Santo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:502788:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:556814:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:307405:por
+  label: "Revogado, na parte respeitante à matéria legislada, pelo DEC LEI.503/75.1975.09.13.MTC, DG.IS [212]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/503-1975-307405
+  date: '1975-09-13'
+- type: repealed_by
+  target: pt:dre:502788:por
+  label: Revogado pelo(a) Decreto n.º 256/76 - Diário do Governo n.º 84/1976, Série I de 1976-04-08, na parte em que lhe respeita.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/256-1976-502788
+  date: '1976-04-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:25:47Z'
   warnings: []
   errors: []
 ---
@@ -98,24 +117,24 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São acrescentados ao quadro do pessoal do Aeroporto da Madeira, a que se refere o artigo 4.º do [Decreto-Lei n.º 43485](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43485-1961-556814), de 25 de Janeiro de 1961, os lugares constantes do mapa anexo ao presente diploma.
+Artigo 1.º São acrescentados ao quadro do pessoal do Aeroporto da Madeira, a que se refere o artigo 4.º do [Decreto-Lei n.º 43485](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43485-1961-556814), de 25 de Janeiro de 1961, os lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 2.º - 1. Pelos Ministros das Finanças e das Comunicações serão autorizadas as alterações orçamentais necessárias à execução do presente diploma.
+Art. 2.º - 1. Pelos Ministros das Finanças e das Comunicações serão autorizadas as alterações orçamentais necessárias à execução do presente diploma.
 
 2. Enquanto não se concretizarem as providências a que se refere o número anterior para suportar os encargos resultantes deste diploma poderão ser utilizadas as disponibilidades existentes nas dotações consignadas no orçamento do Ministério das Comunicações em vigor ao pagamento das despesas com o pessoal do Aeroporto da Madeira.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 9 de Março de 1972.**
+Promulgado em 9 de Março de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
 Mapa a que se refere o artigo 1.º do Decreto-Lei n.º 93/72
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/03/06600/03360336.pdf))](https://files.diariodarepublica.pt/1s/1972/03/06600/03360336.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/03/06600/03360336.pdf)
 
-**O Ministro das Comunicações, Rui Alves da Silva Sanches.**
+O Ministro das Comunicações, Rui Alves da Silva Sanches.

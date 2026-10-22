@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18600/21712173.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1980-470629
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b69bb2cba463684e6cf66804221facedb3891b226ed1da21f0b0b5541c31c49
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ccdb0e76323ff92a9ed5330e3aa581ec1d60af216ebb29734f047ca200ccb2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adopção
+- Centro Regional de Segurança Social
+- Direcção Geral dos Serviços Tutelares de Menores
+- Direito de Família
+- Instituto da Família e Acção Social
+- Proteção à Infância
+- Santa Casa da Misericórdia
+- Segurança Social
+- Tutela de Menores
 relationships:
 - type: amended_by
   target: pt:dre:282517:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:282517:por
+  label: "Revogado pelo DEC LEI.185/93.1993.05.22.MJ, DR.IS-A [119]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1993-282517
+  date: '1993-05-22'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:13Z'
   warnings: []
   errors: []
 ---
@@ -125,7 +139,7 @@ Nesta conformidade:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Candidato a adoptante)
 
@@ -133,7 +147,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - A comunicação deverá ser feita mesmo que o adoptante tenha a residir consigo e a seu cargo o menor que pretende adoptar.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Relatório social)
 
@@ -141,13 +155,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 2 - Logo que considere verificadas as condições necessárias para ser decretada uma adopção, deverá o organismo de segurança social elaborar um relatório, que acompanhará o pedido de constituição do vínculo dirigido ao tribunal competente.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Pessoal com formação adequada)
 
 Os organismos de segurança social devem providenciar no sentido de o apoio social e familiar às situações de adopção ser assegurado por pessoal técnico com formação adequada.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Iniciativa do tribunal na elaboração e junção do relatório social)
 
@@ -155,7 +169,7 @@ Os organismos de segurança social devem providenciar no sentido de o apoio soci
 
 2 - Neste caso, o tribunal solicitará ao organismo de segurança social, no prazo que o juiz fixar, o envio de relatório sobre a situação dos adoptantes e do adoptando; se decorrido esse prazo o relatório não tiver sido junto, o processo prosseguirá os seus termos com dispensa do mesmo, devendo, no entanto, ser realizado o competente inquérito por iniciativa do tribunal.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Valor do relatório social)
 
@@ -163,7 +177,7 @@ Os organismos de segurança social devem providenciar no sentido de o apoio soci
 
 2 - As conclusões do relatório não vinculam o tribunal, podendo este realizar ainda todas as diligências que considere necessárias e úteis para seu completo esclarecimento.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Organismos de segurança social)
 
@@ -173,19 +187,19 @@ Os organismos de segurança social devem providenciar no sentido de o apoio soci
 
 3 - Mediante acordos de cooperação celebrados com os centros regionais nos termos previstos no estatuto das instituições privadas de solidariedade social, poderão as instituições que disponham de serviços adequados actuar como organismos de segurança social nos termos previstos neste diploma.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Maiores de 14 anos)
 
 A intervenção dos organismos de segurança social nos termos estabelecidos no presente diploma não é obrigatória se o adoptando tiver mais de 14 anos no momento da instauração do respectivo processo de adopção, sem prejuízo de o tribunal lhes poder solicitar as informações e a realização das diligências que considere necessárias para seu completo esclarecimento.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Situações especiais)
 
 Constarão de diploma próprio as normas reguladoras da adopção internacional, bem como as referentes à eventual intervenção de organizações privadas que não sejam instituições privadas de solidariedade social nas diligências tendentes à adopção.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Âmbito de aplicação do diploma)
 
@@ -193,8 +207,8 @@ O presente diploma não se aplica aos pedidos de adopção pendentes nos tribuna
 
 Visto e aprovado em Conselho de Ministros de 9 de Julho de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 29 de Julho de 1980.**
+Promulgado em 29 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

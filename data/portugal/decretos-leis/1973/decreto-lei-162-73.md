@@ -47,36 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1973-675464
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:26:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3023394ead7a66706f4a0d3e9b3dc427e84875da81f33cedac5b0b4662ce0dec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a314451506a1300c6092fd9eaa7cb5ec68dee115450958811db3e5da0f993dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:26:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aviação Civil
+- Benefícios Fiscais
+- Capital Social
+- Contrato de Concessão
+- Criação de Empresas
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Extinção de Serviços
+- Moçambique.Colónia Portuguesa
+- Sociedade Anónima
+- Sociedade de Responsabilidade Limitada
+- Transporte Aéreo
+- Transporte de Mercadorias
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:176289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685604:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:26:20Z'
   warnings: []
   errors: []
 ---
@@ -103,13 +133,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Governo-Geral da província de Moçambique autorizado, nos termos das bases anexas a este decreto-lei, a contratar a concessão do serviço público de transportes aéreos de passageiros, carga e correio definido nas mesmas bases.
+Artigo 1.º Fica o Governo-Geral da província de Moçambique autorizado, nos termos das bases anexas a este decreto-lei, a contratar a concessão do serviço público de transportes aéreos de passageiros, carga e correio definido nas mesmas bases.
 
-###### Art. 2.º - 1. A concessionária será uma empresa nacional nos termos da lei aplicável, revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede em Moçambique.
+Art. 2.º - 1. A concessionária será uma empresa nacional nos termos da lei aplicável, revestirá a forma de sociedade anónima de responsabilidade limitada e terá a sua sede em Moçambique.
 
 2. Todo o capital será reservado a pessoas singulares ou colectivas de nacionalidade portuguesa e representado por acções nominativas.
 
-###### Art. 3.º - 1. Os Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique contribuirão para o capital da sociedade que se constitua, com vista a contratar a concessão a que se refere o artigo 1.º, com a universalidade do estabelecimento afecto à Direcção de Exploração de Transportes Aéreos (DETA), compreendendo todo o respectivo activo e passivo, cujo valor líquido, para este fim, se fixa provisoriamente em 102000000$00, correspondendo a 51% do capital social.
+Art. 3.º - 1. Os Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique contribuirão para o capital da sociedade que se constitua, com vista a contratar a concessão a que se refere o artigo 1.º, com a universalidade do estabelecimento afecto à Direcção de Exploração de Transportes Aéreos (DETA), compreendendo todo o respectivo activo e passivo, cujo valor líquido, para este fim, se fixa provisoriamente em 102000000$00, correspondendo a 51% do capital social.
 
 2. A propriedade do referido estabelecimento transferir-se-á para a sociedade na data em que o contrato de concessão começar a produzir efeitos, independentemente de quaisquer outros actos ou formalidades.
 
@@ -119,7 +149,7 @@ Se o valor apurado for superior à importância indicada no n.º 1, o excedente 
 
 4. A concessionária suportará as despesas e terá direito às receitas de exploração efectuadas ou arrecadadas pela extinta DETA, com referência a serviços prestados posteriormente à data referida na base XXII anexa a este decreto-lei; por seu turno, os Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique terão direito às receitas arrecadadas pela concessionária por serviços prestados pela DETA e reembolsá-la-ão dos pagamentos efectuados relativamente a débitos contraídos por aquela.
 
-###### Art. 4.º - 1. A província participará na administração da concessionária por meio de um administrador nomeado pelo Governador-Geral, regulando em tudo o mais, com as devidas adaptações, o disposto na legislação aplicável aos administradores por parte do Estado.
+Art. 4.º - 1. A província participará na administração da concessionária por meio de um administrador nomeado pelo Governador-Geral, regulando em tudo o mais, com as devidas adaptações, o disposto na legislação aplicável aos administradores por parte do Estado.
 
 2. O Governador-Geral poderá ainda nomear dois administradores, mediante proposta dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique, enquanto estes forem titulares de acções no valor mínimo de 51% do capital social da concessionária.
 
@@ -131,65 +161,65 @@ No entanto, os administradores referidos neste número cessarão imediatamente a
 
 5. O Governador-Geral da província escolherá de entre os administradores o que deverá servir de presidente, com voto de qualidade.
 
-###### Art. 5.º O Governador-Geral nomeará um delegado nos termos e para os efeitos do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
+Art. 5.º O Governador-Geral nomeará um delegado nos termos e para os efeitos do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956.
 
-###### Art. 6.º - 1. Os accionistas da sociedade concessionária que forem concessionários de serviço público de transportes aéreos e a província serão equiparados ao Estado para os efeitos do § 3.º do artigo 183.º do Código Comercial.
+Art. 6.º - 1. Os accionistas da sociedade concessionária que forem concessionários de serviço público de transportes aéreos e a província serão equiparados ao Estado para os efeitos do § 3.º do artigo 183.º do Código Comercial.
 
 2. O regime do número anterior será aplicável à sociedade concessionária quando esta for accionista de empresas de transportes aéreos ou que explorem actividades acessórias do transporte aéreo.
 
-###### Art. 7.º Competirá ao Governo da República, pelos Ministros do Ultramar e das Comunicações, sob parecer do Governo da província:
+Art. 7.º Competirá ao Governo da República, pelos Ministros do Ultramar e das Comunicações, sob parecer do Governo da província:
 
 a) A integração no serviço concedido de novas linhas ou a concessão de autorizações para linhas não abrangidas naquele serviço, desde que umas e outras ultrapassem os limites territoriais da província;
 
 b) A aprovação dos planos de equipamento e reequipamento no que respeita ao número, tipo e características das aeronaves a utilizar nos serviços assegurados pela concessionária.
 
-###### Art. 8.º Competirá ao Governo da província:
+Art. 8.º Competirá ao Governo da província:
 
 a) A integração no serviço concedido de novas linhas ou a concessão de autorizações para as linhas não abrangidas naquele serviço, desde que umas e outras se contenham nos limites territoriais da província;
 
 b) A aprovação dos planos de equipamento e reequipamento da concessionária não previstos na alínea b) do artigo anterior.
 
-###### Art. 9.º Competirá à Direcção-Geral da Aeronáutica Civil:
+Art. 9.º Competirá à Direcção-Geral da Aeronáutica Civil:
 
 a) Dar parecer sobre a integração de novos serviços na concessão e sobre os planos de equipamento e reequipamento a que se refere o artigo 7.º;
 
 b) Aprovar o regime de exploração dos serviços que a concessionária assegure para além dos limites territoriais da província e fiscalizar estes serviços, podendo delegar esta competência, no todo ou em parte, no Serviço de Aeronáutica Civil da província.
 
-###### Art. 10.º Competirá ao Serviço de Aeronáutica Civil:
+Art. 10.º Competirá ao Serviço de Aeronáutica Civil:
 
 a) Dar parecer sobre a integração de novos serviços na concessão e sobre os planos de equipamento e reequipamento a que se refere o artigo 8.º;
 
 b) Aprovar o regime de exploração dos serviços na área da província e fiscalizar estes serviços, assim como o uso que a concessionária faça das isenções constantes da base X anexa a este diploma.
 
-###### Art. 11.º Fica autorizada, observada a legislação aplicável, a prestação das garantias previstas na base XI anexa ao presente decreto-lei mediante portaria dos Ministros das Finanças e do Ultramar.
+Art. 11.º Fica autorizada, observada a legislação aplicável, a prestação das garantias previstas na base XI anexa ao presente decreto-lei mediante portaria dos Ministros das Finanças e do Ultramar.
 
-###### Art. 12.º - 1. A Direcção de Exploração de Transportes Aéreos (DETA), dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, considerar-se-á extinta na data referida na base XXII anexa ao presente diploma.
+Art. 12.º - 1. A Direcção de Exploração de Transportes Aéreos (DETA), dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, considerar-se-á extinta na data referida na base XXII anexa ao presente diploma.
 
 2. Os lugares privativos da DETA nos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique extinguem-se na mesma data, sendo aplicável aos seus titulares que não transitem para a concessionária, nos termos dos n.os 5 e 6 da base VIII, o disposto no artigo 138.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 13.º - 1. Enquanto se não verificar a situação prevista no n.º 4 da base VIII, a concessionária só poderá dispensar o pessoal a que se refere esse número com base em fundamentos disciplinares que serão comunicados aos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique para os necessários efeitos.
+Art. 13.º - 1. Enquanto se não verificar a situação prevista no n.º 4 da base VIII, a concessionária só poderá dispensar o pessoal a que se refere esse número com base em fundamentos disciplinares que serão comunicados aos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique para os necessários efeitos.
 
 2. Desde que se verifique a situação constante do número antecedente, aos funcionários assim dispensados que sejam titulares dos cargos a que se refere o n.º 2 do artigo 12.º ser-lhes-á aplicável o disposto no artigo 138.º do Estatuto do Funcionalismo Ultramarino.
 
 Se forem titulares de lugares com designações e funções similares às existentes noutros lugares dos quadros dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, serão integrados nestes quadros, desde que o requeiram e se submetam aos cursos de adaptação julgados convenientes.
 
-###### Art. 14.º - 1. O pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique não privativo da DETA e que não transite para a concessionária regressará àqueles Serviços sem prejuízo da sua categoria, antiguidade e vencimentos.
+Art. 14.º - 1. O pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique não privativo da DETA e que não transite para a concessionária regressará àqueles Serviços sem prejuízo da sua categoria, antiguidade e vencimentos.
 
 2. O pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que transite para a concessionária manterá o direito à aposentação como se continuasse ao serviço do Estado, sendo aplicável ao pessoal navegante o disposto no artigo 15.º do [Decreto n.º 44058](https://diariodarepublica.pt/dr/detalhe/decreto/44058-1961-185326), de 23 de Novembro de 1961.
 
 3. O direito consignado no número anterior acarreta a obrigação dos descontos para esse efeito, que serão entregues nos Serviços enquanto se não processar a transição nos termos dos n.os 4 e 5 da base VIII e, na Fazenda Nacional, para onde serão transferidas todas as importâncias descontadas, logo que se verifique a integração do pessoal na concessionária.
 
-###### Art. 15.º O pessoal do quadro dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que tenha transitado para a concessionária e cujos contratos de trabalho sejam denunciados ou rescindidos depois da transição a que se referem os n.os 4 e 5 da base VIII cessará os descontos para a aposentação, sem prejuízo de manter o direito a esta desde que tenha o mínimo de quinze anos de serviço com os descontos legais, independentemente de quaisquer outros requisitos.
+Art. 15.º O pessoal do quadro dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que tenha transitado para a concessionária e cujos contratos de trabalho sejam denunciados ou rescindidos depois da transição a que se referem os n.os 4 e 5 da base VIII cessará os descontos para a aposentação, sem prejuízo de manter o direito a esta desde que tenha o mínimo de quinze anos de serviço com os descontos legais, independentemente de quaisquer outros requisitos.
 
-###### Art. 16.º Durante os dois anos subsequentes à data referida na base XXII, o pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que tenha transitado para a concessionária terá direito a residir nas casas que lhe tenham sido distribuídas por aqueles Serviços, mediante o pagamento de uma renda igual à estabelecida para funcionários do Estado de igual categoria.
+Art. 16.º Durante os dois anos subsequentes à data referida na base XXII, o pessoal dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique que tenha transitado para a concessionária terá direito a residir nas casas que lhe tenham sido distribuídas por aqueles Serviços, mediante o pagamento de uma renda igual à estabelecida para funcionários do Estado de igual categoria.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha - Rui Alves da Silva Sanches.
 
-**Promulgado em 30 de Março de 1973.**
+Promulgado em 30 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
 
@@ -459,7 +489,7 @@ BASE XXII
 
 O contrato de concessão começará a produzir efeitos a partir do primeiro dia do mês seguinte àquele em que for celebrado.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Quadro anexo às bases aprovadas pelo Decreto-Lei n.º 162/73, de 10 de Abril
 
@@ -525,4 +555,4 @@ Da Beira a Blantyre e vice-versa.
 
 Da Beira a Tananarive e vice-versa.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

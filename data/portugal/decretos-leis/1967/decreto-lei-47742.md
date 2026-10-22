@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47742-1967-312663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 82b10bb884c22a0c581ad7b98871803416949670fefbfcfc100890b6f878e1b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b35adce0e9bb4861681d2666eacf9748a98edfd3e9a6be0056366cb6587fedb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Embarcação
+- Ministério da Marinha
+- Submarino
 relationships:
 - type: amended_by
   target: pt:dre:412820:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:631399:por
+  label: "Acrescido o quantitativo fixado no art. 2º do presente diploma, pelo DEC LEI.467/71.05.11.1971.MF, DG.IS [260] de\
+    \ 05.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/467-1971-631399
+  date: '1971-11-05'
+- type: amended_by
+  target: pt:dre:675789:por
+  label: "Acrescido o quantitativo fixado no art. 2º do presente diploma, pelo DEC LEI.253/72.27.07.1972.MF, DG.IS [174] de\
+    \ 27.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1972-675789
+  date: '1972-07-27'
+- type: amended_by
+  target: pt:dre:412820:por
+  label: "Elevado o quantitativo fixado no art. 2º do presente diploma, pelo DEC LEI.475/73.25.09.1973.MF, DG.IS [225] de\
+    \ 25.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/475-1973-412820
+  date: '1973-09-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:22Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +119,9 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A fim de permitir a preparação técnica do pessoal e a criação dos meios de apoio indispensáveis aos novos navios e submarinos com que a Armada está sendo dotada, fica o Ministério da Marinha autorizado a proceder às aquisições e construções necessárias à reconversão e ampliação das suas escolas e instalações portuárias, oficinais e de armazenamento.
+Artigo 1.º A fim de permitir a preparação técnica do pessoal e a criação dos meios de apoio indispensáveis aos novos navios e submarinos com que a Armada está sendo dotada, fica o Ministério da Marinha autorizado a proceder às aquisições e construções necessárias à reconversão e ampliação das suas escolas e instalações portuárias, oficinais e de armazenamento.
 
-###### Art. 2.º Os encargos com as aquisições e construções de que trata o artigo anterior são fixados em 380000 contos e a sua efectivação deve ser escalonada segundo os limites anuais seguintes:
+Art. 2.º Os encargos com as aquisições e construções de que trata o artigo anterior são fixados em 380000 contos e a sua efectivação deve ser escalonada segundo os limites anuais seguintes:
 
 ... Contos
 
@@ -112,8 +135,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. Os limites fixados serão acrescidos do saldo que se tenha verificado no ano ou anos anteriores, procedendo-se de forma idêntica se a completa efectivação das despesas vier a ter lugar posteriormente a 1970.
 
-###### Art. 3.º Para ocorrer às despesas respectivas é, igualmente, autorizado o Ministério das Finanças a inscrever as verbas correspondentes no orçamento dos Encargos Gerais da Nação, em artigo independente do capítulo da despesa extraordinária consignada à «Defesa nacional», podendo o crédito especial para a inscrição a levar a efeito no orçamento vigente ser aberto por simples decreto referendado pelo Ministro das Finanças.
+Art. 3.º Para ocorrer às despesas respectivas é, igualmente, autorizado o Ministério das Finanças a inscrever as verbas correspondentes no orçamento dos Encargos Gerais da Nação, em artigo independente do capítulo da despesa extraordinária consignada à «Defesa nacional», podendo o crédito especial para a inscrição a levar a efeito no orçamento vigente ser aberto por simples decreto referendado pelo Ministro das Finanças.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

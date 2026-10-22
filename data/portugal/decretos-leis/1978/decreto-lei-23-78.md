@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/01/02300/02590261.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1978-448938
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c758516b26b3831b6ea961312ccfa1efa8d50b02e4eac7920fdf9115f945179
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5efadb25184cde4f281ea1c22bdde598f26325273f18baa7f057f439f604bab9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gestão de Recursos Humanos
+- Gestão Orçamental
+- Madeira.região Autónoma
+- Ministério do Trabalho
+- Ministro da República
+- Secretaria Regional do Trabalho
+- Transferência de Competências
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:329444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:310625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:345536:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:329444:por
+  label: "Revogado pelo DEC LEI.294/78.22.09.1978.MT, DR.IS [219] de 22.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1978-329444
+  date: '1978-09-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:48Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +116,7 @@ Com o presente diploma pretende-se transferir para a Secretaria Regional do Trab
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São transferidas para a Secretaria Regional do Trabalho do Governo Regional da Região Autónoma da Madeira as seguintes competências:
+Artigo 1.º - 1 - São transferidas para a Secretaria Regional do Trabalho do Governo Regional da Região Autónoma da Madeira as seguintes competências:
 
 a) Regulamentar, por via administrativa, nos termos da legislação nacional que vigorar, as condições de trabalho de sectores de actividade profissional ou económica circunscritos exclusivamente ao território da Região Autónoma;
 
@@ -110,23 +132,23 @@ f) Apreciar os respectivos pedidos e conceder as aprovações e autorizações r
 
 g) De uma maneira geral, todas as atribuições que pertençam à delegação da Direcção de Serviços das Relações Colectivas de Trabalho no âmbito territorial da Região, com ressalva do cominado no artigo 4.º e daquelas que devam ser atribuídas a outros serviços.
 
-###### Art. 2.º - 1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no Jornal Oficial da Região Autónoma da Madeira, tendo em consideração o disposto no n.º 2.
+Art. 2.º - 1 - A vigência dos instrumentos de regulamentação de trabalho convencional ou não de âmbito territorial da Região depende da respectiva publicação no Jornal Oficial da Região Autónoma da Madeira, tendo em consideração o disposto no n.º 2.
 
 2 - Sem prejuízo do disposto no número anterior, os instrumentos de regulamentação de trabalho devem ser publicados no Boletim do Trabalho e Emprego.
 
-###### Art. 3.º - 1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
+Art. 3.º - 1 - Na regulamentação colectiva de trabalho de âmbito não regional deverá ser cumprido o disposto no n.º 2 do artigo 231.º da Constituição.
 
 2 - Os instrumentos de regulamentação colectiva de trabalho referidos no número anterior serão obrigatoriamente publicados no Jornal Oficial da Região, sem prejuízo da sua entrada em vigor a partir da publicação no Boletim do Trabalho e Emprego.
 
-###### Art. 4.º Mantém-se em tudo o legalmente estabelecido no que respeita às comissões de conciliação e julgamento e aos tribunais do trabalho.
+Art. 4.º Mantém-se em tudo o legalmente estabelecido no que respeita às comissões de conciliação e julgamento e aos tribunais do trabalho.
 
-###### Art. 5.º - 1 - Em função da transferência provisória de competências consagrada no artigo 1.º, é extinta a delegação da Direcção de Serviços das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, que funcionava na Região Autónoma da Madeira, na dependência do Governo da República.
+Art. 5.º - 1 - Em função da transferência provisória de competências consagrada no artigo 1.º, é extinta a delegação da Direcção de Serviços das Relações Colectivas de Trabalho, da Secretaria de Estado do Trabalho, que funcionava na Região Autónoma da Madeira, na dependência do Governo da República.
 
 2 - As atribuições e competências em matérias de inspecção do trabalho na Região Autónoma da Madeira continuam a caber à Inspecção-Geral do Trabalho, do Ministério do Trabalho.
 
 3 - A Secretaria Regional do Trabalho terá, transitoriamente, competência para ordenar directamente aos serviços situados na Região Autónoma as acções de inspecção do trabalho inerentes ao exercício das suas competências ou por ela dirigidas.
 
-###### Art. 6.º - 1 - O pessoal adstrito ao serviço extinto por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
+Art. 6.º - 1 - O pessoal adstrito ao serviço extinto por força do disposto no artigo anterior transita para a Secretaria Regional do Trabalho, com dispensa de qualquer formalidade, nos termos gerais definidos quanto aos restantes serviços extintos ou integrados na Região Autónoma.
 
 2 - Não estão abrangidos pelo disposto no número anterior os delegados e subdelegados da Secretaria de Estado do Trabalho, os quais poderão passar a prestar serviço no Governo Regional, nos termos gerais da requisição, mediante as devidas formalidades.
 
@@ -136,22 +158,22 @@ g) De uma maneira geral, todas as atribuições que pertençam à delegação da
 
 5 - O pessoal integrado nos termos dos números anteriores ficará sujeito ao disposto no artigo 49.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril.
 
-###### Art. 7.º Todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transitam para o Governo Regional, com dispensa de qualquer formalidade.
+Art. 7.º Todos os bens e património em geral afectos aos serviços extintos por força do disposto no artigo 5.º transitam para o Governo Regional, com dispensa de qualquer formalidade.
 
-###### Art. 8.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho.
+Art. 8.º - 1 - Será assegurado pelo Ministério do Trabalho e pela Secretaria Regional do Trabalho o intercâmbio das informações técnicas sobre problemas de trabalho.
 
 2 - Será assegurado pelo Ministério do Trabalho e pela Secretaria de Estado da Administração Pública, quando solicitado pela Secretaria Regional do Trabalho, de acordo com as capacidades daquelas entidades, todo o apoio técnico relativo à definição das carreiras profissionais.
 
-###### Art. 9.º O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
+Art. 9.º O Ministro da República garantirá a articulação entre os serviços dependentes do Ministério do Trabalho e os serviços da Secretaria Regional do Trabalho.
 
-###### Art. 10.º A partir de 1 de Janeiro de 1978, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
+Art. 10.º A partir de 1 de Janeiro de 1978, as despesas com os serviços agora integrados serão orçamentadas e garantidas pelo orçamento regional.
 
-###### Art. 11.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Madeira e do Trabalho.
+Art. 11.º As dúvidas suscitadas na interpretação do presente diploma serão resolvidas por despacho conjunto dos Ministros da República para a Madeira e do Trabalho.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Lino Dias Miguel - Henrique Medina Carreira - António Manuel Maldonado Gonelha.
 
-**Promulgado em 16 de Janeiro de 1978.**
+Promulgado em 16 de Janeiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

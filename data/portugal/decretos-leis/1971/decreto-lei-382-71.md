@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1971/09/22000/13271328.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1971-632762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4d384cf4f4297768f54dc5bdff2e87b8169c239b408ca87fbb2806ca335c9d74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13cdafbcd94032da1a51a0e3ade1dfdd023d3e5fd3c0add2988bb2af9c831996
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Deficiente das Forças Armadas
+- Doença Profissional
+- Forças Armadas
+- Junta Médica
+- Militar
+- Promoção Profissional
+- Tuberculose
 relationships:
 - type: amended_by
   target: pt:dre:421985:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196258:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:421985:por
+  label: "Revogado pelo DEC LEI.210/73.1973.05.09.PC DG.IS [109]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/210-1973-421985
+  date: '1973-05-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:51Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +121,9 @@ E assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os militares que reúnam as condições de promoção ao posto imediato, mas não possuam aptidão física em resultado de moléstia, ferimentos ou mutilações contraídas em campanha, na manutenção da ordem pública ou em serviço directamente relacionado, serão promovidos na altura que lhes competir, independentemente da data da verificação da aptidão física pela junta médica competente.
+Artigo 1.º Os militares que reúnam as condições de promoção ao posto imediato, mas não possuam aptidão física em resultado de moléstia, ferimentos ou mutilações contraídas em campanha, na manutenção da ordem pública ou em serviço directamente relacionado, serão promovidos na altura que lhes competir, independentemente da data da verificação da aptidão física pela junta médica competente.
 
-###### Art. 2.º Quando a moléstia adquirida, nas condições do artigo anterior, for a tuberculose, deverá ser ainda observado o seguinte:
+Art. 2.º Quando a moléstia adquirida, nas condições do artigo anterior, for a tuberculose, deverá ser ainda observado o seguinte:
 
 1 - A Junta da Assistência aos Tuberculosos das Forças Armadas, findo o período de dois anos fixado no artigo 54.º do Estatuto da Assistência aos Tuberculosos das Forças Armadas, publicado com o [Decreto-Lei n.º 44131](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44131-1961-178851), de 30 de Dezembro de 1961, poderá classificar os militares clìnicamente curados como aptos para cargos ou funções que dispensem plena validez, caso não sejam julgados aptos para todo o serviço ou incapazes do serviço militar.
 
@@ -113,11 +133,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
 
-**Promulgado em 13 de Setembro de 1971.**
+Promulgado em 13 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Tabela anexa ao Decreto-Lei n.º 382/71, de 17 de Setembro
 
@@ -151,4 +171,4 @@ l) Tuberculose curada com extensas lesões residuais e diabetes de compensação
 
 m) Tuberculose e gastrectomia.
 
-**O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.**
+O Ministro da Defesa Nacional, Horácio José de Sá Viana Rebelo.

@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/514-1975-307223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a72cf7eabca8ed526967f6b94349cfbb1a5e97467c0ed04217edb313bf709b2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a710bdf241ffff27ce90bc85ed81d75350df4811c6c8fb79171105ffc585315
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Capital Social
+- Cisão de Empresas
+- Registo Comercial
+- Regulamento
+- Sociedade Comercial
+relationships:
+- type: cites
+  target: pt:dre:411612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438927:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:51Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +107,11 @@ Considerando que já se operaram algumas cisões de sociedades cujo ingresso no 
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A cisão de sociedades comerciais é facto sujeito a registo.
+Artigo 1.º A cisão de sociedades comerciais é facto sujeito a registo.
 
-###### Art. 2.º A alínea e) do artigo 3.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, e as alíneas d) do artigo 68.º e h) do artigo 78.º do Regulamento do Registo Comercial passam a ter a seguinte redacção:
+Art. 2.º A alínea e) do artigo 3.º do [Decreto-Lei n.º 42644](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42644-1959-438927), de 14 de Novembro de 1959, e as alíneas d) do artigo 68.º e h) do artigo 78.º do Regulamento do Registo Comercial passam a ter a seguinte redacção:
 
-###### Art. 3.º Estão sujeitos a registo:
+Art. 3.º Estão sujeitos a registo:
 
 a) ...
 
@@ -112,7 +125,7 @@ e) A constituição, prorrogação, transformação, fusão, cisão, incorporaç
 
 ...
 
-###### Art. 68.º São admitidas apenas como provisórias as inscrições seguintes:
+Art. 68.º São admitidas apenas como provisórias as inscrições seguintes:
 
 a) ...
 
@@ -142,7 +155,7 @@ m) ...
 
 ...
 
-###### Art. 78.º O extracto das inscrições, além dos requisitos comuns, deve conter, conforme os casos, as seguintes menções especiais:
+Art. 78.º O extracto das inscrições, além dos requisitos comuns, deve conter, conforme os casos, as seguintes menções especiais:
 
 a) ...
 
@@ -182,16 +195,16 @@ r) ...
 
 s) ...
 
-###### Art. 3.º Ao registo da cisão de sociedades é aplicável, com as necessárias adaptações, o disposto nos artigos 11.º, 12.º, 13.º e 14.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, salvo disposição legal que expressamente disponha em contrário.
+Art. 3.º Ao registo da cisão de sociedades é aplicável, com as necessárias adaptações, o disposto nos artigos 11.º, 12.º, 13.º e 14.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, salvo disposição legal que expressamente disponha em contrário.
 
-###### Art. 4.º O registo provisório da deliberação da redução do capital da sociedade a cindir, nos casos em que essa redução esteja sujeita aos requisitos gerais de que depende esta alteração estatutária, conforme a previsão da parte final do artigo 26.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, será substituído pelo registo provisório da deliberação da cisão.
+Art. 4.º O registo provisório da deliberação da redução do capital da sociedade a cindir, nos casos em que essa redução esteja sujeita aos requisitos gerais de que depende esta alteração estatutária, conforme a previsão da parte final do artigo 26.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, será substituído pelo registo provisório da deliberação da cisão.
 
-###### Art. 5.º (transitório). É dispensável a aplicação do disposto nos artigos 11.º e 12.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, às cisões de sociedades já tituladas à data da entrada em vigor do presente diploma legal.
+Art. 5.º (transitório). É dispensável a aplicação do disposto nos artigos 11.º e 12.º do [Decreto-Lei n.º 598/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/598-1973-411612), de 8 de Novembro, às cisões de sociedades já tituladas à data da entrada em vigor do presente diploma legal.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Joaquim Pinto da Rocha e Cunha.
 
-**Promulgado em 15 de Setembro de 1975.**
+Promulgado em 15 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

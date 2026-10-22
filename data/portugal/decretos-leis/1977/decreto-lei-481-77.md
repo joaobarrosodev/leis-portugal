@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 264/1977, 1º Suplemento, Série I de 1977-11-15
   number: '264'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2726-(1) a 2726-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/11/26401/00010003.pdf
 entry_into_force_dates: []
@@ -46,40 +46,76 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1977-305456
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T23:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3838437500a9f668ab043c87e35aee3c9d519df710c79c3d0bffd033a0b560be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 166feba3a55e2690535c653fae4d755763f759e418166573960e025d2a6c2931
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Escola Superior de Medicina de Lisboa
+- Extinção de Serviços
+- Instituto de Ciências Biomédicas de Lisboa
+- Universidade NOVA de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:578335:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:301225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:301226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355308:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:578335:por
+  label: "Revogado o nº 1 do art. 13º pelo DEC LEI.172/81.24.06.1981.MECI, DR.IS [142] de 24.06.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1981-578335
+  date: '1981-06-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:07:56Z'
   warnings: []
   errors: []
 ---
@@ -102,15 +138,15 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada na Universidade Nova de Lisboa a Faculdade de Ciências Médicas (FCM).
+Artigo 1.º É criada na Universidade Nova de Lisboa a Faculdade de Ciências Médicas (FCM).
 
-###### Art. 2.º - 1 - A Faculdade agora criada é pessoa colectiva de direito público, dotada de autonomia científica, pedagógica e administrativa, sem prejuízo das orientações gerais do Ministério da Educação e Investigação Científica, de acordo com a planificação do ensino e da investigação.
+Art. 2.º - 1 - A Faculdade agora criada é pessoa colectiva de direito público, dotada de autonomia científica, pedagógica e administrativa, sem prejuízo das orientações gerais do Ministério da Educação e Investigação Científica, de acordo com a planificação do ensino e da investigação.
 
 2 - A nova Faculdade ficará sujeita ao regime de instalação constante do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, por um período de três anos.
 
 3 - A FCM poderá, para efeitos pedagógicos e administrativos, corresponder-se directamente com a Direcção-Geral do Ensino Superior.
 
-###### Art. 3.º A FCM tem como atribuições:
+Art. 3.º A FCM tem como atribuições:
 
 a) Ministrar o ensino conducente à licenciatura em Medicina;
 
@@ -118,15 +154,15 @@ b) Promover a investigação científica e realizar cursos de pós-graduação e
 
 c) Colaborar com instituições, organismos e serviços que requeiram o seu apoio científico ou outro, sempre que tal seja de interesse colectivo ou da saúde comunitária.
 
-###### Art. 4.º - 1 - A Faculdade de Ciências Médicas, para a realização da alínea a) do artigo 3.º, compreende na sua organização estrutural as seguintes grandes unidades: pré-clínica, clínica e de saúde pública.
+Art. 4.º - 1 - A Faculdade de Ciências Médicas, para a realização da alínea a) do artigo 3.º, compreende na sua organização estrutural as seguintes grandes unidades: pré-clínica, clínica e de saúde pública.
 
 2 - A estrutura, a orientação pedagógica e a organização administrativa da FCM serão definidas nos respectivos estatutos, de acordo com as normas aplicáveis nos diplomas orientadores do ensino superior.
 
-###### Art. 5.º Por despacho conjunto do Ministro da Educação e Investigação Científica e Ministro dos Assuntos Sociais, serão designadas e articuladas com a nova Faculdade as unidades de saúde e estabelecimentos necessários ao ensino e à investigação, ficando desde já designado para aqueles fins o Hospital de Egas Moniz.
+Art. 5.º Por despacho conjunto do Ministro da Educação e Investigação Científica e Ministro dos Assuntos Sociais, serão designadas e articuladas com a nova Faculdade as unidades de saúde e estabelecimentos necessários ao ensino e à investigação, ficando desde já designado para aqueles fins o Hospital de Egas Moniz.
 
-###### Art. 6.º A FCM poderá celebrar acordos ou contratos com instituições de saúde de reconhecida idoneidade para efeitos de utilização de serviços nelas integrados como área de ensino e investigação, mediante prévia autorização do Ministro da Tutela, sempre que se trate de instituições públicas.
+Art. 6.º A FCM poderá celebrar acordos ou contratos com instituições de saúde de reconhecida idoneidade para efeitos de utilização de serviços nelas integrados como área de ensino e investigação, mediante prévia autorização do Ministro da Tutela, sempre que se trate de instituições públicas.
 
-###### Art. 7.º - 1 - O Ministro da Educação e Investigação Científica designará para a FCM uma comissão instaladora constituída da seguinte forma:
+Art. 7.º - 1 - O Ministro da Educação e Investigação Científica designará para a FCM uma comissão instaladora constituída da seguinte forma:
 
 a) Um presidente, habilitado com o grau de doutor em Medicina;
 
@@ -136,7 +172,7 @@ c) O secretário da Faculdade, que secretariará as respectivas reuniões, sem d
 
 2 - Poderão ser agregados à Comissão Instaladora, sem direito a voto, técnicos de apoio nos campos da engenharia hospitalar, arquitectura, enfermagem e serviços de apoio, em número não superior a cinco.
 
-###### Art. 8.º Compete à Comissão Instaladora, além dos poderes fixados no artigo 16.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), exercer, dentro dos limites dos despachos previstos no artigo 5.º deste diploma:
+Art. 8.º Compete à Comissão Instaladora, além dos poderes fixados no artigo 16.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), exercer, dentro dos limites dos despachos previstos no artigo 5.º deste diploma:
 
 a) Elaborar o estatuto da FCM e submetê-lo à aprovação do Ministro da Educação e Investigação Científica;
 
@@ -148,7 +184,7 @@ d) Propor à aprovação do Ministro da Educação e Investigação Científica 
 
 e) Elaborar as propostas dos acordos e contratos a que se refere o artigo 6.º para aprovação conjunta do Ministro da Educação e Investigação Científica e do Ministro da Tutela.
 
-###### Art. 9.º Compete ao presidente da Comissão Instaladora:
+Art. 9.º Compete ao presidente da Comissão Instaladora:
 
 a) Representar a Faculdade em juízo e fora dele;
 
@@ -160,7 +196,7 @@ d) Presidir ao conselho administrativo;
 
 e) Tomar, em termos legais, as iniciativas conducentes ao desenvolvimento da Faculdade e ao bom cumprimento das funções a ela cometidas.
 
-###### Art. 10.º - 1 - A gestão administrativa, financeira e patrimonial da FCM será assegurada, durante o período de instalação, pelo conselho administrativo.
+Art. 10.º - 1 - A gestão administrativa, financeira e patrimonial da FCM será assegurada, durante o período de instalação, pelo conselho administrativo.
 
 2 - Compõem o conselho administrativo:
 
@@ -170,11 +206,11 @@ b) Um docente, membro daquela Comissão, designado por despacho do Ministro da E
 
 c) O secretário da Faculdade.
 
-###### Art. 11.º - 1 - O lugar de secretário, de categoria correspondente à letra G, será provido, por proposta do presidente da Comissão Instaladora e mediante despacho ministerial, de entre licenciados em Direito, Economia ou Organização e Gestão de Empresas.
+Art. 11.º - 1 - O lugar de secretário, de categoria correspondente à letra G, será provido, por proposta do presidente da Comissão Instaladora e mediante despacho ministerial, de entre licenciados em Direito, Economia ou Organização e Gestão de Empresas.
 
 2 - O provimento a que se refere o número anterior será feito em comissão de serviço ou por contratos trienais renováveis.
 
-###### Art. 12.º Compete ao secretário, de acordo com a orientação transmitida pelo presidente da Comissão Instaladora respectiva:
+Art. 12.º Compete ao secretário, de acordo com a orientação transmitida pelo presidente da Comissão Instaladora respectiva:
 
 a) Assegurar o funcionamento dos serviços administrativos e auxiliares e dirigir o respectivo pessoal;
 
@@ -182,36 +218,36 @@ b) Dar execução às deliberações da Comissão Instaladora e do conselho admi
 
 c) Redigir as actas das reuniões da Comissão Instaladora e assiná-las conjuntamente com o presidente.
 
-###### Art. 13.º - 1 - O pessoal contratado como docente das disciplinas clínicas, salvo nos casos previstos no número seguinte, passará a exercer, enquanto se mantiver nessa docência, funções hospitalares na correspondente unidade ou estabelecimentos previstos no artigo 5.º, nos termos do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, sendo-lhe aplicável o regime dos artigos 8.º e 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, ficando à responsabilidade do MEIC o pagamento das respectivas retribuições desde que os mesmos sejam reconhecidos como excedentários por despacho do Secretário de Estado da Saúde.
+Art. 13.º - 1 - O pessoal contratado como docente das disciplinas clínicas, salvo nos casos previstos no número seguinte, passará a exercer, enquanto se mantiver nessa docência, funções hospitalares na correspondente unidade ou estabelecimentos previstos no artigo 5.º, nos termos do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, sendo-lhe aplicável o regime dos artigos 8.º e 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, ficando à responsabilidade do MEIC o pagamento das respectivas retribuições desde que os mesmos sejam reconhecidos como excedentários por despacho do Secretário de Estado da Saúde.
 
 2 - O pessoal docente que exerça funções de chefia noutras unidades hospitalares e cuja permanência à frente dos mesmos serviços seja considerada necessária ou conveniente, por despacho do Secretário de Estado da Saúde, poderá manter-se transitoriamente e não para além do período de instalação da FCM, em acumulação, no exercício de ambos os cargos, sendo-lhe aplicável, em tal caso, o regime do artigo 12.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226).
 
 3 - O pessoal de outros estabelecimentos que, nos termos de acordos previstos no artigo 6.º, venha a exercer funções docentes terá direito a 30% do vencimento da sua categoria no estabelecimento em que preste serviço.
 
-###### Art. 14.º - 1 - É extinto o Instituto de Ciências Biomédicas de Lisboa.
+Art. 14.º - 1 - É extinto o Instituto de Ciências Biomédicas de Lisboa.
 
 2 - O ciclo básico pré-clínico do curso de Medicina que ali vem sendo ministrado é integrado, para todos os efeitos, na FCM.
 
-###### Art. 15.º - 1 - O material e o equipamento pertencentes, à data de extinção, ao Instituto de Ciências Biomédicas de Lisboa são transferidos para a FCM, passando a constituir património da mesma.
+Art. 15.º - 1 - O material e o equipamento pertencentes, à data de extinção, ao Instituto de Ciências Biomédicas de Lisboa são transferidos para a FCM, passando a constituir património da mesma.
 
 2 - Os saldos do orçamento daquele Instituto à data da sua inscrição serão transferidos para a FCM, que lhe sucederá nos direitos e obrigações, sem prejuízo do disposto no artigo seguinte.
 
-###### Art. 16.º - 1 - O pessoal pertencente ao quadro anexo ao [Decreto-Lei n.º 759/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1975-355308), de 31 de Dezembro, cuja contratação, nos termos do artigo 24.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, não for proposta pela Comissão Instaladora da FCM será provido em lugares de categoria idêntica ou equivalente de outros estabelecimentos de ensino de Lisboa ou, quando tal não seja possível, ser-lhe-á aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
+Art. 16.º - 1 - O pessoal pertencente ao quadro anexo ao [Decreto-Lei n.º 759/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1975-355308), de 31 de Dezembro, cuja contratação, nos termos do artigo 24.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, não for proposta pela Comissão Instaladora da FCM será provido em lugares de categoria idêntica ou equivalente de outros estabelecimentos de ensino de Lisboa ou, quando tal não seja possível, ser-lhe-á aplicável o disposto no artigo 1.º do [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
 2 - A FCM suportará o encargo com os vencimentos do pessoal do Instituto de Ciências Biomédicas de Lisboa até à definição das suas novas situações.
 
-###### Art. 17.º Sem prejuízo do disposto no artigo 15.º, n.º 2, as despesas com a instalação e funcionamento da Faculdade de Ciências Médicas de Lisboa serão satisfeitas, durante o período de instalação, por conta das dotações para os novos estabelecimentos de ensino, do orçamento da Direcção-Geral do Ensino Superior.
+Art. 17.º Sem prejuízo do disposto no artigo 15.º, n.º 2, as despesas com a instalação e funcionamento da Faculdade de Ciências Médicas de Lisboa serão satisfeitas, durante o período de instalação, por conta das dotações para os novos estabelecimentos de ensino, do orçamento da Direcção-Geral do Ensino Superior.
 
-###### Art. 18.º Para efeitos do presente diploma, são aplicáveis as disposições contidas na [Portaria n.º 234/77](https://diariodarepublica.pt/dr/detalhe/portaria/234-1977-301225), de 4 de Maio.
+Art. 18.º Para efeitos do presente diploma, são aplicáveis as disposições contidas na [Portaria n.º 234/77](https://diariodarepublica.pt/dr/detalhe/portaria/234-1977-301225), de 4 de Maio.
 
-###### Art. 19.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou, quando for caso disso, pelo mesmo e pelo Ministro dos Assuntos Sociais ou o Ministro da Tutela.
+Art. 19.º As dúvidas surgidas na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica ou, quando for caso disso, pelo mesmo e pelo Ministro dos Assuntos Sociais ou o Ministro da Tutela.
 
-###### Art. 20.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, considerando-se sem efeito todas as referências do mesmo diploma à Escola Superior de Medicina de Lisboa, bem como o [Decreto-Lei n.º 759/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1975-355308), de 31 de Dezembro.
+Art. 20.º Fica revogado o artigo 3.º do [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), de 4 de Maio, considerando-se sem efeito todas as referências do mesmo diploma à Escola Superior de Medicina de Lisboa, bem como o [Decreto-Lei n.º 759/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1975-355308), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Mário Augusto Sottomayor Leal Cardia - Armando Bacelar.
 
-**Promulgado em 11 de Novembro de 1977.**
+Promulgado em 11 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

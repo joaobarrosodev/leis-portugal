@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17400/17021704.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cb7e826749edd925cab2b0eca18f77e3de5d3b7b676aa75c73f3a58ff0100a7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4e6023a549f6a75cda040107f6a671944c8be1bab0a5901bf582099e8028d42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Reserva Natural
 relationships:
 - type: amended_by
   target: pt:dre:454502:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:383656:por
+  label: "Alterados os artigos 1.º e 5.º pelo DEC LEI.40/79.05.03.1979.MHOP, DR.IS [53] de 05.03.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/40-1979-383656
+  date: '1979-03-05'
+- type: amended_by
+  target: pt:dre:454502:por
+  label: "Mantida em vigor a classificação das áreas protegidas feita ao abrigo do presente diploma, pelo DEC LEI.142/2008.24.07.2008.MAOTDR,\
+    \ DR.IS [142] de 24.07.2008, sem prejuízo dos nºs 2 e 4 do seu art. 49º,\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-2008-454502
+  date: '2008-07-24'
+- type: cites
+  target: pt:dre:140853:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:584781:por
+  label: "Revogado pelo DEC LEI.19/93.23.01.1993.MARN, DR.IS-A [19] de 23.01.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/19-1993-584781
+  date: '1993-01-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:43Z'
   warnings: []
   errors: []
 ---
@@ -108,7 +129,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Compete à Secretaria de Estado do Ambiente, após prévia audição dos diversos departamentos ministeriais competentes, propor ao Conselho de Ministros a definição e constituição de:
+Artigo 1.º - 1. Compete à Secretaria de Estado do Ambiente, após prévia audição dos diversos departamentos ministeriais competentes, propor ao Conselho de Ministros a definição e constituição de:
 
 a) Reservas naturais (integrais e parques nacionais);
 
@@ -122,7 +143,7 @@ e) Objectos, conjuntos, sítios e lugares classificados; f) Parques naturais.
 
 2 - A gestão dos parques e reservas será feita pelo Serviço Nacional de Parques, Reservas e Património Paisagístico em colaboração com as comissões das autarquias locais, assembleias de compartes e departamentos do Estado, de acordo com legislação a aprovar.
 
-###### Art. 2.º Para efeitos da classificação das áreas nas quais se aplicam medidas de defesa e conservação previstas no artigo anterior, consideram-se as seguintes definições:
+Art. 2.º Para efeitos da classificação das áreas nas quais se aplicam medidas de defesa e conservação previstas no artigo anterior, consideram-se as seguintes definições:
 
 1 - Reserva natural integral e parque nacional:
 
@@ -146,7 +167,7 @@ Nesta classificação consideram-se as áreas particularmente aptas a satisfazer
 
 O parque natural pode englobar uma ou mais áreas com os diferentes tipos anteriormente referidos, que se articulam numa estrutura funcional, com regulamentos específicos integrados no regulamento geral.
 
-###### Art. 3.º Compete à Secretaria de Estado do Ambiente, após prévia audição dos diversos departamentos ministeriais competentes, propor ao Conselho de Ministros a definição de áreas que especialmente garantem o equilíbrio biológico da paisagem regional.
+Art. 3.º Compete à Secretaria de Estado do Ambiente, após prévia audição dos diversos departamentos ministeriais competentes, propor ao Conselho de Ministros a definição de áreas que especialmente garantem o equilíbrio biológico da paisagem regional.
 
 a) Áreas ecológicas especiais;
 
@@ -156,7 +177,7 @@ c) Áreas degradadas a recuperar;
 
 d) Áreas de reservas de subsolo.
 
-###### Art. 4.º Para efeito do disposto no artigo anterior, consideram-se as seguintes definições:
+Art. 4.º Para efeito do disposto no artigo anterior, consideram-se as seguintes definições:
 
 a) Área ecológica especial. - Áreas de alto valor ecológico, quer quanto à produtividade, quer quanto à natureza e qualidade dos produtos, em que deverá assegurar-se a manutenção da fertilidade e da capacidade de renovação dos recursos naturais e que garantem o equilíbrio biológico da paisagem regional.
 
@@ -166,16 +187,16 @@ c) Área degradada a recuperar. - Áreas cujo solo ou vegetação foram destruí
 
 d) Áreas de reserva de subsolo. - Zonas em cujo subsolo existem recursos disponíveis, minerais ou aquíferos, que interessa salvaguardar para oportuna utilização.
 
-###### Art. 5.º - 1. Compete à Secretaria de Estado do Ambiente, conjuntamente com os Ministérios da Habitação e Urbanismo, da Agricultura e Pescas, Obras Públicas, Comércio Externo e Indústria e Tecnologia e com os Ministérios porventura interessados nas áreas a considerar, propor a Conselho de Ministros a delimitação de áreas a sujeitar a medidas cautelares temporárias.
+Art. 5.º - 1. Compete à Secretaria de Estado do Ambiente, conjuntamente com os Ministérios da Habitação e Urbanismo, da Agricultura e Pescas, Obras Públicas, Comércio Externo e Indústria e Tecnologia e com os Ministérios porventura interessados nas áreas a considerar, propor a Conselho de Ministros a delimitação de áreas a sujeitar a medidas cautelares temporárias.
 
 2. Estas medidas terão por finalidade permitir, através dos departamentos do Estado competentes, ouvidas as populações locais, o estudo da definição, quer das áreas de protecção e recreio, ou afectas à salvaguarda de recursos naturais, a que se refere o artigo 4.º deste decreto, quer as destinadas a empreendimentos planeados com vista à efectivação dos programas de desenvolvimento nacional e regional.
 
-###### Art. 6.º Este diploma revoga a [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho.
+Art. 6.º Este diploma revoga a [Lei n.º 9/70](https://diariodarepublica.pt/dr/detalhe/lei/9-1970-140853), de 19 de Junho.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Eduardo Ribeiro Pereira.
 
-**Promulgado em 13 de Julho de 1976.**
+Promulgado em 13 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

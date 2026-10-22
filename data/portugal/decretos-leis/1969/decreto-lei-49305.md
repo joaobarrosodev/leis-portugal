@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49305-1969-216290
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83f46193a02622c6c11604dcf24a6894d39744f9d1530b26a508202a4b937320
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f140d205ead6455a45cca85a05457e6bed1c5fc28d30f9c80ad2f3040bf7ba84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Banco de Portugal
+- CABO Verde.Colónia Portuguesa
+- Compensação Financeira
+- Controlo Financeiro
+- Fundo Cambial
+- Fundo Monetário da ZONA do Escudo
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Timor.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:216289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:16Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +109,9 @@ Ouvido o Conselho de Ministros para os Assuntos Económicos;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 10.º, 20.º, 29.º e 36.º do [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, é modificada como a seguir se indica:
+Artigo 1.º A redacção dos artigos 10.º, 20.º, 29.º e 36.º do [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465), de 17 de Novembro de 1962, é modificada como a seguir se indica:
 
-###### Art. 10.º ...
+Art. 10.º ...
 
 § 1.º ...
 
@@ -102,17 +121,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ...
 
-###### Art. 20.º As disponibilidades em moeda estrangeira existentes nas contas de reserva abertas no Banco de Portugal, na medida em que não forem necessárias para assegurar, nos termos deste decreto-lei, quer a liquidação de operações com o estrangeiro ou de pagamentos interterritoriais, requeridas pela economia da respectiva província ultramarina, quer a regularização dos seus débitos líquidos, poderão, a pedido dos fundos cambiais e por conta destes, ser aplicadas pelo Banco de Portugal em operações a prazo, com vencimento não superior a um ano, sendo os rendimentos desta aplicação, deduzidos das inerentes despesas ou encargos, creditados nas mencionadas contas de reserva.
+Art. 20.º As disponibilidades em moeda estrangeira existentes nas contas de reserva abertas no Banco de Portugal, na medida em que não forem necessárias para assegurar, nos termos deste decreto-lei, quer a liquidação de operações com o estrangeiro ou de pagamentos interterritoriais, requeridas pela economia da respectiva província ultramarina, quer a regularização dos seus débitos líquidos, poderão, a pedido dos fundos cambiais e por conta destes, ser aplicadas pelo Banco de Portugal em operações a prazo, com vencimento não superior a um ano, sendo os rendimentos desta aplicação, deduzidos das inerentes despesas ou encargos, creditados nas mencionadas contas de reserva.
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § único. Se na determinação dos créditos e débitos bilaterais, relativamente a determinado período contabilístico, se verificar terem sido excedidos os limites estabelecidos nos artigos 11.º e 13.º, não será a importância do excesso considerada nas operações de compensação e de regularização desse período e de que trata o sistema instituído no presente decreto-lei
 
 ...
 
-###### Art. 36.º ...
+Art. 36.º ...
 
 § 1.º As províncias ultramarinas respondem solidàriamente para com o Estado pelo capital do Fundo Monetário, na razão e até ao limite das seguintes proporções ou quotas-partes:
 
@@ -136,19 +155,19 @@ Total ... 1500000000$00
 
 ...
 
-###### Art. 2.º É aditado ao artigo 41.º do [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465) um novo parágrafo, com a redacção que segue:
+Art. 2.º É aditado ao artigo 41.º do [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465) um novo parágrafo, com a redacção que segue:
 
 § 3.º Nos contratos de empréstimos mencionados no presente artigo e em representação do fundo cambial da província ultramarina outorgará o inspector de crédito e seguros ou do comércio bancário da mesma província ou, em sua substituição, a pessoa que for nomeada para esse efeito por despacho do Ministro do Ultramar.
 
-###### Art. 3.º A alínea d) do corpo do artigo 47.º do citado [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465) passa a ter a redacção seguinte:
+Art. 3.º A alínea d) do corpo do artigo 47.º do citado [Decreto-Lei n.º 44703](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44703-1962-237465) passa a ter a redacção seguinte:
 
 d) O director-geral do Secretariado Técnico da Presidência do Conselho;
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 1 de Outubro de 1969.**
+Promulgado em 1 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/22400/11351136.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/482-1974-473369
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: def787fce11b06e40931ae2e6f28a957a17dc1269b729aac9c551f6a3e9a07da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 960106de007f604029a5f9dfb2df77397683b42ae9423271ec9219ee90f93baf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA da Lavoura
+- Comissão Coordenadora
+- Comissão Liquidatária
+- Definição de Competências
+- Extinção de Serviços
+- Gestão de Recursos Humanos
+- Gestão do Património
+- Gestão Financeira
+- Grémios da Lavoura
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:351731:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:10Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +111,13 @@ Considerando necessário e urgente proceder à extinção dos grémios da lavour
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São extintos os grémios da lavoura e suas federações.
+Artigo 1.º - 1. São extintos os grémios da lavoura e suas federações.
 
 2. A data efectiva da extinção destes organismos será determinada por despacho conjunto dos Ministros da Economia e do Trabalho, o qual regulará igualmente quaisquer condições especiais relativas a essa extinção, para além do que se dispõe no presente diploma.
 
 3. A extinção efectiva destes organismos não deverá ser posterior a 31 de Dezembro de 1974, salvo quando, em casos excepcionais, se verifique grave inconveniente na interrupção das funções relativas às actividades económicas exercidas pelo organismo.
 
-###### Art. 2.º - 1. Os Ministros da Economia e do Trabalho, em despacho conjunto, nomearão uma comissão coordenadora, da qual farão parte, entre outros, representantes das Secretarias de Estado da Agricultura, do Abastecimento e Preços e do Trabalho.
+Art. 2.º - 1. Os Ministros da Economia e do Trabalho, em despacho conjunto, nomearão uma comissão coordenadora, da qual farão parte, entre outros, representantes das Secretarias de Estado da Agricultura, do Abastecimento e Preços e do Trabalho.
 
 2. À comissão coordenadora incumbe, tendo em vista a extinção determinada por este diploma, realizar os estudos de conjunto que se suscitam no âmbito da actividade da organização corporativa da lavoura, quer no aspecto económico, quer no que respeita aos interesses dos agricultores, quer ainda no campo estritamente laboral, competindo-lhe, designadamente:
 
@@ -116,7 +135,7 @@ f) Propor, sempre que julgue necessário, a criação de subcomissões para a re
 
 g) Dar parecer sobre todas as matérias que lhe sejam submetidas superiormente, dentro dos fins deste decreto-lei.
 
-###### Art. 3.º Por despacho conjunto dos Ministros da Economia e do Trabalho serão nomeadas comissões liquidatárias para os grémios e suas federações, às quais compete, designadamente:
+Art. 3.º Por despacho conjunto dos Ministros da Economia e do Trabalho serão nomeadas comissões liquidatárias para os grémios e suas federações, às quais compete, designadamente:
 
 a) Assegurar a gestão dos organismos até à sua extinção efectiva;
 
@@ -124,7 +143,7 @@ b) Proceder ao inventário dos valores activos e passivos dos organismos, manten
 
 c) Colaborar com a comissão coordenadora no estudo das providências a adoptar para a efectivação da extinção dos organismos respectivos.
 
-###### Art. 4.º - 1. A extinção efectiva dos grémios da lavoura e suas federações implica a transferência para as entidades que forem indicadas no despacho a que se refere o n.º 2 do artigo 1.º e nos termos no mesmo prescritos:
+Art. 4.º - 1. A extinção efectiva dos grémios da lavoura e suas federações implica a transferência para as entidades que forem indicadas no despacho a que se refere o n.º 2 do artigo 1.º e nos termos no mesmo prescritos:
 
 a) Das funções que devam subsistir;
 
@@ -140,20 +159,20 @@ c) Dos saldos de fundos existentes.
 
 5. A transferência do património dos organismos extintos está isenta de quaisquer contribuições e impostos.
 
-###### Art. 5.º - 1. O pessoal dos organismos extintos nos termos deste diploma poderá ser colocado em qualquer serviço dos Ministérios da Economia e do Trabalho, em organismos de coordenação económica ou outros institutos públicos, mediante despacho dos Ministros da Economia e do Trabalho, tendo em conta as transferências efectuadas de funções e património, bem como os princípios gerais a observar, em ordem a assegurar o melhor aproveitamento da capacidade profissional dos empregados e o necessário saneamento dos quadros.
+Art. 5.º - 1. O pessoal dos organismos extintos nos termos deste diploma poderá ser colocado em qualquer serviço dos Ministérios da Economia e do Trabalho, em organismos de coordenação económica ou outros institutos públicos, mediante despacho dos Ministros da Economia e do Trabalho, tendo em conta as transferências efectuadas de funções e património, bem como os princípios gerais a observar, em ordem a assegurar o melhor aproveitamento da capacidade profissional dos empregados e o necessário saneamento dos quadros.
 
 2. Poderá também o mesmo pessoal ficar ao serviço de entidades privadas, às quais venham a ser atribuídas funções dos organismos extintos e parte ou totalidade do seu património, nos termos previstos no n.º 2 do artigo 4.º, nas condições que vierem a ser reguladas.
 
 3. A transferência do pessoal para serviços dos Ministérios da Economia ou do Trabalho ou para institutos públicos efectuar-se-á independentemente de quaisquer requisitos ou formalidades, incluindo o visto do Tribunal de Contas, ficando o mesmo pessoal adido aos quadros, em categorias correspondentes às que tinha, até que seja definida a sua situação.
 
-###### Art. 6.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho dos Ministros da Economia e do Trabalho.
+Art. 6.º As dúvidas suscitadas na execução deste diploma serão esclarecidas por despacho dos Ministros da Economia e do Trabalho.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor.
+Art. 7.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar - José Inácio da Costa Martins.
 
-**Promulgado em 19 de Setembro de 1974.**
+Promulgado em 19 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

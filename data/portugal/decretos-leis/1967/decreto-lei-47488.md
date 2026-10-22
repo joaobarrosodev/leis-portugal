@@ -47,40 +47,134 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 62fe02df14b9ce67aaf25d2b4a547168e300d02a91a613ed0d2ae4cb193ddaa8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 50a99675c84dfe60c7ede00e36d408bbe4b94df9c38b0726a4d107c998652659
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Administrador
+- Admissão de Pessoal
+- Condutor
+- CTT
+- Formas de Provimento
+- Gabinete Governamental
+- Gestão Administrativa
+- Integração de Trabalhadores
+- Ministro das Comunicações
+- Orgânica
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Serviços
+- Regime de Pessoal
+- Remuneração
+- Sistema Retributivo
+- Telefone
+- Telefonista
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:214525:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:400617:por
+  label: "Alterada, a partir de 01.01.1968, a composição dos grupos 1, 2, 3, 5, 7-B, 10, 12, 13, 15-A, 18, 24, 25, 26, 27,\
+    \ 28, 29 e 30 dos quadros de pessoal dos CTT, fixados no art. 5º do Dec Lei 36155 de 10-Fev de 1947, com a redacção constante\
+    \ do presente diploma pelo DEC.48100.11.12.1967.MCOMN, DG.IS [286] de 11.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48100-1967-400617
+  date: '1967-12-11'
+- type: amended_by
+  target: pt:dre:214525:por
+  label: "Dada nova redacção aos arts. 9º, 17º e 18º do Dec Lei 36155 de 10-Fev de 1947, com a redacção constante do presente\
+    \ diploma, pelo DEC LEI.49251.19.09.1969.MCOMN, DG.IS [220] de 19.09.1969 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49251-1969-214525
+  date: '1969-09-19'
+- type: cites
+  target: pt:dre:148061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:211983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:267618:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358735:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584388:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672815:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:504477:por
+  label: "Rectificado o art. 2º (na parte em que deu nova redacção ao art. 16º e á al. do § 2º do art. 39º, ambos do Dec Lei\
+    \ 36155 de 10-Fev de 1947) e o art. 11º pela RECT.DD624.17.02.1967.PC, DG.IS [41] de 17.02.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-504477
+  date: '1967-02-17'
+- type: corrected_by
+  target: pt:dre:503632:por
+  label: "Rectificada a Rect DD624 de 17-Fev de 1967, na rectificação efectuada ao art. 2º do presente diploma (na parte em\
+    \ que conferiu nova redacção à al. d) do art. 16º do Dec Lei 36155 de 10-Fev de 1947) pela RECT.DD643.08.03.1967.PC, DG.IS\
+    \ [57] de 08.03.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1967-503632
+  date: '1967-03-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:51Z'
   warnings: []
   errors: []
 ---
@@ -115,15 +209,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A Administração-Geral dos Correios, Telégrafos e Telefones promoverá a ultimação dos estudos em curso para a reforma da sua actual orgânica, seguindo a orientação expressa no artigo 1.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+Artigo 1.º A Administração-Geral dos Correios, Telégrafos e Telefones promoverá a ultimação dos estudos em curso para a reforma da sua actual orgânica, seguindo a orientação expressa no artigo 1.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
 Em resultado desses estudos, os CTT poderão diferenciar-se dos órgãos da administração pública corrente, na medida em que seja necessário adaptar a sua orgânica, regras de administração e métodos de trabalho às funções especializadas que lhes competem, às exigências de desenvolvimento económico e social da colectividade e aos novos meios que a evolução técnica faculta.
 
 § único. As modificações de orgânica referidas no corpo do artigo deverão processar-se por fases, de forma a não causar perturbações no serviço prestado ao público.
 
-###### Art. 2.º Em primeira fase que tem por fim a integração nos quadros de funcionários em situação provisória e com, pelo menos, três anos de serviço, além de pequenos reajustamentos que a experiência impõe, os artigos 2.º, 4.º, 5.º, 6.º, 8.º, 9.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 28.º, 32.º, 33.º, 35.º, 36.º, 37.º, 39.º, 40.º, 41.º, 51.º, 52.º, 53.º, 56.º e 69.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, passam a ter a seguinte redacção:
+Art. 2.º Em primeira fase que tem por fim a integração nos quadros de funcionários em situação provisória e com, pelo menos, três anos de serviço, além de pequenos reajustamentos que a experiência impõe, os artigos 2.º, 4.º, 5.º, 6.º, 8.º, 9.º, 13.º, 15.º, 16.º, 17.º, 18.º, 19.º, 22.º, 28.º, 32.º, 33.º, 35.º, 36.º, 37.º, 39.º, 40.º, 41.º, 51.º, 52.º, 53.º, 56.º e 69.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, passam a ter a seguinte redacção:
 
-###### Art. 2.º Os serviços centrais de correios, de telecomunicações, radioeléctricos, industriais, financeiros e administrativos constituem direcções, que compreendem divisões, repartições, secretarias e uma tesouraria, nos termos seguintes:
+Art. 2.º Os serviços centrais de correios, de telecomunicações, radioeléctricos, industriais, financeiros e administrativos constituem direcções, que compreendem divisões, repartições, secretarias e uma tesouraria, nos termos seguintes:
 
 I - Direcção dos Serviços de Correios
 
@@ -193,7 +287,7 @@ VI - Direcção dos Serviços Administrativos
 
 ...
 
-###### Art. 4.º As circunscrições e os sectores radioeléctricos exercem a sua acção dentro de determinados limites territoriais, a saber:
+Art. 4.º As circunscrições e os sectores radioeléctricos exercem a sua acção dentro de determinados limites territoriais, a saber:
 
 a) As circunscrições de exploração postal, em número de treze, dentro das divisões territoriais delimitadas pela Administração-Geral no continente e das áreas de cada arquipélago dos Açores e da Madeira, tomando o nome de cada uma das províncias e dos arquipélagos em cujas capitais têm a sua sede;
 
@@ -237,7 +331,7 @@ O seu número e localização poderão variar segundo as necessidades do serviç
 
 § 2.º Tanto as circunscrições referidas no parágrafo antecedente como a rede de ambulâncias postais serão dotadas de secretarias.
 
-###### Art. 5.º Os funcionários normalmente necessários ao desempenho do serviço dos CTT agrupam-se em quadros. A composição desses quadros e as remunerações certas mensais do respectivo pessoal são as seguintes:
+Art. 5.º Os funcionários normalmente necessários ao desempenho do serviço dos CTT agrupam-se em quadros. A composição desses quadros e as remunerações certas mensais do respectivo pessoal são as seguintes:
 
 Quadro do pessoal de administração central
 
@@ -617,7 +711,7 @@ b) Nos períodos e condições estabelecidos no artigo 5.º do [Decreto n.º 194
 
 Os funcionários que faltarem, por motivo de doença, além do limite indicado na alínea a) serão considerados na situação de «sem serviço por doença».
 
-###### Art. 6.º Quando as exigências do serviço assim o determinarem, poderá ser admitido transitòriamente, pelo tempo que for julgado necessário, pessoal suplementar além dos quadros referidos no artigo anterior, para as categorias ou classes de entrada dos grupos que não tenham reserva, para as categorias do quadro de reserva, para a aprendizagem consignados no § 3.º deste artigo e ainda para categorias não previstas no presente diploma.
+Art. 6.º Quando as exigências do serviço assim o determinarem, poderá ser admitido transitòriamente, pelo tempo que for julgado necessário, pessoal suplementar além dos quadros referidos no artigo anterior, para as categorias ou classes de entrada dos grupos que não tenham reserva, para as categorias do quadro de reserva, para a aprendizagem consignados no § 3.º deste artigo e ainda para categorias não previstas no presente diploma.
 
 § 1.º As remunerações certas do pessoal admitido nos termos deste artigo não poderão exceder as estabelecidas no presente decreto-lei para as mesmas categorias; na falta de equiparação, serão fixadas pelo Ministro das Comunicações por analogia com aquelas.
 
@@ -631,25 +725,25 @@ b) Os desenhadores, instaladores e fiscais radiotécnicos, no período de aprend
 
 ...
 
-###### Art. 8.º As dotações do pessoal dos quadros dos CTT estabelecidas no presente diploma serão revistas de dois em dois anos e as alterações resultantes serão fixadas em decreto regulamentar firmado pelo Ministro das Comunicações, para vigorarem no ano seguinte.
+Art. 8.º As dotações do pessoal dos quadros dos CTT estabelecidas no presente diploma serão revistas de dois em dois anos e as alterações resultantes serão fixadas em decreto regulamentar firmado pelo Ministro das Comunicações, para vigorarem no ano seguinte.
 
 § único. A primeira dessas revisões produzirá os seus efeitos a partir de 1 de Janeiro de 1968.
 
-###### Art. 9.º A admissão de funcionários para os quadros de pessoal dos CTT far-se-á sempre a título provisório. Salvo os casos especiais previstos neste decreto-lei, a entrada para os grupos dos quadros far-se-á mediante concurso pela última classe ou categoria dos mesmos grupos ou pela categoria de reserva, para os grupos que a possuem.
+Art. 9.º A admissão de funcionários para os quadros de pessoal dos CTT far-se-á sempre a título provisório. Salvo os casos especiais previstos neste decreto-lei, a entrada para os grupos dos quadros far-se-á mediante concurso pela última classe ou categoria dos mesmos grupos ou pela categoria de reserva, para os grupos que a possuem.
 
 § único. Também não é exigível concurso na admissão para os grupos 28 e 31 a 35 e para a reserva do grupo 27.
 
 ...
 
-###### Art. 13.º Fica o Ministro das Comunicações autorizado, sempre que a urgente conveniência do serviço o aconselhe, a determinar que a excepção estabelecida no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, seja aplicada, nos termos dos §§ 2.º e 3.º do citado artigo, aos diplomas de nomeação e colocação do pessoal dos CTT.
+Art. 13.º Fica o Ministro das Comunicações autorizado, sempre que a urgente conveniência do serviço o aconselhe, a determinar que a excepção estabelecida no § 1.º do artigo 24.º do [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618), de 25 de Fevereiro de 1933, seja aplicada, nos termos dos §§ 2.º e 3.º do citado artigo, aos diplomas de nomeação e colocação do pessoal dos CTT.
 
 § único. Aos indivíduos recrutados nestas condições pode ser adiantada importância equivalente ao vencimento mensal, por cada período de 30 dias de serviço efectivo; esse adiantamento é depois encontrado nos vencimentos a que vierem a ter direito. Todavia, aqueles em relação aos quais venha a ser negado o visto a que alude o § 2.º do referido [Decreto n.º 22257](https://diariodarepublica.pt/dr/detalhe/decreto/22257-1933-267618) cessam imediatamente as suas funções e são considerados recrutados ao abrigo do artigo 7.º do presente diploma durante o tempo de serviço que efectivamente prestarem, com salário equivalente ao vencimento da respectiva categoria.
 
 ...
 
-###### Art. 15.º Os funcionários dos grupos 6, 7, 7-A, 8 e 11 poderão ser promovidos às classes imediatamente superiores, mediante aprovação em provas, depois de três anos de serviço efectivo prestado em cada classe.
+Art. 15.º Os funcionários dos grupos 6, 7, 7-A, 8 e 11 poderão ser promovidos às classes imediatamente superiores, mediante aprovação em provas, depois de três anos de serviço efectivo prestado em cada classe.
 
-###### Art. 16.º As condições e normas de admissão e promoção do pessoal dos CTT passam a ser estabelecidas em portaria do Ministério das Comunicações, tendo em consideração os princípios fixados nas alíneas seguintes e demais disposições aplicáveis deste diploma:
+Art. 16.º As condições e normas de admissão e promoção do pessoal dos CTT passam a ser estabelecidas em portaria do Ministério das Comunicações, tendo em consideração os princípios fixados nas alíneas seguintes e demais disposições aplicáveis deste diploma:
 
 a) Os indivíduos do sexo feminino só poderão admitir-se, quer ao abrigo do artigo 9.º, quer ao abrigo do artigo 10.º, para consultor artístico, para os grupos 1, 2, 3, 4, 5, 6, 7, 7-A, 8, 11, 12, 17, 18, 19, 21, 22, 23, 25, 26 e para as reservas dos dois primeiros grupos. Poderão ainda ser admitidos, nos termos dos artigos 6.º e 7.º, para outros lugares adequados;
 
@@ -727,7 +821,7 @@ p) As unidades dos grupos 27 e 28 ou da reserva do grupo 27, com mais de cinco a
 
 q) Os antigos encarregados de estações regionais de correio, telégrafo e telefone poderão ter preferência na admissão aos lugares de operador de reserva e telefonista de reserva em condições a estabelecer, mas não poderão ascender a categoria superior às de operador ou telefonista de 2.ª classe sem possuírem as habilitações mínimas correspondentes.
 
-###### Art. 17.º Os funcionários do quadro do pessoal de reserva que possuam, pelo menos, um ano de bom e efectivo serviço serão integrados, nos termos dos parágrafos do presente artigo, nas categorias ou classes de entrada dos grupos correlativos, para preencherem as vagas que forem ocorrendo nas respectivas dotações.
+Art. 17.º Os funcionários do quadro do pessoal de reserva que possuam, pelo menos, um ano de bom e efectivo serviço serão integrados, nos termos dos parágrafos do presente artigo, nas categorias ou classes de entrada dos grupos correlativos, para preencherem as vagas que forem ocorrendo nas respectivas dotações.
 
 § 1.º A integração dos funcionários que tenham sido admitidos por concurso no quadro do pessoal de reserva será feita, sem dependência de novo concurso, alternadamente por ordem de antiguidade (fixada pela última lista geral homologada) e por ordem de classificação final obtida no concurso de admissão ao referido quadro.
 
@@ -735,7 +829,7 @@ Todavia, a integração por classificação suspender-se-á sempre que haja rese
 
 § 2.º Os funcionários admitidos para a reserva do grupo 27 serão integrados exclusivamente pela ordem da sua antiguidade, contada nos termos do parágrafo anterior, mas a sua integração dependerá de aprovação em exame de aptidão, nos termos das condições e normas que estiverem em vigor para admissão e promoção do pessoal dos CTT.
 
-###### Art. 18.º São providos por escolha os seguintes lugares:
+Art. 18.º São providos por escolha os seguintes lugares:
 
 a) Correio-mor (administrador-geral) - em indivíduo de reconhecida competência, diplomado com curso superior;
 
@@ -785,9 +879,9 @@ x) Telefonistas-chefes de 1.ª classe - em telefonistas-chefes de 2.ª classe do
 
 y) Fiscais de transportes mecânicos de 1.ª classe - em fiscais de transportes mecânicos de 2.ª classe do grupo 29.
 
-###### Art. 19.º São da competência do Ministro das Comunicações a nomeação, transferência, concessão de licenças, aposentação, exoneração, demissão, reintegração e demais actos relacionados com a situação e movimentação do pessoal referido nos artigos 5.º e 6.º deste diploma.
+Art. 19.º São da competência do Ministro das Comunicações a nomeação, transferência, concessão de licenças, aposentação, exoneração, demissão, reintegração e demais actos relacionados com a situação e movimentação do pessoal referido nos artigos 5.º e 6.º deste diploma.
 
-**O Ministro das Comunicações poderá delegar esta sua competência no correio-mor, salvo se esses actos disserem respeito à nomeação, demissão e reintegração dos funcionários referidos nas alíneas b) a k) do artigo 18.º deste decreto e ao mesmo correio-mor.**
+O Ministro das Comunicações poderá delegar esta sua competência no correio-mor, salvo se esses actos disserem respeito à nomeação, demissão e reintegração dos funcionários referidos nas alíneas b) a k) do artigo 18.º deste decreto e ao mesmo correio-mor.
 
 Os actos dependentes de competência ministerial não delegados serão precedidos de proposta do correio-mor, quando a este não digam respeito.
 
@@ -795,7 +889,7 @@ Os actos dependentes de competência ministerial não delegados serão precedido
 
 ...
 
-###### Art. 22.º O pessoal dos grupos 27 a 30 e 32 e da reserva dos grupos 27, 29 e 30 que, por incapacidade física, não possa exercer as funções normais do seu cargo, mas seja considerado apto para o desempenho de serviços mais leves, como os de contínuo, servente. guarda ou porteiro, poderá ser colocado em regime de serviços moderados. O número máximo de unidades que poderá passar a este regime será fixado por despacho do Ministro das Comunicações.
+Art. 22.º O pessoal dos grupos 27 a 30 e 32 e da reserva dos grupos 27, 29 e 30 que, por incapacidade física, não possa exercer as funções normais do seu cargo, mas seja considerado apto para o desempenho de serviços mais leves, como os de contínuo, servente. guarda ou porteiro, poderá ser colocado em regime de serviços moderados. O número máximo de unidades que poderá passar a este regime será fixado por despacho do Ministro das Comunicações.
 
 A passagem a esta situação será determinada em despacho do correio-mor, mediante parecer da junta médica.
 
@@ -805,7 +899,7 @@ A passagem a esta situação será determinada em despacho do correio-mor, media
 
 ...
 
-###### Art. 28.º A efectividade do pessoal do quadro de reserva, em serviço com carácter de continuidade, determina-se da mesma maneira que a do pessoal dos quadros permanentes. Fora deste caso, determinar-se-á pelas fórmulas
+Art. 28.º A efectividade do pessoal do quadro de reserva, em serviço com carácter de continuidade, determina-se da mesma maneira que a do pessoal dos quadros permanentes. Fora deste caso, determinar-se-á pelas fórmulas
 
 E = (7N/36), E = (7N/42), E = (7N/48),
 
@@ -823,7 +917,7 @@ N = número mensal de horas de serviço efectivamente prestado, incluindo as cor
 
 ...
 
-###### Art. 32.º Será sempre remunerado o trabalho extraordinário do seguinte pessoal:
+Art. 32.º Será sempre remunerado o trabalho extraordinário do seguinte pessoal:
 
 a) Funcionários colocados nos serviços externos e pertencentes aos grupos 1, 2 ou 3 e às reservas dos grupos 1 ou 2 (com excepção dos chefes de serviço de exploração e do pessoal das secretarias);
 
@@ -835,7 +929,7 @@ d) Funcionários em regime de serviços moderados;
 
 e) Funcionários admitidos nos termos dos artigos 6.º ou 7.º em serviço nas condições indicadas nas alíneas anteriores.
 
-###### Art. 33.º A prestação de trabalho extraordinário demanda autorização do administrador-geral e a sua remuneração será calculada na base do valor da hora de trabalho normal correspondente à categoria ou classe do funcionário a que respeitar, arredondada para múltiplo de $10.
+Art. 33.º A prestação de trabalho extraordinário demanda autorização do administrador-geral e a sua remuneração será calculada na base do valor da hora de trabalho normal correspondente à categoria ou classe do funcionário a que respeitar, arredondada para múltiplo de $10.
 
 § 1.º As dobras de serviço de distribuição efectuadas pelos carteiros serão contadas à razão de três horas, tanto para efeito de abono de trabalho extraordinário como para contagem de tempo de trabalho normal.
 
@@ -845,7 +939,7 @@ A competência para esta autorização poderá ser delegada no administrador-ger
 
 ...
 
-###### Art. 35.º O pessoal referido no artigo 32.º tem direito aos abonos abaixo designados, por cada hora completa de trabalho que prestar nos intervalos compreendidos entre as 0 e as 8 horas e as 22 e 24 horas:
+Art. 35.º O pessoal referido no artigo 32.º tem direito aos abonos abaixo designados, por cada hora completa de trabalho que prestar nos intervalos compreendidos entre as 0 e as 8 horas e as 22 e 24 horas:
 
 6$00 quando as suas remunerações certas forem de 4500$00 a 2100$00, inclusive;
 
@@ -853,11 +947,11 @@ A competência para esta autorização poderá ser delegada no administrador-ger
 
 4$00 quando inferiores a 1500$00.
 
-###### Art. 36.º Os abonos por serviços de viagens nas ambulâncias postais e por conduções de malas fechadas em caminho de ferro serão fixados pelo Ministro das Comunicações, mediante proposta da Administração-Geral dos Correios, Telégrafos e Telefones.
+Art. 36.º Os abonos por serviços de viagens nas ambulâncias postais e por conduções de malas fechadas em caminho de ferro serão fixados pelo Ministro das Comunicações, mediante proposta da Administração-Geral dos Correios, Telégrafos e Telefones.
 
 § único. Os funcionários a quem estes abonos forem conferidos ficarão sujeitos às contingências das respectivas escalas e só poderão receber retribuição por trabalho extraordinário e nocturno pelo período em que a viagem acidentalmente exceder o tempo da sua duração normal. Também poderão ser abonados de ajudas de custo quando esse excesso ultrapassar seis horas.
 
-###### Art. 37.º A Administração-Geral poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sobre proposta do correio-mor, com o intuito de fomentar a economia, o aperfeiçoamento ou a rapidez dos serviços:
+Art. 37.º A Administração-Geral poderá instituir, nas condições que forem estabelecidas pelo Ministro das Comunicações, sobre proposta do correio-mor, com o intuito de fomentar a economia, o aperfeiçoamento ou a rapidez dos serviços:
 
 a) Prémios destinados a recompensar produções do domínio intelectual dos seus funcionários executadas por tarefa fora do tempo de trabalho;
 
@@ -865,7 +959,7 @@ b) Sistemas de prémios baseados em elementos de apreciação da aptidão e inte
 
 ...
 
-###### Art. 39.º Serão concedidos abonos para falhas dos quantitativos mensais seguintes:
+Art. 39.º Serão concedidos abonos para falhas dos quantitativos mensais seguintes:
 
 a) Tesoureiro das CTT - 600$00;
 
@@ -895,13 +989,13 @@ n = Número de funcionários com baixa, incluindo o exactor ou encarregado do co
 
 b) Número-base para determinação do abono a atribuir a exactores ou a encarregados do cofre: o dobro do anterior.
 
-###### Art. 40.º Os funcionários recrutados no continente e colocados nos arquipélagos dos Açores ou Madeira, bem como os que, trabalhando no continente, tenham sido ou sejam para ali transferidos por conveniência do serviço, terão direito a um subsídio de 15 por cento das respectivas remunerações certas.
+Art. 40.º Os funcionários recrutados no continente e colocados nos arquipélagos dos Açores ou Madeira, bem como os que, trabalhando no continente, tenham sido ou sejam para ali transferidos por conveniência do serviço, terão direito a um subsídio de 15 por cento das respectivas remunerações certas.
 
 § 1.º Exceptuam-se do disposto neste artigo os funcionários em serviço em localidades dos arquipélagos dos Açores e Madeira cujo custo de vida seja influenciado pela existência ou proximidade de aeroportos, que receberão o subsídio de um terço do respectivo vencimento.
 
 § 2.º Compete ao Ministro das Comunicações, sob proposta do correio-mor, designar as localidades referidas no § 1.º
 
-###### Art. 41.º Os funcionários que mudem de domicílio oficial em consequência de terem sido transferidos, salvo se a transferência tiver sido imposta por motivos disciplinares ou concedida a seu pedido, serão abonados das despesas efectuadas com o transporte das pessoas de família que com eles coabitem e os acompanharem, nas mesmas condições em que eles próprios viajarem, e com o transporte da mobília da sua casa, independentemente de quaisquer outros abonos que lhes competirem.
+Art. 41.º Os funcionários que mudem de domicílio oficial em consequência de terem sido transferidos, salvo se a transferência tiver sido imposta por motivos disciplinares ou concedida a seu pedido, serão abonados das despesas efectuadas com o transporte das pessoas de família que com eles coabitem e os acompanharem, nas mesmas condições em que eles próprios viajarem, e com o transporte da mobília da sua casa, independentemente de quaisquer outros abonos que lhes competirem.
 
 § 1.º Consideram-se pessoas de família do funcionário, para efeitos do disposto neste artigo, o seu cônjuge, a mãe e o pai, excepto quando este for válido, os filhos legítimos menores de 18 anos, as filhas legítimas solteiras, os netos órfãos de pai e mãe e as irmãs solteiras. No entanto, o abono só é devido quando tais pessoas não possuírem rendimentos suficientes.
 
@@ -915,7 +1009,7 @@ b) Número-base para determinação do abono a atribuir a exactores ou a encarre
 
 ...
 
-###### Art. 51.º As atribuições e competência do pessoal dos CTT são estabelecidas, consoante os casos, por lei, diploma regulamentar, portaria ou simples ordem de serviço.
+Art. 51.º As atribuições e competência do pessoal dos CTT são estabelecidas, consoante os casos, por lei, diploma regulamentar, portaria ou simples ordem de serviço.
 
 § 1.º As funções de chefe de divisão das Direcções dos Serviços de Telecomunicações, Industriais e Radioeléctricos serão desempenhadas por engenheiros-chefes de telecomunicações do grupo 4, designados pelo Ministro, sob proposta do correio-mor.
 
@@ -931,31 +1025,31 @@ b) Número-base para determinação do abono a atribuir a exactores ou a encarre
 
 § 7.º A chefia da secretaria dos serviços que asseguram o expediente dos gabinetes do correio-mor e dos administradores adjuntos será desempenhada por funcionários dos quadros, ou por indivíduo estranho aos mesmos, admitido nos termos dos artigos 6.º ou 7.º deste decreto.
 
-###### Art. 52.º O correio-mor poderá delegar nos administradores adjuntos as atribuições que por lei lhe são conferidas, bem como as delegações concedidas pelo Ministro, e em cada um dos directores de serviço aquelas das suas atribuições que digam respeito ao despacho corrente das respectivas direcções. Anàlogamente, poderão os directores, os chefes de divisão e os chefes de repartição delegar em funcionários da sua dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização do correio-mor.
+Art. 52.º O correio-mor poderá delegar nos administradores adjuntos as atribuições que por lei lhe são conferidas, bem como as delegações concedidas pelo Ministro, e em cada um dos directores de serviço aquelas das suas atribuições que digam respeito ao despacho corrente das respectivas direcções. Anàlogamente, poderão os directores, os chefes de divisão e os chefes de repartição delegar em funcionários da sua dependência o despacho de assuntos correntes dos seus serviços, mediante prévia autorização do correio-mor.
 
 § único. As delegações de competência dadas nos termos deste artigo continuam válidas a favor dos substitutos legais durante a ausência ou impedimento dos mandatários.
 
-###### Art. 53.º O correio-mor será substituído, na sua falta ou impedimento, por um dos administradores adjuntos e, na falta ou impedimento destes, por um dos directores de serviço. Os administradores ausentes poderão ser substituídos por directores de serviço. Todos estes directores substitutos serão designados pelo Ministro das Comunicações, mediante proposta do correio-mor.
+Art. 53.º O correio-mor será substituído, na sua falta ou impedimento, por um dos administradores adjuntos e, na falta ou impedimento destes, por um dos directores de serviço. Os administradores ausentes poderão ser substituídos por directores de serviço. Todos estes directores substitutos serão designados pelo Ministro das Comunicações, mediante proposta do correio-mor.
 
 ...
 
-###### Art. 56.º Na efectivação da responsabilidade civil imputável, por actos de serviço, aos servidores dos CTT, segundo as leis e regulamentos em vigor, poderá a Administração-Geral tomar sobre si total ou parcialmente, o encargo das indemnizações que seriam exigíveis aos mesmos servidores, quando se verificarem circunstâncias muito especiais que o justifiquem.
+Art. 56.º Na efectivação da responsabilidade civil imputável, por actos de serviço, aos servidores dos CTT, segundo as leis e regulamentos em vigor, poderá a Administração-Geral tomar sobre si total ou parcialmente, o encargo das indemnizações que seriam exigíveis aos mesmos servidores, quando se verificarem circunstâncias muito especiais que o justifiquem.
 
 § único. O exercício da autorização estabelecida no corpo do presente artigo depende de aprovação do Ministro das Comunicações, quando dele resultarem encargos superiores a 50000$00.
 
 ...
 
-###### Art. 69.º Até à publicação da primeira portaria a que alude o corpo do artigo 16.º continua a vigorar o Regulamento de Admissão e Promoção do Pessoal dos CTT, na parte que não colidir com o presente diploma.
+Art. 69.º Até à publicação da primeira portaria a que alude o corpo do artigo 16.º continua a vigorar o Regulamento de Admissão e Promoção do Pessoal dos CTT, na parte que não colidir com o presente diploma.
 
 Em qualquer caso, serão respeitados os direitos de admissão e promoção adquiridos mediante concursos realizados ou em curso ao abrigo desse regulamento.
 
-###### Art. 3.º A dotação do grupo 34 do quadro do pessoal subalterno, especificada no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), comporta apenas as unidades existentes e será sucessivamente reduzida na medida das vagas que ocorrerem.
+Art. 3.º A dotação do grupo 34 do quadro do pessoal subalterno, especificada no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), comporta apenas as unidades existentes e será sucessivamente reduzida na medida das vagas que ocorrerem.
 
-###### Art. 4.º São eliminados os artigos 24.º e 25.º do referido [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196).
+Art. 4.º São eliminados os artigos 24.º e 25.º do referido [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196).
 
-###### Art. 5.º A redacção da tabela referida no artigo 31.º do citado [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) passa a ser a que consta da tabela anexa ao presente diploma e que dele faz parte integrante.
+Art. 5.º A redacção da tabela referida no artigo 31.º do citado [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) passa a ser a que consta da tabela anexa ao presente diploma e que dele faz parte integrante.
 
-###### Art. 6.º É criado no quadro do pessoal técnico referido no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) um novo grupo, cujo número e categorias são os seguintes:
+Art. 6.º É criado no quadro do pessoal técnico referido no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) um novo grupo, cujo número e categorias são os seguintes:
 
 Grupo 7-B:
 
@@ -975,7 +1069,7 @@ Os vencimentos, bem como os demais direitos e obrigações do pessoal destas cat
 
 A revisão destas dotações máximas fica sujeita ao disposto no artigo 8.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196).
 
-###### Art. 7.º São criados transitòriamente no quadro do pessoal subalterno referido no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) dois grupos, cujos números e categorias são os seguintes:
+Art. 7.º São criados transitòriamente no quadro do pessoal subalterno referido no artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) dois grupos, cujos números e categorias são os seguintes:
 
 Grupo 27-A:
 
@@ -1019,7 +1113,7 @@ Grupo 28-A:
 
 § 5.º As unidades dos grupos 27-A e 28-A desempenharão funções de auxiliar de tráfego ou outras compatíveis que a Administração-Geral lhes fixar.
 
-###### Art. 8.º A partir da data de entrada em vigor do presente diploma serão observadas as seguintes regras:
+Art. 8.º A partir da data de entrada em vigor do presente diploma serão observadas as seguintes regras:
 
 a) Os auxiliares de tráfego de 2.ª classe colocados fora das localidades referidas no § 1.º do artigo anterior transitam para o grupo 28 com a categoria de carteiros provinciais de 2.ª classe, mantendo nesta categoria a antiguidade que possuíam no anterior lugar;
 
@@ -1031,7 +1125,7 @@ d) Ficam suspensas novas inscrições de auxiliares de tráfego supranumerários
 
 e) A dotação do grupo 32 será progressivamente reduzida, tendo em atenção o ingresso das unidades correspondentes nos grupos 27-A e 28-A nos termos do artigo 7.º, mas sem prejuízo da regular integração naquele primeiro grupo dos auxiliares de tráfego de 2.ª classe admitidos ao abrigo do artigo 6.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) e dos indivíduos inscritos nas condições da alínea anterior.
 
-###### Art. 9.º A partir da data de entrada em vigor do presente diploma, os boletineiros de Lisboa e Porto (grupo 35) que atinjam o limite de idade a que alude a alínea c) do artigo 20.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) serão nomeados, sem interrupção de efectividade, como carteiros centrais de reserva das respectivas cidades, se tiverem prestado bom serviço e forem satisfatórias as suas condições físicas. Se necessário, as dotações de carteiros centrais de reserva ficarão transitòriamente excedidas.
+Art. 9.º A partir da data de entrada em vigor do presente diploma, os boletineiros de Lisboa e Porto (grupo 35) que atinjam o limite de idade a que alude a alínea c) do artigo 20.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196) serão nomeados, sem interrupção de efectividade, como carteiros centrais de reserva das respectivas cidades, se tiverem prestado bom serviço e forem satisfatórias as suas condições físicas. Se necessário, as dotações de carteiros centrais de reserva ficarão transitòriamente excedidas.
 
 Cessa, a partir da mesma data, a inscrição de boletineiros supranumerários nas localidades da província.
 
@@ -1041,19 +1135,19 @@ Cessa, a partir da mesma data, a inscrição de boletineiros supranumerários na
 
 § 3.º Esgotadas as listas de inscrição referidas no parágrafo anterior, as funções até aí desempenhadas por unidades do grupo 35 passam a ser exercidas por carteiros provinciais supranumerários.
 
-###### Art. 10.º A partir da data da entrada em vigor deste diploma, ficam a cargo dos CTT, nas condições a fixar pelo Ministro das Comunicações, todos os assuntos relativos a serviço telefónico e a assistência a automóveis do Gabinete do mesmo Ministro, incluindo o pessoal motorista e telefonista, julgado necessário.
+Art. 10.º A partir da data da entrada em vigor deste diploma, ficam a cargo dos CTT, nas condições a fixar pelo Ministro das Comunicações, todos os assuntos relativos a serviço telefónico e a assistência a automóveis do Gabinete do mesmo Ministro, incluindo o pessoal motorista e telefonista, julgado necessário.
 
-###### Art. 11.º Em execução do disposto no artigo anterior, não transferíveis para a Administração-Geral dos Correios, Telégrafos e Telefones o condutor de automóveis do Gabinete do Ministro das Comunicações e as duas telefonistas da Secretaria-Geral do respectivo Ministério incluídas no quadro I anexo ao [Decreto-Lei n.º 36061](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36061-1946-148061), de 27 de Dezembro de 1946. Estes funcionários serão colocados como motoristas de 1.ª classe e telefonistas de 1.ª classe, sendo, para o efeito, aumentadas de 1 e 2 unidades, respectivamente, as dotações fixadas para os grupos 29 e 2 do artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), na redacção que lhe é dada pelo artigo 2.º do presente diploma, deixando de figurar nos quadros do pessoal do Gabinete do Ministro e Secretaria-Geral do Ministério das Comunicações as referidas unidades.
+Art. 11.º Em execução do disposto no artigo anterior, não transferíveis para a Administração-Geral dos Correios, Telégrafos e Telefones o condutor de automóveis do Gabinete do Ministro das Comunicações e as duas telefonistas da Secretaria-Geral do respectivo Ministério incluídas no quadro I anexo ao [Decreto-Lei n.º 36061](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36061-1946-148061), de 27 de Dezembro de 1946. Estes funcionários serão colocados como motoristas de 1.ª classe e telefonistas de 1.ª classe, sendo, para o efeito, aumentadas de 1 e 2 unidades, respectivamente, as dotações fixadas para os grupos 29 e 2 do artigo 5.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), na redacção que lhe é dada pelo artigo 2.º do presente diploma, deixando de figurar nos quadros do pessoal do Gabinete do Ministro e Secretaria-Geral do Ministério das Comunicações as referidas unidades.
 
-###### Art. 12.º Compete ao Ministro das Comunicações, em face das alterações consignadas neste diploma, aprovar as normas que definam o provimento dos lugares, consoante a especialização, a categoria e a antiguidade do pessoal com boa informação de serviço, quando esta circunstância for de considerar. Esse provimento pode também abranger servidores actualmente recrutados ao abrigo dos artigos 6.º e 7.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196).
+Art. 12.º Compete ao Ministro das Comunicações, em face das alterações consignadas neste diploma, aprovar as normas que definam o provimento dos lugares, consoante a especialização, a categoria e a antiguidade do pessoal com boa informação de serviço, quando esta circunstância for de considerar. Esse provimento pode também abranger servidores actualmente recrutados ao abrigo dos artigos 6.º e 7.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196).
 
-###### Art. 13.º A Administração-Geral dos Correios, Telégrafos e Telefones publicará no Diário do Governo, até ao dia anterior da entrada em vigor deste diploma, relações nominais dos funcionários com indicação dos lugares em que ficam providos, elaboradas em conformidade com o disposto no artigo 12.º anterior. Os provimentos estabelecidos nessas relações e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir da data de entrada em vigor deste diploma, com dispensa de mais formalidades, incluindo o visto do Tribunal de Contas e posse.
+Art. 13.º A Administração-Geral dos Correios, Telégrafos e Telefones publicará no Diário do Governo, até ao dia anterior da entrada em vigor deste diploma, relações nominais dos funcionários com indicação dos lugares em que ficam providos, elaboradas em conformidade com o disposto no artigo 12.º anterior. Os provimentos estabelecidos nessas relações e o direito aos abonos dos vencimentos correspondentes efectivam-se a partir da data de entrada em vigor deste diploma, com dispensa de mais formalidades, incluindo o visto do Tribunal de Contas e posse.
 
 § único. Os funcionários da Administração-Geral dos Correios, Telégrafos e Telefones cujas categorias não tenham sofrido modificações mantêm-se nos respectivos lugares, com todos os direitos inerentes à qualidade que possuírem.
 
-###### Art. 14.º O Ministro das Comunicações poderá delegar no administrador-geral, por meio de portaria, actos da sua competência, nos casos não previstos neste diploma, sempre que a conveniência do serviço o aconselhe e se trate do despacho ordinário dos CTT da sua autoridade.
+Art. 14.º O Ministro das Comunicações poderá delegar no administrador-geral, por meio de portaria, actos da sua competência, nos casos não previstos neste diploma, sempre que a conveniência do serviço o aconselhe e se trate do despacho ordinário dos CTT da sua autoridade.
 
-###### Art. 15.º Passa para as atribuições do administrador-geral:
+Art. 15.º Passa para as atribuições do administrador-geral:
 
 a) A fixação de preço de novas edições dos CTT, a que se refere o § 1.º do artigo 2.º do [Decreto-Lei n.º 38403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38403-1951-584388), de 11 de Agosto de 1951;
 
@@ -1061,13 +1155,13 @@ b) A concessão de instalações telefónicas da dotação gratuita, prevista no
 
 c) A fixação das taxas dos serviços internacionais, nos casos das alíneas b) e c) do artigo 6.º do [Decreto-Lei n.º 37129](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37129-1948-368600), de 3 de Novembro de 1948.
 
-###### Art. 16.º Os indivíduos aprovados em concursos de promoção, mas cujas listas de classificações hajam caducado entre 1 de Janeiro de 1965 e a data de entrada em vigor deste diploma, podem ser promovidos até o limite dos lugares vagos resultantes dos aumentos das dotações dos grupos dos quadros introduzidos pelo presente decreto-lei, desde que, entretanto, se não hajam aberto concursos para promoção às categorias correspondentes.
+Art. 16.º Os indivíduos aprovados em concursos de promoção, mas cujas listas de classificações hajam caducado entre 1 de Janeiro de 1965 e a data de entrada em vigor deste diploma, podem ser promovidos até o limite dos lugares vagos resultantes dos aumentos das dotações dos grupos dos quadros introduzidos pelo presente decreto-lei, desde que, entretanto, se não hajam aberto concursos para promoção às categorias correspondentes.
 
-###### Art. 17.º Para todos os efeitos legais, a Administração-Geral dos Correios, Telégrafos e Telefones organizará as listas de antiguidades do seu pessoal de acordo com as conveniências de serviço e dar-lhes-á a difusão que entender suficiente. Fica desde já dispensada a publicação de tais listas no Diário do Governo.
+Art. 17.º Para todos os efeitos legais, a Administração-Geral dos Correios, Telégrafos e Telefones organizará as listas de antiguidades do seu pessoal de acordo com as conveniências de serviço e dar-lhes-á a difusão que entender suficiente. Fica desde já dispensada a publicação de tais listas no Diário do Governo.
 
-###### Art. 18.º As disposições do presente diploma entrarão em vigor no primeiro dia do mês que se seguir ao sexagésimo dia da sua publicação e revogam, nessa data, os Decretos-Leis n.os 38536, 38682, 40634, 40765, 41134 e 41807, respectivamente de 24 de Novembro de 1951, de 17 de Março de 1952, de 4 de Junho de 1956, de 7 de Setembro de 1956, de 31 de Maio de 1957 e de 8 de Agosto de 1958.
+Art. 18.º As disposições do presente diploma entrarão em vigor no primeiro dia do mês que se seguir ao sexagésimo dia da sua publicação e revogam, nessa data, os Decretos-Leis n.os 38536, 38682, 40634, 40765, 41134 e 41807, respectivamente de 24 de Novembro de 1951, de 17 de Março de 1952, de 4 de Junho de 1956, de 7 de Setembro de 1956, de 31 de Maio de 1957 e de 8 de Agosto de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

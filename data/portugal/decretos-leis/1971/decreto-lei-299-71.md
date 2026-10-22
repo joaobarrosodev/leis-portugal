@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 163/1971, 1º Suplemento, Série I de 1971-07-13
   number: '163'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1008-(1) a 1008-(39)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf
 entry_into_force_dates: []
@@ -48,36 +48,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1971-646747
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4161fe0f0efc12f2b5377718d02ab72dff225658ce3a3b338045f4587368c6ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32ce1adc43afccfdeb706847702b6e1e962a53dcdba759aa26ea5314b88aa7c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Cooperação Internacional
+- EUA
+- OMS
+- Portugal
+- Regulamento
+- Regulamento Sanitário Internacional
+- Saúde Pública
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:18Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +96,17 @@ de 13 de Julho
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado, para ratificação, o Regulamento Sanitário Internacional (n.º 2) da Organização Mundial de Saúde, aprovado pela XXII Assembleia Mundial de Saúde e assinado em Boston em 25 de Julho de 1969, cujos textos, em francês e na respectiva tradução em português, vão anexos ao presente decreto-lei.
+Artigo 1.º É aprovado, para ratificação, o Regulamento Sanitário Internacional (n.º 2) da Organização Mundial de Saúde, aprovado pela XXII Assembleia Mundial de Saúde e assinado em Boston em 25 de Julho de 1969, cujos textos, em francês e na respectiva tradução em português, vão anexos ao presente decreto-lei.
 
-###### Art. 2.º Pelo presente decreto-lei ficam revogados os Decretos-Leis n.os 39193, 41304 e 47479, datados, respectivamente, de 2 de Maio de 1953, 1 de Outubro de 1957 e 31 de Dezembro de 1966.
+Art. 2.º Pelo presente decreto-lei ficam revogados os Decretos-Leis n.os 39193, 41304 e 47479, datados, respectivamente, de 2 de Maio de 1953, 1 de Outubro de 1957 e 31 de Dezembro de 1966.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.
 
@@ -1148,7 +1156,7 @@ M. G. Candau, directeur général de l'Organisation mondiale de la Santé.
 
 Do APPENDIX 1 ao APPENDIX 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf)
 
 REGULAMENTO SANITÁRIO INTERNACIONAL
 
@@ -2158,4 +2166,4 @@ M. G. Candau, director-geral da Organização Mundial da Saúde.
 
 Do ANEXO 1 ao ANEXO 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf))](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/16301/00010039.pdf)

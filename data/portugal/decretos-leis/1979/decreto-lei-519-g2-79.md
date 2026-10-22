@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 299/1979, 10º Suplemento, Série I de 1979-12-29
   number: '299'
   series: I
-  supplement: 10º Suplemento
+  supplement: null
   pages: 3446-(195) a 3446-(208)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29910/01950208.pdf
 entry_into_force_dates: []
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:25:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b90ffca35aa3f2e37edcbca136de2995589738d11d95f8234784c2a8df7124d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 11da9281eb45ceeaf443f7d1ec827f4b100f4ae169dfe64b1f54e4f368fa51e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:25:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto
+- IPSS
+- Segurança Social
 relationships:
 - type: amended_by
   target: pt:dre:532026:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:462017:por
+  label: "Alterado o n.º 2 do artigo 21.º e prorrogado até 30 de Junho de 1982 o prazo estabelecido no n.º 3 do artigo 88.º,\
+    \ e até 31 de Março de 1981 o prazo estabelecido no artigo 89.º do Estatuto, pelo DEC LEI.467/80.14.10.1980.PCM, DR.IS\
+    \ [238] de 14.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/467-1980-462017
+  date: '1980-10-14'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548976:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693016:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:679457:por
+  label: Rectificado pela DECL.DD6725.01.02.1980.PCM, DR.IS [41] de 18.02.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-679457
+  date: '1980-02-01'
+- type: repealed_by
+  target: pt:dre:397370:por
+  label: "Revogado o n.º 3 do artigo 88.º do Estatuto, alterado pelo artigo 2.º do Decreto-Lei n.º 467/80, de 14 de Outubro,\
+    \ pelo DEC LEI.298/82.29.07.1982.MAS, DR.IS [173] de 29.07.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1982-397370
+  date: '1982-07-29'
+- type: repealed_by
+  target: pt:dre:311401:por
+  label: "Revogado, com excepção dos artigos 7.º, 22.º e 24.º do Estatuto publicado em anexo, pelo DEC LEI.119/83.25.02.1983.MAS,\
+    \ DR.IS [46] de 25.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-1983-311401
+  date: '1983-02-25'
 article_structure:
-  article_count: 96
+  article_count: 95
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:25:11Z'
   warnings: []
   errors: []
 ---
@@ -146,13 +201,13 @@ Tendo presente o disposto no artigo 63.º da Constituição e em conformidade co
 
 O Governo decreta, nos termos da alínea a) do n.º 1 da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - É aprovado por este decreto-lei o Estatuto das Instituições Privadas de Solidariedade Social, referidas no n.º 3 do artigo 63.º da Constituição.
+Artigo 1.º - 1 - É aprovado por este decreto-lei o Estatuto das Instituições Privadas de Solidariedade Social, referidas no n.º 3 do artigo 63.º da Constituição.
 
 2 - O Estatuto vai anexo a este diploma e entra em vigor no dia 1 de Janeiro de 1980.
 
 3 - No texto do Estatuto, as instituições [privadas de solidariedade social são designadas apenas por instituições.
 
-###### Art. 2.º - 1 - As instituições privadas de solidariedade social ficam submetidas ao regime estabelecido pelo Estatuto, salvo no que especificamente diga respeito a fins estranhos ao sistema de segurança social que eventualmente prossigam.
+Art. 2.º - 1 - As instituições privadas de solidariedade social ficam submetidas ao regime estabelecido pelo Estatuto, salvo no que especificamente diga respeito a fins estranhos ao sistema de segurança social que eventualmente prossigam.
 
 2 - Ficam igualmente abrangidas por este Estatuto as instituições ou entidades privadas que, juntamente com objectivos respeitantes à efectivação de direitos sociais ou culturais, prossigam actividades de segurança social, mas só quanto ao exercício destas e à respectiva acção orientadora e tutelar do Estado.
 
@@ -164,19 +219,19 @@ O Governo decreta, nos termos da alínea a) do n.º 1 da Constituição, o segui
 
 6 - As organizações populares de base territorial ficam sujeitas ao disposto no Estatuto pelo que respeita a iniciativas do âmbito da segurança social que eventualmente desenvolvam.
 
-###### Art. 3.º A aplicação do Estatuto nas Regiões Autónomas dos Açores e da Madeira será determinada, com as adaptações necessárias, em decretos regionais e terá lugar logo que ali se organizem os serviços indispensáveis.
+Art. 3.º A aplicação do Estatuto nas Regiões Autónomas dos Açores e da Madeira será determinada, com as adaptações necessárias, em decretos regionais e terá lugar logo que ali se organizem os serviços indispensáveis.
 
-###### Art. 4.º - 1 - O Ministério dos Assuntos Sociais emitirá os regulamentos e as instruções indispensáveis à execução do Estatuto agora aprovado.
+Art. 4.º - 1 - O Ministério dos Assuntos Sociais emitirá os regulamentos e as instruções indispensáveis à execução do Estatuto agora aprovado.
 
 2 - As dúvidas que surjam na aplicação deste diploma e do Estatuto serão resolvidas por despacho do Ministro da Coordenação Social e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo - Alfredo Bruto da Costa.
 
-**Promulgado em 24 de Dezembro de 1979.**
+Promulgado em 24 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTO DAS INSTITUIÇÕES PRIVADAS DE SOLIDARIEDADE SOCIAL
 
@@ -966,4 +1021,4 @@ c) Ficam, desde logo, reguladas pelo presente Estatuto a acção orientadora e t
 
 Fica revogada a legislação em contrário, designadamente as disposições do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, referentes às instituições particulares de assistência e o disposto no artigo 2.º do [Decreto-Lei n.º 618/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1975-310594), de 11 de Novembro, respeitante às Misericórdias.
 
-**O Ministro dos Assuntos Sociais, Alfredo Bruto da Costa.**
+O Ministro dos Assuntos Sociais, Alfredo Bruto da Costa.

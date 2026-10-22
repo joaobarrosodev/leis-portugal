@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
   number: '304'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2074-(9) a 2074-(10)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00090010.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/635-1971-368250
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2595cfdb43927bd7dbb61d9bd67d692b5146fe96aa7dd47613078f2d5e88b8fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca4dc2c1cdee5fb0c3c86653d3a3036a8a6f0993b970d6eaf0c0cf4a0fbac35b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:171353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225858:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227625:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511228:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:10Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +121,15 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º As gratificações atribuídas pelo artigo 1.º do [Decreto n.º 36/70](https://diariodarepublica.pt/dr/detalhe/decreto/36-1970-227625), de 27 de Janeiro, aos delegados da Capitania dos Portos e da aldeia piscatória de Salamansa são fixadas, respectivamente, em 200$00 e 300$00.
+Artigo 1.º As gratificações atribuídas pelo artigo 1.º do [Decreto n.º 36/70](https://diariodarepublica.pt/dr/detalhe/decreto/36-1970-227625), de 27 de Janeiro, aos delegados da Capitania dos Portos e da aldeia piscatória de Salamansa são fixadas, respectivamente, em 200$00 e 300$00.
 
-###### Art. 2.º O artigo 6.º do [Decreto n.º 173/70](https://diariodarepublica.pt/dr/detalhe/decreto/173-1970-225858), de 17 de Abril, passa a ter a seguinte redacção:
+Art. 2.º O artigo 6.º do [Decreto n.º 173/70](https://diariodarepublica.pt/dr/detalhe/decreto/173-1970-225858), de 17 de Abril, passa a ter a seguinte redacção:
 
 Enquanto as circunstâncias o aconselharem, poderá o governador nomear professores do ensino secundário, preparatório e primário da província para ministrarem o ensino na Escola do Magistério Primário, em regime de acumulação, remunerada por gratificação especial a fixar pelos órgãos legislativos locais.
 
 B) Angola
 
-###### Art. 3.º - 1. Ao pessoal abaixo designado, dos Serviços de Centralização e Coordenação de Informações, são atribuídas as seguintes gratificações especiais mensais:
+Art. 3.º - 1. Ao pessoal abaixo designado, dos Serviços de Centralização e Coordenação de Informações, são atribuídas as seguintes gratificações especiais mensais:
 
 a) Pessoal técnico de informações:
 
@@ -153,9 +177,9 @@ Técnico de fotografia e impressão ... 1500$00
 
 C) Macau
 
-###### Art. 4.º Ficam os órgãos legislativos da província autorizados a elevar até aos limites estabelecidos pelo n.º 1 do artigo 2.º do [Decreto n.º 268/70](https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690), de 15 de Junho, os vencimentos complementares dos servidores do Estado correspondentes às categorias B a Z'', constantes da tabela anexa ao mesmo diploma.
+Art. 4.º Ficam os órgãos legislativos da província autorizados a elevar até aos limites estabelecidos pelo n.º 1 do artigo 2.º do [Decreto n.º 268/70](https://diariodarepublica.pt/dr/detalhe/decreto/268-1970-142690), de 15 de Junho, os vencimentos complementares dos servidores do Estado correspondentes às categorias B a Z'', constantes da tabela anexa ao mesmo diploma.
 
-###### Art. 5.º - 1. É autorizada a concessão, a título transitório, aos servidores das categorias Z a Z' e Z'' de um subsídio eventual de custo de vida, que incidirá sobre o vencimento ou salário base, nas percentagens de, respectivamente, 4, 6 e 16 por cento.
+Art. 5.º - 1. É autorizada a concessão, a título transitório, aos servidores das categorias Z a Z' e Z'' de um subsídio eventual de custo de vida, que incidirá sobre o vencimento ou salário base, nas percentagens de, respectivamente, 4, 6 e 16 por cento.
 
 2. No caso de não haver lugar ao abono da totalidade do vencimento ou salário base, a taxa de subsídio incidirá sobre a quantia que legalmente competir.
 
@@ -163,29 +187,29 @@ C) Macau
 
 4. As verbas pelas quais se paguem vencimentos ou salários suportarão o encargo do subsídio eventual de custo de vida.
 
-###### Art. 6.º É criado no quadro complementar da Escola Preparatória do Ensino Secundário dos Serviços de Educação um lugar de professora de Educação Física.
+Art. 6.º É criado no quadro complementar da Escola Preparatória do Ensino Secundário dos Serviços de Educação um lugar de professora de Educação Física.
 
-###### Art. 7.º O artigo 6.º do [Decreto n.º 46616](https://diariodarepublica.pt/dr/detalhe/decreto/46616-1965-511228), de 26 de Outubro de 1965, passa a ter a seguinte redacção:
+Art. 7.º O artigo 6.º do [Decreto n.º 46616](https://diariodarepublica.pt/dr/detalhe/decreto/46616-1965-511228), de 26 de Outubro de 1965, passa a ter a seguinte redacção:
 
 Enquanto as circunstâncias o aconselharem, poderá o governador nomear professores do ensino secundário, preparatório e primário da província para ministrarem o ensino na Escola do Magistério Primário, em regime de acumulação, remunerada por gratificação especial a fixar pelos órgãos legislativos locais.
 
-###### Art. 8.º - 1. É criado o lugar de comissário provincial adjunto da Mocidade Portuguesa.
+Art. 8.º - 1. É criado o lugar de comissário provincial adjunto da Mocidade Portuguesa.
 
 2. Para o lugar poderá ser nomeado um dirigente da organização, acumulando as novas funções com as anteriores, não havendo neste caso direito a nova gratificação.
 
 D) Timor
 
-###### Art. 9.º Fica o governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 1000000$00, para reforço da verba do capítulo 8.º, artigo 280.º «Defesa nacional - Forças armadas - Forças terrestres», da tabela de despesa ordinária do respectivo orçamento geral para o ano económico de 1971, tomando como contrapartida o saldo das contas de exercícios findos, a fim de completar a comparticipação da província, relativa ao mesmo ano, para as forças armadas.
+Art. 9.º Fica o governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 1000000$00, para reforço da verba do capítulo 8.º, artigo 280.º «Defesa nacional - Forças armadas - Forças terrestres», da tabela de despesa ordinária do respectivo orçamento geral para o ano económico de 1971, tomando como contrapartida o saldo das contas de exercícios findos, a fim de completar a comparticipação da província, relativa ao mesmo ano, para as forças armadas.
 
 II
 
 Disposições comuns
 
-###### Art. 10.º A alínea b) do artigo 15.º, n.º 1, do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966, passa a ter a seguinte redacção:
+Art. 10.º A alínea b) do artigo 15.º, n.º 1, do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966, passa a ter a seguinte redacção:
 
 Os lugares de chefe de serviço serão preenchidos, em comissão, por funcionários habilitados com qualquer curso superior em que se professe a cadeira de Estatística.
 
-###### Art. 11.º - 1. Ao pessoal que preste serviço nas províncias ultramarinas, qualquer que seja o regime dessa prestação, poderá ser permitido fixar, a favor do cônjuge ou das pessoas referidas no artigo 172.º do Estatuto do Funcionalismo Ultramarino que residam na metrópole e se encontrem a seu cargo, uma pensão até ao montante do vencimento base do cargo que exerça, ou equivalente, e que, descontada nas remunerações respectivas, será paga por intermédio da Direcção-Geral de Fazenda.
+Art. 11.º - 1. Ao pessoal que preste serviço nas províncias ultramarinas, qualquer que seja o regime dessa prestação, poderá ser permitido fixar, a favor do cônjuge ou das pessoas referidas no artigo 172.º do Estatuto do Funcionalismo Ultramarino que residam na metrópole e se encontrem a seu cargo, uma pensão até ao montante do vencimento base do cargo que exerça, ou equivalente, e que, descontada nas remunerações respectivas, será paga por intermédio da Direcção-Geral de Fazenda.
 
 2. A prova de que as pessoas referidas na citada disposição legal se encontram a cargo do agente faz-se pela apresentação de documento comprovativo de que recebe abono de família em relação a essas pessoas; tratando-se do cônjuge marido, terá de demonstrar-se que está impossibilitado total e permanentemente de angariar pelo trabalho meios de subsistência.
 
@@ -195,16 +219,16 @@ Os lugares de chefe de serviço serão preenchidos, em comissão, por funcionár
 
 5. Os documentos a que se referem os n.os 2, 3 e 4 deverão ser apresentados semestralmente na Direcção-Geral de Fazenda; no caso de a pensão ser fixada a favor do cônjuge mulher, apenas será exigido o documento referido no n.º 4. Não sendo entregues estes documentos, será suspensa a pensão.
 
-###### Art. 12.º Fica revogado o [Decreto n.º 43762](https://diariodarepublica.pt/dr/detalhe/decreto/43762-1961-171353), de 29 de Junho de 1961.
+Art. 12.º Fica revogado o [Decreto n.º 43762](https://diariodarepublica.pt/dr/detalhe/decreto/43762-1961-171353), de 29 de Junho de 1961.
 
-###### Art. 13.º As remunerações referidas no presente diploma são atribuíveis a partir de 1 de Janeiro de 1972.
+Art. 13.º As remunerações referidas no presente diploma são atribuíveis a partir de 1 de Janeiro de 1972.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 31 de Dezembro de 1971.**
+Promulgado em 31 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 33/1976, 1º Suplemento, Série I de 1976-02-09
   number: '33'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 296-(4) a 296-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03301/00040006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,90 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-c-1976-317132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 262435b1407766d9437b485e65ceee68d9559d7ef99766e847b57b7db554e2e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9cdbdf2a6df503bbe2e87bc3c0f4350cfec9a55c92da598860774fedf7e85ab1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Orgânica
+- Quadro de Pessoal
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:665162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685601:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501470:por
+  label: Rectificado pela DECL.DD8625.13.03.1976.PCM, DG.IS [62] de 13.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-501470
+  date: '1976-03-13'
+- type: corrected_by
+  target: pt:dre:501383:por
+  label: Rectificado pela DECL.DD8658.22.03.1976.PCM, DG.IS [69] de 22.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-501383
+  date: '1976-03-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:18Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +163,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A redacção dos artigos 2.º e 16.º e seus parágrafos do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967, passa a ser a seguinte:
+Artigo 1.º A redacção dos artigos 2.º e 16.º e seus parágrafos do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967, passa a ser a seguinte:
 
-###### Art. 2.º O Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.
+Art. 2.º O Laboratório tem um conselho administrativo composto pelo director, que presidirá, e por três a seis funcionários do quadro, nomeados pelo Ministro do Equipamento Social, sob proposta do director do LNEC.
 
 § 1.º A nomeação dos vogais é feita por períodos de três anos, podendo ser dada por finda a todo o tempo, por despacho ministerial.
 
@@ -125,7 +175,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 ...
 
-###### Art. 16.º Aos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se:
+Art. 16.º Aos concursos para obtenção do certificado de estágio para experimentador poderão também apresentar-se:
 
 a) Os ajudantes de experimentador que contem, pelo menos, oito anos de bom e efectivo serviço no exercício destas funções, dentro ou fora do quadro, e tenham obtido aproveitamento no curso para acesso a experimentador;
 
@@ -133,13 +183,13 @@ b) Os ajudantes de experimentador que possuam as habilitações referidas no art
 
 § único. Os ajudantes de experimentador que sejam reprovados poderão apresentar-se a concurso mais uma vez, decorridos, pelo menos, quatro anos após a data da publicação da lista das classificações, salvo se possuírem as habilitações referidas no artigo 15.º, caso em que poderão apresentar-se ao novo concurso decorrido um ano.
 
-###### Art. 2.º O número de lugares das categorias de experimentador-chefe, experimentador de 1.ª classe, experimentador de 2.ª classe, ajudante de experimentador de 1.ª classe e ajudante de experimentador de 2.ª classe do quadro do pessoal técnico do Laboratório Nacional de Engenharia Civil será fixado antecipadamente, em relação a cada triénio e dentro do total dos lugares daquelas categorias, sob proposta do director do Laboratório, elaborada com base nas previsões do movimento daquele pessoal, por despacho do Ministro do Equipamento Social, ouvido o Ministério da Administração Interna, e com o acordo do Ministro das Finanças.
+Art. 2.º O número de lugares das categorias de experimentador-chefe, experimentador de 1.ª classe, experimentador de 2.ª classe, ajudante de experimentador de 1.ª classe e ajudante de experimentador de 2.ª classe do quadro do pessoal técnico do Laboratório Nacional de Engenharia Civil será fixado antecipadamente, em relação a cada triénio e dentro do total dos lugares daquelas categorias, sob proposta do director do Laboratório, elaborada com base nas previsões do movimento daquele pessoal, por despacho do Ministro do Equipamento Social, ouvido o Ministério da Administração Interna, e com o acordo do Ministro das Finanças.
 
-###### Art. 3.º Aos ajudantes de experimentador de 1.ª e 2.ª classes do Laboratório são atribuídos vencimentos correspondentes, respectivamente, às letras L e N do artigo 1.º do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
+Art. 3.º Aos ajudantes de experimentador de 1.ª e 2.ª classes do Laboratório são atribuídos vencimentos correspondentes, respectivamente, às letras L e N do artigo 1.º do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro.
 
-###### Art. 4.º O provimento dos lugares de ajudante de experimentador de 1.ª classe do quadro do Laboratório Nacional de Engenharia Civil recairá, por antiguidade e sem dependência de concurso, nos ajudantes de experimentador de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço, dentro ou fora do quadro.
+Art. 4.º O provimento dos lugares de ajudante de experimentador de 1.ª classe do quadro do Laboratório Nacional de Engenharia Civil recairá, por antiguidade e sem dependência de concurso, nos ajudantes de experimentador de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço, dentro ou fora do quadro.
 
-###### Art. 5.º - 1. O disposto no artigo 25.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, não é aplicável aos estagiários para ajudante de experimentador.
+Art. 5.º - 1. O disposto no artigo 25.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, não é aplicável aos estagiários para ajudante de experimentador.
 
 2. Os estagiários para ajudante de experimentador que, após seis meses de estágio efectivo, sejam considerados aptos de acordo com regulamento a aprovar pelo Ministro do Equipamento Social, e tenham vaga, preencherão lugares da classe de entrada daquela categoria, desde que apresentem o diploma das habilitações exigidas na lei para admissão a estágio ou documento comprovativo de situação escolar para a qual sejam exigidas aquelas habilitações; os que, decorridos três meses sobre a publicação no Diário do Governo da lista de classificação, não tenham sido contratados por falta de apresentação dos referidos diploma ou documentos, perdem o direito a ser contratados e é-lhes dada por finda a situação de estagiários.
 
@@ -149,20 +199,20 @@ b) Os ajudantes de experimentador que possuam as habilitações referidas no art
 
 5. O estágio de quem, por estar impedido por serviço militar obrigatório, seja interrompido prolongar-se-á após o termo daquele impedimento.
 
-###### Art. 6.º - 1. Em todos os casos em que a lei orgânica do Laboratório faça depender de certo tempo de bom e efectivo serviço, prestado no exercício de determinadas funções, a promoção, a mudança de grupo ou de carreira ou, ainda, a concessão de diuturnidades, será o tempo de serviço militar obrigatório prestado entre o início do estágio e a investidura em lugar do quadro, em sequência da obtenção do respectivo certificado, englobado naquele, nos termos do número seguinte.
+Art. 6.º - 1. Em todos os casos em que a lei orgânica do Laboratório faça depender de certo tempo de bom e efectivo serviço, prestado no exercício de determinadas funções, a promoção, a mudança de grupo ou de carreira ou, ainda, a concessão de diuturnidades, será o tempo de serviço militar obrigatório prestado entre o início do estágio e a investidura em lugar do quadro, em sequência da obtenção do respectivo certificado, englobado naquele, nos termos do número seguinte.
 
 2. O tempo de serviço militar obrigatório prestado durante o período de estágio será tomado em consideração para efeitos do cálculo do tempo de bom e efectivo serviço exigido pela lei, até ao limite que se revelar necessário para que o agente seja provido no lugar ou obtenha a diuturnidade que lhe competiria se aquela circunstância se não tem verificado, tidas em conta as condições concretas entretanto ocorridas, mas nunca com prejuízo do integral cumprimento da efectiva duração do estágio.
 
-###### Art. 7.º São revogados o § 8.º do artigo 23.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, e a alínea b) do n.º 1 do artigo 5.º do [Decreto n.º 566/72](https://diariodarepublica.pt/dr/detalhe/decreto/566-1972-665162), de 26 de Dezembro; são ainda revogados, na parte respeitante aos estagiários para ajudante de experimentador, o artigo 26.º do referido decreto-lei, os n.os 2 e 3 do artigo 3.º do [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601) e os artigos 16.º a 22.º do regulamento aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com as alterações resultantes do [Decreto n.º 128/73](https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814), de 26 de Março.
+Art. 7.º São revogados o § 8.º do artigo 23.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, e a alínea b) do n.º 1 do artigo 5.º do [Decreto n.º 566/72](https://diariodarepublica.pt/dr/detalhe/decreto/566-1972-665162), de 26 de Dezembro; são ainda revogados, na parte respeitante aos estagiários para ajudante de experimentador, o artigo 26.º do referido decreto-lei, os n.os 2 e 3 do artigo 3.º do [Decreto n.º 556/72](https://diariodarepublica.pt/dr/detalhe/decreto/556-1972-685601) e os artigos 16.º a 22.º do regulamento aprovado pelo [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, com as alterações resultantes do [Decreto n.º 128/73](https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814), de 26 de Março.
 
-###### Art. 8.º (transitório) - 1. Os indivíduos que nos últimos dois anos tenham exercido durante mais de seis meses, mesmo em regime provisório, as funções de estagiário para ajudante de experimentador poderão ser contratados no quadro como ajudantes de experimentador de 2.ª classe desde que preencham as condições do n.º 2 do artigo 5.º
+Art. 8.º (transitório) - 1. Os indivíduos que nos últimos dois anos tenham exercido durante mais de seis meses, mesmo em regime provisório, as funções de estagiário para ajudante de experimentador poderão ser contratados no quadro como ajudantes de experimentador de 2.ª classe desde que preencham as condições do n.º 2 do artigo 5.º
 
 2. Os estagiários nas condições do número anterior, que à data da publicação deste decreto-lei não disponham de diploma das habilitações exigidas na lei para admissão a estágio ou documento comprovativo de situação escolar para a qual sejam exigidas aquelas habilitações podem, no caso de terem vaga, manter aquela situação por mais seis meses, findo o que lhes será dada por finda a situação de estagiários.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
 
-**Promulgado em 9 de Fevereiro de 1976.**
+Promulgado em 9 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

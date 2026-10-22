@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/03/06500/03200324.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c9041622c4fc556e6f6221e6e689b459dd1e4ffc8675ba8bf763f2dc1e248e00
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c426a23b73a67a568d253b3cdba97d6e7e452aeba07432d4d24cf439377345d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Regional de Turismo
+- Criação de Serviços
+- Região de Turismo do Algarve
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:579352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141857:por
+  label: "Transitado, a partir de 01.06.1970, o pessoal dos quadros afecto aos serviços de turismo das zonas administradas\
+    \ pelas câmaras municipais e juntas de turismo do distrito de Faro, bem como todos os direitos e obrigações dos mesmos\
+    \ organismos, relacionados com a administração das zonas de turismo que tinham a seu cargo, para os serviços dependentes\
+    \ da Comissão Regional de Turismo do Algarve, criada pelo presente diploma, pelo DEC LEI.185/70.30.04.1970.PC, DG.IS [101]\
+    \ de 30.04.1970\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-1970-141857
+  date: '1970-04-30'
+- type: amended_by
+  target: pt:dre:159558:por
+  label: "Prorrogado até 31.12.1975, o prazo previsto no nº1 do art. 10º do presente diploma, pelo DEC LEI.29/75.24.01.1975.MECO,\
+    \ DG.IS [20] de 24.01.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-1975-159558
+  date: '1975-01-24'
+- type: amended_by
+  target: pt:dre:393072:por
+  label: "Alterados os arts. 3º, 6º e 7º e aditado um art. 21º-A pelo, DEC LEI.14/79.1979.02.06.MCT DR.IS [31]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/14-1979-393072
+  date: '1979-02-06'
+- type: cites
+  target: pt:dre:200187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653691:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462588:por
+  label: "Revogado, em tudo o que lhe for contrário, pelo DEC LEI.488/80.1980.10.17.MCT DR.IS [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/488-1980-462588
+  date: '1980-10-17'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:44Z'
   warnings: []
   errors: []
 ---
@@ -122,19 +167,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Da região de turismo do Algarve
 
-###### Artigo 1.º - 1. É criada a região de turismo do Algarve constituída pela área de todos os concelhos pertencentes ao distrito de Faro.
+Artigo 1.º - 1. É criada a região de turismo do Algarve constituída pela área de todos os concelhos pertencentes ao distrito de Faro.
 
 2. A região de turismo do Algarve tem a sua sede em Faro.
 
 3. A região de turismo do Algarve rege-se pela [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 de Junho de 1956, e pelo [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957, com as alterações constantes deste decreto-lei.
 
-###### Art. 2.º - 1. A Comissão Regional de Turismo do Algarve é constituída por um conselho regional e por uma comissão executiva.
+Art. 2.º - 1. A Comissão Regional de Turismo do Algarve é constituída por um conselho regional e por uma comissão executiva.
 
 2. A competência da Comissão Regional de Turismo do Algarve, definida nos termos da base XII da [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319) e do artigo 6.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), é repartida entre o conselho regional e a comissão executiva.
 
 3. Além das atribuições definidas no artigo 5.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), a Comissão Regional de Turismo do Algarve terá as demais que lhe forem fixadas por portaria do Secretário de Estado da Informação e Turismo.
 
-###### Art. 3.º - 1. O conselho regional tem a seguinte composição:
+Art. 3.º - 1. O conselho regional tem a seguinte composição:
 
 a) Um presidente, nomeado pelo Secretário de Estado da Informação e Turismo, sob proposta da Direcção-Geral do Turismo;
 
@@ -174,7 +219,7 @@ s) Um representante da Comissão de Planeamento da Região Sul.
 
 2. A designação dos membros do conselho regional é feita sem limitação de tempo, podendo, no entanto, ser revogada em qualquer momento.
 
-###### Art. 4.º - 1. Compete ao conselho regional:
+Art. 4.º - 1. Compete ao conselho regional:
 
 a) Apreciar o plano de actividades e os projectos de orçamento e propor as alterações que julgar convenientes;
 
@@ -186,7 +231,7 @@ c) Dar parecer sobre os assuntos de interesse turístico regional que lhe forem 
 
 3. O presidente tem voto de qualidade.
 
-###### Art. 5.º - 1. O conselho regional reúne, ordinária e extraordinàriamente, na sede da região de turismo.
+Art. 5.º - 1. O conselho regional reúne, ordinária e extraordinàriamente, na sede da região de turismo.
 
 2. As reuniões ordinárias têm lugar duas vezes por ano, para apreciação dos planos, orçamentos, relatórios e contas.
 
@@ -194,7 +239,7 @@ c) Dar parecer sobre os assuntos de interesse turístico regional que lhe forem 
 
 4. Nas reuniões do conselho regional participará, quando o entender, o governador civil do distrito ou um seu representante especialmente designado para o efeito.
 
-###### Art. 6.º A comissão executiva tem a seguinte composição:
+Art. 6.º A comissão executiva tem a seguinte composição:
 
 a) Um presidente, que é o presidente do conselho regional;
 
@@ -204,7 +249,7 @@ c) O 2.º vogal, indicado pela Corporação de Transportes e Turismo, entre os v
 
 d) O 3.º vogal, indicado pelo presidente da Comissão de Planeamento da Região Sul.
 
-###### Art. 7.º Compete à comissão executiva:
+Art. 7.º Compete à comissão executiva:
 
 a) Preparar o plano anual de actividades e elaborar os projectos de orçamento, submetendo-os à apreciação do conselho regional;
 
@@ -214,7 +259,7 @@ c) Deliberar sobre todos os assuntos da competência da Comissão Regional, em c
 
 d) Submeter à apreciação do conselho regional quaisquer assuntos que considere de maior interesse turístico para a região.
 
-###### Art. 8.º - 1. Ao presidente da comissão executiva compete:
+Art. 8.º - 1. Ao presidente da comissão executiva compete:
 
 a) Orientar a acção da comissão executiva, coordenando-a com as das câmaras municipais dos concelhos abrangidos na região;
 
@@ -234,15 +279,15 @@ h) Corresponder-se com os serviços centrais de turismo sobre todos os assuntos 
 
 2. O presidente tem voto de qualidade.
 
-###### Art. 9.º A comissão executiva reúne sempre que for convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos restantes membros.
+Art. 9.º A comissão executiva reúne sempre que for convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos restantes membros.
 
 ### CAPÍTULO II — Do plano de obras de infra-estruturas urbanísticas
 
-###### Art. 10.º - 1. Além das demais atribuições que lhe são cometidas, incumbe ainda à Comissão Regional de Turismo do Algarve executar, até 31 de Dezembro de 1974, o plano de obras de infra-estruturas urbanísticas constante do mapa anexo a este decreto-lei.
+Art. 10.º - 1. Além das demais atribuições que lhe são cometidas, incumbe ainda à Comissão Regional de Turismo do Algarve executar, até 31 de Dezembro de 1974, o plano de obras de infra-estruturas urbanísticas constante do mapa anexo a este decreto-lei.
 
 2. Durante a execução do plano referido no número anterior, na composição do conselho regional e da comissão executiva haverá mais um membro, com a qualidade de administrador-delegado, que será um engenheiro civil, nomeado pelo Ministro das Obras Públicas.
 
-###### Art. 11.º - 1. Compete ao administrador-delegado superintender na execução do plano de obras de infra-estruturas urbanísticas.
+Art. 11.º - 1. Compete ao administrador-delegado superintender na execução do plano de obras de infra-estruturas urbanísticas.
 
 2. O administrador-delegado exercerá também, no conselho regional e na comissão executiva, as funções de vice-presidente e, nessa qualidade, compete-lhe substituir o presidente na sua falta ou impedimento.
 
@@ -250,7 +295,7 @@ h) Corresponder-se com os serviços centrais de turismo sobre todos os assuntos 
 
 4. O provimento do cargo de administrador-delegado pode recair em funcionário público, que exercerá as funções em regime de comissão de serviço e ficará sujeito ao disposto nos n.os 2 e 3 do artigo 16.º
 
-###### Art. 12.º - 1. O custo das obras referidas no artigo 10.º, cujo limite se fixa em 300000 contos, será suportado pela seguinte forma:
+Art. 12.º - 1. O custo das obras referidas no artigo 10.º, cujo limite se fixa em 300000 contos, será suportado pela seguinte forma:
 
 a) Subsídio não reembolsável do Tesouro: 120000 contos;
 
@@ -270,57 +315,57 @@ e) Receitas próprias da Comissão Regional de Turismo: 30000 contos.
 
 5.º O Secretário de Estado da Informação e Turismo poderá autorizar o Fundo de Turismo, na medida em que considere necessário, a suportar os encargos previstos no presente artigo, quer pelas receitas ordinárias, quer pelas extraordinárias, incluindo as inscritas ao abrigo dos planos de fomento.
 
-###### Art. 13.º - 1. A execução do plano de obras de infra-estruturas urbanísticas previsto no artigo 10.º, n.º 1, obedecerá a programas de trabalho anuais aprovados pelo Ministro das Obras Públicas, ouvido o Secretário de Estado da Informação e Turismo.
+Art. 13.º - 1. A execução do plano de obras de infra-estruturas urbanísticas previsto no artigo 10.º, n.º 1, obedecerá a programas de trabalho anuais aprovados pelo Ministro das Obras Públicas, ouvido o Secretário de Estado da Informação e Turismo.
 
 2. As alterações do plano serão aprovadas por despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Informação e Turismo.
 
-###### Art. 14.º A comissão executiva requisitará à 8.ª Repartição da Direcção-Geral da Contabilidade Pública, ao Comissariado do Desemprego e ao Fundo de Turismo os duodécimos das importâncias que lhe forem atribuídas pelo Ministro das Obras Públicas e pelo Secretário de Estado da Informação e Turismo, por conta das dotações do Orçamento Geral do Estado e nos orçamentos daqueles Fundos, sendo estas quantias depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
+Art. 14.º A comissão executiva requisitará à 8.ª Repartição da Direcção-Geral da Contabilidade Pública, ao Comissariado do Desemprego e ao Fundo de Turismo os duodécimos das importâncias que lhe forem atribuídas pelo Ministro das Obras Públicas e pelo Secretário de Estado da Informação e Turismo, por conta das dotações do Orçamento Geral do Estado e nos orçamentos daqueles Fundos, sendo estas quantias depositadas, à sua ordem, na Caixa Geral de Depósitos, Crédito e Previdência.
 
-###### Art. 15.º - 1. Fica a comissão executiva autorizada a criar, a título eventual, um serviço técnico incumbido de dar execução ao plano a que se refere o presente diploma, designadamente no que respeita à preparação dos programas de trabalho, à elaboração dos projectos e à direcção e fiscalização das obras.
+Art. 15.º - 1. Fica a comissão executiva autorizada a criar, a título eventual, um serviço técnico incumbido de dar execução ao plano a que se refere o presente diploma, designadamente no que respeita à preparação dos programas de trabalho, à elaboração dos projectos e à direcção e fiscalização das obras.
 
 2. A comissão executiva poderá, para efeitos do número anterior, contratar ou assalariar, em conformidade com as leis em vigor, o pessoal técnico, administrativo e auxiliar julgado necessário, com a aprovação do Ministro das Obras Públicas.
 
-###### Art. 16.º - 1. O Ministro das Obras Públicas, sob proposta da comissão executiva, poderá destacar para prestar serviço na Comissão Regional, em regime de comissão de serviço, o pessoal dos quadros do Ministério das Obras Públicas necessário à execução do plano.
+Art. 16.º - 1. O Ministro das Obras Públicas, sob proposta da comissão executiva, poderá destacar para prestar serviço na Comissão Regional, em regime de comissão de serviço, o pessoal dos quadros do Ministério das Obras Públicas necessário à execução do plano.
 
 2. O pessoal destacado nos termos do número anterior contará como de efectivo serviço, para todos os efeitos legais, o tempo que durar a comissão e ficará abrangido pelo disposto no [Decreto-Lei n.º 30896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30896-1940-200187), de 22 de Novembro de 1940, com a alteração que lhe foi introduzida pelo [Decreto-Lei n.º 47163](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47163-1966-469413), de 24 de Agosto de 1966.
 
 3. Os vencimentos ou gratificações do pessoal em comissão de serviço são fixados pelo Ministro das Obras Públicas, nos termos do artigo 23.º
 
-###### Art. 17.º - 1. Todas as obras serão normalmente executadas em regime de empreitada.
+Art. 17.º - 1. Todas as obras serão normalmente executadas em regime de empreitada.
 
 2. A abertura dos concursos públicos ou limitados, para execução do plano previsto no artigo 10.º, n.º 1, carece de prévia autorização do Ministro das Obras Públicas.
 
-###### Art. 18.º É declarada a utilidade pública urgente das expropriações necessárias à execução das obras previstas no artigo 10.º, n.º 1.
+Art. 18.º É declarada a utilidade pública urgente das expropriações necessárias à execução das obras previstas no artigo 10.º, n.º 1.
 
-###### Art. 19º - 1. Concluídas as obras ou partes de obras susceptíveis de serem exploradas, a comissão executiva procederá, logo que possível, à sua entrega à entidade competente para assegurar a exploração respectiva, nas condições que forem estabelecidas por despacho do Ministro das Obras Públicas.
+Art. 19º - 1. Concluídas as obras ou partes de obras susceptíveis de serem exploradas, a comissão executiva procederá, logo que possível, à sua entrega à entidade competente para assegurar a exploração respectiva, nas condições que forem estabelecidas por despacho do Ministro das Obras Públicas.
 
 2. Até à efectivação da entrega referida no número anterior, será a exploração, com todas as inerências, assegurada pela comissão executiva nas condições fixadas por despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Informação e Turismo.
 
 ### CAPÍTULO III — Disposições finais
 
-###### Art. 20.º Revertem para a Comissão Regional de Turismo do Algarve todos os bens afectos à administração das zonas de turismo englobadas e agora extintas.
+Art. 20.º Revertem para a Comissão Regional de Turismo do Algarve todos os bens afectos à administração das zonas de turismo englobadas e agora extintas.
 
-###### Art. 21.º - 1. Nos concelhos abrangidos pela região de turismo do Algarve é obrigatório o lançamento do imposto de turismo pelas taxas máximas admitidas por lei.
+Art. 21.º - 1. Nos concelhos abrangidos pela região de turismo do Algarve é obrigatório o lançamento do imposto de turismo pelas taxas máximas admitidas por lei.
 
 2. As câmaras municipais devem entregar à Comissão Regional de Turismo, até ao dia 10 do mês seguinte ao do seu recebimento, as receitas provenientes do imposto de turismo.
 
-###### Art. 22.º O levantamento de fundos da Comissão Regional de Turismo efectua-se por meio de cheque assinado por dois membros da comissão executiva e autenticado com selo branco.
+Art. 22.º O levantamento de fundos da Comissão Regional de Turismo efectua-se por meio de cheque assinado por dois membros da comissão executiva e autenticado com selo branco.
 
-###### Art. 23.º - 1. O provimento do cargo de presidente pode recair em funcionário público, que exercerá as funções em regime de comissão de serviço sem limitação de tempo, nos termos do disposto no artigo 24.º, n.º 2.
+Art. 23.º - 1. O provimento do cargo de presidente pode recair em funcionário público, que exercerá as funções em regime de comissão de serviço sem limitação de tempo, nos termos do disposto no artigo 24.º, n.º 2.
 
 2. Os vencimentos ou gratificações dos membros da comissão executiva são fixados, ouvido o Ministro das Finanças, por despacho do Ministro das Obras Públicas, para o administrador-delegado, e do Secretário de Estado da Informação e Turismo, para os restantes.
 
-###### Art. 24.º - 1. Além dos casos previstos nos artigos 15.º e 16.º, poderá o Secretário de Estado da Informação e Turismo, sob proposta da comissão executiva, destacar, para prestar serviço na Comissão Regional, o pessoal da Secretaria de Estado da Informação e Turismo e dos serviços dela dependentes que se mostre necessário à execução das tarefas que incumbem à Comissão Regional.
+Art. 24.º - 1. Além dos casos previstos nos artigos 15.º e 16.º, poderá o Secretário de Estado da Informação e Turismo, sob proposta da comissão executiva, destacar, para prestar serviço na Comissão Regional, o pessoal da Secretaria de Estado da Informação e Turismo e dos serviços dela dependentes que se mostre necessário à execução das tarefas que incumbem à Comissão Regional.
 
 2. O pessoal destacado nos termos do número anterior considerar-se-á em comissão de serviço, sem limitação de tempo, contando-se, para todos os efeitos legais, o período de tempo em que ali estiver colocado, podendo, entretanto, os respectivos lugares ser providos interinamente.
 
-###### Art. 25.º Quando houver conveniência, a comissão executiva poderá, com dispensa de quaisquer formalidades, promover que a elaboração dos projectos, a fiscalização das obras previstas no presente diploma ou quaisquer outras tarefas sejam feitas em regime de prestação eventual de serviço.
+Art. 25.º Quando houver conveniência, a comissão executiva poderá, com dispensa de quaisquer formalidades, promover que a elaboração dos projectos, a fiscalização das obras previstas no presente diploma ou quaisquer outras tarefas sejam feitas em regime de prestação eventual de serviço.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

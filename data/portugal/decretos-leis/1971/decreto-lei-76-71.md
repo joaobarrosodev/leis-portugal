@@ -49,40 +49,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1971-445490
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:21:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5c02537df8b8c2ac38db8f375859078c6731c6d7aee676162a73555b3600cf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c569b94a59e93f604195939d75f49caf8b404d2371d8120e20f408ed0fbcd22b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:21:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Funchal
+- Junta Geral
+- Madeira.ilha Adjacente
+- Porto Santo
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:485631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:482388:por
+  label: "Mantido em vigor, até à revisão dos suplementos remuneratórios a que se refere o art. 112º da Lei 12-A/2008 de 27-Fev,\
+    \ o subsídio de insularidade atribuído aos funcionários, agentes e contratados há mais de um ano na ilha do Porto Santo,\
+    \ ao abrigo deste diploma, pelo DLR.34/2009/M.31.12.2009.AL-RAM, DR.IS [252] de 31.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/34-2009-482388
+  date: '2009-12-31'
+- type: amended_by
+  target: pt:dre:485631:por
+  label: "Mantido em vigor, até à revisão dos suplementos remuneratórios a que se refere o art. 112º da Lei 12-A/2008, de\
+    \ 27-Fev, o subsídio de insularidade atribuído aos funcionários, agentes e contratados há mais de um ano na ilha do Porto\
+    \ Santo, ao abrigo do presente diploma, pelo DLR.2/2011/M.10.01.2011.AL-RAM, DR.IS [6] de 10.01.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/2-2011-485631
+  date: '2011-01-10'
+- type: cites
+  target: pt:dre:227236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508396:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:21:53Z'
   warnings: []
   errors: []
 ---
@@ -97,16 +129,16 @@ Justificando-se tornar extensivo à ilha de Porto Santo o regime constante do [D
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. O regime estabelecido no [Decreto-Lei n.º 46798](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46798-1965-508396), de 30 de Dezembro de 1965, passa a ser aplicável aos funcionários dos quadros da Junta Geral do Distrito Autónomo do Funchal e dos serviços do Estado a cargo da Junta Geral quando em serviço permanente na ilha de Porto Santo.
+Artigo 1.º - 1. O regime estabelecido no [Decreto-Lei n.º 46798](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46798-1965-508396), de 30 de Dezembro de 1965, passa a ser aplicável aos funcionários dos quadros da Junta Geral do Distrito Autónomo do Funchal e dos serviços do Estado a cargo da Junta Geral quando em serviço permanente na ilha de Porto Santo.
 
 2. Fica a Câmara Municipal de Porto Santo autorizada a adoptar o mesmo regime relativamente aos funcionários dos seus quadros.
 
-###### Art. 2.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+Art. 2.º O presente decreto-lei entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 10 de Março de 1971.**
+Promulgado em 10 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

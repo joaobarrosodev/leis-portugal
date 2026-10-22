@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/146-1972-680231
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13e9c985c97381595716efdb2c8aa26c094fc33a9e29e944b641a328a64605f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46ff530aea7661a639b3efaf78515126b627cb4c166a5bb98be00fba5381aa32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:52Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Atendendo a que se vai iniciar brevemente o ano lectivo naquele estabelecimento 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A Escola Central de Sargentos passa a ministrar, a partir do ano lectivo de 1971-1972, e a título experimental, o curso E destinado aos sargentos dos ramos de exploração e de manutenção da arma de transmissões, conforme plano constante do quadro anexo.
+Artigo 1.º - 1. A Escola Central de Sargentos passa a ministrar, a partir do ano lectivo de 1971-1972, e a título experimental, o curso E destinado aos sargentos dos ramos de exploração e de manutenção da arma de transmissões, conforme plano constante do quadro anexo.
 
 2. Para o efeito, serão criadas naquele estabelecimento de ensino mais as seguintes disciplinas:
 
@@ -111,13 +119,13 @@ a) Os programas das novas cadeiras cujo ensino passa a ser ministrado;
 
 b) As adaptações convenientes nos programas das disciplinas comuns aos restantes cursos, em conformidade com a distribuição do número de aulas semanais que consta do plano anexo.
 
-###### Art. 2.º Os regimes de frequência, de aproveitamento e de exames serão regulados pela legislação em vigor naquele estabelecimento de ensino.
+Art. 2.º Os regimes de frequência, de aproveitamento e de exames serão regulados pela legislação em vigor naquele estabelecimento de ensino.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.**
+Promulgado em 19 de Abril de 1972, nos termos do § 2.º do artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 
@@ -125,6 +133,6 @@ QUADRO ANEXO
 
 E) Curso do quadro dos serviços técnicos da arma de transmissões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/05/10500/05570558.pdf))](https://files.diariodarepublica.pt/1s/1972/05/10500/05570558.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/05/10500/05570558.pdf)
 
-**O Ministro do Exército, Horácio José de Sá Viana Rebelo.**
+O Ministro do Exército, Horácio José de Sá Viana Rebelo.

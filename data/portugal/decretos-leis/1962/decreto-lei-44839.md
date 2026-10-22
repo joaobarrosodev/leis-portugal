@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 299/1962, 1º Suplemento, Série I de 1962-12-31
   number: '299'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1921 - 1990
   pdf_url: https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf
 entry_into_force_dates: []
@@ -46,36 +46,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44839-1962-214494
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6f0a818fcc6bf1c7ab85ce49d873f9ea70ed6ad064f4c6c3e1f9c20593cb9ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3f04d06d554576402a64ab43b6046435d8be8bcfbdfef913332ceaa72017404
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comunicações
+- Convenção
+- Genebra
+- ONU
+- Portugal
+- União Internacional das Telecomunicações
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:48Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +90,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada para ratificação a Convenção Internacional das Telecomunicações, 1959, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
+Artigo único. É aprovada para ratificação a Convenção Internacional das Telecomunicações, 1959, cujos textos, em francês e respectiva tradução para português, vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 
@@ -1360,7 +1366,7 @@ A. A. Mullhaupt.
 
 Pour la Norvège:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf))](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf).
 
 L. Larsen.
 
@@ -4290,7 +4296,7 @@ A. A. Mullhaupt.
 
 Pela Noruega:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf))](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf).
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/29901/19211990.pdf).
 
 L. Larsen.
 
@@ -5186,7 +5192,7 @@ Iniciado o escrutínio, nenhuma delegação o poderá interromper, salvo se se t
 
 627 8. Explicações de voto
 
-**O presidente concederá a palavra às delegações que, depois da votação, desejem explicar o seu voto.**
+O presidente concederá a palavra às delegações que, depois da votação, desejem explicar o seu voto.
 
 628 9. Votação de uma proposta por partes
 
@@ -5432,13 +5438,11 @@ Preâmbulo
 
 Em conformidade com o disposto no artigo 57.º da Carta das Nações Unidas e no artigo 26.º da Convenção da União Internacional das Telecomunicações, celebrada em Atlantic City, em 1947, as Nações Unidas e a União Internacional das Telecomunicações acordam o seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 As Nações Unidas reconhecem a União Internacional das Telecomunicações, adiante designada por «União», como sendo a instituição especializada incumbida de tomar todas as medidas apropriadas, em conformidade com o seu Acto constitutivo, para atingir os objectivos por ela fixados messe mesmo Acto.
 
-ARTIGO II
-
-Representação recíproca
+###### ARTIGO II — Representação recíproca
 
 1. A Organização das Nações Unidas será convidada a enviar representantes para participarem, sem direito de voto, nos trabalhos de todas as conferências de plenipotenciários e administrativas da União. Será igualmente convidada, após acordo prévio com a União, a enviar representantes para assistirem às reuniões das comissões consultivas internacionais ou a quaisquer outras reuniões convocadas pela União, com o direito de participarem, sem voto, na discussão dos problemas que interessem às Nações Unidas.
 
@@ -5450,15 +5454,11 @@ Representação recíproca
 
 5. O Secretariado das Nações Unidas procederá à distribuição de todas as exposições escritas apresentadas pela União aos Membros da Assembleia Geral, do Conselho Económico e Social e das suas comissões, bem como do Conselho de Tutela, conforme for o caso. Do mesmo modo, as exposições escritas apresentadas pelas Nações Unidas serão distribuídas, pela União, aos seus Membros.
 
-ARTIGO III
-
-Inscrição de assuntos na ordem do dia
+###### ARTIGO III — Inscrição de assuntos na ordem do dia
 
 Após as consultas prévias que possam ser necessárias, a União inscreverá na ordem do dia das Conferências de plenipotenciários ou administrativas ou das reuniões de outros organismos da mesma União as questões que lhe sejam apresentadas pelas Nações Unidas. Idênticamente, o Conselho Económico e Social e as suas comissões, bem como o Conselho de Tutela, inscreverão na sua ordem do dia os assuntos apresentados pelas conferências ou por outros organismos da União.
 
-ARTIGO IV
-
-Recomendações das Nações Unidas
+###### ARTIGO IV — Recomendações das Nações Unidas
 
 1. A União, considerando que às Nações Unidas compete promover a realização dos objectivos previstos no artigo 55.º da Carta e ajudar o Conselho Económico e Social a exercer as funções e poderes que lhe confere o artigo 62.º da mesma Carta, para o efeito de elaborar ou fazer elaborar estudos e relatórios sobre questões internacionais, nos campos económico, social, da cultura intelectual e de educação, da saúde pública e de outros afins, e ainda de dirigir recomendações, sobre todas essas questões, às instituições especializadas nelas interessadas, e considerando, também, que os artigos 58.º e 63.º da Carta dispõem que a Organização das Nações Unidas deve fazer recomendações para coordenar as actividades dessas instituições especializadas com os princípios gerais em que elas se inspiram, obriga-se a tomar as providências necessárias para submeter, o mais breve possível, ao seu organismo competente, para todos os fins convenientes, quaisquer recomendações oficiais que a Organização das Nações Unidas possa vir a dirigir-lhe.
 
@@ -5466,9 +5466,7 @@ Recomendações das Nações Unidas
 
 3. A União cooperará em qualquer outra medida julgada necessária para assegurar a coordenação plena e eficiente das actividades das suas instituições especializadas com as que competem às Nações Unidas. Concorda, nomeadamente, em colaborar com qualquer órgão ou órgãos que o Conselho Económico e Social venha a estabelecer para facilitar essa coordenação e em fornecer todas as informações que possam ser necessárias para atingir esses objectivos.
 
-ARTIGO V
-
-Permuta de informações e de documentos
+###### ARTIGO V — Permuta de informações e de documentos
 
 1. Com reserva das medidas que possam ser necessárias para garantir a natureza confidencial de certos documentos, as Nações Unidas e a União procederão à permuta, tão completa e rápida quanto possível, das informações e documentos que se destinam a satisfazer as necessidades de cada uma delas.
 
@@ -5480,15 +5478,11 @@ b) A União satisfará, na medida do possível, todos os pedidos de relatórios 
 
 c) O secretário-geral das Nações Unidas procederá à troca de impressões com a autoridade competente da União, mediante pedido desta, para fornecer as informações que para a União revistam interesse particular.
 
-ARTIGO VI
-
-Assistência às Nações Unidas
+###### ARTIGO VI — Assistência às Nações Unidas
 
 A União obriga-se a cooperar com as Nações Unidas e com os seus organismos principais e subsidiários e a dar-lhes toda a assistência possível, de acordo com a Carta das Nações Unidas e a Convenção Internacional das Telecomunicações, tendo especialmente em conta a situação especial dos Membros da União que não são Membros das Nações Unidas.
 
-ARTIGO VII
-
-Relações com o Tribunal Internacional de Justiça
+###### ARTIGO VII — Relações com o Tribunal Internacional de Justiça
 
 1. A União obriga-se a fornecer ao Tribunal Internacional de Justiça todas as informações que este lhe solicite, nos termos do artigo 34.º do seu estatuto.
 
@@ -5498,17 +5492,13 @@ Relações com o Tribunal Internacional de Justiça
 
 4. Quando solicitar um parecer consultivo ao Tribunal Internacional de Justiça, a União informará desse facto o Conselho Económico e Social.
 
-ARTIGO VIII
-
-Disposições respeitantes ao pessoal
+###### ARTIGO VIII — Disposições respeitantes ao pessoal
 
 1. A Organização das Nações Unidas e a União acordam em estabelecer, na medida do possível, normas, métodos e disposições comuns destinados a evitar contradições graves nos termos e condições de emprego do pessoal e concorrência no seu recrutamento, e bem assim a facilitar as permutas que pareçam desejáveis, de parte a parte, para utilizar da melhor maneira os serviços desse pessoal.
 
 2. A Organização das Nações Unidas e a União acordam em cooperar, tanto quanto possível, para a consecução dos objectivos acima indicados.
 
-ARTIGO IX
-
-Serviços estatísticos
+###### ARTIGO IX — Serviços estatísticos
 
 1. A Organização das Nações Unidas e a União acordam em empregar os seus esforços para, na mais estreita colaboração possível, conseguirem eliminar as duplicações nas suas actividades e utilizar com toda a eficiência o seu pessoal técnico na colheita, análise, publicação, normalização, melhoramento e difusão das informações estatísticas. Acordam também em conjugar os seus esforços para tirarem o maior proveito possível das informações estatísticas e para aliviarem a tarefa dos Governos e outros organismos aos quais essas informações possam ser solicitadas.
 
@@ -5520,55 +5510,41 @@ Serviços estatísticos
 
 5. Acorda-se igualmente em que os dados fornecidos à Organização das Nações Unidas para serem incorporados nos seus elementos estatísticos base ou nos seus relatórios especiais serão acessíveis à União, a pedido desta e na medida em que isso for possível e oportuno.
 
-ARTIGO X
-
-Serviços administrativos e técnicos
+###### ARTIGO X — Serviços administrativos e técnicos
 
 1. A Organização das Nações Unidas e a União reconhecem que, para utilizar da forma mais eficaz o pessoal e os recursos disponíveis, é desejável evitar, sempre que possível, a criação de serviços que entre si concorram ou se sobreponham, consultando-se, quando necessário, para a realização destes objectivos.
 
 2. A Organização das Nações Unidas e a União tomarão, em conjunto, disposições referentes ao registo e ao depósito de documentos oficiais.
 
-ARTIGO XI
-
-Disposições orçamentais e financeiras
+###### ARTIGO XI — Disposições orçamentais e financeiras
 
 1. O orçamento ou o projecto do orçamento da União será transmitido à Organização das Nações Unidas ao mesmo tempo em que o for aos Membros da União; a Assembleia Geral poderá, a este respeito, fazer recomendações à União.
 
 2. A União terá o direito de enviar representantes para participarem, sem direito de voto, nos trabalhos da Assembleia Geral ou de quaisquer comissões dessa Assembleia, na altura em que se efectuar a discussão do orçamento da União.
 
-ARTIGO XII
-
-Financiamento de serviços especiais
+###### ARTIGO XII — Financiamento de serviços especiais
 
 1. Se a União se vir obrigada a suportar importantes despesas suplementares, em consequência de um pedido de assistência, de relatórios especiais ou de estudos, apresentados pela Organização das Nações Unidas, nos termos do artigo VI ou de outras disposições do presente Acordo, as partes efectuarão consultas entre si para estabelecerem a forma mais equitativa de fazer face a essas despesas.
 
 2. A Organização das Nações Unidas e a União consultar-se-ão igualmente para tomarem as disposições julgadas equitativas para cobertura dos encargos dos serviços centrais, administrativos, técnicos e financeiros e de qualquer facilidade ou assistência especial concedida pela Organização das Nações Unidas a pedido da União.
 
-ARTIGO XIII
-
-Salvo-conduto das Nações Unidas
+###### ARTIGO XIII — Salvo-conduto das Nações Unidas
 
 Os funcionários da União terão direito a utilizar o salvo-conduto das Nações Unidas em conformidade com os acordos especiais que forem concluídos entre o secretário-geral da Organização das acções Unidas e as autoridades competentes da União.
 
-ARTIGO XIV
-
-Acordos entre instituições
+###### ARTIGO XIV — Acordos entre instituições
 
 1. A União obriga-se a informar o Conselho Económico e Social sobre a natureza e alcance de qualquer acordo oficial a celebrar entre a mesma União e qualquer outra instituição especializada, organização intergovernamental ou organização internacional não governamental, e a esclarecer, em pormenor, o mesmo Conselho Económico e Social sobre os detalhes desse acordo, logo que ele tenha sido concluído.
 
 2. A Organização das Nações Unidas obriga-se a informar a União sobre a natureza e alcance de qualquer acordo oficial a celebrar por quaisquer outras instituições especializadas e referente a questões que possam interessar à União, e, além disso, a comunicar-lhe os pormenores desse acordo, logo que ele tenha sido concluído.
 
-ARTIGO XV
-
-Ligação
+###### ARTIGO XV — Ligação
 
 1. A Organização das Nações Unidas e a União acordaram nas disposições anteriores, convictas de que elas contribuirão para manter uma ligação efectiva entre as duas organizações. E afirmam a sua intenção de tomar as medidas que possam ser necessárias para esse efeito.
 
 2. As disposições respeitantes à ligação prevista pelo presente Acordo aplicar-se-ão, na medida em que forem adequadas, às relações entre a União e a Organização das Nações Unidas, incluídos os seus serviços regionais ou auxiliares.
 
-ARTIGO XVI
-
-Serviços de telecomunicações das Nações Unidas
+###### ARTIGO XVI — Serviços de telecomunicações das Nações Unidas
 
 1. A União reconhece que é importante para a Organização das Nações Unidas beneficiar dos mesmos direitos que os Membros da União na exploração dos serviços de telecomunicações.
 
@@ -5576,21 +5552,15 @@ Serviços de telecomunicações das Nações Unidas
 
 3. Os termos precisos da aplicação deste artigo serão objecto de acordos separados.
 
-ARTIGO XVII
+###### ARTIGO XVII — Execução do Acordo
 
-Execução do Acordo
+O secretário-geral das Nações Unidas e a autoridade competente da União poderão tomar todas as disposições complementares que pareçam convenientes para a aplicação do presente Acordo.
 
-**O secretário-geral das Nações Unidas e a autoridade competente da União poderão tomar todas as disposições complementares que pareçam convenientes para a aplicação do presente Acordo.**
-
-ARTIGO XVIII
-
-Revisão
+###### ARTIGO XVIII — Revisão
 
 Este Acordo poderá ser revisto por entendimento entre as Nações Unidas e a União mediante aviso prévio de seis meses, feito por qualquer das partes.
 
-ARTIGO XIX
-
-Entrada em vigor
+###### ARTIGO XIX — Entrada em vigor
 
 1. O presente Acordo entrará provisòriamente em vigor após aprovação pela Assembleia Geral das Nações Unidas e pela Conferência Plenipotenciária das Telecomunicações, celebrada em Atlantic City, em 1947.
 

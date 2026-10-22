@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/619-1971-166001
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:21:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b92cbad6ff570b3d547b9d673ee2a408bfdd382ad8d4d1f6ae95a4e9bd9ad94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e4003d1c3b121eb2f180810aa4ced70e5efbdeabef60fb1eb49ef25d739b35de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:21:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633317:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:21:00Z'
   warnings: []
   errors: []
 ---
@@ -90,65 +106,65 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Educação Nacional, créditos especiais no montante de 2216837$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Educação Nacional, créditos especiais no montante de 2216837$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios:
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 14.º «Remunerações certas ao pessoal em exercício»:
+Artigo 14.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Ensino de preparação para o magistério primário
 
 Escolas do magistério primário
 
-###### Artigo 947.º «Remunerações certas ao pessoal em exercício»:
+Artigo 947.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Ensino de preparação para o magistério primário
 
 Escolas do magistério primário
 
-###### Artigo 947.º «Remunerações certas ao pessoal em exercício»:
+Artigo 947.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante três meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/12/30400/20542055.pdf)
 
 pessoal contratado ... 341837$00
 
-###### Artigo 947.º-A «Remunerações acidentais»:
+Artigo 947.º-A «Remunerações acidentais»:
 
 N.º 1) «Gratificações pela acumulação do serviço de regências» ... 750000$00
 
 ... 2216837$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são anuladas as seguintes importâncias no vigente orçamento do Ministério da Educação Nacional:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são anuladas as seguintes importâncias no vigente orçamento do Ministério da Educação Nacional:
 
-### Capítulo 6.º, artigo 921.º, n.º 1) ... 12000$00
+Capítulo 6.º, artigo 921.º, n.º 1) ... 12000$00
 
-### Capítulo 6.º, artigo 936.º, n.º 1) ... 1303337$00
+Capítulo 6.º, artigo 936.º, n.º 1) ... 1303337$00
 
-### Capítulo 6.º, artigo 947.º, n.º 1) ... 901500$00
+Capítulo 6.º, artigo 947.º, n.º 1) ... 901500$00
 
 ... 2216837$00
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
 
 À observação (a) aposta à dotação do capítulo 6.º, artigo 936.º, n.º 1), alínea 1 «Professores do quadro geral: vencimentos e gratificações» é aditado o seguinte:
 
@@ -158,8 +174,8 @@ Estas alterações orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 28 de Dezembro de 1971.**
+Promulgado em 28 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

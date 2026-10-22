@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/19-1985-182986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 209381908d07e050df515811e89c14d675bf08c4cf70d1647db78a9e7874094d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fffc46b324d829041dc976cdcd2d301abebe119b9a596a0d019bf567dcd5d3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instalação Militar
+- Oeiras
+- Quartel
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:01Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área do terreno com a largura de 150 m, medidos para o exterior dos limites da propriedade militar do Quartel da Medrosa, em Oeiras.
+Artigo 1.º Fica sujeita a servidão militar a área do terreno com a largura de 150 m, medidos para o exterior dos limites da propriedade militar do Quartel da Medrosa, em Oeiras.
 
 Esta área considera-se subdividida em duas zonas, como segue:
 
@@ -103,7 +115,7 @@ Esta área considera-se subdividida em duas zonas, como segue:
 
 2) Uma segunda zona com a largura de 100 m, a contar dos limites da primeira zona.
 
-###### Art. 2.º Na área referida no n.º 1) do artigo anterior é proibido, sem licença devidamente condicionada da autoridade militar competente:
+Art. 2.º Na área referida no n.º 1) do artigo anterior é proibido, sem licença devidamente condicionada da autoridade militar competente:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -117,7 +129,7 @@ e) Instalar linhas de energia eléctrica ou de ligações telegráficas ou telef
 
 f) Outros trabalhos que possam, inequivocamente, prejudicar a segurança das missões que competem às Forças Armadas.
 
-###### Art. 3.º Na área referida no n.º 2) do artigo 1.º é proibido, sem licença devidamente condicionada da autoridade militar competente:
+Art. 3.º Na área referida no n.º 2) do artigo 1.º é proibido, sem licença devidamente condicionada da autoridade militar competente:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -125,15 +137,15 @@ b) Fazer depósitos permanentes ou temporários de materiais explosivos ou infla
 
 c) Outros trabalhos que possam, inequivocamente, prejudicar a segurança das missões que competem às Forças Armadas.
 
-###### Art. 4.º Ao governador militar de Lisboa, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, compete conceder as licenças a que se faz referência nos artigos 2.º e 3.º
+Art. 4.º Ao governador militar de Lisboa, ouvida a Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados, compete conceder as licenças a que se faz referência nos artigos 2.º e 3.º
 
-###### Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da unidade, ao comando da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
+Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comandante da unidade, ao comando da Região Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras do Exército ou órgãos seus delegados.
 
-###### Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação da Direcção do Serviço de Fortificações e Obras do Exército em Lisboa.
+Art. 6.º A demolição das obras nos casos previstos na lei e a aplicação das multas pelas infracções verificadas são da competência da Delegação da Direcção do Serviço de Fortificações e Obras do Exército em Lisboa.
 
-###### Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o Chefe do Estado-Maior do Exército; das decisões respeitantes a demolições e à aplicação de multas previstas no artigo anterior cabe recurso para o governador militar de Lisboa e da decisão deste para o titular do Departamento do Exército.
+Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o Chefe do Estado-Maior do Exército; das decisões respeitantes a demolições e à aplicação de multas previstas no artigo anterior cabe recurso para o governador militar de Lisboa e da decisão deste para o titular do Departamento do Exército.
 
-###### Art. 8.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Oeiras, na escala 1/5000, organizando-se oito colecções, com a classificação de «Reservado», que terão os seguintes destinos:
+Art. 8.º A área descrita no artigo 1.º vai demarcada na planta topográfica de Oeiras, na escala 1/5000, organizando-se oito colecções, com a classificação de «Reservado», que terão os seguintes destinos:
 
 Uma ao Estado-Maior-General das Forças Armadas (4.ª Divisão);
 
@@ -149,12 +161,12 @@ Uma ao Ministério da Habitação e Obras Públicas.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Carlos Montez Melancia.
 
-**Assinado em 26 de Junho de 1985.**
+Assinado em 26 de Junho de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 1 de Julho de 1985.**
+Referendado em 1 de Julho de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

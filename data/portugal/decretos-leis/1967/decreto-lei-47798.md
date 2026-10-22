@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47798-1967-314386
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 75c987829acaf2f898692035185d825f2c33c5ef9b9a3d7d425908fc3963391b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48e0c1e449a69927ea586541235936adb394e90b522d3b1fc79e3c2aeb3ae175
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:01:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comissário
+- Concurso
+- Curso
+- Escola Prática de Polícia
+- Formação Profissional
+- Pessoal de Chefia
+- Pessoal Militarizado
+- Promoção Profissional
+- PSP
+- Tempo de Serviço
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:155862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217507:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650349:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:01:43Z'
   warnings: []
   errors: []
 ---
@@ -93,29 +120,29 @@ Atendendo, finalmente, a que, pelas razões indicadas, há necessidade de modifi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os concursos para promoção a comissário, chefe de esquadra e segundo-subchefe da Polícia de Segurança Pública, a que se referem o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, regulamento aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, e [Decreto-Lei n.º 44692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44692-1962-155862), de 16 de Novembro de 1962, são substituídos por cursos especializados para cada um dos referidos postos, a ministrar na Escola Prática de Polícia.
+Artigo 1.º Os concursos para promoção a comissário, chefe de esquadra e segundo-subchefe da Polícia de Segurança Pública, a que se referem o [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, regulamento aprovado pelo [Decreto n.º 39550](https://diariodarepublica.pt/dr/detalhe/decreto/39550-1954-217507), de 26 de Fevereiro de 1954, e [Decreto-Lei n.º 44692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44692-1962-155862), de 16 de Novembro de 1962, são substituídos por cursos especializados para cada um dos referidos postos, a ministrar na Escola Prática de Polícia.
 
-###### Art. 2.º Os programas dos cursos da Escola Prática de Polícia, bem como as condições de admissão, frequência, provas finais e outros requisitos considerados essenciais à sua finalidade, serão aprovados pelo comandante-geral da Policia de Segurança Pública e publicados em ordem de serviço.
+Art. 2.º Os programas dos cursos da Escola Prática de Polícia, bem como as condições de admissão, frequência, provas finais e outros requisitos considerados essenciais à sua finalidade, serão aprovados pelo comandante-geral da Policia de Segurança Pública e publicados em ordem de serviço.
 
-###### Art. 3.º Quando o número de candidatos ao curso para comissária seja julgado insuficiente, serão considerados opositores obrigatórios à sua frequência os chefes de esquadra que tenham cinco anos de serviço no posto e estejam no terço superior da escala de antiguidade.
+Art. 3.º Quando o número de candidatos ao curso para comissária seja julgado insuficiente, serão considerados opositores obrigatórios à sua frequência os chefes de esquadra que tenham cinco anos de serviço no posto e estejam no terço superior da escala de antiguidade.
 
 § único. Do disposto neste artigo exceptuam-se os chefes de esquadra que à data do início do curso estejam a prestar serviço nas companhias móveis de polícia destacadas no ultramar.
 
-###### Art. 4.º Os chefes de esquadra que em três cursos seguidos ou alternados fiquem reprovados, eliminados ou desistam poderão ser submetidos ao conselho de oficiais, que decidirá se devem continuar ao serviço ou transitar para a reforma, quando tiverem o tempo mínimo de serviço exigido para a aposentação.
+Art. 4.º Os chefes de esquadra que em três cursos seguidos ou alternados fiquem reprovados, eliminados ou desistam poderão ser submetidos ao conselho de oficiais, que decidirá se devem continuar ao serviço ou transitar para a reforma, quando tiverem o tempo mínimo de serviço exigido para a aposentação.
 
 § único. Para os efeitos do disposto neste artigo, não será considerada como desistência a que resultar de doença grave, devidamente comprovada pela junta de saúde.
 
-###### Art. 5.º As promoções ao posto de comissário, chefe de esquadra e segundo-subchefe serão feitas, pela ordem das classificações obtidas nos respectivos cursos, de entre, respectivamente, os chefes de esquadra, subchefes e guardas que tenham sido aprovados.
+Art. 5.º As promoções ao posto de comissário, chefe de esquadra e segundo-subchefe serão feitas, pela ordem das classificações obtidas nos respectivos cursos, de entre, respectivamente, os chefes de esquadra, subchefes e guardas que tenham sido aprovados.
 
 § único. A validade da classificação de cada curso manter-se-á até à promoção do último candidato aprovado no mesmo.
 
-###### Art. 6.º Só poderão ser promovidos aos postos de segundo e primeiro-subchefe, subchefe-ajudante, chefe de esquadra, comissário e comissário-chefe os agentes que tenham exemplar comportamento ou a 1.ª classe de comportamento e sejam julgados aptos pela junta de saúde.
+Art. 6.º Só poderão ser promovidos aos postos de segundo e primeiro-subchefe, subchefe-ajudante, chefe de esquadra, comissário e comissário-chefe os agentes que tenham exemplar comportamento ou a 1.ª classe de comportamento e sejam julgados aptos pela junta de saúde.
 
 § único. Tratando-se da 1.ª classe de comportamento, compete ao comandante-geral da Policia de Segurança Pública fixar em ordem de serviço as infracções disciplinares que, pela sua gravidade ou natureza especial, devam ser consideradas impeditivas da promoção e da admissão aos cursos.
 
-###### Art. 7.º É mantida a validade dos actuais concursos para comissário, chefe de esquadra e segundo-subchefe, podendo ser prorrogada ainda por mais um ano nos termos das disposições legais em vigor à data da abertura do concurso.
+Art. 7.º É mantida a validade dos actuais concursos para comissário, chefe de esquadra e segundo-subchefe, podendo ser prorrogada ainda por mais um ano nos termos das disposições legais em vigor à data da abertura do concurso.
 
-###### Art. 8.º Será permitido aos agentes das companhias móveis destacadas no ultramar, e por esse motivo impedidos de comparecerem a concursos a que se tenham candidatado, a prestação de provas depois do seu regresso à metrópole, desde que ainda não tenha expirado o prazo de validade do respectivo concurso.
+Art. 8.º Será permitido aos agentes das companhias móveis destacadas no ultramar, e por esse motivo impedidos de comparecerem a concursos a que se tenham candidatado, a prestação de provas depois do seu regresso à metrópole, desde que ainda não tenha expirado o prazo de validade do respectivo concurso.
 
 § 1.º No caso de aprovação, a valorização obtida será intercalada no mapa do resultado final do concurso.
 
@@ -123,8 +150,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A antiguidade no novo posto será considerada a partir da data da sua promoção se o candidato tiver entrado na altura própria ou a partir da data da promoção do que estiver imediatamente a seguir na escala da classificação, se este lhe tiver tomado a vez, e neste caso sem direito a quaisquer diferenças de vencimento pela promoção retrotraída.
 
-###### Art. 9.º Ao pessoal do quadro adido destacado noutros organismos são aplicáveis as disposições do presente diploma.
+Art. 9.º Ao pessoal do quadro adido destacado noutros organismos são aplicáveis as disposições do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

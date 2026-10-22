@@ -47,40 +47,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1975-159492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c99b1e719c93554d4b5246d17b599b51c859f8512b069252bcd50e1c68cb8ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e367b696eeb90c3ab516f430d799d4f4af96be07f219e4a585d62a0488bd7dc0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acumulação de Funções
+- Ensino Superior
+- Incompatibilidades
+- Pessoal Docente
+- Universidade
 relationships:
 - type: amended_by
   target: pt:dre:377922:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:368623:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:56Z'
   warnings: []
   errors: []
 ---
@@ -95,12 +104,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É revogado o artigo 18.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941, que tornava o exercício de funções docentes incompatível com o exercício das mesmas funções em qualquer outro grau de ensino.
+Artigo único. É revogado o artigo 18.º do [Decreto-Lei n.º 31658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31658-1941-368623), de 21 de Novembro de 1941, que tornava o exercício de funções docentes incompatível com o exercício das mesmas funções em qualquer outro grau de ensino.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
 
-**Promulgado em 24 de Janeiro de 1975.**
+Promulgado em 24 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

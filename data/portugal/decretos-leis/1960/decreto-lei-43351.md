@@ -47,40 +47,98 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43351-1960-512987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 062270290ca23b7374bee2eb4e690d53a67801930eb045e202583d0ae5527b92
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 534ea946bcf8a756836914916528a3a5d833d89f8fad87561c00698a94b1ce73
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Angola.Colónia Portuguesa
+- Arquipélago da Madeira
+- CABO Verde.Colónia Portuguesa
+- Comando Territorial
+- Definição de Competências
+- Estabelecimento de Ensino
+- Estabelecimento Hospitalar
+- Estado Português da Índia
+- Exército
+- Governo Militar de Lisboa
+- Lisboa
+- Macau
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Região Militar
+- Timor.Colónia Portuguesa
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:657445:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:519008:por
+  label: "Alterados o art. 8º e o § único do art. 8º e substituídos os mapas anexos ao presente diploma, pelo DEC LEI.44190.16.02.1962.MX,\
+    \ DG.IS [35] de 16.02.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44190-1962-519008
+  date: '1962-02-16'
+- type: amended_by
+  target: pt:dre:142299:por
+  label: "Alterado o art. 8º e o § 1.º e substituído o mapa anexo n.º 1 (na redacção do Dec Lei 44190, de 16-Fev de 1962)\
+    \ do presente diploma, pelo DEC LEI.203/70.11.05.1970.MX, DG.IS [110] de 11.05.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1970-142299
+  date: '1970-05-11'
+- type: amended_by
+  target: pt:dre:675861:por
+  label: "Alterado o art. 8º e o § único e substituído o mapa anexo nº1 (na redacção do Dec Lei 44190, de 16-Fev, de 1962)\
+    \ do presente diploma, pelo DEC LEI.257/72.28.07.1972.MX, DG.IS [175] de 28.07.1972\072\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/257-1972-675861
+  date: '1972-07-28'
+- type: amended_by
+  target: pt:dre:408535:por
+  label: "Extinto o Comando Territorial do Algarve criado pelo art. 8º deste diploma, com a redacção que lhe foi conferida\
+    \ pelo Dec Lei 203/70 de 11-Mai, pelo DEC LEI.201/74.14.05.1974.JSN, DG.IS [112-Supl] de 14.05.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/201-1974-408535
+  date: '1974-05-14'
+- type: amended_by
+  target: pt:dre:310992:por
+  label: "Extinto o Comando Territorial Independente de Macau previsto na al. b) do art. 8º pelo DEC LEI.705/75.19.12.1975.CR,\
+    \ DG.IS [292] de 19.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/705-1975-310992
+  date: '1975-12-19'
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657445:por
+  label: "Revogado pelo DEC LEI.50/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993, que o mantém, contudo, transitoriamente\
+    \ em vigor, nos termos do seu art. 32º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/50-1993-657445
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:44Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +161,11 @@ Organização territorial do Exército
 
 ### CAPÍTULO I — Princípios gerais
 
-###### Artigo 1.º A organização territorial constitui a infra-estrutura permanente do Exército, devidamente articulada e guarnecida com vista a assegurar, em tempo de paz e em tempo de guerra, o regular funcionamento das suas actividades executivas e operacionais.
+Artigo 1.º A organização territorial constitui a infra-estrutura permanente do Exército, devidamente articulada e guarnecida com vista a assegurar, em tempo de paz e em tempo de guerra, o regular funcionamento das suas actividades executivas e operacionais.
 
-###### Art. 2.º A organização territorial do Exército integra-se na organização territorial do conjunto da Nação e é una para todo o território nacional.
+Art. 2.º A organização territorial do Exército integra-se na organização territorial do conjunto da Nação e é una para todo o território nacional.
 
-###### Art. 3.º A organização territorial do Exército tem como finalidade essencial permitir:
+Art. 3.º A organização territorial do Exército tem como finalidade essencial permitir:
 
 a) As operações relativas ao recrutamento, instrução, preparação, aperfeiçoamento, mobilização, concentração e desmobilização das forças terrestres com vista ao oportuno levantamento de forças militares com a orgânica e preparação adequada aos vários tipos de operações previstas;
 
@@ -121,19 +179,19 @@ e) A instrução pré-militar, conforme os princípios fixados pela legislação
 
 § único. Elementos da organização territorial do Exército podem ser chamados a prestar a sua colaboração aos outros ramos das forças armadas.
 
-###### Art. 4.º A organização territorial do Exército compreende:
+Art. 4.º A organização territorial do Exército compreende:
 
 a) As regiões militares e os comandos territoriais independentes;
 
 b) Os órgãos de execução dos vários serviços e outros elementos territoriais não incluídos nestas regiões e comandos e dependendo directamente do Ministério do Exército ou do Departamento da Defesa Nacional.
 
-###### Art. 5.º Os elementos da organização territorial do Exército, correspondentes às várias parcelas do território nacional, apoiam-se recìprocamente; os meios levantados e preparados em qualquer delas podem ser empregados onde quer que as conveniências nacionais o exijam.
+Art. 5.º Os elementos da organização territorial do Exército, correspondentes às várias parcelas do território nacional, apoiam-se recìprocamente; os meios levantados e preparados em qualquer delas podem ser empregados onde quer que as conveniências nacionais o exijam.
 
-###### Art. 6.º Em cada parcela do território nacional os elementos da organização territorial do Exército podem, para efeitos operacionais e de harmonia com as disposições legais para tal fim estabelecidas, subordinar-se, total ou parcialmente, ao comando territorial conjunto que nela seja constituído.
+Art. 6.º Em cada parcela do território nacional os elementos da organização territorial do Exército podem, para efeitos operacionais e de harmonia com as disposições legais para tal fim estabelecidas, subordinar-se, total ou parcialmente, ao comando territorial conjunto que nela seja constituído.
 
 ### CAPÍTULO II — Estrutura e funcionamento
 
-###### Art. 7.º O território nacional é dividido em regiões militares e comandos territoriais independentes.
+Art. 7.º O território nacional é dividido em regiões militares e comandos territoriais independentes.
 
 As regiões militares podem dividir-se em comandos territoriais, cujos limites devem coincidir, em princípio, com limites da divisão administrativa do País.
 
@@ -141,7 +199,7 @@ Os comandos territoriais e os comandos territoriais independentes podem, ainda, 
 
 Em casos especiais as circunscrições militares podem depender directamente dos comandos das regiões militares ou do Ministério do Exército.
 
-###### Art. 8.º De acordo com o expresso no artigo anterior, são constituídas cinco regiões militares e sete comandos territoriais independentes, a saber:
+Art. 8.º De acordo com o expresso no artigo anterior, são constituídas cinco regiões militares e sete comandos territoriais independentes, a saber:
 
 a) Regiões militares:
 
@@ -191,9 +249,9 @@ De Timor;
 
 § único. Nos mapas anexos 1, 2 e 3 estão indicados os limites do Governo Militar de Lisboa e das 1.ª, 2.ª, 3.ª e 4.ª regiões militares.
 
-###### Art. 9.º Em caso de emergência, a divisão territorial estabelecida no presente diploma pode ser, transitòriamente, alterada de harmonia com as exigências dela decorrentes.
+Art. 9.º Em caso de emergência, a divisão territorial estabelecida no presente diploma pode ser, transitòriamente, alterada de harmonia com as exigências dela decorrentes.
 
-###### Art. 10.º No caso mais geral, as regiões militares e os comandos territoriais independentes compreendem:
+Art. 10.º No caso mais geral, as regiões militares e os comandos territoriais independentes compreendem:
 
 a) Comandante da região militar ou do comando territorial independente e o respectivo quartel-general;
 
@@ -211,7 +269,7 @@ g) Campos de instrução;
 
 h) Outros órgãos de execução dos serviços que nas regiões militares ou comandos territoriais independentes hajam sido incluídos.
 
-###### Art. 11.º Os comandantes das regiões militares e dos comandos territoriais independentes dependem do Ministro do Exército, por intermédio do chefe do Estado-Maior do Exército, para efeitos de preparação, mobilização, administração e disciplina dos elementos sob o seu comando.
+Art. 11.º Os comandantes das regiões militares e dos comandos territoriais independentes dependem do Ministro do Exército, por intermédio do chefe do Estado-Maior do Exército, para efeitos de preparação, mobilização, administração e disciplina dos elementos sob o seu comando.
 
 Integram-se ainda na cadeia de comandos operacionais constituída na dependência do chefe do Estado-Maior General das Forças Armadas. E quando assumam, de acordo com as disposições que constam da sua carta de comando, as prerrogativas de comando unificado, ou de comandantes chefes, ficam, para efeitos operacionais, directamente subordinados ao Ministro da Defesa Nacional.
 
@@ -225,13 +283,13 @@ c) Garantir, com carácter permanente, a protecção militar terrestre dos eleme
 
 d) Preparar, de acordo com as directivas superiores, operações terrestres no quadro operacional de que dependam e criar as condições de reforçar com forças adequadas e a breve prazo outras regiões militares ou comandos territoriais independentes.
 
-###### Art. 12.º As relações e subordinações a estabelecer entre os comandantes das regiões militares metropolitanas e comandos territoriais independentes com o comandante de Portugal continental serão fixadas pelo Ministro da Defesa Nacional, em diploma especial a elaborar.
+Art. 12.º As relações e subordinações a estabelecer entre os comandantes das regiões militares metropolitanas e comandos territoriais independentes com o comandante de Portugal continental serão fixadas pelo Ministro da Defesa Nacional, em diploma especial a elaborar.
 
-###### Art. 13.º Os comandantes das regiões militares são coadjuvados por um brigadeiro ou coronel tirocinado, 2.º comandante, ao qual será cometida, em especial, a missão de os auxiliar na coordenação de todas as actividades relacionadas com a intervenção do Exército na defesa interna das respectivas áreas.
+Art. 13.º Os comandantes das regiões militares são coadjuvados por um brigadeiro ou coronel tirocinado, 2.º comandante, ao qual será cometida, em especial, a missão de os auxiliar na coordenação de todas as actividades relacionadas com a intervenção do Exército na defesa interna das respectivas áreas.
 
 Nos comandos territoriais independentes as funções de auxiliar da coordenação das actividades respeitantes à intervenção do Exército na vigilância e defesa internas cabem, normalmente, ao respectivo chefe do estado-maior.
 
-###### Art. 14.º Os comandos territoriais em que subdividem as regiões militares compreendem:
+Art. 14.º Os comandos territoriais em que subdividem as regiões militares compreendem:
 
 Comandante e os respectivos órgãos de comando;
 
@@ -239,15 +297,15 @@ Comandantes e os respectivos órgãos de comando das circunscrições militares,
 
 Elementos da respectiva região militar neles instalados e que lhes tenham sido atribuídos.
 
-###### Art. 15.º Aos comandantes territoriais competem, na área da sua jurisdição, funções semelhantes às referidas no artigo 11.º, tomado em consideração o respectivo escalão de comando.
+Art. 15.º Aos comandantes territoriais competem, na área da sua jurisdição, funções semelhantes às referidas no artigo 11.º, tomado em consideração o respectivo escalão de comando.
 
-###### Art. 16.º Os comandantes das circunscrições militares dependem, em princípio, directamente dos comandantes territoriais respectivos para todos os efeitos, competindo-lhes exercer, essencialmente, funções de disciplina e de coordenação operacional dos elementos do Exército nelas instalados, em particular no que se refere à colaboração na defesa interna da respectiva área.
+Art. 16.º Os comandantes das circunscrições militares dependem, em princípio, directamente dos comandantes territoriais respectivos para todos os efeitos, competindo-lhes exercer, essencialmente, funções de disciplina e de coordenação operacional dos elementos do Exército nelas instalados, em particular no que se refere à colaboração na defesa interna da respectiva área.
 
-###### Art. 17.º Os dispositivos de defesa contra ataques aéreos estabelecidos com base em unidades terrestres - de artilharia antiaérea, de teleguiados ou de outros meios terrestres - poderão ser subordinados a comandos territoriais especializados, um por cada região militar ou comando territorial independente.
+Art. 17.º Os dispositivos de defesa contra ataques aéreos estabelecidos com base em unidades terrestres - de artilharia antiaérea, de teleguiados ou de outros meios terrestres - poderão ser subordinados a comandos territoriais especializados, um por cada região militar ou comando territorial independente.
 
 Esses comandos especializados podem ser subordinados aos comandos de defesa aérea correspondentes.
 
-###### Art. 18.º Os distritos de recrutamento e mobilização são órgãos territoriais de execução do serviço de pessoal e destinam-se a:
+Art. 18.º Os distritos de recrutamento e mobilização são órgãos territoriais de execução do serviço de pessoal e destinam-se a:
 
 a) Preparar e executar as operações de recrutamento militar nas respectivas áreas de jurisdição;
 
@@ -255,33 +313,33 @@ b) Escriturar e arquivar os registos e processos individuais das tropas licencia
 
 c) Preparar e executar a mobilização do pessoal pertencente às tropas referidas na alínea anterior, de harmonia com os planos ou ordens de mobilização superiormente estabelecidos.
 
-###### Art. 19.º Nas regiões militares do continente são constituídos distritos de recrutamento e mobilização, cujo número e respectivas sedes e limites serão definidos em diploma regulamentar.
+Art. 19.º Nas regiões militares do continente são constituídos distritos de recrutamento e mobilização, cujo número e respectivas sedes e limites serão definidos em diploma regulamentar.
 
 Em cada um dos comandos territoriais em que se subdividem as 3.ª e 4.ª regiões militares e em cada um dos comandos territoriais independentes é constituído um distrito de recrutamento e mobilização, cuja área coincide com a do respectivo comando.
 
-###### Art. 20.º Os centros de inspecção e selecção são órgãos territoriais de execução do serviço de pessoal e destinam-se a:
+Art. 20.º Os centros de inspecção e selecção são órgãos territoriais de execução do serviço de pessoal e destinam-se a:
 
 a) Inspeccionar os mancebos recenseados anualmente, os voluntários para o serviço militar e os candidatos à matrícula nos estabelecimentos de ensino militar;
 
 b) Seleccionar e classificar os apurados com vista ao seu ulterior destino.
 
-###### Art. 21.º No continente os centros de inspecção e selecção funcionam com carácter permanente e em ligação com os distritos de recrutamento e mobilização.
+Art. 21.º No continente os centros de inspecção e selecção funcionam com carácter permanente e em ligação com os distritos de recrutamento e mobilização.
 
 Nas 3.ª e 4.ª regiões militares e nos comandos territoriais independentes a inspecção e selecção dos mancebos será executada por juntas de inspecção e selecção, a organizar de acordo com as condições locais.
 
-###### Art. 22.º Os centros de instrução dividem-se em centros de instrução básica e centros de instrução especializados e destinam-se a:
+Art. 22.º Os centros de instrução dividem-se em centros de instrução básica e centros de instrução especializados e destinam-se a:
 
 a) Ministrar a instrução básica e especializada do recruta e de alguns quadros;
 
 b) Proceder a estudos e a experiências de carácter orgânico, táctico e técnico que interessem à eficiência da respectiva arma ou serviço.
 
-###### Art. 23.º Os centros de instrução básica recebem directamente os recrutas das várias incorporações anuais; ministram-lhes uma instrução básica, comum a todas as armas e serviços; completam a selecção anteriormente feita nos centros de inspecção e selecção e dirigem, finalmente, os recrutas para os centros de instrução especializados ou para as unidades territoriais, consoante os casos.
+Art. 23.º Os centros de instrução básica recebem directamente os recrutas das várias incorporações anuais; ministram-lhes uma instrução básica, comum a todas as armas e serviços; completam a selecção anteriormente feita nos centros de inspecção e selecção e dirigem, finalmente, os recrutas para os centros de instrução especializados ou para as unidades territoriais, consoante os casos.
 
-###### Art. 24.º Os centros de instrução especializados recebem os recrutas provenientes dos centros de instrução básica; ministram-lhe instrução especializada; completam a selecção anteriormente feita e dirigem-nos, finalmente, quando for o caso, para as respectivas unidades territoriais. Estes centros podem constituir órgãos territoriais independentes ou fazer parte de unidades territoriais.
+Art. 24.º Os centros de instrução especializados recebem os recrutas provenientes dos centros de instrução básica; ministram-lhe instrução especializada; completam a selecção anteriormente feita e dirigem-nos, finalmente, quando for o caso, para as respectivas unidades territoriais. Estes centros podem constituir órgãos territoriais independentes ou fazer parte de unidades territoriais.
 
 A algum deles compete, ainda, dar aos quadros a instrução que não seja ministrada nas respectivas escolas práticas e de aplicação militar.
 
-###### Art. 25.º Às escolas práticas e de aplicação militar das armas e dos serviços compete, essencialmente:
+Art. 25.º Às escolas práticas e de aplicação militar das armas e dos serviços compete, essencialmente:
 
 a) Preparar os quadros das respectivas armas e serviços, inclusive os quadros de complemento;
 
@@ -289,13 +347,13 @@ b) Preparar certos especialistas;
 
 c) Proceder a estudos e a experiências de carácter orgânico, táctico e técnico que interessem à eficiência da sua arma e serviço.
 
-###### Art. 26.º A estrutura das escolas práticas e de aplicação militar obedece a princípios comuns de organização e de funcionamento. Adstritas a estas escolas podem existir unidades da respectiva arma ou serviço, com orgânica e grau de prontidão adequados, que se destinam a colaborar na instrução ali ministrada, particularmente nas demonstrações de que a mesma instrução careça.
+Art. 26.º A estrutura das escolas práticas e de aplicação militar obedece a princípios comuns de organização e de funcionamento. Adstritas a estas escolas podem existir unidades da respectiva arma ou serviço, com orgânica e grau de prontidão adequados, que se destinam a colaborar na instrução ali ministrada, particularmente nas demonstrações de que a mesma instrução careça.
 
 Os comandos destas unidades dependem, para todos os efeitos, do comando da respectiva escola prática e de aplicação militar.
 
-###### Art. 27.º Os centros de instrução e as escolas práticas e de aplicação militar dependem, para efeitos de instrução, da Direcção-Geral de Instrução, através das respectivas direcções das armas e dos serviços, e da Inspecção-Geral de Educação Física do Exército.
+Art. 27.º Os centros de instrução e as escolas práticas e de aplicação militar dependem, para efeitos de instrução, da Direcção-Geral de Instrução, através das respectivas direcções das armas e dos serviços, e da Inspecção-Geral de Educação Física do Exército.
 
-###### Art. 28.º Às unidades territoriais das diversas armas e serviços compete, em princípio:
+Art. 28.º Às unidades territoriais das diversas armas e serviços compete, em princípio:
 
 a) Servir de base a uma ou mais subunidades da respectiva arma ou serviço, a manter permanentemente operacionais;
 
@@ -303,31 +361,31 @@ b) Mobilizar outras unidades ou formações operacionais e ainda pessoal para sa
 
 c) Servir, quando necessário, de centros de instrução especializados.
 
-###### Art. 29.º As unidades territoriais têm uma organização adequada ao cumprimento das missões anteriormente definidas e a sua numeração forma um conjunto harmónico, para todo o território nacional.
+Art. 29.º As unidades territoriais têm uma organização adequada ao cumprimento das missões anteriormente definidas e a sua numeração forma um conjunto harmónico, para todo o território nacional.
 
 Cada uma das unidades territoriais, qualquer que seja a sua localização no território nacional, será, conforme preceituado em diploma regulamentar, legítima herdeira das tradições e legendas das antigas unidades do exército português.
 
-###### Art. 30.º As subunidades a manter operacionais têm organização idêntica à de campanha e o seu grau de prontidão e os efectivos, em tempo de paz, serão fixados consoante os padrões de preparação estabelecidos pelo Estado-Maior do Exército e os quadros orgânicos de mobilização. A sua numeração terá por base a numeração da respectiva unidade territorial.
+Art. 30.º As subunidades a manter operacionais têm organização idêntica à de campanha e o seu grau de prontidão e os efectivos, em tempo de paz, serão fixados consoante os padrões de preparação estabelecidos pelo Estado-Maior do Exército e os quadros orgânicos de mobilização. A sua numeração terá por base a numeração da respectiva unidade territorial.
 
 Nestas subunidades, em princípio, o pessoal recebe apenas instrução operacional.
 
-###### Art. 31.º As subunidades operacionais podem ser, em tempo de paz, elementos constitutivos de grandes unidades ou de agrupamentos de forças a organizar para efeito de exercícios, manobras, ou para a satisfação de compromissos internacionais assumidos pelo País.
+Art. 31.º As subunidades operacionais podem ser, em tempo de paz, elementos constitutivos de grandes unidades ou de agrupamentos de forças a organizar para efeito de exercícios, manobras, ou para a satisfação de compromissos internacionais assumidos pelo País.
 
 Enquanto estas subunidades estiverem integradas nas respectivas unidades territoriais, os comandantes das grandes unidades ou de agrupamentos de forças acima referidos deverão exercer, com o prévio conhecimento do comando da respectiva região militar, funções de inspecção da sua preparação.
 
-###### Art. 32.º Os campos de instrução destinam-se, essencialmente, à realização de:
+Art. 32.º Os campos de instrução destinam-se, essencialmente, à realização de:
 
 a) Exercícios tácticos de pequenas e grandes unidades;
 
 b) Exercícios de fogos reais.
 
-###### Art. 33.º Os campos do instrução podem constituir circunscrições militares independentes e ter organizados comandos de grandes unidades ou de agrupamentos e abranger no perímetro centros de instrução, escolas práticas e de aplicação militar e unidades territoriais.
+Art. 33.º Os campos do instrução podem constituir circunscrições militares independentes e ter organizados comandos de grandes unidades ou de agrupamentos e abranger no perímetro centros de instrução, escolas práticas e de aplicação militar e unidades territoriais.
 
 Em tais condições, o comandante da grande unidade ou do agrupamento de forças assumirá o comando militar da circunscrição.
 
-###### Art. 34.º Os centros de instrução, as escolas práticas e de aplicação militar, os campos de instrução e, especialmente, as unidades territoriais são elementos do dispositivo de cobertura militar do País, competindo-lhes colaborar activamente na defesa interna das diversas parcelas do território nacional.
+Art. 34.º Os centros de instrução, as escolas práticas e de aplicação militar, os campos de instrução e, especialmente, as unidades territoriais são elementos do dispositivo de cobertura militar do País, competindo-lhes colaborar activamente na defesa interna das diversas parcelas do território nacional.
 
-###### Art. 35.º Os órgãos de execução dos serviços referidos na alínea h) do artigo 10.º compreendem, essencialmente:
+Art. 35.º Os órgãos de execução dos serviços referidos na alínea h) do artigo 10.º compreendem, essencialmente:
 
 a) Tribunais militares, estabelecimentos prisionais e unidades disciplinares;
 
@@ -341,7 +399,7 @@ e) Depósitos, parques, oficinas e paióis.
 
 § único. Os órgãos de execução dos serviços, referidos no corpo deste artigo, se bem que sejam subordinados do ponto de vista disciplinar e administrativo aos comandos das regiões militares e comandos territoriais independentes, dependem tècnicamente das direcções de serviço a que respeitam.
 
-###### Art. 36.º Os órgãos de execução dos vários serviços e outros elementos do Exército não incluídos nas regiões militares e comandos territoriais independentes são:
+Art. 36.º Os órgãos de execução dos vários serviços e outros elementos do Exército não incluídos nas regiões militares e comandos territoriais independentes são:
 
 a) Estabelecimentos militares de ensino;
 
@@ -363,7 +421,7 @@ g) Museus militares e monumentos e fortificações militares de carácter histó
 
 Neste caso as dependências técnicas realizar-se-ão através dos respectivos comandos de região militar ou de comando territorial independente.
 
-###### Art. 37.º A preparação e execução da mobilização militar, quer geral, quer parcial, compete normalmente:
+Art. 37.º A preparação e execução da mobilização militar, quer geral, quer parcial, compete normalmente:
 
 a) Às unidades territoriais, para as tropas activas;
 
@@ -371,36 +429,36 @@ b) Aos distritos de recrutamento e mobilização, para as tropas licenciadas e t
 
 Podem, porém, outros elementos da organização territorial do Exército fazer também a convocação do pessoal indispensável para assegurar o funcionamento das respectivas actividades especializadas de interesse para as forças armadas.
 
-###### Art. 38.º As unidades, formações ou outros elementos eventualmente constituídos por motivo de mobilização militar ficam, para todos os efeitos, dependentes do comando da região militar ou comando territorial independente em que tenham sido organizados, enquanto permaneçam na área de jurisdição dos respectivos comandos, salvo quando seja expressamente determinada outra qualquer dependência.
+Art. 38.º As unidades, formações ou outros elementos eventualmente constituídos por motivo de mobilização militar ficam, para todos os efeitos, dependentes do comando da região militar ou comando territorial independente em que tenham sido organizados, enquanto permaneçam na área de jurisdição dos respectivos comandos, salvo quando seja expressamente determinada outra qualquer dependência.
 
-###### Art. 39.º Os elementos da organização territorial do Exército transferidos, a título eventual, de uma região militar ou comando territorial independente para outros, enquanto se mantiverem nesta situação, ficam sob as ordens dos comandos das regiões militares ou comandos territoriais independentes para onde tenham sido transferidos, sem prejuízo das ligações a manter com a unidade ou órgão territorial mobilizador ou de base, no que respeita ao movimento dos registos do pessoal e animal e das cargas de material.
+Art. 39.º Os elementos da organização territorial do Exército transferidos, a título eventual, de uma região militar ou comando territorial independente para outros, enquanto se mantiverem nesta situação, ficam sob as ordens dos comandos das regiões militares ou comandos territoriais independentes para onde tenham sido transferidos, sem prejuízo das ligações a manter com a unidade ou órgão territorial mobilizador ou de base, no que respeita ao movimento dos registos do pessoal e animal e das cargas de material.
 
 Esta disposição aplica-se igualmente aos elementos referidos no artigo anterior, quando transferidos, a título eventual, para outra região militar ou comando territorial independente.
 
-###### Art. 40.º Para efeito de actuação em caso de emergência ou de operações são outorgadas aos comandos das regiões militares e comandos territoriais independentes, não integrados em comandos territoriais conjuntos, cartas de comando onde, além do mais, se define a situação dos mesmos relativamente à direcção política, à segurança interna e à administração civil e governo militar da respectiva área.
+Art. 40.º Para efeito de actuação em caso de emergência ou de operações são outorgadas aos comandos das regiões militares e comandos territoriais independentes, não integrados em comandos territoriais conjuntos, cartas de comando onde, além do mais, se define a situação dos mesmos relativamente à direcção política, à segurança interna e à administração civil e governo militar da respectiva área.
 
-###### Art. 41.º Em caso de emergência ou de operações são aplicáveis aos elementos da organização territorial do Exército as disposições correspondentes dos regulamentos de campanha, devidamente adaptados.
+Art. 41.º Em caso de emergência ou de operações são aplicáveis aos elementos da organização territorial do Exército as disposições correspondentes dos regulamentos de campanha, devidamente adaptados.
 
 ### CAPÍTULO III — Disposições diversas e transitórias
 
-###### Art. 42.º Diplomas regulamentares definirão os pormenores da estrutura orgânica das regiões militares e dos comandos territoriais independentes, designadamente a localização das diferentes unidades territoriais e outros elementos, quer estejam ou não integrados naquelas regiões ou comandos, e bem assim os seus respectivos quadros orgânicos.
+Art. 42.º Diplomas regulamentares definirão os pormenores da estrutura orgânica das regiões militares e dos comandos territoriais independentes, designadamente a localização das diferentes unidades territoriais e outros elementos, quer estejam ou não integrados naquelas regiões ou comandos, e bem assim os seus respectivos quadros orgânicos.
 
-###### Art. 43.º Enquanto não forem publicados os diplomas regulamentares a que se refere o artigo anterior, podem ser introduzidas, a título provisório, as alterações julgadas convenientes na actual organização territorial do Exército, mediante publicação de decretos assinados pelos Ministros da Defesa Nacional, das Finanças e do Exército.
+Art. 43.º Enquanto não forem publicados os diplomas regulamentares a que se refere o artigo anterior, podem ser introduzidas, a título provisório, as alterações julgadas convenientes na actual organização territorial do Exército, mediante publicação de decretos assinados pelos Ministros da Defesa Nacional, das Finanças e do Exército.
 
 Ficam designadamente abrangidas por esta determinação as disposições de pormenor relativas à divisão militar dos territórios metropolitanos e ultramarinos e às unidades e formações das tropas e dos serviços e demais elementos territoriais.
 
-###### Art. 44.º Enquanto se mantiverem as condições referidas no artigo anterior, fica o Ministro do Exército autorizado a alterar ou estabelecer, por meio de portaria, com a concordância do Ministro da Defesa Nacional, a composição e os efectivos de tempo de paz das unidades, estabelecimentos e outros elementos da organização territorial do Exército, desde que não resultem destas alterações novos encargos.
+Art. 44.º Enquanto se mantiverem as condições referidas no artigo anterior, fica o Ministro do Exército autorizado a alterar ou estabelecer, por meio de portaria, com a concordância do Ministro da Defesa Nacional, a composição e os efectivos de tempo de paz das unidades, estabelecimentos e outros elementos da organização territorial do Exército, desde que não resultem destas alterações novos encargos.
 
-###### Art. 45.º As disposições gerais do presente diploma entram em vigor a partir de 1 de Janeiro de 1961, devendo a estruturação completa da organização territorial do Exército estar terminada até final do ano de 1962.
+Art. 45.º As disposições gerais do presente diploma entram em vigor a partir de 1 de Janeiro de 1961, devendo a estruturação completa da organização territorial do Exército estar terminada até final do ano de 1962.
 
-###### Art. 46.º O presente diploma revoga todas as disposições em contrário relativas à organização territorial do Exército.
+Art. 46.º O presente diploma revoga todas as disposições em contrário relativas à organização territorial do Exército.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
 Do Mapa anexo n.º 1 ao Mapa anexo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/11/27300/25742579.pdf))](https://files.diariodarepublica.pt/1s/1960/11/27300/25742579.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/11/27300/25742579.pdf)
 
 Ministério do Exército, 24 de Novembro de 1960. - O Ministro do Exército, Afonso Magalhães de Almeida Fernandes.

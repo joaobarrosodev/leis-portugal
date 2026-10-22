@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/638-1975-310392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-11-14T00:00:00Z'
+  retrieved_at: '2026-10-22T22:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9e8c1bf16783568ef7e248e79403801e6098d9870dfe5da848f2b1ceb45b7d1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4a0c7d4d85e9c56d6b564993b973376c728bae774d0c0472db5981aeba4d715
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Geral do Porto de Lisboa
+- Contrato de Concessão
+- Domínio Público do Estado
+- Domínio Público Hídrico
+- Indústria Têxtil
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:46:31Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +100,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a outorgar, por prazo indeterminado, à Fisipe - Fibras Sintéticas de Portugal, S. A. R. L., a concessão de uma parcela de leito do rio Tejo, para aterrar, com área aproximada de 22 ha, situada na freguesia do Lavradio, concelho do Barreiro, na área de sua jurisdição, a fim de nela ser construída e explorada uma unidade industrial para a produção de fibras acrílicas ou para a instalação e exploração de outra actividade industrial em que se reconverta ou transforme a produção de fibras acrílicas.
+Artigo 1.º É autorizada a Administração-Geral do Porto de Lisboa a outorgar, por prazo indeterminado, à Fisipe - Fibras Sintéticas de Portugal, S. A. R. L., a concessão de uma parcela de leito do rio Tejo, para aterrar, com área aproximada de 22 ha, situada na freguesia do Lavradio, concelho do Barreiro, na área de sua jurisdição, a fim de nela ser construída e explorada uma unidade industrial para a produção de fibras acrílicas ou para a instalação e exploração de outra actividade industrial em que se reconverta ou transforme a produção de fibras acrílicas.
 
-###### Art. 2.º A concessão será outorgada mediante contrato escrito, aprovado pelo Ministro dos Transportes e Comunicações e sem dependência de outra formalidade.
+Art. 2.º A concessão será outorgada mediante contrato escrito, aprovado pelo Ministro dos Transportes e Comunicações e sem dependência de outra formalidade.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Joaquim Fragoso - Henrique Manuel Araújo de Oliveira Sá.
 
-**Promulgado em 4 de Novembro de 1975.**
+Promulgado em 4 de Novembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

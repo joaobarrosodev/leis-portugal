@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42817-1960-277144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T21:30:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e2ae5ebb6b521a74de1fa848272fc59553a7ee108c615ea36aecabf7613610b1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90a3d489f24d0cdb298d0f97bdb387ee06e800ef548d681b26c0f7c93cb937a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:30:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola
+- Conselho Económico
+- Empréstimo
+- Moçambique
+- Plano de Fomento
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:339602:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:30:48Z'
   warnings: []
   errors: []
 ---
@@ -91,21 +101,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica o Ministro das Finanças autorizado a, por força das disponibilidades do Tesouro, conceder às províncias ultramarinas de Angola e Moçambique, durante os anos de execução do II Plano de Fomento, os empréstimos até aos montantes fixados nos programas anuais de financiamento aprovados pelo Conselho Económico, nos termos da base III da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958.
+Artigo 1.º Fica o Ministro das Finanças autorizado a, por força das disponibilidades do Tesouro, conceder às províncias ultramarinas de Angola e Moçambique, durante os anos de execução do II Plano de Fomento, os empréstimos até aos montantes fixados nos programas anuais de financiamento aprovados pelo Conselho Económico, nos termos da base III da [Lei n.º 2094](https://diariodarepublica.pt/dr/detalhe/lei/2094-1958-339602), de 25 de Novembro de 1958.
 
-###### Art. 2.º Os empréstimos concedidos ao abrigo do disposto no artigo anterior serão reembolsados em vinte anuidades, iniciando-se o seu vencimento em 31 de Dezembro de 1965.
+Art. 2.º Os empréstimos concedidos ao abrigo do disposto no artigo anterior serão reembolsados em vinte anuidades, iniciando-se o seu vencimento em 31 de Dezembro de 1965.
 
 § 1.º Os mesmos empréstimos vencem o juro anual de 4 por cento, contado desde a data do depósito do capital, pagável aos semestres, em 30 de Junho e 31 de Dezembro de cada ano.
 
 § 2.º Fica ressalvado para o Governo-Geral de cada uma das mencionadas províncias o direito de antecipação das amortizações estabelecidas para os empréstimos.
 
-###### Art. 3.º As operações de empréstimo serão objecto de escritura a celebrar entre o Ministério das Finanças e o Governo-Geral de cada província interessada.
+Art. 3.º As operações de empréstimo serão objecto de escritura a celebrar entre o Ministério das Finanças e o Governo-Geral de cada província interessada.
 
-###### Art. 4.º Os encargos dos empréstimos a que respeita este diploma constituem despesa obrigatória e preferencial das referidas províncias ultramarinas, devendo anualmente ser inscritas nos respectivos orçamentos gerais as verbas necessárias à sua liquidação.
+Art. 4.º Os encargos dos empréstimos a que respeita este diploma constituem despesa obrigatória e preferencial das referidas províncias ultramarinas, devendo anualmente ser inscritas nos respectivos orçamentos gerais as verbas necessárias à sua liquidação.
 
-###### Art. 5.º Desde que se verifiquem as condições referidas no artigo 1.º, serão inscritas no orçamento do Ministério do Ultramar, em despesa extraordinária, as importâncias dos empréstimos a conceder ao abrigo do presente decreto-lei.
+Art. 5.º Desde que se verifiquem as condições referidas no artigo 1.º, serão inscritas no orçamento do Ministério do Ultramar, em despesa extraordinária, as importâncias dos empréstimos a conceder ao abrigo do presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

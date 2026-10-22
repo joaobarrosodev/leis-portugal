@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/127-1970-228625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a816b905c111b3241285da01c32dd88ba0a77d3f222f10bef42a25bd0d2a55cd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12bc3d6b897c412cd563b28f34641e5b089ce6b1377c3fddc2a054df55ba3c3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:42Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +88,15 @@ Por motivo de urgência, tendo em vista as disposições do § 1.º do artigo 15
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aumentado para 1500 lugares o quadro de professores do ensino primário de Angola.
+Artigo 1.º É aumentado para 1500 lugares o quadro de professores do ensino primário de Angola.
 
-###### Art. 2.º A execução do disposto no artigo anterior é condicionada à existência de disponibilidades orçamentais.
+Art. 2.º A execução do disposto no artigo anterior é condicionada à existência de disponibilidades orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Março de 1970.**
+Promulgado em 13 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência de República, 23 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

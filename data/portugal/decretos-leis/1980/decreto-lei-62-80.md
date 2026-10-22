@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/04/08100/06650665.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1980-682067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2eb4e0222f543e8b2533b655de87ef377e2403a2fd62c2e9c1960d2fc6149c4e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2202901a739dbee3a3197a4627854edb80c5bbe83a265c59db35f66622d21b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Gratificação
+- Guarda Fiscal
+- PSP
 relationships:
 - type: amended_by
   target: pt:dre:444383:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:299796:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327345:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692609:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:444383:por
+  label: Revogado pelo DEC LEI.454/83.28.12.1983.MAI, DR.IS [[298]] de 28.12.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/454-1983-444383
+  date: '1983-12-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:22Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +130,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Nos termos do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 322/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1978-327345) e no n.º 2 do artigo 5.º do [Decreto-Lei n.º 323/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1978-327343), ambos de 8 de Novembro, os quantitativos mensais das gratificações especiais de serviço a abonar ao pessoal da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública são os seguintes:
+Artigo 1.º - 1 - Nos termos do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 322/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1978-327345) e no n.º 2 do artigo 5.º do [Decreto-Lei n.º 323/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1978-327343), ambos de 8 de Novembro, os quantitativos mensais das gratificações especiais de serviço a abonar ao pessoal da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública são os seguintes:
 
 Guarda Nacional Republicana e Guarda Fiscal:
 
@@ -151,16 +184,16 @@ Guardas ... 1100$00
 
 3 - Por despacho do Ministro respectivo, serão definidas as situações a que se refere o número anterior.
 
-###### Art. 2.º Sem prejuízo do [Despacho Normativo n.º 3/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1978-468844), de 6 de Janeiro, do Ministro das Finanças, os quantitativos fixados nos números anteriores entram em vigor para a Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública a partir de 1 de Janeiro de 1979.
+Art. 2.º Sem prejuízo do [Despacho Normativo n.º 3/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/3-1978-468844), de 6 de Janeiro, do Ministro das Finanças, os quantitativos fixados nos números anteriores entram em vigor para a Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública a partir de 1 de Janeiro de 1979.
 
-###### Art. 3.º Para os fins previstos na alínea b) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, o presente decreto-lei produzirá efeitos a partir de 1 de Dezembro de 1977, a requerimento dos interessados, devendo a Caixa Geral de Depósitos ser indemnizada da importância correspondente.
+Art. 3.º Para os fins previstos na alínea b) do n.º 1 do artigo 47.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, o presente decreto-lei produzirá efeitos a partir de 1 de Dezembro de 1977, a requerimento dos interessados, devendo a Caixa Geral de Depósitos ser indemnizada da importância correspondente.
 
-###### Art. 4.º São revogados os Despachos Normativos n.os [187/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/187-1978-299796), de 18 de Agosto, e [27/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1980-692609), de 1 de Fevereiro.
+Art. 4.º São revogados os Despachos Normativos n.os [187/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/187-1978-299796), de 18 de Agosto, e [27/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/27-1980-692609), de 1 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 13 de Março de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 25 de Março de 1980.**
+Promulgado em 25 de Março de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

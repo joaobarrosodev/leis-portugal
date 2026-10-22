@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:27:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10daa1d0cc228dcb7646b3969852f80673e929102ba85192e644adba3c6cc66c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 621ca0be9db29589d2dbacb4c89edff1f091b4ea6a25f888210c37c8637af30d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:27:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Serviços
+- Direcção Geral da Administração Local
+- Direcção Geral da Administração Política e Civil
+- Integração de Trabalhadores
+- Ministério do Interior
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Geral
 relationships:
 - type: amended_by
   target: pt:dre:365743:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:475743:por
+  label: "Alterado o primeiro quadro anexo ao presente diploma, suprimida a observação (a) àquele quadro, e substituída pela\
+    \ observação (a) a observação (c) dele constante, pelo DEC LEI.391/74.27.08.1974.MAI, DG.IS [199] de 27.08.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/391-1974-475743
+  date: '1974-08-27'
+- type: amended_by
+  target: pt:dre:393185:por
+  label: "Altera os quadros de pessoal da Secretaria-Geral (SG/MAI) e da Direcção-Geral da Acção Regional e Local (DGARL),\
+    \ aprovados pelo presente diploma, e mantidos em vigor pelas disposições do n.º 2 do artigo 32.º do Decreto-Lei n.º 342/77,\
+    \ de 19 de Agosto, pela PORT.62/79.07.02.1979.PCM, DR.IS [32] de 07.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/62-1979-393185
+  date: '1979-02-07'
+- type: amended_by
+  target: pt:dre:365743:por
+  label: "Substituídos os quadros de pessoal da Secretaria-Geral do Ministério da Administração Interna e da ex-Direcção-Geral\
+    \ da Administração Local aprovados no presente diploma e mantidos em vigor pelo nº 2 do art. 32º do Dec Lei 342/77 de\
+    \ 19-Ago, pela PORT.704/79.28.12.1979.PCM, DR.IS [298] de 28.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/704-1979-365743
+  date: '1979-12-28'
+- type: cites
+  target: pt:dre:636681:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639546:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:372638:por
+  label: "Revogado pelo DEC LEI.746/74.27.12.1974.MAI, DG.IS [300-Supl] de 27.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/746-1974-372638
+  date: '1974-12-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:27:27Z'
   warnings: []
   errors: []
 ---
@@ -123,9 +164,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É reorganizada a Secretaria-Geral do Ministério do Interior e criada a Direcção-Geral de Administração Local, em substituição da Direcção-Geral de Administração Política e Civil.
+Artigo 1.º É reorganizada a Secretaria-Geral do Ministério do Interior e criada a Direcção-Geral de Administração Local, em substituição da Direcção-Geral de Administração Política e Civil.
 
-###### Art. 2.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido especialmente:
+Art. 2.º A Secretaria-Geral é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido especialmente:
 
 a) De realizar os estudos e trabalhos que lhe forem cometidos pelo Ministro do Interior, com vista ao aperfeiçoamento dos serviços do Ministério e à coordenação das respectivas actividades;
 
@@ -137,11 +178,11 @@ d) De proporcionar as notícias e esclarecimentos respeitantes aos vários depar
 
 e) De se desempenhar das demais funções que lhe estejam cometidas por lei e das que não estejam especialmente cometidas a outros órgãos centrais do Ministério.
 
-###### Art. 3.º - 1. Junto da Secretaria-Geral funciona a Comissão Consultiva de Estatística.
+Art. 3.º - 1. Junto da Secretaria-Geral funciona a Comissão Consultiva de Estatística.
 
 2. Em ligação com a Secretaria-Geral funciona a Auditoria Jurídica do Ministério do Interior.
 
-###### Art. 4.º A Direcção-Geral de Administração Local é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido em especial:
+Art. 4.º A Direcção-Geral de Administração Local é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido em especial:
 
 a) De realizar estudos e trabalhos com vista à actualização e ao aperfeiçoamento da gestão e dos serviços das autarquias locais;
 
@@ -153,7 +194,7 @@ d) De superintender em tudo quanto se relacione com os recenseamentos e os actos
 
 e) De se desempenhar das demais funções que lhe estejam cometidas por lei.
 
-###### Art. 5.º - 1. A Direcção-Geral de Administração Local compreende:
+Art. 5.º - 1. A Direcção-Geral de Administração Local compreende:
 
 a) Direcção de Serviços de Administração Local;
 
@@ -165,54 +206,54 @@ d) Inspecção Administrativa.
 
 2. Junto da Direcção-Geral funciona o Conselho Nacional dos Serviços de Incêndios, de acordo com a respectiva legislação especial.
 
-###### Art. 6.º A organização e competência dos serviços da Secretaria-Geral e da Direcção-Geral de Administração Local serão definidos em diploma regulamentar.
+Art. 6.º A organização e competência dos serviços da Secretaria-Geral e da Direcção-Geral de Administração Local serão definidos em diploma regulamentar.
 
-###### Art. 7.º - 1. Considera-se como fazendo parte de quadro único o pessoal da Secretaria-Geral e da Direcção-Geral de Administração Local que ocupe cargos constantes dos mapas anexos ao presente diploma, cujas categorias sejam comuns a ambos os serviços.
+Art. 7.º - 1. Considera-se como fazendo parte de quadro único o pessoal da Secretaria-Geral e da Direcção-Geral de Administração Local que ocupe cargos constantes dos mapas anexos ao presente diploma, cujas categorias sejam comuns a ambos os serviços.
 
 2. O pessoal pertencente ao quadro único prestará serviço na Secretaria-Geral ou na Direcção-Geral, conforme lhe for superiormente determinado.
 
-###### Art. 8.º - 1. O Ministro do Interior poderá autorizar, para o estudo de problemas específicos, a criação de grupos de trabalho cujo mandato, composição, funcionamento e condições de remuneração serão estabelecidos por despacho do mesmo Ministro com o acordo, quanto a remunerações, do Ministro das Finanças.
+Art. 8.º - 1. O Ministro do Interior poderá autorizar, para o estudo de problemas específicos, a criação de grupos de trabalho cujo mandato, composição, funcionamento e condições de remuneração serão estabelecidos por despacho do mesmo Ministro com o acordo, quanto a remunerações, do Ministro das Finanças.
 
 2. Com idênticas formalidades, poderá o Ministro do Interior autorizar a celebração de contratos para realização de estudos, inquéritos ou outros trabalhos de carácter eventual que não possam ser realizados pelo pessoal do quadro.
 
-###### Art. 9.º Os requisitos de provimento e os processos de recrutamento do pessoal serão fixados em diploma regulamentar.
+Art. 9.º Os requisitos de provimento e os processos de recrutamento do pessoal serão fixados em diploma regulamentar.
 
-###### Art. 10.º - 1. O pessoal que actualmente pertence aos quadros da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil será colocado, por despacho ministerial publicado no Diário do Governo, em lugares dos novos quadros aprovados por este diploma, para cujo provimento satisfaça aos requisitos estabelecidos em diploma regulamentar.
+Art. 10.º - 1. O pessoal que actualmente pertence aos quadros da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil será colocado, por despacho ministerial publicado no Diário do Governo, em lugares dos novos quadros aprovados por este diploma, para cujo provimento satisfaça aos requisitos estabelecidos em diploma regulamentar.
 
 2. O despacho previsto no número anterior poderá ser publicado antes da data da entrada em vigor deste diploma, mas para produzir efeitos a partir da mesma.
 
-###### Art. 11.º - 1. Os funcionários presentemente providos em cargos de oficial do quadro interno da Direcção-Geral de Administração Política e Civil poderão transitar para o quadro geral administrativo dos serviços externos independentemente de concurso de habilitação, desde que tenham mais de dois anos de bom e efectivo serviço na sua classe.
+Art. 11.º - 1. Os funcionários presentemente providos em cargos de oficial do quadro interno da Direcção-Geral de Administração Política e Civil poderão transitar para o quadro geral administrativo dos serviços externos independentemente de concurso de habilitação, desde que tenham mais de dois anos de bom e efectivo serviço na sua classe.
 
 2. Para efeitos do disposto no número anterior, os primeiros, segundos e terceiros-oficiais poderão concorrer, respectivamente, aos concursos de provimento de lugares de 2.ª, 3.ª e 4.ª classes da 2.ª categoria do quadro geral administrativo dos serviços externos.
 
 3. O disposto neste artigo será aplicável aos funcionários da Secretaria-Geral presentemente providos em cargos de oficial, desde que hajam prestado mais de dois anos de bom e efectivo serviço na Direcção-Geral de Administração Política e Civil.
 
-###### Art. 12.º O preenchimento dos novos lugares do quadro da Secretaria-Geral e da Direcção-Geral de Administração Local será feito gradualmente, conforme as necessidades dos serviços.
+Art. 12.º O preenchimento dos novos lugares do quadro da Secretaria-Geral e da Direcção-Geral de Administração Local será feito gradualmente, conforme as necessidades dos serviços.
 
-###### Art. 13.º Fica o Ministro das Finanças autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
+Art. 13.º Fica o Ministro das Finanças autorizado a tomar as providências financeiras indispensáveis à execução do presente diploma.
 
-###### Art. 14.º Serão resolvidas por despacho do Ministro do Interior todas as dúvidas que se suscitam na aplicação deste diploma.
+Art. 14.º Serão resolvidas por despacho do Ministro do Interior todas as dúvidas que se suscitam na aplicação deste diploma.
 
-###### Art. 15.º São revogadas as disposições contidas no [Decreto-Lei n.º 36601](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36601-1947-636681), de 24 de Novembro de 1947, e no [Decreto n.º 36702](https://diariodarepublica.pt/dr/detalhe/decreto/36702-1947-639546), de 30 de Dezembro de 1947.
+Art. 15.º São revogadas as disposições contidas no [Decreto-Lei n.º 36601](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36601-1947-636681), de 24 de Novembro de 1947, e no [Decreto n.º 36702](https://diariodarepublica.pt/dr/detalhe/decreto/36702-1947-639546), de 30 de Dezembro de 1947.
 
-###### Art. 16.º O presente decreto-lei entra em vigor, com o seu regulamento, no dia 1 de Agosto de 1973.
+Art. 16.º O presente decreto-lei entra em vigor, com o seu regulamento, no dia 1 de Agosto de 1973.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 22 de Junho de 1973.**
+Promulgado em 22 de Junho de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Quadro e vencimentos do pessoal a que se refere o artigo 7.º do Decreto-Lei n.º 320/73
 
 I - Secretaria-Geral
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf)
 
 II - Direcção-Geral de Administração Local
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf))](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/06/15000/11011104.pdf)
 
-**O Ministro do Interior, António Manuel Gonçalves Rapazote.**
+O Ministro do Interior, António Manuel Gonçalves Rapazote.

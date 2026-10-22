@@ -48,36 +48,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1971-444880
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1c2411e2d5a881ab886bb99f2319883f1d46ddff52ad1496a7cb8edf0ff1aff1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cb29c668bb5742decffd6e484fafbf6b4e676c3c7d6cc5fb24b681accf3e8fdf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Aproveitamento Hidroeléctrico
+- Bacia Hidrográfica
+- Conselho Superior de Fomento Ultramarino
+- Gabinete do Plano do Cunene
+- Gratificação
+- Grupo de Trabalho
+- Presidente
+- Remuneração Acessória
+relationships:
+- type: cites
+  target: pt:dre:198679:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228057:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:15Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +111,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. As obrigações contraídas na vigência do despacho ministerial revogado pelo artigo 19.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969, para os fins nesse despacho previstos, consideram-se assumidas pelo Gabinete do Plano do Cunene, desde a revogação de tal despacho.
+Artigo 1.º - 1. As obrigações contraídas na vigência do despacho ministerial revogado pelo artigo 19.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969, para os fins nesse despacho previstos, consideram-se assumidas pelo Gabinete do Plano do Cunene, desde a revogação de tal despacho.
 
 2. Sem dependência de visto ou de anotação do Tribunal de Contas, consideram-se vigentes os contratos de prestação de serviço no Grupo de Trabalho do Cunene e Cuvelai e igualmente assumidas pelo citado Gabinete as obrigações deles emergentes.
 
@@ -102,21 +119,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Os despachos do Ministro do Ultramar que alteraram, suspenderam ou extinguiram as gratificações acima referidas são considerados exequíveis sem dependência de formalidade alguma.
 
-###### Art. 2.º - 1. A gratificação do presidente do Conselho Superior de Fomento Ultramarino pela orientação do Gabinete do Plano do Cunene será a que estiver fixada por despacho do Ministro do Ultramar à data da entrada em vigor deste diploma.
+Art. 2.º - 1. A gratificação do presidente do Conselho Superior de Fomento Ultramarino pela orientação do Gabinete do Plano do Cunene será a que estiver fixada por despacho do Ministro do Ultramar à data da entrada em vigor deste diploma.
 
 2. A gratificação é acumulável com a remuneração que o presidente do Conselho Superior de Fomento Ultramarino receba pelo exercício de outras funções.
 
-###### Art. 3.º - 1. Às reuniões do conselho administrativo do Gabinete do Plano do Cunene assistirá um representante do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal, cujo quantitativo será fixado pelo Ministro do Ultramar, com o acordo do Ministro das Finanças, e ao qual compete pronunciar-se sobre a legalidade das despesas, sem prejuízo do disposto na parte final do corpo do artigo 14.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969.
+Art. 3.º - 1. Às reuniões do conselho administrativo do Gabinete do Plano do Cunene assistirá um representante do Tribunal de Contas, por este designado, que perceberá uma gratificação mensal, cujo quantitativo será fixado pelo Ministro do Ultramar, com o acordo do Ministro das Finanças, e ao qual compete pronunciar-se sobre a legalidade das despesas, sem prejuízo do disposto na parte final do corpo do artigo 14.º do [Decreto-Lei n.º 49203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49203-1969-198679), de 25 de Agosto de 1969.
 
 2. No caso de parecer desfavorável do representante do Tribunal de Contas quanto à legalidade de qualquer despesa sobre que deva pronunciar-se, será o respectivo processo presente ao Ministro do Ultramar para ser sanada a ilegalidade, se ilegalidade houver.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Abril de 1971.**
+Promulgado em 14 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 

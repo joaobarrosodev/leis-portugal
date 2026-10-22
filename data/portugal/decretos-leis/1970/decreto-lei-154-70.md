@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1970-225829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 929fc1d900e9e5a4040225c7530e2a981f3ea310ce754d00c9df37b0b65070b9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 928ebf54c01bda3b32457037c278ba11ae9a80e88f580e0e73534ef7321af863
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Informática
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Formas de Provimento
+- Ministério da Justiça
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Dirigente
+- Pessoal Técnico
+- Quadro de Pessoal
+- Remuneração
+- Subdiretor
 relationships:
 - type: amended_by
   target: pt:dre:244879:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:244879:por
+  label: "Alterado o quadro de pessoal do Centro de Informática do Ministério da Justiça, aprovado pelo presente diploma,\
+    \ pelo DEC LEI.34/72.31.01.1972.MJ, DG.IS [25-SUPL] de 31.01.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1972-244879
+  date: '1972-01-31'
+- type: cites
+  target: pt:dre:227266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:04Z'
   warnings: []
   errors: []
 ---
@@ -116,67 +147,67 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para: valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criado, junto da Direcção dos Serviços de Identificação, o Centro de Informática do Ministério da Justiça, ao qual incumbe, especialmente, estudar e executar, por processos electrónicos, as tarefas relativas à emissão de bilhetes de identidade e de certificados do registo criminal, além de outras que venham a reconhecer-se adaptáveis ao mesmo sistema.
+Artigo 1.º - 1. É criado, junto da Direcção dos Serviços de Identificação, o Centro de Informática do Ministério da Justiça, ao qual incumbe, especialmente, estudar e executar, por processos electrónicos, as tarefas relativas à emissão de bilhetes de identidade e de certificados do registo criminal, além de outras que venham a reconhecer-se adaptáveis ao mesmo sistema.
 
 2. Fica o Ministro da Justiça autorizado a contratar, em nome do Estado, com empresas da especialidade o fornecimento, em regime de aluguer, do equipamento necessário à automação dos serviços de identificação e à conversão dos actuais ficheiros destes serviços.
 
-###### Art. 2.º - 1. O quadro e os vencimentos do pessoal do Centro de Informática são os fixados no mapa anexo ao presente diploma.
+Art. 2.º - 1. O quadro e os vencimentos do pessoal do Centro de Informática são os fixados no mapa anexo ao presente diploma.
 
 2. O pessoal do quadro é de nomeação vitalícia, com excepção do pessoal auxiliar, que será provido por contrato.
 
 3. Nos lugares do quadro poderão, todavia, ser providos em comissão de serviço, por períodos trienais renováveis. funcionários de outros quadros, que reúnam os requisitos legais, sendo-lhes contado, para todos os efeitos, o tempo de serviço nessas funções como prestado nos quadros a que pertencem.
 
-###### Art. 3.º - 1. O recrutamento de pessoal para o preenchimento do quadro referido no artigo anterior será efectuado gradualmente, por despacho do Ministro da Justiça, à medida que os trabalhos de mecanização se forem desenvolvendo e venha a reconhecer-se indispensável.
+Art. 3.º - 1. O recrutamento de pessoal para o preenchimento do quadro referido no artigo anterior será efectuado gradualmente, por despacho do Ministro da Justiça, à medida que os trabalhos de mecanização se forem desenvolvendo e venha a reconhecer-se indispensável.
 
 2. Enquanto os lugares do quadro não forem totalmente preenchidos, o Ministro da Justiça, mediante proposta fundamentada do director do Centro, poderá autorizar que se contrate, a título eventual, ou assalarie, em regime de tarefas, para além do quadro, o pessoal necessário à regular execução do serviço.
 
 3. As despesas resultantes da admissão de pessoal, nas condições a que se refere o número anterior, poderão ser pagas pelas disponibilidades das verbas consignadas no orçamento do Ministério da Justiça ao pagamento dos vencimentos do pessoal do quadro da Direcção dos Serviços de Identificação.
 
-###### Art. 4.º - 1. O lugar de director é provido, por livre escolha do Ministro da Justiça, entre indivíduos habilitados com curso superior, de reconhecida competência e capacidade para o exercício do cargo.
+Art. 4.º - 1. O lugar de director é provido, por livre escolha do Ministro da Justiça, entre indivíduos habilitados com curso superior, de reconhecida competência e capacidade para o exercício do cargo.
 
 2. É provido no lugar de director, independentemente de posse e de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas, o actual director dos Serviços de Identificação.
 
 3. Enquanto for considerado conveniente, o director do Centro acumulará as suas funções com as de director dos Serviços de Identificação, percebendo pelo exercício deste cargo uma gratificação mensal, de montante a fixar por despacho do Ministro da Justiça, ouvido o Ministro das Finanças, a qual será paga por conta da verba consignada no orçamento do Ministério da Justiça ao vencimento correspondente a esse cargo.
 
-###### Art. 5.º Os lugares de subdirector serão providos entre licenciados com formação técnica adequada.
+Art. 5.º Os lugares de subdirector serão providos entre licenciados com formação técnica adequada.
 
-###### Art. 6.º - 1. Os lugares do quadro do pessoal técnico serão providos por indivíduos que, além de satisfazerem às condições gerais para provimento em cargos públicos da categoria correspondente, tenham obtido aprovação num concurso de prestação de provas, a realizar pela forma e nas condições determinadas por despacho do Ministro da Justiça.
+Art. 6.º - 1. Os lugares do quadro do pessoal técnico serão providos por indivíduos que, além de satisfazerem às condições gerais para provimento em cargos públicos da categoria correspondente, tenham obtido aprovação num concurso de prestação de provas, a realizar pela forma e nas condições determinadas por despacho do Ministro da Justiça.
 
 2. Quando se verifique a impossibilidade de recrutar pessoal com as habilitações literárias requeridas, o provimento poderá recair em indivíduos que possuam os cursos especiais fixados por despacho do Conselho de Ministros e tenham obtido aprovação no concurso a que se refere o número anterior.
 
 3. Até ao preenchimento das vagas abertas no quadro do pessoal técnico, poderão ser admitidas na classe mais baixa tantas unidades quantas as vagas existentes nas categorias superiores.
 
-###### Art. 7.º O provimento dos lugares do quadro do pessoal administrativo e auxiliar rege-se, com as necessárias adaptações, pelas normas legais aplicáveis ao provimento de lugares de igual categoria do quadro da Direcção dos Serviços de Identificação.
+Art. 7.º O provimento dos lugares do quadro do pessoal administrativo e auxiliar rege-se, com as necessárias adaptações, pelas normas legais aplicáveis ao provimento de lugares de igual categoria do quadro da Direcção dos Serviços de Identificação.
 
-###### Art. 8.º - 1. Nos lugares a que se referem os artigos 6.º e 7.º, poderão ser colocados em primeiro provimento, sob proposta do director do Centro, funcionários do quadro da Direcção dos Serviços de Identificação, mediante listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo, com dispensa de visto do Tribunal de Contas e de quaisquer outras formalidades.
+Art. 8.º - 1. Nos lugares a que se referem os artigos 6.º e 7.º, poderão ser colocados em primeiro provimento, sob proposta do director do Centro, funcionários do quadro da Direcção dos Serviços de Identificação, mediante listas assinadas pelo Ministro da Justiça e publicadas no Diário do Governo, com dispensa de visto do Tribunal de Contas e de quaisquer outras formalidades.
 
 2. O provimento de lugares do pessoal técnico, nas condições a que se refere o número anterior, só poderá recair em funcionários que possuam a necessária preparação, comprovada por certificado passado pela entidade que tenha contratado com o Estado o aluguer do equipamento a utilizar ou por certificado equivalente.
 
 3. Os lugares do quadro da Direcção dos Serviços de Identificação serão extintos à medida que os respectivos titulares forem sendo colocados no quadro do Centro, nos termos deste artigo.
 
-###### Art. 9.º - 1. Quando se verifiquem vagas no quadro do pessoal técnico e não haja candidatos concursados a aguardar colocação, os lugares vagos poderão ser providos interinamente, em comissão de serviço, por funcionários que reúnam os requisitos para a admissão ao concurso de prestação de provas.
+Art. 9.º - 1. Quando se verifiquem vagas no quadro do pessoal técnico e não haja candidatos concursados a aguardar colocação, os lugares vagos poderão ser providos interinamente, em comissão de serviço, por funcionários que reúnam os requisitos para a admissão ao concurso de prestação de provas.
 
 2. Os lugares providos interinamente deverão ser preenchidos, logo que requeridos, por indivíduos que neles possam ser providos definitivamente, mantendo-se a interinidade até haver provimento efectivo.
 
-###### Art. 10.º - 1. Sempre que o julgue conveniente, poderá o Ministro da Justiça autorizar a requisição de funcionários dos serviços de identificação para, temporàriamente, prestarem serviço no Centro.
+Art. 10.º - 1. Sempre que o julgue conveniente, poderá o Ministro da Justiça autorizar a requisição de funcionários dos serviços de identificação para, temporàriamente, prestarem serviço no Centro.
 
 2. A requisição não dará lugar a abertura de vaga no quadro a que pertençam os funcionários requisitados, e a estes continuarão a ser abonados os vencimentos correspondentes aos cargos de que sejam titulares.
 
 3. O tempo de serviço prestado no Centro pelos funcionários requisitados será considerado, para todos os efeitos, como se fora prestado no quadro a que esses funcionários pertençam.
 
-###### Art. 11.º O horário e as funções do pessoal do Centro serão fixados por despacho do Ministro da Justiça, sob proposta do director.
+Art. 11.º O horário e as funções do pessoal do Centro serão fixados por despacho do Ministro da Justiça, sob proposta do director.
 
-###### Art. 12.º O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e no artigo único do [Decreto-Lei n.º 41602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41602-1958-302701), de 30 de Abril de 1958, é aplicável às tarefas extraordinárias preparatórias da automação dos serviços de identificação.
+Art. 12.º O disposto no artigo 30.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e no artigo único do [Decreto-Lei n.º 41602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41602-1958-302701), de 30 de Abril de 1958, é aplicável às tarefas extraordinárias preparatórias da automação dos serviços de identificação.
 
-###### Art. 13.º À medida que o Centro de Informática venha a ser utilizado em proveito de serviços que constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça, este cofre reembolsará anualmente o Estado de uma percentagem das despesas inerentes ao funcionamento do Centro, de montante a fixar por despacho dos Ministros da Justiça e das Finanças, mediante guia de receita, a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública.
+Art. 13.º À medida que o Centro de Informática venha a ser utilizado em proveito de serviços que constituam encargo do Cofre dos Conservadores, Notários e Funcionários de Justiça, este cofre reembolsará anualmente o Estado de uma percentagem das despesas inerentes ao funcionamento do Centro, de montante a fixar por despacho dos Ministros da Justiça e das Finanças, mediante guia de receita, a processar pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 14.º Sem prejuízo do disposto no n.º 3 do artigo 3.º e no n.º 3 do artigo 4.º, os encargos a que der lugar para o Orçamento Geral do Estado a execução do presente diploma serão satisfeitos no actual ano económico por uma dotação global a inscrever no orçamento do Ministério da Justiça.
+Art. 14.º Sem prejuízo do disposto no n.º 3 do artigo 3.º e no n.º 3 do artigo 4.º, os encargos a que der lugar para o Orçamento Geral do Estado a execução do presente diploma serão satisfeitos no actual ano económico por uma dotação global a inscrever no orçamento do Ministério da Justiça.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -184,6 +215,6 @@ Para ser presente à Assembleia Nacional.
 
 Quadro do pessoal a que se refere o artigo 2.º do Decreto-Lei n.º 154/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/08500/04640466.pdf))](https://files.diariodarepublica.pt/1s/1970/04/08500/04640466.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/08500/04640466.pdf)
 
 Ministério da Justiça, 1 de Abril de 1970. - O Ministro da Justiça, Mário Júlio Brito de Almeida Costa.

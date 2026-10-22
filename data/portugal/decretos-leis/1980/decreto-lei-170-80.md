@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12400/12351238.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1980-474564
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-05-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1813af9eb5e3f8f13fb5d6182a323885714c75aec813dcac00b4bb1ad242dd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18cfe140d6e09b738e5813791154edd2bc274f30b5b7d56a96a1b41d2a8d08af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono Complementar a Crianças e Jovens Deficientes
+- Abono de Família
+- Família
+- Jovem
+- Prestações da Segurança Social
+- Prestações Familiares
+- Proteção à Infância
+- Protecção à Família
+- Protecção à Juventude
+- Regime de Protecção Social dos Funcionários e Agentes da Administração Pública
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio de Aleitação
+- Subsídio de Casamento
+- Subsídio de Educação Especial
+- Subsídio de Funeral
+- Subsídio de Nascimento
 relationships:
 - type: amended_by
   target: pt:dre:281661:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:169910:por
+  label: "Actualizados os valores das prestações familiares, pelo DR.81/85.23.12.1985.MTSS, DR.IS [295] de 23.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/81-1985-169910
+  date: '1985-12-23'
+- type: cites
+  target: pt:dre:214875:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252069:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622620:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666342:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:472344:por
+  label: Rectificado pela DECL.DD6980.19.07.1980.PCM, DR.IS [165] de 19.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472344
+  date: '1980-07-19'
+- type: corrected_by
+  target: pt:dre:460800:por
+  label: Rectificado pela DECL.DD6885.02.09.1980.PCM, DR.IS [211] de 12.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460800
+  date: '1980-09-02'
+- type: repealed_by
+  target: pt:dre:158179:por
+  label: "Revogado pelo DEC LEI.133-B/97.1997.05.30.MSSS DR.IS-A [124]Supl, mantendo-se, contudo, transitoriamente em vigor\
+    \ as normas reguladoras da atribuição dos subsídios de casamento, nascimento e funeral de beneficiário, relativas aos\
+    \ eventos ocorridos no âmbito do presente diploma e requeridos na vigência da lei nova.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-b-1997-158179
+  date: '1997-05-30'
 article_structure:
   article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:07Z'
   warnings: []
   errors: []
 ---
@@ -130,13 +185,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito quanto às prestações)
 
 A protecção à infância e juventude e à família concretiza-se, nomeadamente, pela concessão, entre outras, das seguintes prestações pecuniárias: abono de família, abono complementar a crianças e jovens deficientes, subsídio mensal vitalício e subsídios de nascimento, de aleitação, por frequência de estabelecimentos de educação especial, de casamento e de funeral.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Âmbito quanto às pessoas)
 
@@ -160,7 +215,7 @@ e) Regimes especiais de previdência e abono de família dos rurais, incluindo o
 
 f) Regime de protecção dos desalojados.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Condições de atribuição das prestações)
 
@@ -170,7 +225,7 @@ f) Regime de protecção dos desalojados.
 
 ### CAPÍTULO II — Das prestações
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Abono de família)
 
@@ -182,7 +237,7 @@ b) As constantes do [Decreto n.º 49216](https://diariodarepublica.pt/dr/detalhe
 
 2 - O abono de família relativamente aos descendentes ou equiparados considerados deficientes nos termos do artigo 5.º mantém-se até aos 24 anos e, após essa idade, sempre que os seus titulares não satisfaçam os requisitos de atribuição do subsídio mensal vitalício nem da pensão social.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Abono complementar a crianças e jovens deficientes)
 
@@ -194,7 +249,7 @@ b) Frequentem, estejam internados ou em condições de frequência ou de interna
 
 c) Possuam uma redução permanente de capacidade física, motora, orgânica, sensorial ou intelectual que os impossibilite de prover normalmente à sua subsistência ao atingirem a idade de exercício de actividade profissional.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Subsídio mensal vitalício)
 
@@ -202,13 +257,13 @@ c) Possuam uma redução permanente de capacidade física, motora, orgânica, se
 
 2 - Constarão de regulamento o quantitativo do subsídio mensal vitalício e os requisitos da sua atribuição, designadamente os referentes à condição de recursos.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Subsídio de nascimento)
 
 O subsídio de nascimento será atribuído por cada filho nascido com vida.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Subsídio de aleitação)
 
@@ -216,7 +271,7 @@ O subsídio de nascimento será atribuído por cada filho nascido com vida.
 
 2 - As instituições e serviços responsáveis pela atribuição do subsídio de aleitação devem cooperar com os competentes serviços de saúde na definição das normas e na criação das condições que facilitem ou proporcionem o máximo de informação e orientação sobre vantagens da aleitação materna no normal desenvolvimento da criança.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Subsídio pela frequência de estabelecimento de educação especial)
 
@@ -226,19 +281,19 @@ O subsídio de nascimento será atribuído por cada filho nascido com vida.
 
 3 - É equivalente à frequência de estabelecimento de educação especial, em condições e nos valores de comparticipação a definir igualmente em regulamento, o apoio domiciliário de natureza docente e terapêutica prestado mediante prescrição médica a crianças e jovens cuja deficiência imponha ou aconselhe esse tipo de orientação.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Descendentes nascituros)
 
 No caso de falecimento do trabalhador ou do cônjuge, os seus descendentes, ainda que nascituros, têm direito às prestações previstas nos artigos 4.º a 9.º e 12.º deste diploma sempre que esse direito não lhes seja reconhecido como familiares de outros trabalhadores.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Subsídio de casamento)
 
 A cada um dos cônjuges trabalhadores abrangidos pelo presente diploma é atribuído um subsídio por ocasião do seu casamento.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Subsídio de funeral)
 
@@ -256,7 +311,7 @@ d) Do próprio trabalhador.
 
 3 - Quando, nos termos do n.º 1, se reúnam na mesma pessoa as qualidades de pensionista, ainda que de sobrevivência, ou de cônjuge e de familiar ou equiparado com direito a abono de família, o subsídio de funeral será atribuído unicamente em função da qualidade de pensionista ou, se esta não se verificar, da qualidade de cônjuge.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Ascendentes ou equiparados para efeitos de subsídio de funeral)
 
@@ -270,7 +325,7 @@ a) Os adoptantes de um e de outro e, bem assim, os dos seus ascendentes;
 
 b) Os afins compreendidos na linha recta ascendente.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Remissão)
 
@@ -278,25 +333,25 @@ b) Os afins compreendidos na linha recta ascendente.
 
 ### CAPÍTULO III — Disposições finais
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Subsistência de direitos)
 
 O disposto no presente decreto-lei não prejudica a subsistência de direitos a prestações que, à data da entrada em vigor deste diploma, estejam a ser atribuídas, sempre que não se verifique a sua substituição por regime mais favorável.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Diplomas regulamentares)
 
 Os montantes e demais requisitos e condições de atribuição das prestações previstas neste decreto-lei serão estabelecidos em diploma regulamentar.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Interpretação e integração)
 
 A resolução das dúvidas suscitadas pela aplicação deste diploma e a integração dos casos omissos serão objecto de despacho conjunto dos Ministros das Finanças e do Plano e dos Assuntos Sociais e do membro do Governo que superintender na função pública.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Norma revogatória)
 
@@ -306,13 +361,13 @@ a) Os artigos 1.º e 2.º, n.º 4 do artigo 6.º, artigos 8.º e 9.º, n.os 1 e 
 
 b) O artigo 10.º do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Revisão)
 
 Com vista à reformulação global num único instrumento normativo dos regimes de prestações à infância e juventude e à família, será publicado diploma adequado no prazo de cento e oitenta dias.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Entrada em vigor)
 
@@ -320,8 +375,8 @@ Este diploma entra em vigor em 1 de Junho de 1980.
 
 Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 21 de Maio de 1980.**
+Promulgado em 21 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

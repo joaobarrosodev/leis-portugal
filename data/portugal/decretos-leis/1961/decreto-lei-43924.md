@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43924-1961-180061
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-09-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bdb59f9b73dcc0709791b4c73669d40fc9c4975fcf3ad6cb17de8a245b291d7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 03a53b799db895252872bcb75806e8f0d65a9d9ad6b35fda3285605a26292d1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alienação de Imóveis
+- Associação de Bombeiros Voluntários
+- Cessão de Imóveis
+- Direcção Geral da Fazenda Pública
+- Redondo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:22Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +94,12 @@ Considerando que o fim humanitário da Associação e o interesse público que h
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Associação dos Bombeiros Voluntários de Redondo, mediante o pagamento da compensação ao Estado da importância de 12000$00, o prédio inscrito na matriz predial da freguesia de Redondo sob o n.º 801, situado na Rua do Outeiro de S. Pedro, onde funcionou a escola primária masculina e que foi abandonado por não ser fácil adaptá-lo às exigências actuais do ensino.
+Artigo 1.º É autorizada a Direcção-Geral da Fazenda Pública a ceder, a título definitivo, à Associação dos Bombeiros Voluntários de Redondo, mediante o pagamento da compensação ao Estado da importância de 12000$00, o prédio inscrito na matriz predial da freguesia de Redondo sob o n.º 801, situado na Rua do Outeiro de S. Pedro, onde funcionou a escola primária masculina e que foi abandonado por não ser fácil adaptá-lo às exigências actuais do ensino.
 
-###### Art. 2.º O referido imóvel, depois de convenientemente adaptado, será destinado a sede da Associação dos Bombeiros Voluntários de Redondo, e a sua cessão ficará sem efeito desde que lhe seja dada aplicação diversa daquela a que se destina.
+Art. 2.º O referido imóvel, depois de convenientemente adaptado, será destinado a sede da Associação dos Bombeiros Voluntários de Redondo, e a sua cessão ficará sem efeito desde que lhe seja dada aplicação diversa daquela a que se destina.
 
-###### Art. 3.º Esta cessão efectuar-se-á por meio de auto a lavrar na Direcção de Finanças de Évora e fica isenta de impostos.
+Art. 3.º Esta cessão efectuar-se-á por meio de auto a lavrar na Direcção de Finanças de Évora e fica isenta de impostos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Setembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

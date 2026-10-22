@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1977-138496
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-01-31T00:00:00Z'
+  retrieved_at: '2026-10-22T23:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c950fb7ce2d553d955521116f5ae9a26d6074341098f9c0aa57beaed6e582645
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 29d3264287c9ab988a12fefd1dafe064809dad2bc9e5dd2f30361f163cc47363
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Definição de Competências
+- Lisboa
+- Ministro das Finanças
+- Porto
+- Repartição de Finanças
+- Tesouraria da Fazenda Pública
+relationships:
+- type: cites
+  target: pt:dre:470400:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:06:50Z'
   warnings: []
   errors: []
 ---
@@ -101,28 +111,28 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. É o Ministro das Finanças autorizado a criar repartições de finanças e tesourarias da Fazenda Pública nos concelhos que pelo seu desenvolvimento e volume de trabalho assim o exijam.
+Artigo 1.º - 1. É o Ministro das Finanças autorizado a criar repartições de finanças e tesourarias da Fazenda Pública nos concelhos que pelo seu desenvolvimento e volume de trabalho assim o exijam.
 
 2. A criação das repartições de finanças e das tesourarias da Fazenda Pública correspondentes, bem como a fixação das respectivas áreas e quadros de pessoal, constarão de portaria do Ministério das Finanças.
 
-###### Art. 2.º - 1. Fica o Ministro das Finanças autorizado a criar, no concelho de Lisboa, novos bairros, até perfazer o número de vinte, e, no concelho do Porto, até se atingir o número de dez.
+Art. 2.º - 1. Fica o Ministro das Finanças autorizado a criar, no concelho de Lisboa, novos bairros, até perfazer o número de vinte, e, no concelho do Porto, até se atingir o número de dez.
 
 2. O número de bairros, a sua área e os respectivos quadros constarão de portaria emitida pelo Ministro das Finanças.
 
-###### Art. 3.º - 1. São extintas as Repartições Centrais de Finanças de Lisboa e do Porto.
+Art. 3.º - 1. São extintas as Repartições Centrais de Finanças de Lisboa e do Porto.
 
 2. Os serviços da competência das Repartições Centrais de Finanças são atribuídos às repartições de finanças dos respectivos bairros.
 
 3. Os funcionários que prestam serviço nas repartições Centrais de Finanças de Lisboa e do Porto têm preferência nas nomeações a efectuar para as repartições de finanças dos bairros dos respectivos concelhos.
 
-###### Art. 4.º Os directores de finanças que se encontravam a chefiar as Repartições Centrais de Finanças passam a coadjuvar, como ajudantes, os directores de finanças dos distritos de Lisboa e do Porto, respectivamente.
+Art. 4.º Os directores de finanças que se encontravam a chefiar as Repartições Centrais de Finanças passam a coadjuvar, como ajudantes, os directores de finanças dos distritos de Lisboa e do Porto, respectivamente.
 
-###### Art. 5.º Os encargos com a execução deste diploma são assegurados com a verba destinada às instalações e ao pessoal.
+Art. 5.º Os encargos com a execução deste diploma são assegurados com a verba destinada às instalações e ao pessoal.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.
 
-**Promulgado em 19 de Janeiro de 1977.**
+Promulgado em 19 de Janeiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

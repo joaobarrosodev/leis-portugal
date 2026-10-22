@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49069-1969-199870
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T22:09:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e96dda52c44c178e02c4aa1f08d9296182d59a3fdc052c75cc4a28e209c9de47
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 142fedee37abee3df34c56615cb191f0d9055754bdf8d5e0be09136cc3c69a94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Despesas Públicas
+- Doação
+- Fundação Calouste Gulbenkian
+- Guarda
+- Obras Públicas
+- Residência de Estudantes
 relationships:
 - type: amended_by
   target: pt:dre:632231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:632231:por
+  label: "Reforçada a verba referida no art. 1º pelo DEC LEI.571/71.21.12.1971.MOP, DG.IS [297] de 21.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/571-1971-632231
+  date: '1971-12-21'
+- type: cites
+  target: pt:dre:272225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416615:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504551:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:09:42Z'
   warnings: []
   errors: []
 ---
@@ -97,14 +120,14 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Por contribuição da Fundação Calouste Gulbenkian, é reforçada com a importância de 5500 contos a verba a que se refere o artigo 1.º do [Decreto-Lei n.º 47554](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47554-1967-504551), de 22 de Fevereiro de 1967, com vista à execução da residência para estudantes do ensino secundário da Guarda.
+Artigo 1.º Por contribuição da Fundação Calouste Gulbenkian, é reforçada com a importância de 5500 contos a verba a que se refere o artigo 1.º do [Decreto-Lei n.º 47554](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47554-1967-504551), de 22 de Fevereiro de 1967, com vista à execução da residência para estudantes do ensino secundário da Guarda.
 
-###### Art. 2.º As despesas a efectuar, a que respeita o artigo 4.º do diploma referido no artigo anterior, não deverão exceder os montantes globais de 10159725$20 em 1969 e 2000000$00 em 1970, ou o que neste ano se vier a apurar como saldo.
+Art. 2.º As despesas a efectuar, a que respeita o artigo 4.º do diploma referido no artigo anterior, não deverão exceder os montantes globais de 10159725$20 em 1969 e 2000000$00 em 1970, ou o que neste ano se vier a apurar como saldo.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 4 de Junho de 1969.**
+Promulgado em 4 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

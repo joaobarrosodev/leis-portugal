@@ -46,36 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1979-369823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0b43ed549806b45cf46e666d63a07015c51d2903140cc70d58038ca89cddee31
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7712e1ba4c423feb8b3dee606fcf0ae95ac6795bed8f9759bc84ff48848c3cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro de Informação e Documentação Administrativa
+- Definição de Competências
+- Direcção Geral da Administração Civil
+- Direcção Geral da Educação
+- Direcção Geral da Fazenda
+- Direcção Geral da Função Pública
+- Direcção Geral da Organização Administrativa
+- Direcção Geral de Recrutamento e Formação
+- Extinção de Serviços
+- Ministério do Ultramar
+- Orgânica
+- Secretaria de Estado da Administração Pública
+- Serviço Central de Pessoal
+- Serviço de Integração Administrativa
+- Serviços de Administração Geral
+relationships:
+- type: cites
+  target: pt:dre:250582:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297022:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422253:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422447:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501614:por
+  label: null
+  source: null
 article_structure:
   article_count: 24
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:52Z'
   warnings: []
   errors: []
 ---
@@ -332,8 +399,8 @@ O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 11 de Julho de 1979. - Carlos Alberto da Mota Pinto - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 5 de Setembro de 1979.**
+Promulgado em 5 de Setembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

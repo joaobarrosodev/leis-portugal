@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/138-1971-445724
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a38f20e4b0488124ca0985a30fca01f0a398438a9363cfdc0e447fc14b74a482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ad2f4592de1fa05acaa4d7a5d6e17f5009bca6935ed534e6ebc8b29f8311591
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:304991:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:53Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +93,12 @@ de 12 de Abril
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O prazo de dois anos estabelecido no artigo 19.º do Regulamento das Admissões e Promoções da Direcção-Geral dos Serviços Florestais e Aquícolas, aprovado pelo [Decreto n.º 41582](https://diariodarepublica.pt/dr/detalhe/decreto/41582-1958-304991), de 10 de Abril de 1958, para validade de concursos de admissão, fica prorrogado, a título excepcional, por mais um ano, relativamente ao concurso de admissão de escriturários de 2.ª classe, cuja lista classificativa foi publicada no Diário do Governo, 2.ª série, n.º 81, de 5 de Abril de 1969.
+Artigo único. O prazo de dois anos estabelecido no artigo 19.º do Regulamento das Admissões e Promoções da Direcção-Geral dos Serviços Florestais e Aquícolas, aprovado pelo [Decreto n.º 41582](https://diariodarepublica.pt/dr/detalhe/decreto/41582-1958-304991), de 10 de Abril de 1958, para validade de concursos de admissão, fica prorrogado, a título excepcional, por mais um ano, relativamente ao concurso de admissão de escriturários de 2.ª classe, cuja lista classificativa foi publicada no Diário do Governo, 2.ª série, n.º 81, de 5 de Abril de 1969.
 
 Marcello Caetano - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 29 de Março de 1971.**
+Promulgado em 29 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

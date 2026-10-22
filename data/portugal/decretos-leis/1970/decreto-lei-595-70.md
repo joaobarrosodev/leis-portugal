@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/595-1970-146949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-03T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee003279ff380bc4f3991c2795a4edd704347efbd70a4dec92469ce957606b45
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b4b4358ea82aa3bc74366e57d7a40b660b9f4b017846c47ad22579895bcd4e92
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Alfândega
+- Direitos Aduaneiros
+- Direitos de Importação
+- Equipamento Agrícola
+- Importação
+- Olivicultura
+- Pauta dos Direitos de Importação
+relationships:
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391404:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:49Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +108,9 @@ Tendo em vista as disposições da Convenção Que Instituiu a Associação Euro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os actuais artigos da Pauta de Importação n.os 84.25.03 a 84.25.11 passam a ter, respectivamente, os n.os 84.25.04 a 84.25.12.
+Artigo 1.º Os actuais artigos da Pauta de Importação n.os 84.25.03 a 84.25.11 passam a ter, respectivamente, os n.os 84.25.04 a 84.25.12.
 
-###### Art. 2.º É introduzido no texto da Pauta de Importação o seguinte artigo 84.25.03:
+Art. 2.º É introduzido no texto da Pauta de Importação o seguinte artigo 84.25.03:
 
 84.25 ...
 
@@ -107,16 +122,16 @@ Pauta máxima - quilograma $80.
 
 Pauta mínima - quilograma $40.
 
-###### Art. 3.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, o artigo 84.25.05 passará a ter o n.º 84.25.06.
+Art. 3.º Na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967, o artigo 84.25.05 passará a ter o n.º 84.25.06.
 
-###### Art. 4.º A taxa referida no artigo 2.º do presente diploma deverá seguir o regime do artigo 3.º da Convenção de Estocolmo, pelo que as mercadorias abrangidas pelo artigo 84.25.03 serão de incluir na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967.
+Art. 4.º A taxa referida no artigo 2.º do presente diploma deverá seguir o regime do artigo 3.º da Convenção de Estocolmo, pelo que as mercadorias abrangidas pelo artigo 84.25.03 serão de incluir na lista anexa ao [Decreto-Lei n.º 47958](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47958-1967-391404), de 25 de Setembro de 1967.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 19 de Novembro de 1970.**
+Promulgado em 19 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

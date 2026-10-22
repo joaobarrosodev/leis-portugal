@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22800/15291531.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,83 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/561-1975-312243
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c907bfcdf2c6c621389733ea5ba33cdbfedef2ed1ab4138644c90ffbfab26e77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f2f6c47614ce244997cf9962c88b057f789331baa23c1014783ffa0db76fedc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Empresa Privada
+- Extinção de Empresas
+- Gestão Administrativa
+- Gestão de Recursos Humanos
+- Integração de Trabalhadores
+- Nacionalização
+- Sociedade Geral de Comércio Indústria e Transportes
+- Sogefi-sociedade de Gestão e Financiamento
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500745:por
+  label: "Alterado o art. 12º pelo DEC LEI.228/76.01.04.1976.MIT, DG.IS [78] de 01.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/228-1976-500745
+  date: '1976-04-01'
+- type: amended_by
+  target: pt:dre:430464:por
+  label: "Alterado o art. 12º (na redacção do Dec Lei 228/76, de 01-Abr) do presente diploma, pelo DEC LEI.573/76.20.07.1976.MIT,\
+    \ DR.IS [168] de 20.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/573-1976-430464
+  date: '1976-07-20'
+- type: amended_by
+  target: pt:dre:407727:por
+  label: "Prorrogado até 31.12.1976, o prazo a que se refere o nº1 do art. 12º do presente diploma, na redacção do Dec Lei\
+    \ 228/76, de 01-Abr, pelo DEC LEI.854/76.18.12.1976.MPCE, DR.IS [294] de 18.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/854-1976-407727
+  date: '1976-12-18'
+- type: amended_by
+  target: pt:dre:151537:por
+  label: "Extintas a partir de 31.05.1985 as empresas SOGEFI - Sociedade de Gestão e Financiamentos, S.A.R.L e a Sociedade\
+    \ Geral de Comércio, Indústria e Transportes, S.A.R.L., nacionalizadas no presente diploma, pelo DEC LEI.172/85.21.05.1985.PCM,\
+    \ DR.IS [116] de 21.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1985-151537
+  date: '1985-05-21'
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:45:30Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +140,25 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Sociedade de Gestão e Financiamentos, S. A. R. L., e a Sociedade Geral de Comércio, Indústria e Transportes, S. A. R. L., são declaradas nacionalizadas a partir da data da publicação deste diploma.
+Artigo 1.º - 1. A Sociedade de Gestão e Financiamentos, S. A. R. L., e a Sociedade Geral de Comércio, Indústria e Transportes, S. A. R. L., são declaradas nacionalizadas a partir da data da publicação deste diploma.
 
 2. A nacionalização prevista no n.º 1 é feita sem prejuízo do direito dos actuais titulares de acções representativas do capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital das sociedades referidas no n.º 1 do artigo 1.º, contra a entrega dos respectivos títulos, uma indemnização, a definir, quanto ao montante, prazo e forma de pagamento, em diplomas legais, a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital das sociedades referidas no n.º 1 do artigo 1.º, contra a entrega dos respectivos títulos, uma indemnização, a definir, quanto ao montante, prazo e forma de pagamento, em diplomas legais, a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das sociedades nacionalizadas por este diploma, ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados nos patrimónios autónomos das empresas resultantes da nacionalização ou a eles igualmente afectos.
+Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo das sociedades nacionalizadas por este diploma, ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados nos patrimónios autónomos das empresas resultantes da nacionalização ou a eles igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo de transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pelas empresas e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 4.º - 1. Cada uma das empresas nacionalizadas assumirá, em relação a todos os actos praticados e contratos celebrados pelas correspondentes sociedades referidas no n.º 1 do artigo 1.º, a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
+Art. 4.º - 1. Cada uma das empresas nacionalizadas assumirá, em relação a todos os actos praticados e contratos celebrados pelas correspondentes sociedades referidas no n.º 1 do artigo 1.º, a posição jurídica e contratual que estas detiverem à data do início da eficácia da nacionalização.
 
 2. Cada uma das empresas nacionalizadas assumirá igualmente a posição social que as correspondentes sociedades referidas no n.º 1 do artigo 1.º detiverem em sociedades em que sejam sócias à data do início da eficácia da nacionalização.
 
-###### Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço das sociedades referidas no n.º 1 do artigo 1.º transitará automaticamente para as empresas nacionalizadas correspondentes.
+Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço das sociedades referidas no n.º 1 do artigo 1.º transitará automaticamente para as empresas nacionalizadas correspondentes.
 
 2. Até ser dada solução, conforme se prevê no n.º 1 do artigo 12.º, aos problemas resultantes do reordenamento do denominado «Grupo CUF», mantém-se a vigência da legislação aplicável ao trabalho prestado nas sociedades referidas no n.º 1 do artigo 1.º deste diploma, bem como as convenções de trabalho celebradas, às quais têm estado vinculadas as mencionadas sociedades e seu pessoal, assumindo correspondentemente as empresas nacionalizadas as posições que antes cabiam àquelas sociedades.
 
-###### Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Sociedade de Gestão e Financiamentos, S. A. R. L., e da Sociedade Geral de Comércio, Indústria e Transportes, S. A. R. L.
+Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Sociedade de Gestão e Financiamentos, S. A. R. L., e da Sociedade Geral de Comércio, Indústria e Transportes, S. A. R. L.
 
 2. Por despacho do Primeiro-Ministro, sob proposta do Ministro para o Planeamento e Coordenação Económica, será nomeada uma comissão administrativa para ambas as sociedades referidas no número anterior, composta por três membros de reconhecida competência.
 
@@ -123,7 +166,7 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. No exercício das suas funções, a comissão administrativa contará com o apoio do Instituto das Participações do Estado.
 
-###### Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos das sociedades nacionalizadas pertenciam aos respectivos conselhos de administração, com excepção:
+Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos das sociedades nacionalizadas pertenciam aos respectivos conselhos de administração, com excepção:
 
 a) Da faculdade de demissão ou, quando assumam carácter colectivo, alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -131,15 +174,15 @@ b) Do poder de decisão sobre investimentos superiores a 50000 contos ou sobre m
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho do Ministro para o Planeamento e Coordenação Económica ou de despacho conjunto deste e do Ministro do Trabalho, quando estiver em causa o estatuto dos trabalhadores.
 
-###### Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro do Planeamento e Coordenação Económica, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo das sociedades nacionalizadas.
+Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro do Planeamento e Coordenação Económica, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo das sociedades nacionalizadas.
 
-###### Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 10.º No prazo de trinta dias, a contar do termo do seu mandato, a comissão administrativa apresentará, para apreciação do Ministro para o Planeamento e Coordenação Económica, relatório circunstanciado da sua actuação.
+Art. 10.º No prazo de trinta dias, a contar do termo do seu mandato, a comissão administrativa apresentará, para apreciação do Ministro para o Planeamento e Coordenação Económica, relatório circunstanciado da sua actuação.
 
-###### Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 12.º - 1. Por despacho do Primeiro-Ministro, sob proposta conjunta dos Ministros para o Planeamento e Coordenação Económica e da Indústria e Tecnologia, será nomeada uma comissão mista encarregada de apresentar ao Governo, no prazo que por este lhe for fixado, propostas relativas à solução dos problemas resultantes do reordenamento do denominado «Grupo CUF».
+Art. 12.º - 1. Por despacho do Primeiro-Ministro, sob proposta conjunta dos Ministros para o Planeamento e Coordenação Económica e da Indústria e Tecnologia, será nomeada uma comissão mista encarregada de apresentar ao Governo, no prazo que por este lhe for fixado, propostas relativas à solução dos problemas resultantes do reordenamento do denominado «Grupo CUF».
 
 2. A comissão mista será constituída por:
 
@@ -155,12 +198,12 @@ e) Três representantes dos trabalhadores do denominado «Grupo CUF».
 
 3. Os encargos com o funcionamento da comissão mista serão suportados, rateadamente, pelas sociedades nacionalizadas pertencentes ao mencionado «Grupo CUF», nos termos a definir por despacho conjunto do Ministro para o Planeamento e Coordenação Económica e do Ministro da Indústria e Tecnologia.
 
-###### Art. 13.º O presente diploma entra imediatamente em vigor.
+Art. 13.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Fernando da Conceição Quitério de Brito.
 
-**Promulgado em 19 de Setembro de 1975.**
+Promulgado em 19 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

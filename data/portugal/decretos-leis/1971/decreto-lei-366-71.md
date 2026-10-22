@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 200/1971, 1º Suplemento, Série I de 1971-08-25
   number: '200'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1232-(1) a 1232-(100)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf
 entry_into_force_dates: []
@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1971-405766
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-08-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:19:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6b85a372628260129ad3654d98a09677713c70e6c3de37e686f75406605347f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e7b03d14025037054b71d9997e2fe4558e69b0210e1c12d1cb136ef22d2e4f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente de Transporte
+- Bagagem
+- Berna
+- Convenção
+- Indemnização
+- Reclamação
+- Regulamento
+- Responsabilidade Civil
+- Transporte de Mercadorias
+- Transporte de Mercadorias Perigosas
+- Transporte de Passageiros
+- Transporte Ferroviário
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:19:48Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +101,15 @@ de 25 de Agosto
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados, para ratificação, a Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), a Convenção Internacional Relativa ao Transporte de Passageiros e Bagagens por Caminho de Ferro (CIV), seus respectivos Anexos, o Protocolo e o Protocolo Adicional às citadas Convenções, bem como a respectiva Acta Final, concluídos em Berna em 7 de Fevereiro de 1970, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. São aprovados, para ratificação, a Convenção Internacional Relativa ao Transporte de Mercadorias por Caminho de Ferro (CIM), a Convenção Internacional Relativa ao Transporte de Passageiros e Bagagens por Caminho de Ferro (CIV), seus respectivos Anexos, o Protocolo e o Protocolo Adicional às citadas Convenções, bem como a respectiva Acta Final, concluídos em Berna em 7 de Fevereiro de 1970, cujo texto em francês e respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Rui Manuel de Medeiros d'Espiney Patrício.
 
-**Promulgado em 18 de Junho de 1971.**
+Promulgado em 18 de Junho de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ
 
 Convention internationale concernant le transport des merchandises par chemins de fer (CIM)
 
@@ -2155,7 +2167,7 @@ ARTICLE 5
 
 Billets
 
-§ 1. Les billets délivrés pour un transport international régi par la présente Convention doivent porter le signe [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf).
+§ 1. Les billets délivrés pour un transport international régi par la présente Convention doivent porter le signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf).
 
 § 2. Les mentions suivantes sont obligatoires sur les billets, sauf exceptions prévues dans les tarifs internationaux:
 
@@ -2343,7 +2355,7 @@ Bulletin de bagages
 
 § 1. Lors de l'enregistrement des bagages, il est délivré un bulletin au voyageur.
 
-§ 2. Les bulletins de bagages délivrés pour un transport internacional régi par la présente Convention doivent porter de le signe [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) et, sauf exceptions prévues dans les tarifs internationaux, comporter les mentions suivantes:
+§ 2. Les bulletins de bagages délivrés pour un transport internacional régi par la présente Convention doivent porter de le signe [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) et, sauf exceptions prévues dans les tarifs internationaux, comporter les mentions suivantes:
 
 a) L'indication des gares de départ et de destination;
 
@@ -3341,7 +3353,7 @@ Danemark:
 
 M. Jenstrup S. A., Directeur des Affaires économiques à la Direction générale des Chemins de fer de l'État danois.
 
-M.[([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Chef de section à la Direction générale des Chemins de fer de l'État danois.
+M.[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Chef de section à la Direction générale des Chemins de fer de l'État danois.
 
 Espagne:
 
@@ -3461,9 +3473,9 @@ M. Hoebé J. F. W., Secrétaire de l'Organisation des Usagers de Transports (EVO
 
 Pologne:
 
-M. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Directeur au Ministère des Communications.
+M. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Directeur au Ministère des Communications.
 
-M. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Directeur adjoint au Ministère des Communications.
+M. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), Directeur adjoint au Ministère des Communications.
 
 M. Wawrzyniewicz T., Deuxième Secrétaire près l'Ambassade de Pologne à Berne.
 
@@ -5635,7 +5647,7 @@ Desde o início da sua viagem, salvo excepções previstas nas tarifas internaci
 
 ###### ARTIGO 5 — Bilhetes
 
-§ 1. Os bilhetes emitidos para um transporte internacional regulado pela presente Convenção devem levar o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf).
+§ 1. Os bilhetes emitidos para um transporte internacional regulado pela presente Convenção devem levar o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf).
 
 § 2. Os bilhetes devem obrigatòriamente conter as indicações seguintes, salvo as excepções previstas nas tarifas internacionais:
 
@@ -5795,7 +5807,7 @@ O transporte das bagagens só pode realizar-se nas condições acima mencionadas
 
 § 1. Quando se faz o despacho das bagagens é entregue ao passageiro uma senha.
 
-§ 2. As senhas de bagagem passadas para um transporte internacional regido pela presente Convenção devem conter o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) e, salvo excepções previstas nas tarifas internacionais, conter as seguintes indicações:
+§ 2. As senhas de bagagem passadas para um transporte internacional regido pela presente Convenção devem conter o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) e, salvo excepções previstas nas tarifas internacionais, conter as seguintes indicações:
 
 a) A indicação das estações de partida e de destino;
 
@@ -6663,7 +6675,7 @@ Dinamarca:
 
 Sr. Jenstrup S. A., director dos Negócios Económicos da Direcção-Geral dos Caminhos de Ferro do Estado Dinamarquês.
 
-Sr. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) H. J., chefe da secção da Direcção-Geral dos Caminhos de Ferro do Estado Dinamarquês.
+Sr. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) H. J., chefe da secção da Direcção-Geral dos Caminhos de Ferro do Estado Dinamarquês.
 
 Espanha:
 
@@ -6783,9 +6795,9 @@ Sr. Hoebé J. F. W., secretário da Organização dos Utentes de Transporte (EVO
 
 Polónia:
 
-Sr. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) Z., director do Ministério das Comunicações.
+Sr. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) Z., director do Ministério das Comunicações.
 
-Sr. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) F., director-adjunto do Ministério das Comunicações.
+Sr. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf) F., director-adjunto do Ministério das Comunicações.
 
 Sr. Wawrzniewicz T., segundo-secretário da Embaixada da Polónia em Berna.
 
@@ -6875,9 +6887,9 @@ Sr. Germeyanligil H., director-geral-adjunto dos Caminhos de Ferro do Estado Tur
 
 Jugoslávia:
 
-S.Ex.ª o Sr. Ljubo [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), embaixador extraordinário e plenipotenciário da Jugoslávia na Suíça.
+S.Ex.ª o Sr. Ljubo [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), embaixador extraordinário e plenipotenciário da Jugoslávia na Suíça.
 
-Sr. [([ver documento original](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf))](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), conselheiro da Comunidade dos Caminhos de Ferro Jugoslavos.
+Sr. [(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/20001/00010100.pdf), conselheiro da Comunidade dos Caminhos de Ferro Jugoslavos.
 
 Sr.ª Pokorni M., conselheiro do Secretariado Federal para a Economia Nacional.
 

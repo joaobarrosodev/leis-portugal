@@ -47,36 +47,50 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1980-679633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d7b8e538e4f2644cbec7186b4b67ac03b02aa20cbe8b0c856a19c873211c052
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f21daa6365ecc169b56152b1535ff883e73e5a750d8c3e1e836f9639aa2e53a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Indemnização
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:157007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486300:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:36Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +109,14 @@ Por idênticas razões, o artigo 2.º do [Decreto-Lei n.º 618/75](https://diari
 
 Nestes termos, o Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Fica revogado o artigo 5.º, n.º 2, do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300).
+Artigo 1.º Fica revogado o artigo 5.º, n.º 2, do [Decreto-Lei n.º 704/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/704-1974-486300).
 
-###### Art. 2.º Os Ministros das Finanças e do Plano e dos Assuntos Sociais ficam autorizados a aprovar, por portaria conjunta, o dispêndio das verbas orçamentadas para a reparação dos prejuízos causados às Misericórdias, permitindo nomeadamente doações em cumprimento com bens do Estado ou outras transferências financeiras que se mostrem justificadas, observadas que sejam as disposições legais necessárias para a prática, em concreto, de quaisquer dos actos consequentes aos acordos a celebrar com as Misericórdias.
+Art. 2.º Os Ministros das Finanças e do Plano e dos Assuntos Sociais ficam autorizados a aprovar, por portaria conjunta, o dispêndio das verbas orçamentadas para a reparação dos prejuízos causados às Misericórdias, permitindo nomeadamente doações em cumprimento com bens do Estado ou outras transferências financeiras que se mostrem justificadas, observadas que sejam as disposições legais necessárias para a prática, em concreto, de quaisquer dos actos consequentes aos acordos a celebrar com as Misericórdias.
 
 Francisco Sá Carneiro - Aníbal António Cavaco Silva - João António Morais Leitão.
 
-**Promulgado em 11 de Fevereiro de 1980.**
+Promulgado em 11 de Fevereiro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

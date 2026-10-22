@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1972/10/23000/14331433.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1972-691872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c06a78a6413718a48e65fb83e759e7f94109ff6ee68b8a7ca0ad4e0514eed89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9608bd90318fcebf9f60a02ea1f2a19a5d4414322a729c7609f763f5336dd6ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral de Justiça
+- Ministério do Ultramar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:161091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:161091:por
+  label: "Revogado pelo DEC LEI.125/75.12.03.1975.MCINT, DG.IS [60] de 12.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1975-161091
+  date: '1975-03-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:59Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +104,21 @@ Havendo urgência em providenciar quanto à estrutura e dotação de pessoal da 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O quadro do pessoal da Direcção-Geral de Justiça, do Ministério do Ultramar, passa a ser o constante do mapa anexo ao presente diploma, que substitui para todos os efeitos o mapa X anexo ao [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967.
+Artigo 1.º O quadro do pessoal da Direcção-Geral de Justiça, do Ministério do Ultramar, passa a ser o constante do mapa anexo ao presente diploma, que substitui para todos os efeitos o mapa X anexo ao [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967.
 
-###### Art. 2.º O lugar de subdirector-geral será desempenhado em comissão de serviço por três anos, renovável, por juízes de direito ou juízes de 2.ª instância do ultramar.
+Art. 2.º O lugar de subdirector-geral será desempenhado em comissão de serviço por três anos, renovável, por juízes de direito ou juízes de 2.ª instância do ultramar.
 
-###### Art. 3.º O lugar de adjunto do director-geral será desempenhado em comissão de serviço por três anos, renovável, por juízes de direito.
+Art. 3.º O lugar de adjunto do director-geral será desempenhado em comissão de serviço por três anos, renovável, por juízes de direito.
 
-###### Art. 4.º O lugar de chefe de repartição será provido por escolha do Ministro do Ultramar entre os chefes de secção do Ministério licenciados em Direito.
+Art. 4.º O lugar de chefe de repartição será provido por escolha do Ministro do Ultramar entre os chefes de secção do Ministério licenciados em Direito.
 
-###### Art. 5.º Os lugares de chefe de secção da Direcção-Geral de Justiça serão providos, mediante concurso documental, entre licenciados em Direito.
+Art. 5.º Os lugares de chefe de secção da Direcção-Geral de Justiça serão providos, mediante concurso documental, entre licenciados em Direito.
 
-###### Art. 6.º O pessoal da secretaria será provido pela forma prevista para o restante pessoal do Ministério das respectivas categorias.
+Art. 6.º O pessoal da secretaria será provido pela forma prevista para o restante pessoal do Ministério das respectivas categorias.
 
-###### Art. 7.º O tempo de serviço prestado pelos magistrados judiciais nas comissões de serviço referidas nos artigos 2.º e 3.º conta-se como efectivo serviço judicial para todos os efeitos, designadamente para a promoção e para o ingresso na magistratura metropolitana, observado, porém, o limite estabelecido na 2.ª parte do n.º 3 do artigo 161.º do Estatuto Judiciário.
+Art. 7.º O tempo de serviço prestado pelos magistrados judiciais nas comissões de serviço referidas nos artigos 2.º e 3.º conta-se como efectivo serviço judicial para todos os efeitos, designadamente para a promoção e para o ingresso na magistratura metropolitana, observado, porém, o limite estabelecido na 2.ª parte do n.º 3 do artigo 161.º do Estatuto Judiciário.
 
-###### Art. 8.º São atribuições do subdirector-geral:
+Art. 8.º São atribuições do subdirector-geral:
 
 a) Exercer cumulativamente com o director-geral as funções deste, de acordo com a distribuição de serviço e as instruções que forem estabelecidas pelo seu superior hierárquico;
 
@@ -118,7 +130,7 @@ d) Exercer as funções de agente do Ministério Público junto do Conselho Supe
 
 e) Exercer quaisquer outras funções que lhe forem designadas pela lei.
 
-###### Art. 9.º São atribuições do adjunto do director-geral, entre outras:
+Art. 9.º São atribuições do adjunto do director-geral, entre outras:
 
 a) Coadjuvar o director-geral e o subdirector-geral nos trabalhos de técnica jurídica que lhe forem distribuídos, designadamente os que tenham por objecto a elaboração de pareceres sobre consulta jurídica do Ministério, o estudo de propostas tendentes à melhoria dos serviços judiciais e parajudiciais do ultramar e a redacção de anteprojectos de diplomas legais destinados a apreciação superior;
 
@@ -128,17 +140,17 @@ c) Substituir o subdirector-geral como agente do Ministério Público junto do c
 
 d) Exercer as funções de agente do Ministério Público junto do Conselho Superior de Disciplina do Ultramar.
 
-###### Art. 10.º São atribuições do chefe de repartição coordenar os serviços das secções, assegurando o expediente que corre pela Direcção-Geral de Justiça, além das funções que lhe forem especialmente atribuídas, seleccionando os assuntos que devam ser submetidos a apreciação superior, apresentando-os directamente a despacho do director-geral ou do subdirector-geral, conforme for estabelecido nos termos da alínea a) do artigo 8.º
+Art. 10.º São atribuições do chefe de repartição coordenar os serviços das secções, assegurando o expediente que corre pela Direcção-Geral de Justiça, além das funções que lhe forem especialmente atribuídas, seleccionando os assuntos que devam ser submetidos a apreciação superior, apresentando-os directamente a despacho do director-geral ou do subdirector-geral, conforme for estabelecido nos termos da alínea a) do artigo 8.º
 
-###### Art. 11.º Enquanto não forem providos os lugares referidos nos artigos 2.º, 3.º e 4.º, pela forma neles prevista, continuará o actual chefe da Repartição de Justiça a exercer as suas actuais funções, com as inerências estabelecidas na legislação anterior a este decreto-lei.
+Art. 11.º Enquanto não forem providos os lugares referidos nos artigos 2.º, 3.º e 4.º, pela forma neles prevista, continuará o actual chefe da Repartição de Justiça a exercer as suas actuais funções, com as inerências estabelecidas na legislação anterior a este decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Setembro de 1972.**
+Promulgado em 22 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
 
@@ -146,10 +158,10 @@ Mapa anexo ao Decreto-Lei n.º 371/72, que substitui o mapa X anexo ao [Decreto-
 
 Pessoal e vencimentos da Direcção-Geral de Justiça
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/10/23000/14331433.pdf))](https://files.diariodarepublica.pt/1s/1972/10/23000/14331433.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/10/23000/14331433.pdf)
 
 Gratificação anual atribuída ao director-geral pela acumulação das funções de presidente do Conselho Superior Judiciário do Ultramar ... 12000$00
 
 Gratificação anual atribuída ao adjunto do director-geral pelo exercício das funções de agente do Ministério Público junto do Conselho Superior de Disciplina do Ultramar ... 12000$00
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

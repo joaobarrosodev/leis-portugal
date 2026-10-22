@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 18/1975, 2º Suplemento, Série I de 1975-01-22
   number: '18'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 80-(25) a 80-(27)
   pdf_url: https://files.diariodarepublica.pt/1s/1975/01/01802/00250027.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1975-646092
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:40:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6016d09c2c55a38bf7cf5066daeac9a711400fa98c9aad14f7c7c04ceb80492
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1df687ec7ef8ede69173a38ad284238962c5799cf18014fed740f950ffebd78d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:40:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desalojado
+- Descolonização
+- Funcionário Ultramarino
+- Integração de Trabalhadores
+- Ministério da Coordenação Interterritorial
+- Quadro Geral de Adidos
 relationships:
 - type: amended_by
   target: pt:dre:502033:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:573748:por
+  label: "Alterados os arts. 1º e 2º pelo DEC LEI.169-A/75.31.03.1975.MCINT, DG.IS [75-SUPL] de 31.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-a-1975-573748
+  date: '1975-03-31'
+- type: amended_by
+  target: pt:dre:305805:por
+  label: "Aditado um nº 3 ao art. 8º pelo DEC LEI.412-C/75.07.08.1975.MCINT, DG.IS [181-3ºSupl] de 07.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/412-c-1975-305805
+  date: '1975-08-07'
+- type: repealed_by
+  target: pt:dre:502033:por
+  label: "Revogado pelo DEC LEI.294/76.24.04.1976.MCOOP, DR.IS [97] de 24.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/294-1976-502033
+  date: '1976-04-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:40:22Z'
   warnings: []
   errors: []
 ---
@@ -107,7 +128,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. À medida que as actuais províncias ultramarinas forem ascendendo à independência, os servidores do Estado ou dos corpos administrativos que estejam ali colocados por nomeação ou por contrato de provimento já celebrado à data da publicação deste diploma e que mantenham a nacionalidade portuguesa de acordo com a lei de nacionalidade vigente em Portugal poderão, quer pertençam aos quadros comuns, quer aos quadros privativos ou equiparados, requerer o seu ingresso no quadro geral de adidos que se cria pelo presente diploma no Ministério da Coordenação Interterritorial, sendo-lhes garantida a categoria que então possuírem, bem como os respectivos direitos e deveres, com ressalva do disposto neste diploma.
+Artigo 1.º - 1. À medida que as actuais províncias ultramarinas forem ascendendo à independência, os servidores do Estado ou dos corpos administrativos que estejam ali colocados por nomeação ou por contrato de provimento já celebrado à data da publicação deste diploma e que mantenham a nacionalidade portuguesa de acordo com a lei de nacionalidade vigente em Portugal poderão, quer pertençam aos quadros comuns, quer aos quadros privativos ou equiparados, requerer o seu ingresso no quadro geral de adidos que se cria pelo presente diploma no Ministério da Coordenação Interterritorial, sendo-lhes garantida a categoria que então possuírem, bem como os respectivos direitos e deveres, com ressalva do disposto neste diploma.
 
 2. Os servidores do Estado ou dos corpos administrativos interessados em ingressarem no quadro geral de adidos criado pelo presente diploma deverão dirigir os respectivos requerimentos ao Ministério da Coordenação Interterritorial pela via hierárquica, ou apresentá-los directamente ao Ministério, desde sessenta dias antes da data marcada para a independência do território onde se encontrem colocados.
 
@@ -117,7 +138,7 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5. Aos servidores a que se refere o n.º 1 deste artigo e que, providos por contrato ou por nomeação, não contem pelo menos dois anos de serviço efectivo e ininterrupto, ainda que em diversos lugares do mesmo quadro ou de diferentes quadros, poderá ser aplicado, por despacho do Ministro da Coordenação Interterritorial, o regime estabelecido pelo artigo 138.º do Estatuto do Funcionalismo Ultramarino em vigor, a menos que os interessados se obriguem, logo no requerimento de ingresso, a prestar serviço nos territórios em que se encontrem colocados, durante, pelo menos, o tempo necessário para completarem o referido período de dois anos de serviço efectivo.
 
-###### Art. 2.º - 1. Os servidores do Estado ou dos corpos administrativos a que se refere o n.º 1 do artigo anterior, enquanto não forem colocados noutro território ultramarino que ainda não tenha ascendido à independência ou integrados em correspondentes serviços metropolitanos, apenas auferirão metade dos respectivos vencimentos base, só adquirindo o direito a perceberem este vencimento por inteiro no caso de serem destacados ou requisitados para irem prestar serviço em departamentos de outros Ministérios ou de corpos administrativos, continuando, porém, a pertencer ao quadro geral de adidos, sendo considerados na situação de actividade fora do quadro enquanto durar essa prestação de serviço.
+Art. 2.º - 1. Os servidores do Estado ou dos corpos administrativos a que se refere o n.º 1 do artigo anterior, enquanto não forem colocados noutro território ultramarino que ainda não tenha ascendido à independência ou integrados em correspondentes serviços metropolitanos, apenas auferirão metade dos respectivos vencimentos base, só adquirindo o direito a perceberem este vencimento por inteiro no caso de serem destacados ou requisitados para irem prestar serviço em departamentos de outros Ministérios ou de corpos administrativos, continuando, porém, a pertencer ao quadro geral de adidos, sendo considerados na situação de actividade fora do quadro enquanto durar essa prestação de serviço.
 
 2. A recusa de prestação de serviço em qualquer das situações previstas no número anterior corresponde ao abandono de lugar.
 
@@ -127,13 +148,13 @@ Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constituci
 
 5. Englobam-se no período de um ano referido no número anterior todos os períodos parciais durante os quais o servidor haja exercido, nas condições indicadas no n.º 3 deste artigo, profissão em regime liberal ou outra actividade remunerada alheia ao serviço público.
 
-###### Art. 3.º O Ministério da Coordenação Interterritorial procederá às diligências necessárias junto dos outros Ministérios com vista à integração prevista no artigo anterior, a qual deverá efectuar-se sem prejuízo das posições ou legítimas expectativas do funcionalismo dos quadros em que a integração haja de ter lugar e sem dependência de qualquer requisito ou formalidade, mediante lista ou listas assinadas pelo Ministro competente, anotadas pelo Tribunal de Contas e publicadas no Diário do Governo.
+Art. 3.º O Ministério da Coordenação Interterritorial procederá às diligências necessárias junto dos outros Ministérios com vista à integração prevista no artigo anterior, a qual deverá efectuar-se sem prejuízo das posições ou legítimas expectativas do funcionalismo dos quadros em que a integração haja de ter lugar e sem dependência de qualquer requisito ou formalidade, mediante lista ou listas assinadas pelo Ministro competente, anotadas pelo Tribunal de Contas e publicadas no Diário do Governo.
 
-###### Art. 4.º - 1. À medida que forem ocorrendo vagas nos graus inferiores do quadro geral de adidos considerar-se-ão automaticamente extintos os correspondentes cargos.
+Art. 4.º - 1. À medida que forem ocorrendo vagas nos graus inferiores do quadro geral de adidos considerar-se-ão automaticamente extintos os correspondentes cargos.
 
 2. Os servidores que se mantiverem no quadro geral de adidos não perdem o direito à promoção nos termos da legislação em vigor à data do seu ingresso no referido quadro.
 
-###### Art. 5.º - 1. Os servidores que ingressem no quadro geral de adidos e se encontrem em Portugal poderão, com sua anuência, ser mandados prestar serviço nos territórios onde estavam colocados, ou em outros que também já hajam ascendido à independência, em regime de comissão ordinária de serviço, com dispensa de nomeação ou outra formalidade, por um período de seis meses a dois anos, podendo esse prazo ser prorrogado sucessivamente, por períodos anuais, enquanto o Estado Português e os Estados interessados nisso convierem.
+Art. 5.º - 1. Os servidores que ingressem no quadro geral de adidos e se encontrem em Portugal poderão, com sua anuência, ser mandados prestar serviço nos territórios onde estavam colocados, ou em outros que também já hajam ascendido à independência, em regime de comissão ordinária de serviço, com dispensa de nomeação ou outra formalidade, por um período de seis meses a dois anos, podendo esse prazo ser prorrogado sucessivamente, por períodos anuais, enquanto o Estado Português e os Estados interessados nisso convierem.
 
 2. A comissão de serviço a que se refere o número anterior terminará pelo decurso do respectivo prazo se o servidor não der a sua anuência a que seja renovada.
 
@@ -143,32 +164,32 @@ a) Por comum acordo entre o servidor e o governo do Estado onde a comissão este
 
 b) Por decisão unilateral ou do Governo Português ou do governo do Estado onde a comissão esteja a ser exercida.
 
-###### Art. 6.º Os servidores que hajam ingressado no quadro geral de adidos deixarão de fazer parte deste quadro se transitarem para os quadros do funcionalismo nacional do Estado a cujo serviço se encontrem, ou se perderem a nacionalidade portuguesa.
+Art. 6.º Os servidores que hajam ingressado no quadro geral de adidos deixarão de fazer parte deste quadro se transitarem para os quadros do funcionalismo nacional do Estado a cujo serviço se encontrem, ou se perderem a nacionalidade portuguesa.
 
-###### Art. 7.º Por ocasião do ingresso definitivo a Portugal os servidores que hajam ingressado no quadro geral de adidos terão direito a passagens para si e para os seus familiares que, nos termos do Estatuto do Funcionalismo Ultramarino vigente, a elas tivessem direito.
+Art. 7.º Por ocasião do ingresso definitivo a Portugal os servidores que hajam ingressado no quadro geral de adidos terão direito a passagens para si e para os seus familiares que, nos termos do Estatuto do Funcionalismo Ultramarino vigente, a elas tivessem direito.
 
-###### Art. 8.º - 1. O Estado Português garantirá o pagamento das pensões de desligação de serviço e de aposentação, de invalidez, de sangue e de sobrevivência já fixadas ou a fixar nos termos legais.
+Art. 8.º - 1. O Estado Português garantirá o pagamento das pensões de desligação de serviço e de aposentação, de invalidez, de sangue e de sobrevivência já fixadas ou a fixar nos termos legais.
 
 2. Aos servidores do Estado e dos corpos administrativos que ingressem no quadro geral de adidos e a ele continuem a pertencer serão garantidos os direitos mencionados no número anterior relativamente às pensões que venham a ser fixadas.
 
-###### Art. 9.º - 1. O disposto no presente diploma aplicar-se-á, com as necessárias adaptações, aos funcionários do Ministério da Coordenação Interterritorial que o requeiram.
+Art. 9.º - 1. O disposto no presente diploma aplicar-se-á, com as necessárias adaptações, aos funcionários do Ministério da Coordenação Interterritorial que o requeiram.
 
 2. O ingresso destes funcionários no quadro geral de adidos será feito mediante despacho do Ministro da Coordenação Interterritorial.
 
-###### Art. 10.º - 1. Por despacho conjunto do Ministro da Coordenação Interterritorial e do Chefe do Estado-Maior do respectivo ramo das forças armadas poderão ingressar no quadro geral de adidos, criado por este diploma, os civis que se encontrem ao serviço das forças armadas nos territórios ultramarinos, desde que o requeiram, e já contassem em 25 de Abril de 1974 pelo menos dois anos de serviço efectivo e ininterrupto.
+Art. 10.º - 1. Por despacho conjunto do Ministro da Coordenação Interterritorial e do Chefe do Estado-Maior do respectivo ramo das forças armadas poderão ingressar no quadro geral de adidos, criado por este diploma, os civis que se encontrem ao serviço das forças armadas nos territórios ultramarinos, desde que o requeiram, e já contassem em 25 de Abril de 1974 pelo menos dois anos de serviço efectivo e ininterrupto.
 
 2. O disposto no número anterior é aplicável aos servidores civis que estiveram ao serviço das forças armadas na Guiné e que dele foram dispensados apenas por virtude do curso normal do processo de descolonização relativo a esse território.
 
-###### Art. 11.º As remunerações referidas no n.º 1 do artigo 2.º serão revistas de seis em seis meses com vista à sua melhoria, em função das possibilidades orçamentais.
+Art. 11.º As remunerações referidas no n.º 1 do artigo 2.º serão revistas de seis em seis meses com vista à sua melhoria, em função das possibilidades orçamentais.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - António de Almeida Santos.
 
-**Promulgado em 22 de Janeiro de 1975.**
+Promulgado em 22 de Janeiro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Para ser publicado nos Boletins Oficiais de todos os territórios ultramarinos. - A. Almeida Santos.

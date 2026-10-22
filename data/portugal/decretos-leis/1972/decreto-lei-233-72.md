@@ -47,36 +47,44 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1972-674392
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 114ca0773750af3aa54b1af4abce18a7e2fcb1501e90100a746edc1654192ef3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72841c0c9de129be643ac18f80c04af453067b4cabfc126547df834949d76e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- GNR
+- Guarda Fiscal
+- Subsídio de Alimentação
+- Subsídio de Alojamento
+relationships:
+- type: cites
+  target: pt:dre:665713:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:10Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Considerando, ainda, que os oficiais, sargentos e praças que tomam parte nos cu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado os oficiais, sargentos e praças da Guarda Nacional Republicana e da Guarda Fiscal nas seguintes situações:
+Artigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado os oficiais, sargentos e praças da Guarda Nacional Republicana e da Guarda Fiscal nas seguintes situações:
 
 a) Na frequência e no exercício das funções de directores, instrutores e monitores de cursos, escolas estágios ou outras modalidades de instrução que funcionem nos centros de instrução, unidades ou estabelecimentos próprios das duas corporações ou dependentes do Ministério do Exército, desde que a nomeação para tais funções não tenha sido feita a pedido do interessado ou sem dispêndio para a Fazenda Nacional;
 
@@ -109,26 +117,26 @@ g) Durante o tempo em que estiverem com baixa aos hospitais e enfermarias;
 
 h) Quando, estando na situação de presos, se encontrem nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952.
 
-###### Art. 2.º Nos abonos a que se referem as alíneas a) e b) do artigo anterior observar-se-ão as seguintes restrições:
+Art. 2.º Nos abonos a que se referem as alíneas a) e b) do artigo anterior observar-se-ão as seguintes restrições:
 
 1) Quando os oficiais, sargentos ou praças residam nas localidades onde decorre a instrução que frequentam, o abono é limitado ao almoço por conta do Estado;
 
 2) Quando os oficiais, sargentos ou praças beneficiem de residência do Estado no aquartelamento onde decorre a instrução que frequentam ou onde prestam serviço diário, não há lugar a qualquer abono por conta do Estado.
 
-###### Art. 3.º Os abonos ao pessoal que frequente as escolas de alistados da Guarda Nacional Republicana ou da Guarda Fiscal são extensivos ao período de funcionamento das respectivas escolas preparatórias de quadros.
+Art. 3.º Os abonos ao pessoal que frequente as escolas de alistados da Guarda Nacional Republicana ou da Guarda Fiscal são extensivos ao período de funcionamento das respectivas escolas preparatórias de quadros.
 
-###### Art. 4.º Quando em unidades ou estabelecimentos militares da Guarda Nacional Republicana ou da Guarda Fiscal, o abono da alimentação será sempre feito em géneros, salvo casos especiais em que se justifique o abono a dinheiro e este seja autorizado pelo Comando-Geral respectivo.
+Art. 4.º Quando em unidades ou estabelecimentos militares da Guarda Nacional Republicana ou da Guarda Fiscal, o abono da alimentação será sempre feito em géneros, salvo casos especiais em que se justifique o abono a dinheiro e este seja autorizado pelo Comando-Geral respectivo.
 
-###### Art. 5.º - 1. Os quantitativos dos abonos previstos nas diversas situações enumeradas no presente diploma serão fixados, anualmente, por despacho dos Ministros do Interior e das Finanças, mediante propostas dos comandantes-gerais da Guarda Nacional Republicana e da Guarda Fiscal, quando respeitem a unidades ou estabelecimentos militares destas corporações.
+Art. 5.º - 1. Os quantitativos dos abonos previstos nas diversas situações enumeradas no presente diploma serão fixados, anualmente, por despacho dos Ministros do Interior e das Finanças, mediante propostas dos comandantes-gerais da Guarda Nacional Republicana e da Guarda Fiscal, quando respeitem a unidades ou estabelecimentos militares destas corporações.
 
 2. Quando se trate de unidades ou estabelecimentos dependentes de outros departamentos do Estado, o quantitativo a abonar e liquidar será o que neles estiver fixado.
 
-###### Art. 6.º Os Comandos-Gerais da Guarda Nacional Republicana e da Guarda Fiscal elaborarão as instruções necessárias a execução deste decreto-lei.
+Art. 6.º Os Comandos-Gerais da Guarda Nacional Republicana e da Guarda Fiscal elaborarão as instruções necessárias a execução deste decreto-lei.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Ropazote - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Junho de 1972.**
+Promulgado em 30 de Junho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

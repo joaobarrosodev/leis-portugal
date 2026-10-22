@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 292/1971, 1º Suplemento, Série I de 1971-12-15
   number: '292'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1914-(1) a 1914-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1971/12/29201/00010006.pdf
 entry_into_force_dates: []
@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/550-1971-158611
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-12-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:20:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ea4f3b7bc68d1b8f8e6d316eadc2cd5029f49ba932455b5b48c86c233a9cf8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8c3c64c228f3ccfbc3a950ffb82b3eb82eaea9d8d3156409384f925f93e20d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:20:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234933:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:20:25Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +123,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1. No território do continente e ilhas adjacentes, fica sujeita ao disposto no presente diploma a realização das operações respeitantes a liquidações de importações, exportações ou reexportações de mercadorias de ou para as províncias ultramarinas e de operações de invisíveis correntes ou de importação e exportação de capitais entre aquele território nacional e qualquer destas províncias.
+Artigo 1.º - 1. No território do continente e ilhas adjacentes, fica sujeita ao disposto no presente diploma a realização das operações respeitantes a liquidações de importações, exportações ou reexportações de mercadorias de ou para as províncias ultramarinas e de operações de invisíveis correntes ou de importação e exportação de capitais entre aquele território nacional e qualquer destas províncias.
 
 2. As operações respeitantes às liquidações referidas no número anterior serão designadas por «operações de pagamentos interterritoriais» e nelas se compreendem, designadamente, as seguintes:
 
@@ -109,7 +137,7 @@ d) A abertura e a movimentação de contas, em escudos da metrópole, em nome de
 
 3. Por obtenção ou cedências de meios de pagamento sobre uma província ultramarina entende-se a aquisição ou a alienação de quaisquer meios de pagamento sobre essa província, incluindo as de notas e moedas metálicas com curso legal na mesma província.
 
-###### Art. 2.º - 1. Sem prejuízo do estabelecido nos n.os 2 a 6 deste artigo, o presente diploma não é aplicável:
+Art. 2.º - 1. Sem prejuízo do estabelecido nos n.os 2 a 6 deste artigo, o presente diploma não é aplicável:
 
 a) Aos pagamentos regulados, respectivamente, pelo Decreto-Lei n.º 43914 e pelo Decreto-Lei n.º 43915, ambos de 15 de Novembro de 1961;
 
@@ -125,7 +153,7 @@ b) Aos pagamentos e recebimentos a realizar, no continente e ilhas adjacentes, p
 
 6. Ainda mensalmente, a Direcção-Geral de Fazenda, do Ministério do Ultramar, comunicará ao Banco de Portugal os saldos das contas abertas em nome das caixas de Tesouro de cada uma das províncias ultramarinas, bem como, de acordo com as instruções que o dito Banco lhe transmitir, os quadros dos movimentos dessas contas.
 
-###### Art. 3.º - 1. São havidas como residentes no território do continente e ilhas adjacentes:
+Art. 3.º - 1. São havidas como residentes no território do continente e ilhas adjacentes:
 
 a) As pessoas singulares que nesse território tiverem a sua residência habitual há mais de um ano;
 
@@ -143,47 +171,47 @@ c) As sucursais, agências ou quaisquer outras formas de representação, no ref
 
 6. Quando a pessoa singular que pedir a concessão antecipada da qualidade de residente deva ser considerada como residente numa província ultramarina, a Inspecção-Geral de Crédito e Seguros não poderá conceder a qualidade de residente sem o acordo prévio da autoridade cambial daquela província.
 
-###### Art. 4.º - 1. São havidas como residentes em determinada província ultramarina as pessoas, singulares ou colectivas, bem como as agências, sucursais ou quaisquer outras formas de representação de pessoas, singulares ou colectivas, às quais deva ser atribuída essa qualidade de acordo com a legislação aplicável nessa província.
+Art. 4.º - 1. São havidas como residentes em determinada província ultramarina as pessoas, singulares ou colectivas, bem como as agências, sucursais ou quaisquer outras formas de representação de pessoas, singulares ou colectivas, às quais deva ser atribuída essa qualidade de acordo com a legislação aplicável nessa província.
 
 2. Nenhuma pessoa singular poderá ser havida como residente em mais de um território nacional.
 
 3. Em caso de conflito da atribuição da qualidade de residente, em face das normas em vigor no continente e ilhas adjacentes e das aplicáveis nas províncias, no dito território do continente e ilhas adjacentes atender-se-á às referidas normas em vigor neste território.
 
-###### Art. 5.º - 1. No território do continente e ilhas adjacentes, a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações de pagamentos interterritoriais é permitida aos bancos comerciais autorizados a exercer o comércio de câmbios no referido território nacional.
+Art. 5.º - 1. No território do continente e ilhas adjacentes, a realização habitual e com intuito lucrativo, por conta própria ou alheia, de operações de pagamentos interterritoriais é permitida aos bancos comerciais autorizados a exercer o comércio de câmbios no referido território nacional.
 
 2. Para efeito do disposto no presente diploma, a expressão «bancos comerciais» compreende também os bancos emissores ultramarinos, nos casos previstos no artigo 46.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e as casas bancárias.
 
-###### Art. 6.º A realização pelo Banco de Portugal de operações de pagamentos interterritoriais regular-se-á pelas disposições legais que especialmente lhe respeitem e pelo que estiver estabelecido nos contratos com o Estado e nos estatutos do mesmo Banco.
+Art. 6.º A realização pelo Banco de Portugal de operações de pagamentos interterritoriais regular-se-á pelas disposições legais que especialmente lhe respeitem e pelo que estiver estabelecido nos contratos com o Estado e nos estatutos do mesmo Banco.
 
-###### Art. 7.º - 1. As casas de câmbios só podem efectuar a compra de cupões de títulos nacionais.
+Art. 7.º - 1. As casas de câmbios só podem efectuar a compra de cupões de títulos nacionais.
 
 2. Tratando-se de cupões de títulos emitidos numa província ultramarina, a cobrança desses cupões, por conta própria ou de outrem, deverá ser realizada por intermédio de uma instituição de crédito autorizada a exercer o comércio de câmbios no continente e ilhas adjacentes.
 
-###### Art. 8.º - 1. Pertence à secção de Política monetária do Conselho de Ministros para os Assuntos Económicos a superintendência e a coordenação das instituições a quem, nos termos do artigo 5.º, é permitida a realização, habitual e com intuito lucrativo, de operações de pagamentos interterritoriais, bem como dos institutos de crédito do Estado e dos estabelecimentos especiais de crédito, no tocante às operações de pagamentos interterritoriais que estejam autorizados a efectuar.
+Art. 8.º - 1. Pertence à secção de Política monetária do Conselho de Ministros para os Assuntos Económicos a superintendência e a coordenação das instituições a quem, nos termos do artigo 5.º, é permitida a realização, habitual e com intuito lucrativo, de operações de pagamentos interterritoriais, bem como dos institutos de crédito do Estado e dos estabelecimentos especiais de crédito, no tocante às operações de pagamentos interterritoriais que estejam autorizados a efectuar.
 
 2. As funções de superintendência e de coordenação referidas no anterior n.º 1 serão exercidas, no território do continente e ilhas adjacentes, directamente pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos ou pelo Ministro das Finanças ou por intermédio do Banco de Portugal, como autoridade cambial do referido território nacional.
 
-###### Art. 9.º - 1. No exercício das funções de superintendência e de coordenação referidas no anterior artigo 8.º, cabe à secção de Política monetária do Conselho de Ministros para os Assuntos Económicos definir normas reguladoras das condições e termos da realização das operações de pagamentos interterritoriais e a observar pelas instituições mencionadas nos artigos 5.º e 7.º do presente diploma.
+Art. 9.º - 1. No exercício das funções de superintendência e de coordenação referidas no anterior artigo 8.º, cabe à secção de Política monetária do Conselho de Ministros para os Assuntos Económicos definir normas reguladoras das condições e termos da realização das operações de pagamentos interterritoriais e a observar pelas instituições mencionadas nos artigos 5.º e 7.º do presente diploma.
 
 2. Compete ao Ministro das Finanças tomar as providências necessárias à execução, no continente e ilhas adjacentes, das deliberações da aludida secção de Política monetária, nomeadamente das normas referidas no número anterior.
 
 3. Ao Banco de Portugal compete, no tocante aos pagamentos interterritoriais, propor à secção de Política monetária do Conselho de Ministros para os Assuntos Económicos o que tiver por conveniente para a regularidade desses pagamentos entre o território do continente e ilhas adjacentes e as províncias ultramarinas e para a defesa da moeda nacional, cabendo-lhe, igualmente, transmitir, de acordo com o Governo e por delegação deste, às instituições de crédito referidas no artigo 5.º as instruções julgadas necessárias para a boa execução do presente decreto, das deliberações da aludida secção de Política monetária, nomeadamente das normas previstas no n.º 1 do presente artigo, e das determinações do Ministro das Finanças.
 
-###### Art. 10.º As instituições de crédito referidas no artigo 5.º, bem como os institutos de crédito do Estado, os estabelecimentos especiais de créditos e quaisquer outras pessoas e entidades ou serviços públicos, que estejam autorizadas a efectuar directamente operações de pagamentos interterritoriais e ainda as casas de câmbio enviarão, ao Banco de Portugal e de acordo com as instruções que lhes forem transmitidas por este Banco, as informações necessárias à elaboração dos quadros das balanças de pagamento, entre o território do continente e ilhas adjacentes e as províncias ultramarinas, e à verificação do cumprimento das disposições reguladoras da realização de operações de pagamentos interterritoriais.
+Art. 10.º As instituições de crédito referidas no artigo 5.º, bem como os institutos de crédito do Estado, os estabelecimentos especiais de créditos e quaisquer outras pessoas e entidades ou serviços públicos, que estejam autorizadas a efectuar directamente operações de pagamentos interterritoriais e ainda as casas de câmbio enviarão, ao Banco de Portugal e de acordo com as instruções que lhes forem transmitidas por este Banco, as informações necessárias à elaboração dos quadros das balanças de pagamento, entre o território do continente e ilhas adjacentes e as províncias ultramarinas, e à verificação do cumprimento das disposições reguladoras da realização de operações de pagamentos interterritoriais.
 
-###### Art. 11.º - 1. A fiscalização da actividade dos bancos comerciais, dos estabelecimentos especiais de crédito e das casas de câmbio, no tocante à realização de operações de pagamentos interterritoriais, compete à Inspecção-Geral de Crédito e Seguros, podendo essa fiscalização ser feita nos próprios estabelecimentos.
+Art. 11.º - 1. A fiscalização da actividade dos bancos comerciais, dos estabelecimentos especiais de crédito e das casas de câmbio, no tocante à realização de operações de pagamentos interterritoriais, compete à Inspecção-Geral de Crédito e Seguros, podendo essa fiscalização ser feita nos próprios estabelecimentos.
 
 2. As instituições referidas no número anterior enviarão à Inspecção-Geral de Crédito e Seguros cópia dos elementos de informação previstos no artigo 10.º
 
 3. A Inspecção-Geral de Crédito e Seguros poderá determinar o fornecimento pelas mencionadas instituições de quaisquer outros elementos de informação que julgar necessários para o efeito de fiscalização.
 
-###### Art. 12.º - 1. A inclusão, em boletins ou relatórios, dos bancos comerciais, de estabelecimentos especiais de crédito, de instituições parabancárias ou de casas de câmbio, de informações sobre operações de pagamentos interterritoriais fica sujeita a autorização especial do Ministro das Finanças, solicitada através da Inspecção-Geral de Crédito e Seguros.
+Art. 12.º - 1. A inclusão, em boletins ou relatórios, dos bancos comerciais, de estabelecimentos especiais de crédito, de instituições parabancárias ou de casas de câmbio, de informações sobre operações de pagamentos interterritoriais fica sujeita a autorização especial do Ministro das Finanças, solicitada através da Inspecção-Geral de Crédito e Seguros.
 
 2. Não carecem da autorização referida no número anterior as informações relativas a prémios de transferência ou cobrança e a simples transcrição de elementos constantes de publicações do Instituto Nacional de Estatística ou suas delegações, do Banco de Portugal e das inspecções de crédito e seguros ou do comércio bancário.
 
 3. O Ministro das Finanças poderá delegar no inspector-geral de crédito e seguros a competência para a concessão da autorização mencionada no presente artigo.
 
-###### Art. 13.º É vedado aos bancos comerciais autorizados a exercer o comércio de câmbios:
+Art. 13.º É vedado aos bancos comerciais autorizados a exercer o comércio de câmbios:
 
 a) Celebrar contratos ou acordos, de qualquer natureza, de que possa resultar uma situação de domínio nas operações de pagamentos interterritoriais ou alteração das condições normais da realização desses pagamentos;
 
@@ -193,13 +221,13 @@ b) Efectuar operações de especulação ou outras de que possam advir prejuízo
 
 #### SECÇÃO I — Disposições comuns
 
-###### Art. 14.º - 1. É proibida, salvo nos casos previstos no presente diploma, a realização de operações de pagamentos interterritoriais directamente por residentes no território do continente e ilhas adjacentes não autorizados a exercer o comércio de câmbios.
+Art. 14.º - 1. É proibida, salvo nos casos previstos no presente diploma, a realização de operações de pagamentos interterritoriais directamente por residentes no território do continente e ilhas adjacentes não autorizados a exercer o comércio de câmbios.
 
 2. Quando qualquer dos referidos residentes adquira direitos ou fique constituído em obrigações cujo exercício ou cumprimento envolva a realização de operações de pagamentos interterritoriais, estas só poderão ser efectuadas por intermédio de instituição autorizada a exercer o comércio de câmbios no continente e ilhas adjacentes.
 
-###### Art. 15.º Na realização de operações de pagamentos interterritoriais devem ser observadas as determinações da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos, especialmente as normas previstas no n.º 1 do artigo 9.º e as do Ministro das Finanças, bem como as instruções transmitidas pelo Banco de Portugal nos termos do n.º 3 do mesmo artigo.
+Art. 15.º Na realização de operações de pagamentos interterritoriais devem ser observadas as determinações da secção de Política monetária do Conselho de Ministros para os Assuntos Económicos, especialmente as normas previstas no n.º 1 do artigo 9.º e as do Ministro das Finanças, bem como as instruções transmitidas pelo Banco de Portugal nos termos do n.º 3 do mesmo artigo.
 
-###### Art. 16.º - 1. O estabelecido no artigo 14.º não é aplicável:
+Art. 16.º - 1. O estabelecido no artigo 14.º não é aplicável:
 
 a) Ao saque, aceite e aval de letras, à subscrição e aval de livranças e à emissão e aceite de extractos de factura;
 
@@ -207,7 +235,7 @@ b) À emissão e pagamento de vales do correio.
 
 2. A emissão e o pagamento de vales do correio ficarão sujeitos às instruções que a Inspecção-Geral de Crédito e Seguros transmitir aos serviços competentes, tendo em consideração o estabelecido no presente diploma, designadamente quanto à realização de operações de pagamentos interterritoriais pelos serviços públicos e pessoas de direito público.
 
-###### Art. 17.º - 1. Os institutos de crédito, o Estado e os estabelecimentos especiais de crédito podem realizar directamente as operações de pagamentos interterritoriais inerentes a contratos de crédito ou de empréstimo por eles celebrados com residentes nas províncias ultramarinas.
+Art. 17.º - 1. Os institutos de crédito, o Estado e os estabelecimentos especiais de crédito podem realizar directamente as operações de pagamentos interterritoriais inerentes a contratos de crédito ou de empréstimo por eles celebrados com residentes nas províncias ultramarinas.
 
 2. Haver-se-á por compreendida na faculdade referida no anterior n.º 1 a abertura, mediante autorização especial e prévia do Banco de Portugal, de:
 
@@ -219,43 +247,43 @@ b) Contas de disponibilidades à ordem, em escudos metropolitanos, nos livros do
 
 4. Mediante autorização especial e prévia do Banco de Portugal, os saldos das contas a que aludem os anteriores n.os 2 e 3 poderão ser aplicados, no todo ou em parte, em depósitos, na moeda em que as contas forem expressas, e a prazo não superior a um ano.
 
-###### Art. 18.º - 1. Os residentes no continente e ilhas adjacentes não autorizados a exercer o comércio de câmbios e não abrangidos pelo anterior artigo 17.º podem, mediante autorização especial e prévia do Banco de Portugal, abrir, em seu nome e nos livros de instituições de crédito autorizadas a exercer o comércio de câmbios nas províncias ultramarinas, contas de disponibilidades à ordem na moeda da respectiva província.
+Art. 18.º - 1. Os residentes no continente e ilhas adjacentes não autorizados a exercer o comércio de câmbios e não abrangidos pelo anterior artigo 17.º podem, mediante autorização especial e prévia do Banco de Portugal, abrir, em seu nome e nos livros de instituições de crédito autorizadas a exercer o comércio de câmbios nas províncias ultramarinas, contas de disponibilidades à ordem na moeda da respectiva província.
 
 2. A autorização referida no anterior n.º 1 só excepcionalmente será concedida.
 
 3. A movimentação das contas previstas no presente artigo só poderá fazer-se nos termos e condições fixados na autorização para a abertura das mesmas contas.
 
-###### Art. 19.º - 1. No território do continente e ilhas adjacentes é livre a exportação, para as províncias ultramarinas, de notas com curso legal naquele território nacional, de notas e moedas metálicas com curso legal nestas províncias e, ainda, de notas e moedas metálicas estrangeiras, com curso legal nos países de emissão, quando as referidas notas e moedas metálicas forem transportadas por viajantes e se destinarem a despesas de turismo ou de viagem.
+Art. 19.º - 1. No território do continente e ilhas adjacentes é livre a exportação, para as províncias ultramarinas, de notas com curso legal naquele território nacional, de notas e moedas metálicas com curso legal nestas províncias e, ainda, de notas e moedas metálicas estrangeiras, com curso legal nos países de emissão, quando as referidas notas e moedas metálicas forem transportadas por viajantes e se destinarem a despesas de turismo ou de viagem.
 
 2. O Ministro das Finanças, ouvido o Banco de Portugal ou a solicitação deste, poderá estabelecer, em portaria, restrições às exportações mencionadas no número anterior.
 
-###### Art. 20.º - 1. A importação, no território do continente e ilhas adjacentes, das províncias ultramarinas de notas e moedas metálicas com curso legal naquele território ou nestas províncias e de notas e moedas metálicas estrangeiras, com curso legal nos países de emissão, é livre quando as referidas notas e moedas metálicas forem transportadas por viajantes e, na província de exportação, tenham sido observadas as disposições reguladoras da mesma exportação.
+Art. 20.º - 1. A importação, no território do continente e ilhas adjacentes, das províncias ultramarinas de notas e moedas metálicas com curso legal naquele território ou nestas províncias e de notas e moedas metálicas estrangeiras, com curso legal nos países de emissão, é livre quando as referidas notas e moedas metálicas forem transportadas por viajantes e, na província de exportação, tenham sido observadas as disposições reguladoras da mesma exportação.
 
 2. À importação, no território do continente e ilhas adjacentes, do estrangeiro de notas e moedas metálicas com curso legal nas províncias ultramarinas, quando transportadas por viajantes, é aplicável o estabelecido no número anterior.
 
 3. A Inspecção-Geral de Crédito e Seguros, ouvidas as inspecções de crédito e seguros ou do comércio bancário, estabelecerá com as autoridades de emigração as normas de ordem técnica para fiscalização do cumprimento do disposto nos n.os 1 e 2 do presente artigo.
 
-###### Art. 21.º - 1. Fora dos casos abrangidos pelos artigos 19.º e 20.º, ficam sujeitas a autorização especial e prévia do Banco de Portugal as importações e as exportações de notas e moedas metálicas com curso legal nas províncias ultramarinas.
+Art. 21.º - 1. Fora dos casos abrangidos pelos artigos 19.º e 20.º, ficam sujeitas a autorização especial e prévia do Banco de Portugal as importações e as exportações de notas e moedas metálicas com curso legal nas províncias ultramarinas.
 
 2. Nos pedidos de autorização deverão ser indicados o quantitativo e espécie de notas e moedas a importar ou a exportar e os países ou províncias de procedência ou destino.
 
 3. O Banco de Portugal, nas autorizações que conceder, deverá estabelecer os termos e condições a observar quanto às importações ou exportações, designadamente no que se refere às correspondentes liquidações.
 
-###### Art. 22.º - 1. Os serviços alfandegários não efectuarão o despacho de encomendas ou de qualquer espécie de remessas quando haja menção de conterem notas ou moedas metálicas com curso legal nas províncias ultramarinas, sem que lhes seja apresentada a autorização exigida pelo n.º 1 do artigo 21.º
+Art. 22.º - 1. Os serviços alfandegários não efectuarão o despacho de encomendas ou de qualquer espécie de remessas quando haja menção de conterem notas ou moedas metálicas com curso legal nas províncias ultramarinas, sem que lhes seja apresentada a autorização exigida pelo n.º 1 do artigo 21.º
 
 2. Os correios, telégrafos e telefones não farão o registo de expedição de encomendas, caixas ou correspondência contendo, com o valor declarado, notas ou moedas referidas no número anterior, nem entregarão aos destinatários encomendas, caixas ou correspondência com esse conteúdo sem que os remetentes, no primeiro caso, e os destinatários, no segundo, façam prova da autorização concedida pelo Banco de Portugal.
 
 3. A Inspecção de Crédito e Seguros, ouvido o Banco de Portugal, estabelecerá, com os serviços alfandegários e os correios, telégrafos e telefones, as normas técnicas para fiscalização do cumprimento do presente artigo.
 
-###### Art. 23.º O estabelecido nos artigos 21.º e 22.º não é aplicável à importação e à exportação de notas da sua emissão, pelos bancos emissores ultramarinos, efectuadas por esses bancos nos termos dos contratos por eles celebrados com o Estado ou da respectiva lei orgânica.
+Art. 23.º O estabelecido nos artigos 21.º e 22.º não é aplicável à importação e à exportação de notas da sua emissão, pelos bancos emissores ultramarinos, efectuadas por esses bancos nos termos dos contratos por eles celebrados com o Estado ou da respectiva lei orgânica.
 
-###### Art. 24.º À exportação para as províncias ultramarinas de moeda metálica portuguesa emitida na metrópole, em circulação ou fora da circulação, mantém-se aplicável o [Decreto-Lei n.º 48311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48311-1968-234933), de 4 de Abril de 1968.
+Art. 24.º À exportação para as províncias ultramarinas de moeda metálica portuguesa emitida na metrópole, em circulação ou fora da circulação, mantém-se aplicável o [Decreto-Lei n.º 48311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48311-1968-234933), de 4 de Abril de 1968.
 
-###### Art. 25.º - 1. A importação e a exportação ou reexportação de ouro, amoedado ou em barra, de ou para as províncias ultramarinas, estão sujeitas a autorização especial e prévia do Banco de Portugal.
+Art. 25.º - 1. A importação e a exportação ou reexportação de ouro, amoedado ou em barra, de ou para as províncias ultramarinas, estão sujeitas a autorização especial e prévia do Banco de Portugal.
 
 2. Obtida a autorização, observar-se-á o estabelecido no [Decreto-Lei n.º 32078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32078-1942-315957), de 11 de Junho de 1942, intervindo o Banco de Portugal na realização dos despachos alfandegários, mas por conta do importador, exportador ou reexportador.
 
-###### Art. 26.º - 1. A importação e a exportação de ou para as províncias ultramarinas de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por entidades privadas, são livres desde que respeitem a operações de capitais autorizadas nos termos legais.
+Art. 26.º - 1. A importação e a exportação de ou para as províncias ultramarinas de acções de sociedades nacionais ou estrangeiras e de títulos de obrigação nacionais ou estrangeiros, quer de dívida pública, quer emitidos por organizações financeiras internacionais ou por entidades privadas, são livres desde que respeitem a operações de capitais autorizadas nos termos legais.
 
 2. São livres a importação e a exportação de ou para as províncias ultramarinas de cupões de títulos nacionais ou estrangeiros quando efectuadas por instituição de crédito autorizada a exercer o comércio de câmbios e de harmonia com as instruções emanadas do Banco de Portugal.
 
@@ -263,13 +291,13 @@ b) Contas de disponibilidades à ordem, em escudos metropolitanos, nos livros do
 
 #### SECÇÃO II — Os bancos emissores ultramarinos
 
-###### Art. 27.º - 1. A realização, no continente e ilhas adjacentes, de operações de pagamentos interterritoriais pelos bancos ultramarinos, quando actuem como agentes dos fundos cambiais das províncias onde têm o privilégio da emissão ou na estrita qualidade de bancos emissores e, consequentemente, em execução do estipulado nos contratos com o Estado ou na respectiva lei orgânica, regular-se-á pelo estabelecido nos mesmos contratos.
+Art. 27.º - 1. A realização, no continente e ilhas adjacentes, de operações de pagamentos interterritoriais pelos bancos ultramarinos, quando actuem como agentes dos fundos cambiais das províncias onde têm o privilégio da emissão ou na estrita qualidade de bancos emissores e, consequentemente, em execução do estipulado nos contratos com o Estado ou na respectiva lei orgânica, regular-se-á pelo estabelecido nos mesmos contratos.
 
 2. Fora dos casos abrangidos pelo número anterior, à realização de operações de pagamentos interterritoriais pelos bancos emissores ultramarinos é aplicável o estabelecido para os bancos comerciais autorizados a exercer o comércio de câmbios.
 
 #### SECÇÃO III — Dos bancos comerciais autorizados a exercer o comércio de câmbios no continente e ilhas adjacentes
 
-###### Art. 28.º - 1. Os bancos comerciais poderão possuir ou deter nas suas próprias caixas notas ou moedas metálicas com curso legal nas províncias ultramarinas e, bem assim, ter abertas, em seu nome, em instituições de crédito das ditas províncias e ali autorizadas a exercer o comércio de câmbios contas de disponibilidades à ordem na moeda da respectiva província.
+Art. 28.º - 1. Os bancos comerciais poderão possuir ou deter nas suas próprias caixas notas ou moedas metálicas com curso legal nas províncias ultramarinas e, bem assim, ter abertas, em seu nome, em instituições de crédito das ditas províncias e ali autorizadas a exercer o comércio de câmbios contas de disponibilidades à ordem na moeda da respectiva província.
 
 2. As contas previstas no número anterior poderão ser movimentadas a crédito:
 
@@ -283,9 +311,9 @@ a) Para a realização de pagamentos a efectuar por residentes no continente e i
 
 b) Para a realização de transferências para outras contas de disponibilidades à ordem, na mesma moeda, abertas em instituições de crédito da mesma província e igualmente em nome de residentes no continente e ilhas adjacentes.
 
-###### Art. 29.º Os bancos comerciais mediante autorização especial do Banco de Portugal, poderão aplicar parte dos saldos das contas, previstos no artigo 28.º, em depósitos a prazo, na moeda em que as contas forem expressas e a prazo não superior a um ano, ou em outras operações, mas igualmente na dita moeda.
+Art. 29.º Os bancos comerciais mediante autorização especial do Banco de Portugal, poderão aplicar parte dos saldos das contas, previstos no artigo 28.º, em depósitos a prazo, na moeda em que as contas forem expressas e a prazo não superior a um ano, ou em outras operações, mas igualmente na dita moeda.
 
-###### Art. 30.º - 1. Os bancos comerciais poderão ter abertas nos seus livros contas à ordem, em escudos metropolitanos, em nome de instituições de crédito das províncias ultramarinas e ali autorizadas a exercer o comércio de câmbios.
+Art. 30.º - 1. Os bancos comerciais poderão ter abertas nos seus livros contas à ordem, em escudos metropolitanos, em nome de instituições de crédito das províncias ultramarinas e ali autorizadas a exercer o comércio de câmbios.
 
 2. As contas previstas no número anterior poderão ser movimentadas a crédito:
 
@@ -301,15 +329,15 @@ a) Para a realização de pagamentos a efectuar por residentes na província da 
 
 b) Para a realização de transferência para outras contas de disponibilidades à ordem, em escudos da metrópole, abertas em instituições de crédito deste território nacional e em nome de residentes nas províncias ultramarinas.
 
-###### Art. 31.º A movimentação das contas referidas nos artigos 29.º e 30.º fica sujeita às determinações, normas e instruções previstas no artigo 9.º do presente diploma.
+Art. 31.º A movimentação das contas referidas nos artigos 29.º e 30.º fica sujeita às determinações, normas e instruções previstas no artigo 9.º do presente diploma.
 
-###### Art. 32.º - 1. Os bancos comerciais, mediante autorização especial e prévia do Banco de Portugal, poderão abrir nos seus livros contas à ordem, em escudos metropolitanos, em nome de residentes nas províncias ultramarinas não autorizados a exercer o comércio de câmbios nas mesmas províncias.
+Art. 32.º - 1. Os bancos comerciais, mediante autorização especial e prévia do Banco de Portugal, poderão abrir nos seus livros contas à ordem, em escudos metropolitanos, em nome de residentes nas províncias ultramarinas não autorizados a exercer o comércio de câmbios nas mesmas províncias.
 
 2. A movimentação das contas previstas no anterior n.º 1 só poderá fazer-se nos termos e condições fixados na autorização para a abertura das mesmas contas.
 
-###### Art. 33.º Os bancos comerciais poderão efectuar entre si a cedência de notas ou moedas metálicas com curso legal nas províncias ultramarinas.
+Art. 33.º Os bancos comerciais poderão efectuar entre si a cedência de notas ou moedas metálicas com curso legal nas províncias ultramarinas.
 
-###### Art. 34.º É vedado aos bancos comerciais:
+Art. 34.º É vedado aos bancos comerciais:
 
 a) Receber ou entregar notas ou moedas metálicas emitidas nas províncias ultramarinas para liquidação de operações interterritoriais de mercadorias, invisíveis correntes ou capitais;
 
@@ -321,7 +349,7 @@ d) Aceitar ou obter de residentes no território do continente e ilhas adjacente
 
 #### SECÇÃO IV — Dos prémios e comissões de transferência e cobrança e da comissão para os fundos cambiais
 
-###### Art. 35.º - 1. As instituições de crédito autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes poderão cobrar prémios de transferência sobre o valor das operações de pagamentos interterritoriais que efectuarem e ressarcir-se dos encargos em que efectivamente incorrerem com a execução daquelas operações.
+Art. 35.º - 1. As instituições de crédito autorizadas a exercer o comércio de câmbios no continente e ilhas adjacentes poderão cobrar prémios de transferência sobre o valor das operações de pagamentos interterritoriais que efectuarem e ressarcir-se dos encargos em que efectivamente incorrerem com a execução daquelas operações.
 
 2. Os prémios referidos no número anterior não poderão ultrapassar o limite ou limites que forem fixados pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
 
@@ -329,13 +357,13 @@ d) Aceitar ou obter de residentes no território do continente e ilhas adjacente
 
 4. A simples abertura de contas em nome de residentes nas províncias ultramarinas não dará lugar à cobrança de qualquer prémio ou comissão.
 
-###### Art. 36.º - 1. Nas cobranças, por conta de outrem, de letras e outros títulos entre o território do continente e ilhas adjacentes e as províncias ultramarinas as instituições de crédito poderão cobrar comissões de cobrança sobre as respectivas importâncias e ressarcir-se dos encargos em que efectivamente incorrerem com a execução dessas operações.
+Art. 36.º - 1. Nas cobranças, por conta de outrem, de letras e outros títulos entre o território do continente e ilhas adjacentes e as províncias ultramarinas as instituições de crédito poderão cobrar comissões de cobrança sobre as respectivas importâncias e ressarcir-se dos encargos em que efectivamente incorrerem com a execução dessas operações.
 
 2. As comissões de cobrança, que serão cobradas daquele que solicitar a realização desta, não poderão exceder o limite ou limites que forem fixados pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos.
 
 3. As aludidas comissões de cobrança não serão acumuláveis com os prémios de transferência.
 
-###### Art. 37.º - 1. Independentemente dos prémios de transferências, das comissões de cobrança, as instituições de crédito cobrarão sempre dos ordenadores uma comissão a favor do fundo cambial da província ultramarina a que a operação respeitar.
+Art. 37.º - 1. Independentemente dos prémios de transferências, das comissões de cobrança, as instituições de crédito cobrarão sempre dos ordenadores uma comissão a favor do fundo cambial da província ultramarina a que a operação respeitar.
 
 2. A comissão prevista no número anterior será fixada pela secção de Política monetária do Conselho de Ministros para os Assuntos Económicos e será entregue ao Banco de Portugal para crédito da conta de reserva da respectiva província no próprio dia da sua cobrança ou no dia útil imediato.
 
@@ -343,11 +371,11 @@ d) Aceitar ou obter de residentes no território do continente e ilhas adjacente
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
-###### Art. 38.º As transgressões ao disposto no presente diploma e aos que o completarem, bem como aos regulamentos, portarias, determinações e normas e ainda às instruções, para a sua execução, publicadas ou transmitidas às instituições de crédito autorizadas a exercer o comércio de câmbios, são puníveis nos termos e de acordo com o estabelecido no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1965.
+Art. 38.º As transgressões ao disposto no presente diploma e aos que o completarem, bem como aos regulamentos, portarias, determinações e normas e ainda às instruções, para a sua execução, publicadas ou transmitidas às instituições de crédito autorizadas a exercer o comércio de câmbios, são puníveis nos termos e de acordo com o estabelecido no [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1965.
 
-###### Art. 39.º As instituições de crédito que no exercício da sua actividade tiverem conhecimento de transgressões abrangidas pelo artigo 38.º deverão fazer imediatamente a respectiva participação à Inspecção-Geral de Crédito e Seguros.
+Art. 39.º As instituições de crédito que no exercício da sua actividade tiverem conhecimento de transgressões abrangidas pelo artigo 38.º deverão fazer imediatamente a respectiva participação à Inspecção-Geral de Crédito e Seguros.
 
-###### Art. 40.º A movimentação das contas a seguir referidas existentes na data da entrada em vigor do presente diploma far-se-á, com observação das instruções transmitidas pelo Banco de Portugal, nos termos do artigo 9.º:
+Art. 40.º A movimentação das contas a seguir referidas existentes na data da entrada em vigor do presente diploma far-se-á, com observação das instruções transmitidas pelo Banco de Portugal, nos termos do artigo 9.º:
 
 a) Contas abertas, em nome de residentes nas províncias ultramarinas, nos livros de instituições de crédito do continente e ilhas adjacentes não autorizadas a exercer o comércio de câmbios;
 
@@ -355,16 +383,16 @@ b) Contas abertas nos livros de instituições de crédito autorizadas a exercer
 
 c) Contas abertas por residentes no continente e ilhas adjacentes, não autorizados a exercer o comércio de câmbios, nos livros de instituições de crédito das províncias ultramarinas.
 
-###### Art. 41.º Até que a secção de Política monetária do Conselho de Ministros para os Assuntos Económicos fixe os limites para os prémios de transferência e para as comissões de cobrança, previstos nos artigos 35.º e 36.º, e a comissão para os fundos cambiais mencionada no artigo 37.º, manter-se-ão em vigor os limites e comissões estabelecidos, respectivamente, nos §§ 2.º do artigo 31.º-A e 1.º do artigo 31.º-B e no § único do artigo 31.º-C, aditados ao [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, pelo artigo 10.º de [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 16 de Outubro de 1969.
+Art. 41.º Até que a secção de Política monetária do Conselho de Ministros para os Assuntos Económicos fixe os limites para os prémios de transferência e para as comissões de cobrança, previstos nos artigos 35.º e 36.º, e a comissão para os fundos cambiais mencionada no artigo 37.º, manter-se-ão em vigor os limites e comissões estabelecidos, respectivamente, nos §§ 2.º do artigo 31.º-A e 1.º do artigo 31.º-B e no § único do artigo 31.º-C, aditados ao [Decreto-Lei n.º 44701](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44701-1962-237463), de 17 de Novembro de 1962, pelo artigo 10.º de [Decreto-Lei n.º 49306](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49306-1969-216291), de 16 de Outubro de 1969.
 
-###### Art. 42.º O presente decreto entra imediatamente em vigor.
+Art. 42.º O presente decreto entra imediatamente em vigor.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Dezembro de 1971.**
+Promulgado em 13 de Dezembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

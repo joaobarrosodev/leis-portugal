@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/22400/22092210.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/696-1976-409145
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4245762ad02c6d7625f284075281baac596dccb2f29c23acb43a97a14efcd0c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7390fb5030fa4fd6716fb053a75354e35483af28d752a1ceba46daac4075755
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Bacharelato
+- Ensino Superior
+- Escola Superior de Estudos Sociais e Económicos Bento de Jesus Caraça
+- Estabelecimento de Ensino
+- Estudante
+- Évora
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Docente
+- Pessoal Técnico
+- Prorrogação de Prazo
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:307258:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:37Z'
   warnings: []
   errors: []
 ---
@@ -103,32 +124,32 @@ Nestes termos:
 
 Usando da faculdade conferida pela alínea a) do artigo 201.º, n.º 1, da Constituição da República, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintos os bacharelatos em Economia e Gestão de Empresas e em Sociologia na Escola Superior de Estudos Sociais e Económicos Bento de Jesus Caraça, dentro do espírito do [Decreto-Lei n.º 513/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1975-307258), de 20 de Setembro.
+Artigo 1.º São extintos os bacharelatos em Economia e Gestão de Empresas e em Sociologia na Escola Superior de Estudos Sociais e Económicos Bento de Jesus Caraça, dentro do espírito do [Decreto-Lei n.º 513/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1975-307258), de 20 de Setembro.
 
-###### Art. 2.º - 1. Os alunos que vinham frequentando o bacharelato ministrado naquela Escola, desde que preencham os requisitos de acesso às Universidades, serão inscritos no Instituto Universitário de Évora, integrando-se nos correspondentes departamentos e nos planos de estudo e regimes ali praticados.
+Art. 2.º - 1. Os alunos que vinham frequentando o bacharelato ministrado naquela Escola, desde que preencham os requisitos de acesso às Universidades, serão inscritos no Instituto Universitário de Évora, integrando-se nos correspondentes departamentos e nos planos de estudo e regimes ali praticados.
 
 2. A ESESE Bento de Jesus Caraça assegurará a conclusão das licenciaturas dos alunos que, tendo nela completado o plano de estudos dos bacharelatos, se matriculem, no ano lectivo de 1976-1977, para a frequência das disciplinas, monografias e estágios do plano de estudos do 4.º e 5.º anos.
 
-###### Art. 3.º - 1. Poderá ser contratado, nos termos da legislação aplicável, o pessoal docente, administrativo, auxiliar e técnico necessário ao funcionamento da ESESE Bento de Jesus Caraça.
+Art. 3.º - 1. Poderá ser contratado, nos termos da legislação aplicável, o pessoal docente, administrativo, auxiliar e técnico necessário ao funcionamento da ESESE Bento de Jesus Caraça.
 
 2. Logo que cessem, nos termos do artigo 5.º, as actividades da Escola, os docentes em efectividade de serviço poderão ser contratados, nos termos da legislação então em vigor, para o exercício de funções em estabelecimentos de ensino superior, desde que satisfaçam as condições de ingresso para as respectivas categorias.
 
 3. Ao pessoal administrativo, auxiliar e técnico que preste serviço no momento da extinção da Escola é aplicável o artigo 8.º do [Decreto-Lei n.º 513/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1975-307258), de 20 de Setembro.
 
-###### Art. 4.º - 1. As despesas com o funcionamento da Escola serão suportadas pelas verbas inscritas na rubrica «Dotações comuns aos novos estabelecimentos de ensino superior», do orçamento da Direcção-Geral do Ensino Superior.
+Art. 4.º - 1. As despesas com o funcionamento da Escola serão suportadas pelas verbas inscritas na rubrica «Dotações comuns aos novos estabelecimentos de ensino superior», do orçamento da Direcção-Geral do Ensino Superior.
 
 2. A concessão de créditos orçamentais à ESESE Bento de Jesus Caraça continua a ser feito nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 513/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1975-307258).
 
-###### Art. 5.º - A finalização dos cursos aos alunos que frequentem as licenciaturas de Economia e Gestão de Empresas e de Sociologia será assegurada até 31 de Outubro de 1978, data a partir da qual será extinta a ESESE Bento de Jesus Caraça, cujo património reverterá para o Instituto Universitário de Évora.
+Art. 5.º - A finalização dos cursos aos alunos que frequentem as licenciaturas de Economia e Gestão de Empresas e de Sociologia será assegurada até 31 de Outubro de 1978, data a partir da qual será extinta a ESESE Bento de Jesus Caraça, cujo património reverterá para o Instituto Universitário de Évora.
 
-###### Art. 6.º Durante o período da sua actividade a ESESE Bento de Jesus Caraça funcionará em instalações que para tal sejam atribuídas pela Secretaria de Estado da Administração e do Equipamento Escolar.
+Art. 6.º Durante o período da sua actividade a ESESE Bento de Jesus Caraça funcionará em instalações que para tal sejam atribuídas pela Secretaria de Estado da Administração e do Equipamento Escolar.
 
-###### Art. 7.º Este diploma entra imediatamente em vigor na data da sua publicação.
+Art. 7.º Este diploma entra imediatamente em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 
-**Promulgado em 15 de Setembro de 1976.**
+Promulgado em 15 de Setembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

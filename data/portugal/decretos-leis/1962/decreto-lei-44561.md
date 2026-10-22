@@ -46,40 +46,243 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44561-1962-159541
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-03-09T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1d04e8638683cfa4a14101c78e74271815af8cc88af99cd90ca98834e035c2a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 992d1ef325134d4d6007a6fae278f8a9eb6f0347d0c1bd0275f95ef610bc130b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código do Imposto de Capitais
+- Imposto de Capitais
 relationships:
 - type: amended_by
   target: pt:dre:287390:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:432797:por
+  label: "Alterados os arts. 6º e 9º, § 1.º do art. 61º, art. 62.º, § único do art. 63º, § 1.º do art. 65º, §§ 2.º e 3.º do\
+    \ art. 88º, § 1.º do art. 89º e § único do art. 94º, aditado um § 3.º ao art. 21º e suprimido o nº 6º do art. 11º e o\
+    \ § único do art. 44º do Código do Imposto de Capitais, aprovado pelo presente diploma, pelo DEC LEI.45400.30.11.1963.MF,\
+    \ DG.IS [281-Supl] de 30.11.1963\063\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45400-1963-432797
+  date: '1963-11-30'
+- type: amended_by
+  target: pt:dre:213067:por
+  label: "Dada nova redacção aos arts. 6º, 21º e 22º do Código do Imposto de Capitais pelo DEC LEI.49483.30.12.1969.MF, DG.IS\
+    \ [303] de 30.12.1969 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49483-1969-213067
+  date: '1969-12-30'
+- type: amended_by
+  target: pt:dre:689182:por
+  label: "Alterado o artigo 21.º do Código do Imposto de Capitais, pelo DEC LEI.653/70.28.12.1970.MF, DG.IS [298]Supl de 28.12.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/653-1970-689182
+  date: '1970-12-28'
+- type: amended_by
+  target: pt:dre:632018:por
+  label: "Dada nova redacção ao nº 1º do art. 10º do Código do Imposto de Capitais pelo DEC LEI.542/71.06.12.1971.MF, DG.IS\
+    \ [285] de 06.12.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/542-1971-632018
+  date: '1971-12-06'
+- type: amended_by
+  target: pt:dre:355334:por
+  label: "Alterado o art. 21º do Código do Imposto de Capitais, com a redacção constante do Dec Lei 653/70 de 28-Dez, pelo\
+    \ DEC LEI.771/75.31.12.1975.MF, DG.IS [300-6ºSupl] de 31.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/771-1975-355334
+  date: '1975-12-31'
+- type: amended_by
+  target: pt:dre:430006:por
+  label: "Alterado o art. 21º do Código, pelo DEC LEI.667/76.1976.08.05.MF, DR.IS [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/667-1976-430006
+  date: '1976-08-05'
+- type: amended_by
+  target: pt:dre:253192:por
+  label: "Alterado o art. 6º do Código, pela LEI.40/77.1977.06.17.AR, DR.IS [138]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/40-1977-253192
+  date: '1977-06-17'
+- type: amended_by
+  target: pt:dre:286091:por
+  label: "Alterado o art. 40º e aditados os arts. 40º-A e 76º-A ao Código do Imposto de Capitais, pelo DEC LEI.390/77.15.09.1977.MF,\
+    \ DR.IS [214] de 15.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/390-1977-286091
+  date: '1977-09-15'
+- type: amended_by
+  target: pt:dre:426140:por
+  label: Alterados os artigos 38.º, 39.º e 64.º do Código, pelo DEC LEI.139/78.12.06.1978.MFP, DR.IS [133]2ºSupl de 12.06.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1978-426140
+  date: '1978-06-12'
+- type: amended_by
+  target: pt:dre:381291:por
+  label: "Alterados os artigos 19.º, 26.º, 30.º, 36.º, 37.º, 65.º e aditado o artigo 9.º-A ao Código, pelo DEC LEI.239/79.25.07.1979.MFP,\
+    \ DR.IS [170] de 25.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/239-1979-381291
+  date: '1979-07-25'
+- type: amended_by
+  target: pt:dre:324950:por
+  label: "Alterados os artigos 14.º, 21.º e 42.º do Código, pelo DEC LEI.183-E/80.09.06.1980.MFP, DR.IS [132]2ºSupl de 09.06.1980\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/183-e-1980-324950
+  date: '1980-06-09'
+- type: amended_by
+  target: pt:dre:574572:por
+  label: "Alterados os artigos 6.º, 14.º, 21.º e 22.º do Código, pelo DEC LEI.139/81.30.05.1981.MFP, DR.IS [124] de 30.05.1981\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-1981-574572
+  date: '1981-05-30'
+- type: amended_by
+  target: pt:dre:392835:por
+  label: "Alterada a al. d) do art. 20º do Código, pelo DEC LEI.155/82.1982.05.06.MFP, DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1982-392835
+  date: '1982-05-06'
+- type: amended_by
+  target: pt:dre:392407:por
+  label: "Alterados os arts. 6.º, 9.º, 10.º, 14.º, 21.º, 38.º, 40.º e 65.º do Código pelo DEC LEI.197/82.21.05.1982.MFP, DR.IS\
+    \ [115] de 21.05.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/197-1982-392407
+  date: '1982-05-21'
+- type: amended_by
+  target: pt:dre:401319:por
+  label: "Alterados os §§ 1.º e 4.º do artigo 21.º, aditado um § único ao artigo 9.º-A , e o n.º 7.º-A ao artigo 10.º do Código,\
+    \ pelo DEC LEI.119-E/83.28.02.1983.MFP, DR.IS [48]2ºSupl de 28.02.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/119-e-1983-401319
+  date: '1983-02-28'
+- type: amended_by
+  target: pt:dre:669083:por
+  label: "Reposto em vigor, com nova redacção, o n.º 10.º do artigo 10.º, adita a este artigo o n.º 12.º, e altera a redacção\
+    \ do n.º 1.º do artigo 19.º do Código, pelo DEC LEI.178/84.25.05.1984.MFP, DR.IS [121]Supl de 25.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1984-669083
+  date: '1984-05-25'
+- type: amended_by
+  target: pt:dre:140096:por
+  label: "Alterada a redacção do nº 5 do art. 9º, do § 1º do art. 21º e a al. e) do art. 22º do Código, pelo DEC LEI.92-B/85.1985.04.01.MFP,\
+    \ DR.IS [76]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/92-b-1985-140096
+  date: '1985-04-01'
+- type: amended_by
+  target: pt:dre:173752:por
+  label: "Alterados os artigos 9.º e 21.º e aditado o artigo 19.º-A ao Código, pelo DEC LEI.110/86.21.05.1986.MF, DR.IS [116]Supl\
+    \ de 21.05.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/110-1986-173752
+  date: '1986-05-21'
+- type: amended_by
+  target: pt:dre:662294:por
+  label: "Alterados os arts. 6º, 9º, 10º, 39º, 41º, 64º, e revogado o nº 8 do art. 10º do Código, pelo DEC LEI.121/87.1987.03.16.MF,\
+    \ DR.IS [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-1987-662294
+  date: '1987-03-16'
+- type: amended_by
+  target: pt:dre:418035:por
+  label: "Alterado o n.º 7.º do artigo 6.º do Código, pelo DEC LEI.325/87.31.08.1987.MF, DR.IS [199] de 31.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/325-1987-418035
+  date: '1987-08-31'
+- type: amended_by
+  target: pt:dre:287390:por
+  label: "Alterada a redacção dos arts. 10º e 11º do Código, pelo DEC LEI.73/88.1988.03.09.MF, DR.IS [57]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/73-1988-287390
+  date: '1988-03-09'
+- type: cites
+  target: pt:dre:150556:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160170:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:162831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:167201:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:245369:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:331616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:359311:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518252:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642230:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:238246:por
+  label: "Revogados os nºs. 9 e 10º do art. 10º do Código do Imposto de Capitais, pelo DEC LEI.821/74.31.12.1974.MF, DG.IS\
+    \ [303-10ºSupl] de 31.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/821-1974-238246
+  date: '1974-12-31'
+- type: repealed_by
+  target: pt:dre:451218:por
+  label: "Revogado o § único do artigo 52.º do Código, pelo DEC LEI.194/83.17.05.1983.MJ, DR.IS [113] de 17.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1983-451218
+  date: '1983-05-17'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:03Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +291,9 @@ validation:
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Código do Imposto de Capitais, que faz parte do presente decreto-lei.
+Artigo 1.º É aprovado o Código do Imposto de Capitais, que faz parte do presente decreto-lei.
 
-###### Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1963.
+Art. 2.º O código começará a vigorar em todo o continente e ilhas adjacentes no dia 1 de Janeiro de 1963.
 
 § 1.º Serão já tributados de harmonia com as disposições do código os lucros de quaisquer sócios, relativos ao exercício de 1962, que lhes sejam atribuídos antes de 1 de Janeiro de 1963, bem como todos os lucros relativos a exercícios anteriores que só lhes sejam atribuídos a partir daquela data.
 
@@ -100,31 +303,31 @@ Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Con
 
 § 4.º A taxa mínima estabelecida no n.º 2.º do artigo 19.º do código só será de aplicar na determinação de rendimentos posteriores a 31 de Dezembro de 1962.
 
-###### Art. 3.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
+Art. 3.º As modificações que de futuro se fizerem sobre matéria contida no código serão consideradas como fazendo parte dele e inseridas no lugar próprio, devendo essas modificações ser sempre efectuadas por meio de substituição dos artigos alterados, supressão dos artigos inúteis ou pelo adicionamento dos que forem necessários.
 
-###### Art. 4.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo código.
+Art. 4.º Fica autorizado o Ministro das Finanças a alterar, por despacho, os modelos dos impressos que fazem parte do código aprovado por este decreto-lei, bem como a mandar adoptar os mais que se tornarem necessários à execução dos serviços de que trata o mesmo código.
 
-###### Art. 5.º O manifesto das situações criadas ou dos actos praticados em data anterior à entrada em vigor do código, e de que resultem rendimentos que, em virtude da sua publicação, passem a ficar sujeitos ao imposto, deverá ser solicitado durante o 1.º trimestre de 1963.
+Art. 5.º O manifesto das situações criadas ou dos actos praticados em data anterior à entrada em vigor do código, e de que resultem rendimentos que, em virtude da sua publicação, passem a ficar sujeitos ao imposto, deverá ser solicitado durante o 1.º trimestre de 1963.
 
-###### Art. 6.º Se a instância relativa a dívidas litigiosas cujos manifestos sejam provisórios terminar por julgamento em data anterior à da entrada em vigor do código, os credores ficam obrigados a declarar esse facto até 31 de Março de 1963.
+Art. 6.º Se a instância relativa a dívidas litigiosas cujos manifestos sejam provisórios terminar por julgamento em data anterior à da entrada em vigor do código, os credores ficam obrigados a declarar esse facto até 31 de Março de 1963.
 
-###### Art. 7.º Os credores de dívidas cujos manifestos se encontrem em vigor em 31 de Dezembro de 1962, e que não estejam sujeitas a imposto nos termos do código ou às quais aproveite qualquer das isenções no mesmo estabelecidas, deverão solicitar o cancelamento dos manifestos durante o ano de 1963, fornecendo os elementos necessários à apreciação do pedido, sob pena de não poder ser anulado o imposto que porventura venha a ser liquidado por esses manifestos.
+Art. 7.º Os credores de dívidas cujos manifestos se encontrem em vigor em 31 de Dezembro de 1962, e que não estejam sujeitas a imposto nos termos do código ou às quais aproveite qualquer das isenções no mesmo estabelecidas, deverão solicitar o cancelamento dos manifestos durante o ano de 1963, fornecendo os elementos necessários à apreciação do pedido, sob pena de não poder ser anulado o imposto que porventura venha a ser liquidado por esses manifestos.
 
 § único. Tratando-se de manifestos de tornas, a que aproveite a isenção estabelecida no n.º 5.º do artigo 9.º, proceder-se-á oficiosamente ao cancelamento.
 
-###### Art. 8.º Os rendimentos relativos a períodos anteriores a 1 de Janeiro de 1963 e que a esse tempo ainda não tenham sido tributados em imposto sobre a aplicação de capitais, secção A, sê-lo-ão nos termos da legislação em vigor, devendo, porém, a liquidação e cobrança do imposto ser efectuadas nos prazos estabelecidos no código.
+Art. 8.º Os rendimentos relativos a períodos anteriores a 1 de Janeiro de 1963 e que a esse tempo ainda não tenham sido tributados em imposto sobre a aplicação de capitais, secção A, sê-lo-ão nos termos da legislação em vigor, devendo, porém, a liquidação e cobrança do imposto ser efectuadas nos prazos estabelecidos no código.
 
-###### Art. 9.º O imposto sobre a aplicação de capitais, secção B, relativo a rendimentos atribuídos ou liquidados, ou cujo pagamento tenha sido ordenado, anteriormente a 1 de Janeiro de 1963, e que não estejam compreendidos na parte inicial do § 1.º ou no § 3.º do artigo 2.º, deverá ser liquidado e entregue nos termos estabelecidos na legislação em vigor.
+Art. 9.º O imposto sobre a aplicação de capitais, secção B, relativo a rendimentos atribuídos ou liquidados, ou cujo pagamento tenha sido ordenado, anteriormente a 1 de Janeiro de 1963, e que não estejam compreendidos na parte inicial do § 1.º ou no § 3.º do artigo 2.º, deverá ser liquidado e entregue nos termos estabelecidos na legislação em vigor.
 
-###### Art. 10.º Quanto aos manifestos provisórios existentes em 31 de Dezembro de 1962, não terão os credores de apresentar qualquer requerimento para a suspensão da liquidação do imposto nos termos do artigo 29.º do código, ficando no entanto obrigados a apresentar certidão do estado da causa nos termos do § 2.º do mesmo artigo.
+Art. 10.º Quanto aos manifestos provisórios existentes em 31 de Dezembro de 1962, não terão os credores de apresentar qualquer requerimento para a suspensão da liquidação do imposto nos termos do artigo 29.º do código, ficando no entanto obrigados a apresentar certidão do estado da causa nos termos do § 2.º do mesmo artigo.
 
-###### Art. 11.º As infracções ao disposto no § 3.º do artigo 2.º e nos artigos 5.º e 6.º do presente diploma são punidas com as multas estabelecidas, respectivamente, nos artigos 75.º ou 76.º, 67.º e 71.º do código.
+Art. 11.º As infracções ao disposto no § 3.º do artigo 2.º e nos artigos 5.º e 6.º do presente diploma são punidas com as multas estabelecidas, respectivamente, nos artigos 75.º ou 76.º, 67.º e 71.º do código.
 
-###### Art. 12.º Os livros de registo de que trata o artigo 3.º do [Decreto-Lei n.º 26799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26799-1936-359311), de 15 de Julho de 1936, em uso à data da entrada em vigor do código, poderão continuar a ser utilizados até final.
+Art. 12.º Os livros de registo de que trata o artigo 3.º do [Decreto-Lei n.º 26799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26799-1936-359311), de 15 de Julho de 1936, em uso à data da entrada em vigor do código, poderão continuar a ser utilizados até final.
 
-###### Art. 13.º Por infracções ao disposto no código cometidas durante o ano de 1963 só poderão ser levantados autos de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
+Art. 13.º Por infracções ao disposto no código cometidas durante o ano de 1963 só poderão ser levantados autos de transgressão com prévia autorização do director-geral das Contribuições e Impostos, que apenas a concederá quando julgue ter havido culpa grave.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -188,13 +391,13 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 ### CAPÍTULO I — Incidência
 
-###### Artigo 1.º O imposto de capitais incide sobre os rendimentos da aplicação de capitais e divide-se em duas secções: A e B.
+Artigo 1.º O imposto de capitais incide sobre os rendimentos da aplicação de capitais e divide-se em duas secções: A e B.
 
-###### Art. 2.º O imposto respeita aos titulares dos respectivos rendimentos, sem prejuízo da sua exigência a outras entidades nos casos previstos neste diploma.
+Art. 2.º O imposto respeita aos titulares dos respectivos rendimentos, sem prejuízo da sua exigência a outras entidades nos casos previstos neste diploma.
 
 #### SECÇÃO A
 
-###### Art. 3.º São compreendidos na secção A:
+Art. 3.º São compreendidos na secção A:
 
 1.º Os juros dos capitais mutuados, em dinheiro ou géneros, qualquer que seja a forma por que o mútuo se apresente;
 
@@ -210,11 +413,11 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 § 4.º As letras e livranças havidas como meros títulos de pagamento, se não forem pagas no prazo em que o devam ser, ficam sujeitas a imposto desde a data do vencimento, salvo se lhes aproveitar a isenção estabelecida no n.º 3.º do artigo 9.º
 
-###### Art. 4.º A obrigação do imposto tanto pode resultar da atribuição efectiva dos rendimentos como da presunção da sua existência nos termos do presente diploma, ou ainda da simples possibilidade legal de os exigir.
+Art. 4.º A obrigação do imposto tanto pode resultar da atribuição efectiva dos rendimentos como da presunção da sua existência nos termos do presente diploma, ou ainda da simples possibilidade legal de os exigir.
 
 § único. Na hipótese, porém, de exigibilidade dos rendimentos com base em situações legalmente constituídas, não haverá lugar a tributação se o credor provar que, tendo usado de todos os meios facultados pela lei para os receber, não lhe foi possível cobrá-los.
 
-###### Art. 5.º Para que os rendimentos referidos nos artigos anteriores fiquem sujeitos a imposto é necessário que sejam produzidos no continente ou ilhas adjacentes, ou atribuídos a pessoas singulares ou colectivas, nacionais ou estrangeiras, que aí tenham residência, sede efectiva ou estabelecimento estável ao qual sejam imputáveis.
+Art. 5.º Para que os rendimentos referidos nos artigos anteriores fiquem sujeitos a imposto é necessário que sejam produzidos no continente ou ilhas adjacentes, ou atribuídos a pessoas singulares ou colectivas, nacionais ou estrangeiras, que aí tenham residência, sede efectiva ou estabelecimento estável ao qual sejam imputáveis.
 
 § 1.º Consideram-se produzidos no território do continente e ilhas os rendimentos que derivam de capitais aí aplicados, entendendo-se sempre como tais os rendimentos pagos por entidades que nele possuam residência, sede efectiva ou estabelecimento estável ao qual o pagamento deva imputar-se.
 
@@ -222,7 +425,7 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 #### SECÇÃO B
 
-###### Art. 6.º São compreendidos na secção B:
+Art. 6.º São compreendidos na secção B:
 
 1.º Os lucros, seja qual for a sua natureza, espécie ou designação, atribuídos aos sócios das sociedades comerciais ou civis sob a forma comercial, bem como os juros concedidos nos termos do § 2.º do artigo 192.º do Código Comercial.
 
@@ -244,17 +447,17 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 10.º Quaisquer outros rendimentos derivados da simples aplicação de capitais, não compreendidos na secção A.
 
-###### Art. 7.º A obrigação do imposto tanto pode resultar da atribuição efectiva dos rendimentos como da presunção da sua existência nos termos deste diploma.
+Art. 7.º A obrigação do imposto tanto pode resultar da atribuição efectiva dos rendimentos como da presunção da sua existência nos termos deste diploma.
 
 § único. Entende-se que os suprimentos, abonos e lucros referidos no n.º 5.º do artigo anterior produzem sempre rendimento.
 
-###### Art. 8.º Para que os rendimentos referidos no artigo 6.º fiquem sujeitos a imposto é necessário que o devedor deles tenha residência ou sede efectiva no continente ou ilhas adjacentes, ou aí fique situado estabelecimento estável ao qual o pagamento deva imputar-se.
+Art. 8.º Para que os rendimentos referidos no artigo 6.º fiquem sujeitos a imposto é necessário que o devedor deles tenha residência ou sede efectiva no continente ou ilhas adjacentes, ou aí fique situado estabelecimento estável ao qual o pagamento deva imputar-se.
 
 ### CAPÍTULO II — Isenções
 
 #### SECÇÃO A
 
-###### Art. 9.º Estão isentos de imposto:
+Art. 9.º Estão isentos de imposto:
 
 1.º Os rendimentos das instituições de crédito e das cooperativas sujeitos a contribuição industrial, embora dela isentos;
 
@@ -268,7 +471,7 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 #### SECÇÃO B
 
-###### Art. 10.º Estão isentos de imposto:
+Art. 10.º Estão isentos de imposto:
 
 1.º Os lucros atribuídos aos sócios de sociedades cuja actividade consista na mera gestão de uma carteira de títulos, até ao montante dos juros e dividendos de títulos nacionais recebidos por essas sociedades ou creditados a seu favor durante o ano da gerência a que respeite a atribuição;
 
@@ -294,7 +497,7 @@ Espera-se que a experiência a acumular ulteriormente, através da interpretaç�
 
 Disposições comuns
 
-###### Art. 11.º Estão isentos do imposto de capitais, secções A e B:
+Art. 11.º Estão isentos do imposto de capitais, secções A e B:
 
 1.º O Estado e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendida a Santa Casa da Misericórdia de Lisboa e os órgãos de coordenação da assistência;
 
@@ -310,9 +513,9 @@ Disposições comuns
 
 § único. As isenções resultantes de acordo entre o Estado e quaisquer pessoas, de direito público ou privado, são mantidas na forma da respectiva lei.
 
-###### Art. 12.º Na hipótese prevista no n.º 3.º do artigo anterior, a mera aprovação dos estatutos não confere, só por si, isenção do imposto, devendo cada caso ser submetido à apreciação do Ministro das Finanças, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá, em despacho publicado no Diário do Governo, a amplitude da respectiva isenção.
+Art. 12.º Na hipótese prevista no n.º 3.º do artigo anterior, a mera aprovação dos estatutos não confere, só por si, isenção do imposto, devendo cada caso ser submetido à apreciação do Ministro das Finanças, que, ouvida a Direcção-Geral das Contribuições e Impostos e conforme as circunstâncias, definirá, em despacho publicado no Diário do Governo, a amplitude da respectiva isenção.
 
-###### Art. 13.º A verificação das isenções consignadas no artigo 11.º, relativamente a rendimentos de acções ou obrigações, terá lugar:
+Art. 13.º A verificação das isenções consignadas no artigo 11.º, relativamente a rendimentos de acções ou obrigações, terá lugar:
 
 a) Quanto ao n.º 1.º e tratando-se de títulos ao portador, com base em comunicação das entidades nele referidas àquelas que tenham emitido os títulos;
 
@@ -322,7 +525,7 @@ b) Quanto aos outros casos, em face do respectivo assento, averbamento, pertence
 
 #### SECÇÃO A
 
-###### Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 6 por cento, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
+Art. 14.º Presume-se que os mútuos e as aberturas de crédito vencem juro e à taxa anual de 6 por cento, se outra mais elevada não constar do título constitutivo ou não houver sido declarada, entendendo-se que o juro começa a vencer-se, nos mútuos, desde a data do contrato, e, nas aberturas de crédito, desde a data da sua utilização.
 
 § 1.º A taxa será revista trienalmente por decreto, sob parecer fundamentado de uma comissão nomeada para o efeito pelo Ministro das Finanças e constituída por três membros, um dos quais designado pelo Ministro da Economia.
 
@@ -330,11 +533,11 @@ b) Quanto aos outros casos, em face do respectivo assento, averbamento, pertence
 
 § 3.º No caso do parágrafo anterior, o Ministério Público deverá sempre requisitar à secção de finanças competente os elementos que possua, ou possa obter, para esclarecimento da verdade dos factos e eventual condenação em multa dos litigantes de má fé.
 
-###### Art. 15.º Aos empréstimos efectuados pelos organismos corporativos não se aplicarão as presunções estabelecidas no artigo anterior, devendo o imposto recair sobre os rendimentos efectivamente recebidos.
+Art. 15.º Aos empréstimos efectuados pelos organismos corporativos não se aplicarão as presunções estabelecidas no artigo anterior, devendo o imposto recair sobre os rendimentos efectivamente recebidos.
 
 § único. O mesmo se observará quanto às dívidas litigiosas, em que tenha havido julgamento final da causa, determinando-se a matéria colectável de harmonia com a decisão proferida.
 
-###### Art. 16.º Os rendimentos ficam sujeitos a imposto desde o momento em que começam a vencer-se ou se presume o seu vencimento.
+Art. 16.º Os rendimentos ficam sujeitos a imposto desde o momento em que começam a vencer-se ou se presume o seu vencimento.
 
 § 1.º As aberturas de crédito consideram-se utilizadas na totalidade sempre que, segundo as cláusulas do contrato, os levantamentos possam fazer-se independentemente de escritura ou instrumento notarial.
 
@@ -342,19 +545,19 @@ b) Quanto aos outros casos, em face do respectivo assento, averbamento, pertence
 
 § 3.º Para efeito de determinação da matéria colectável, os rendimentos serão contados dia a dia.
 
-###### Art. 17.º Quando os rendimentos sejam estipulados em moeda ultramarina ou estrangeira, a sua equivalência em escudos será estabelecida pela cotação média do trimestre anterior ao da liquidação.
+Art. 17.º Quando os rendimentos sejam estipulados em moeda ultramarina ou estrangeira, a sua equivalência em escudos será estabelecida pela cotação média do trimestre anterior ao da liquidação.
 
-###### Art. 18.º Quando os rendimentos forem em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da secção de finanças ou, na sua falta, da estiva camarária.
+Art. 18.º Quando os rendimentos forem em géneros, a redução a dinheiro far-se-á pelo preço médio do ano anterior ao da liquidação, segundo o que constar do registo da secção de finanças ou, na sua falta, da estiva camarária.
 
 #### SECÇÃO B
 
-###### Art. 19.º A matéria colectável do imposto é constituída:
+Art. 19.º A matéria colectável do imposto é constituída:
 
 1.º Pelos rendimentos efectivos de que tratam os n.os 1.º a 4.º e 6.º a 10.º do artigo 6.º;
 
 2.º Pelos juros e rendimentos de que trata o n.º 5.º do artigo 6.º, cuja contagem será feita dia a dia e, na hipótese da parte final da mesma disposição, terá início em 1 de Janeiro seguinte, não podendo, em qualquer caso, considerar-se importância inferior à resultante da aplicação da taxa anual de 5 por cento.
 
-###### Art. 20.º Os rendimentos não representados por numerário serão reduzidos a dinheiro, relativamente à data da sua atribuição, nos termos seguintes:
+Art. 20.º Os rendimentos não representados por numerário serão reduzidos a dinheiro, relativamente à data da sua atribuição, nos termos seguintes:
 
 a) Tratando-se de moedas nacionais ou estrangeiras com cotação nas praças de Lisboa ou Porto, será o seu valor determinado, a requerimento das entidades que têm de proceder à entrega do imposto, pela Inspecção-Geral de Crédito e Seguros, com base nos cursos dos mercados nacionais ou internacionais, oficiais e livres;
 
@@ -368,13 +571,13 @@ e) Nos restantes casos, será o valor em dinheiro determinado segundo as demais 
 
 ### CAPÍTULO IV — Taxas
 
-###### Art. 21.º A taxa do imposto é de 15 por cento, salvo nos casos previstos nos parágrafos seguintes:
+Art. 21.º A taxa do imposto é de 15 por cento, salvo nos casos previstos nos parágrafos seguintes:
 
 § 1.º Quando se trate dos lucros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 5 por cento.
 
 § 2.º Tratando-se de juros das obrigações representativas dos empréstimos emitidos pelo Fundo de Renovação da Marinha Mercante, ao abrigo do [Decreto-Lei n.º 35876](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35876-1946-150556), de 24 de Setembro de 1946, e pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca, ao abrigo do [Decreto-Lei n.º 39283](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39283-1953-642230), de 20 de Julho de 1953, a taxa será de 1 por cento.
 
-###### Art. 22.º O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, pode conceder a redução da taxa do imposto nos casos seguintes:
+Art. 22.º O Ministro das Finanças, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, pode conceder a redução da taxa do imposto nos casos seguintes:
 
 a) Quando a emissão das obrigações se destine à realização de investimentos no ultramar expressamente incluídos em programas de execução de planos de fomento;
 
@@ -384,13 +587,13 @@ c) Quando o produto do empréstimo ou da emissão de obrigações subscritas no 
 
 d) Quando a emissão das obrigações se destine à realização de investimentos, nas regiões rurais econòmicamente mais desfavorecidas, à instalação de indústrias de aproveitamento de recursos locais, e bem assim à descentralização de outras localizadas em meios urbanos.
 
-###### Art. 23.º Sobre este imposto não recai qualquer adicional para o Estado.
+Art. 23.º Sobre este imposto não recai qualquer adicional para o Estado.
 
 ### CAPÍTULO V — Liquidação
 
 #### SECÇÃO A
 
-###### Art. 24.º As situações ou actos de que derivem os rendimentos tributáveis na secção A devem ser manifestados, a solicitação dos respectivos titulares, ou seus representantes, no prazo de 30 dias a partir da data em que tais rendimentos fiquem sujeitos a imposto.
+Art. 24.º As situações ou actos de que derivem os rendimentos tributáveis na secção A devem ser manifestados, a solicitação dos respectivos titulares, ou seus representantes, no prazo de 30 dias a partir da data em que tais rendimentos fiquem sujeitos a imposto.
 
 § 1.º Tratando-se de actos ou situações de crédito de que os titulares só devam ter conhecimento posteriormente a essa data, o prazo de 30 dias contar-se-á a partir de tal conhecimento.
 
@@ -402,7 +605,7 @@ d) Quando a emissão das obrigações se destine à realização de investimento
 
 § 5.º Exceptuam-se do disposto neste artigo os empréstimos efectuados pelos organismos corporativos.
 
-###### Art. 25.º O manifesto será feito na secção de finanças do concelho ou bairro da residência ou sede do titular do crédito, ou da situação do estabelecimento estável, com base no respectivo título ou documento ou em declaração escrita e assinada pela pessoa a quem incumba a obrigação de o solicitar, ou, na falta de solicitação, em face do auto de transgressão, depois de concluído o respectivo processo, quer por pagamento voluntário, quer por condenação com trânsito em julgado.
+Art. 25.º O manifesto será feito na secção de finanças do concelho ou bairro da residência ou sede do titular do crédito, ou da situação do estabelecimento estável, com base no respectivo título ou documento ou em declaração escrita e assinada pela pessoa a quem incumba a obrigação de o solicitar, ou, na falta de solicitação, em face do auto de transgressão, depois de concluído o respectivo processo, quer por pagamento voluntário, quer por condenação com trânsito em julgado.
 
 § 1.º A declaração referida neste artigo deverá ser apresentada em duplicado e conter os nomes, profissões e moradas do credor e devedor, a indicação do montante da dívida, a taxa de juro ou indemnização devida, a origem, natureza e data do título constitutivo, a data do vencimento e, tratando-se de créditos com garantia real sobre prédios determinados sujeitos a registo obrigatório, os números das respectivas descrições na conservatória.
 
@@ -414,13 +617,13 @@ d) Quando a emissão das obrigações se destine à realização de investimento
 
 § 5.º Nos manifestos serão averbados o cancelamento e todas as modificações que importem alteração no quantitativo do imposto, devendo os averbamentos ser assinados pelos interessados ou a seu rogo perante duas testemunhas, quando feitos em face de declaração verbal.
 
-###### Art. 26.º Os titulares dos créditos, ou seus representantes, são obrigados a declarar, dentro do prazo de 30 dias, as alterações ocorridas em relação aos elementos constantes do manifesto que possam originar agravamento do imposto, devendo igualmente declarar, nos termos do § 1.º do artigo 30.º, os recebimentos parciais e quaisquer outras modificações que importem diminuição de colecta.
+Art. 26.º Os titulares dos créditos, ou seus representantes, são obrigados a declarar, dentro do prazo de 30 dias, as alterações ocorridas em relação aos elementos constantes do manifesto que possam originar agravamento do imposto, devendo igualmente declarar, nos termos do § 1.º do artigo 30.º, os recebimentos parciais e quaisquer outras modificações que importem diminuição de colecta.
 
-###### Art. 27.º Os manifestos poderão ser transferidos a requerimento dos contribuintes, quando estes mudem de residência para outro concelho ou bairro.
+Art. 27.º Os manifestos poderão ser transferidos a requerimento dos contribuintes, quando estes mudem de residência para outro concelho ou bairro.
 
-###### Art. 28.º Os manifestos dão lugar a liquidação do imposto enquanto se mantiverem em vigor, sem prejuízo do disposto no artigo seguinte e § único do artigo 32.º
+Art. 28.º Os manifestos dão lugar a liquidação do imposto enquanto se mantiverem em vigor, sem prejuízo do disposto no artigo seguinte e § único do artigo 32.º
 
-###### Art. 29.º Os credores de dívidas litigiosas poderão requerer a suspensão da liquidação do imposto até à extinção da instância.
+Art. 29.º Os credores de dívidas litigiosas poderão requerer a suspensão da liquidação do imposto até à extinção da instância.
 
 § 1.º O pedido será acompanhado de certidão comprovativa da existência da instância, devendo a suspensão, depois de autorizada pelo chefe da secção de finanças, ser averbada no manifesto e no verbete de lançamento.
 
@@ -432,7 +635,7 @@ d) Quando a emissão das obrigações se destine à realização de investimento
 
 § 5.º Consideram-se litigiosas as dívidas cuja declaração ou pagamento seja pedido em juízo.
 
-###### Art. 30.º Os manifestos serão cancelados:
+Art. 30.º Os manifestos serão cancelados:
 
 a) Pela extinção ou anulação da situação manifestada;
 
@@ -446,7 +649,7 @@ c) Pela insolvência ou quebra do devedor.
 
 § 3.º O estado de insolvência do devedor pode comprovar-se em face de declaração judicial de falência ou insolvência civil, ou nos termos do artigo seguinte.
 
-###### Art. 31.º O estado de insolvência do devedor, quando não haja declaração judicial de falência ou insolvência civil, poderá ser comprovado perante o chefe da secção de finanças competente.
+Art. 31.º O estado de insolvência do devedor, quando não haja declaração judicial de falência ou insolvência civil, poderá ser comprovado perante o chefe da secção de finanças competente.
 
 § 1.º Independentemente de qualquer prazo, o credor requererá a comprovação do estado de insolvência, indicando no requerimento o último domicílio conhecido do devedor e a data ou época a partir da qual este se tornou insolvente, e arrolará três a cinco testemunhas idóneas que possam provar aqueles factos e a circunstância de o devedor e os demais responsáveis não possuírem bens ou valores com que solvam a dívida.
 
@@ -456,41 +659,41 @@ c) Pela insolvência ou quebra do devedor.
 
 § 4.º Do despacho do director de finanças cabe recurso hierárquico, nos termos do artigo 62.º do [Decreto n.º 18176](https://diariodarepublica.pt/dr/detalhe/decreto/18176-1930-534227), de 8 de Abril de 1930.
 
-###### Art. 32.º Reconhecida administrativamente a insolvência, no processo se lavrará termo pelo qual o credor se obrigue a fazer revalidar o manifesto logo que tenha conhecimento de que o devedor ou os outros responsáveis adquiriram bens com que possam solver a dívida.
+Art. 32.º Reconhecida administrativamente a insolvência, no processo se lavrará termo pelo qual o credor se obrigue a fazer revalidar o manifesto logo que tenha conhecimento de que o devedor ou os outros responsáveis adquiriram bens com que possam solver a dívida.
 
 § único. O manifesto será averbado com a nota de não ser de efectuar liquidação de imposto em relação a período posterior à data em que o devedor se tenha tornado insolvente, anulando-se oficiosamente o que em relação a esse período porventura tenha sido liquidado depois da apresentação do pedido.
 
-###### Art. 33.º Os organismos corporativos ficam obrigados a organizar, segundo o modelo n.º 1. um livro de registo dos empréstimos concedidos, que deverá ser patenteado aos funcionários a quem incumbe a fiscalização do imposto.
+Art. 33.º Os organismos corporativos ficam obrigados a organizar, segundo o modelo n.º 1. um livro de registo dos empréstimos concedidos, que deverá ser patenteado aos funcionários a quem incumbe a fiscalização do imposto.
 
 § único. O livro será encerrado mensalmente na coluna respeitante aos juros, averbando-se em seguida o número da guia de que trata o § único do artigo 47.º, a data e importância do pagamento.
 
-###### Art. 34.º A liquidação do imposto é da competência da secção de finanças onde tiver sido feito ou para onde tiver sido transferido o manifesto.
+Art. 34.º A liquidação do imposto é da competência da secção de finanças onde tiver sido feito ou para onde tiver sido transferido o manifesto.
 
-###### Art. 35.º Os chefes das secções de finanças extrairão dos manifestos os elementos necessários ao lançamento do imposto, os quais serão inscritos em verbetes individuais.
+Art. 35.º Os chefes das secções de finanças extrairão dos manifestos os elementos necessários ao lançamento do imposto, os quais serão inscritos em verbetes individuais.
 
 § único. Em 31 de Janeiro apurar-se-á em cada verbete a soma dos rendimentos relativos ao ano anterior, a qual servirá de base ao cálculo do imposto.
 
-###### Art. 36.º O imposto será liquidado aos titulares dos respectivos rendimentos.
+Art. 36.º O imposto será liquidado aos titulares dos respectivos rendimentos.
 
 § 1.º Se, todavia, os titulares dos rendimentos não possuírem, no continente ou ilhas adjacentes, residência, sede efectiva, ou estabelecimento estável, e o contrário se verificar em relação aos devedores, será a estes liquidado o imposto.
 
 § 2.º Pelo imposto que lhes for liquidado, os devedores apenas responderão até ao limite dos pagamentos que devam fazer aos credores a título de juros ou reembolso do capital.
 
-###### Art. 37.º O imposto será liquidado:
+Art. 37.º O imposto será liquidado:
 
 a) Para cobrança eventual, quando se trate de empréstimos efectuados por organismos corporativos, e sempre que os contribuintes, antes de iniciada a cobrança nos termos previstos no artigo 46.º, careçam de provar que efectuaram o pagamento;
 
 b) Para cobrança virtual, nos restantes casos e em relação aos rendimentos apurados nos respectivos verbetes de lançamento nos termos do § único do artigo 35.º
 
-###### Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
+Art. 38.º Sempre que, por facto imputável ao contribuinte, for retardada a liquidação de parte ou da totalidade do imposto devido, a este acrescerá o juro de 4 por cento ao ano, sem prejuízo da multa cominada ao infractor.
 
 § único. O juro será contado dia a dia, desde o termo do prazo para a solicitação do manifesto ou para o cumprimento da obrigação de que resultou atraso na liquidação, até à data em que vier a ser suprida ou corrigida a falta.
 
-###### Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 10$00.
+Art. 39.º Não se procederá a qualquer liquidação, ainda que adicional, quando o seu quantitativo seja inferior a 10$00.
 
 #### SECÇÃO B
 
-###### Art. 40.º Nos casos enumerados no artigo 6.º, a entrega do imposto ao Estado será efectuada pelas entidades a que incumbe o pagamento dos rendimentos.
+Art. 40.º Nos casos enumerados no artigo 6.º, a entrega do imposto ao Estado será efectuada pelas entidades a que incumbe o pagamento dos rendimentos.
 
 § único. A entrega far-se-á na tesouraria da Fazenda Pública do concelho ou bairro da residência ou sede da entidade que a ela deva proceder ou da situação do estabelecimento estável a que se refere a parte final do artigo 8.º, até ao fim do mês seguinte àquele em que se verifique:
 
@@ -500,7 +703,7 @@ b) O vencimento dos juros das obrigações;
 
 c) A liquidação dos rendimentos, nos restantes casos.
 
-###### Art. 41.º O imposto será entregue por meio de guia, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
+Art. 41.º O imposto será entregue por meio de guia, em triplicado, processada pelas entidades responsáveis, com as indicações seguintes:
 
 a) Nome e sede das entidades;
 
@@ -514,27 +717,27 @@ e) Data em que ocorreu o facto que obriga à entrega do imposto.
 
 § único. Um dos exemplares da guia será remetido à respectiva direcção de finanças, conjuntamente com o mapa do imposto arrecadado no mês anterior.
 
-###### Art. 42.º As entidades que procedam ao pagamento de importâncias sujeitas a imposto ficam obrigadas a efectuar sempre o desconto nos rendimentos respectivos.
+Art. 42.º As entidades que procedam ao pagamento de importâncias sujeitas a imposto ficam obrigadas a efectuar sempre o desconto nos rendimentos respectivos.
 
 § único. Tratando-se de suprimentos, abonos ou lucros que não vençam juros, poderão as sociedades exigir o reembolso do imposto que tiverem pago.
 
 Disposições comuns
 
-###### Art. 43.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 3.º do artigo 29.º
+Art. 43.º Só poderá ser liquidado imposto nos cinco anos seguintes àquele a que o rendimento colectável respeite, salvo no caso do § 3.º do artigo 29.º
 
-###### Art. 44.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a secção de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
+Art. 44.º Quando se verificar que na liquidação se cometeram erros de facto ou de direito, ou houve quaisquer omissões, de que resultou prejuízo para o Estado, a secção de finanças deverá repará-lo mediante liquidação adicional, mas sempre com observância do disposto no artigo anterior.
 
 § único. A liquidação adicional, quando vise a corrigir o prejuízo resultante de erro de direito, ou de omissão imputável à Fazenda, só poderá ter lugar dentro do prazo em que a esta é permitido recorrer extraordinàriamente da primeira liquidação.
 
 ### CAPÍTULO VI — Cobrança
 
-###### Art. 45.º Os conhecimentos de cobrança virtual serão entregues até 15 de Março ao tesoureiro da Fazenda Pública, que expedirá até ao dia 20 os avisos para pagamento à boca do cofre.
+Art. 45.º Os conhecimentos de cobrança virtual serão entregues até 15 de Março ao tesoureiro da Fazenda Pública, que expedirá até ao dia 20 os avisos para pagamento à boca do cofre.
 
 § único. Independentemente da expedição dos avisos, o tesoureiro anunciará prèviamente a abertura do cofre em editais expostos na tesouraria e na secção de finanças e promoverá a divulgação do conteúdo desses editais através da imprensa.
 
-###### Art. 46.º O imposto liquidado nos termos da alínea b) do artigo 37.º deverá ser pago durante o mês de Abril.
+Art. 46.º O imposto liquidado nos termos da alínea b) do artigo 37.º deverá ser pago durante o mês de Abril.
 
-###### Art. 47.º O imposto respeitante aos empréstimos a que se refere a alínea a) do artigo 37.º será pago eventualmente no concelho ou bairro da sede da entidade credora durante o mês imediato àquele em que os juros foram recebidos.
+Art. 47.º O imposto respeitante aos empréstimos a que se refere a alínea a) do artigo 37.º será pago eventualmente no concelho ou bairro da sede da entidade credora durante o mês imediato àquele em que os juros foram recebidos.
 
 § único. O pagamento será feito por meio de guia processada em duplicado pela entidade credora, devendo aquela conter:
 
@@ -544,47 +747,47 @@ b) Importância a pagar;
 
 c) Total do juro recebido, com discriminação das operações a que respeite.
 
-###### Art. 48.º Sempre que se proceda a liquidação por omissão ao lançamento, ou a liquidação adicional nos termos do artigo 44.º, o contribuinte ou a entidade responsável pela entrega, conforme os casos, será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
+Art. 48.º Sempre que se proceda a liquidação por omissão ao lançamento, ou a liquidação adicional nos termos do artigo 44.º, o contribuinte ou a entidade responsável pela entrega, conforme os casos, será notificado para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
 Se o não fizer, proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação, devendo o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
-###### Art. 49.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
+Art. 49.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora.
 
-###### Art. 50.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
+Art. 50.º Passados 60 dias sobre o vencimento do imposto sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo.
 
-###### Art. 51.º Para pagamento do imposto de capitais, secção A, a Fazenda Nacional goza de privilégio creditório sobre o capital que deu origem à colecta, mesmo que o crédito tenha sido transmitido a terceiro antes ou depois da liquidação, salvo se o tiver sido por venda judicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
+Art. 51.º Para pagamento do imposto de capitais, secção A, a Fazenda Nacional goza de privilégio creditório sobre o capital que deu origem à colecta, mesmo que o crédito tenha sido transmitido a terceiro antes ou depois da liquidação, salvo se o tiver sido por venda judicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
 
 ### CAPÍTULO VII — Fiscalização
 
 #### SECÇÃO A
 
-###### Art. 52.º Os notários são obrigados a enviar às secções de finanças competentes para o manifesto, até ao dia 10 de cada mês, uma relação modelo n.º 2, em duplicado, donde constem todos os actos e contratos em que tenham intervindo no mês anterior e mediante os quais se tenham constituído, modificado ou distratado dívidas sujeitas a imposto.
+Art. 52.º Os notários são obrigados a enviar às secções de finanças competentes para o manifesto, até ao dia 10 de cada mês, uma relação modelo n.º 2, em duplicado, donde constem todos os actos e contratos em que tenham intervindo no mês anterior e mediante os quais se tenham constituído, modificado ou distratado dívidas sujeitas a imposto.
 
 § único. Nesta relação serão incluídas as letras e livranças que não se encontrem na posse de instituições de crédito e em que os notários tenham feito reconhecimentos de assinaturas ou por qualquer outra forma hajam intervindo.
 
-###### Art. 53.º Os escrivães de direito são obrigados a enviar às secções de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.
+Art. 53.º Os escrivães de direito são obrigados a enviar às secções de finanças competentes para o mafesto, até ao dia 10 de cada mês, uma relação modelo n.º 3, em duplicado, dos inventários e demais processos a seu cargo, cujas decisões tenham transitado em julgado no mês anterior e dos quais se mostre haver fundamento para a exigência de imposto.
 
-###### Art. 54.º Os aceitantes de letras e livranças que titulem situações sujeitas a manifesto são obrigados a participar à secção de finanças do concelho ou bairro da residência ou sede do credor, dentro do prazo de 30 dias a contar da data do aceite, a existência dos mesmos títulos.
+Art. 54.º Os aceitantes de letras e livranças que titulem situações sujeitas a manifesto são obrigados a participar à secção de finanças do concelho ou bairro da residência ou sede do credor, dentro do prazo de 30 dias a contar da data do aceite, a existência dos mesmos títulos.
 
 § 1.º Quando o credor não resida no continente ou ilhas adjacentes ou, tratando-se de uma pessoa colectiva, aí não tenha a sua sede, será a participação feita à secção de finanças do concelho ou bairro onde se localize a residência do aceitante, ou se encontre a sede da entidade que figure como tal.
 
 § 2.º Da participação, a apresentar em duplicado, deverão constar os nomes e moradas do credor e devedor, data do saque, origem e importância da dívida e taxa de juro.
 
-###### Art. 55.º Os conservadores do registo predial e do registo de automóveis não poderão proceder a qualquer registo definitivo de actos e contratos sujeitos a manifesto sem que este se mostre feito.
+Art. 55.º Os conservadores do registo predial e do registo de automóveis não poderão proceder a qualquer registo definitivo de actos e contratos sujeitos a manifesto sem que este se mostre feito.
 
-###### Art. 56.º Os documentos que titulem actos ou situações que dêem lugar a tributação em imposto de capitais não poderão ser recebidos em juízo ou em qualquer repartição pública sem que se prove ter sido efectuado o manifesto, quando devido.
+Art. 56.º Os documentos que titulem actos ou situações que dêem lugar a tributação em imposto de capitais não poderão ser recebidos em juízo ou em qualquer repartição pública sem que se prove ter sido efectuado o manifesto, quando devido.
 
-###### Art. 57.º Não poderá ter seguimento em juízo qualquer acção em que se peçam juros, quer desde a mora ou desde a citação do réu, quer anteriores, sem que do respectivo processo conste que se acha feito o manifesto, quando devido.
+Art. 57.º Não poderá ter seguimento em juízo qualquer acção em que se peçam juros, quer desde a mora ou desde a citação do réu, quer anteriores, sem que do respectivo processo conste que se acha feito o manifesto, quando devido.
 
-###### Art. 58.º Nenhum tribunal ou repartição pública autorizará pagamentos ou adjudicações de bens, nem será cumprido precatório, mandado ou ordem de entrega de qualquer quantia existente em depósito público ou em poder de quem quer que seja, sem que se mostre satisfeito o imposto que for devido na parte correspondente à quantia levantada.
+Art. 58.º Nenhum tribunal ou repartição pública autorizará pagamentos ou adjudicações de bens, nem será cumprido precatório, mandado ou ordem de entrega de qualquer quantia existente em depósito público ou em poder de quem quer que seja, sem que se mostre satisfeito o imposto que for devido na parte correspondente à quantia levantada.
 
 § único. Nos precatórios declarar-se-á sempre se o imposto está pago ou não é devido.
 
 #### SECÇÃO B
 
-###### Art. 59.º As sociedades comerciais e as civis sob a forma comercial enviarão à direcção de finanças do distrito da sua sede, até ao fim do mês seguinte ao da aprovação das contas de cada exercício, um exemplar do respectivo balanço, acompanhado do desenvolvimento da conta de lucros e perdas, com menção da data da aprovação das contas, e ainda, se os houver, o relatório da administração e o parecer do conselho fiscal.
+Art. 59.º As sociedades comerciais e as civis sob a forma comercial enviarão à direcção de finanças do distrito da sua sede, até ao fim do mês seguinte ao da aprovação das contas de cada exercício, um exemplar do respectivo balanço, acompanhado do desenvolvimento da conta de lucros e perdas, com menção da data da aprovação das contas, e ainda, se os houver, o relatório da administração e o parecer do conselho fiscal.
 
-###### Art. 60.º Nas direcções de finanças organizar-se-á, relativamente a cada entidade a que incumba a entrega do imposto, um processo no qual serão incorporados todos os elementos que lhe respeitem, nomeadamente:
+Art. 60.º Nas direcções de finanças organizar-se-á, relativamente a cada entidade a que incumba a entrega do imposto, um processo no qual serão incorporados todos os elementos que lhe respeitem, nomeadamente:
 
 a) Os relatórios e contas referidos no artigo anterior
 
@@ -592,7 +795,7 @@ b) As guias mencionadas no § único do artigo 41.º
 
 Disposição comum
 
-###### Art. 61.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
+Art. 61.º O cumprimento das obrigações impostas por este diploma será fiscalizado, em geral, e dentro dos limites da respectiva competência, por todas as autoridades, corpos administrativos, repartições públicas e pessoas colectivas de utilidade pública e, em especial, pela Direcção-Geral das Contribuições e Impostos.
 
 § 1.º Os chefes de repartição da Direcção-Geral, os directores de finanças, os chefes dos serviços de prevenção e repressão e os chefes das secções de finanças poderão examinar os arquivos de repartições públicas, de pessoas colectivas de utilidade pública administrativa e organismos de coordenação económica e corporativos, bem como, eles próprios ou os seus representantes, os livros e documentos dos contribuintes, ou responsáveis, sejam ou não comerciantes, embora sempre com observância do disposto no § único do artigo 43.º do Código Comercial.
 
@@ -604,11 +807,11 @@ Disposição comum
 
 #### SECÇÃO A
 
-###### Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
+Art. 62.º Os contribuintes e as pessoas solidária ou subsidiàriamente responsáveis pelo pagamento do imposto poderão reclamar contra a liquidação deste, com os fundamentos e nos termos estabelecidos na legislação do contencioso das contribuições e impostos.
 
 #### SECÇÃO B
 
-###### Art. 63.º Contra a liquidação do imposto entregue nos cofres do Estado, ou contra a liquidação adicional, poderão os titulares dos rendimentos e as entidades responsáveis pela entrega reclamar e recorrer com os fundamentos e nos termos estabelecidos pela legislação do contencioso das contribuições e impostos.
+Art. 63.º Contra a liquidação do imposto entregue nos cofres do Estado, ou contra a liquidação adicional, poderão os titulares dos rendimentos e as entidades responsáveis pela entrega reclamar e recorrer com os fundamentos e nos termos estabelecidos pela legislação do contencioso das contribuições e impostos.
 
 § único. Os prazos para as reclamações ordinárias e recursos extraordinários contar-se-ão:
 
@@ -618,11 +821,11 @@ b) Quando apresentados pelas entidades responsáveis pela entrega, desde a data 
 
 Disposições comuns
 
-###### Art. 64.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
+Art. 64.º Quando, por motivos imputáveis aos serviços, tenha sido liquidado imposto superior ao devido, proceder-se-á a anulação oficiosa se ainda não tiverem decorrido cinco anos sobre a abertura dos cofres para a respectiva cobrança, ou sobre o pagamento eventual.
 
 § único. Não se procederá a anulação quando o seu quantitativo seja inferior a 10$00.
 
-###### Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão dos tribunais com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto da mesma natureza, arrecadado por cobrança virtual.
+Art. 65.º Anulada a liquidação, quer oficiosamente, quer por decisão dos tribunais com trânsito em julgado, processar-se-á imediatamente o respectivo título de anulação, para ser pago a dinheiro ou abatido em imposto da mesma natureza, arrecadado por cobrança virtual.
 
 § 1.º Contar-se-ão juros de 4 por cento ao ano a favor do contribuinte sempre que, estando pago o imposto, a Fazenda seja convencida, em reclamação ou recurso da liquidação, de que nesta houve erro de facto imputável aos serviços.
 
@@ -630,19 +833,19 @@ Disposições comuns
 
 ### CAPÍTULO IX — Penalidades
 
-###### Art. 66.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
+Art. 66.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo a graduação das penas, quando a isso houver lugar, fazer-se de harmonia com a gravidade da culpa, a importância do imposto a pagar e as demais circunstâncias do caso.
 
-###### Art. 67.º A falta de solicitação do manifesto no prazo legal será punida com multa igual ao quíntuplo do imposto devido.
+Art. 67.º A falta de solicitação do manifesto no prazo legal será punida com multa igual ao quíntuplo do imposto devido.
 
 § 1.º Tratando-se, porém, de dívidas de que as secções de finanças tenham ou devam ter conhecimento através das relações a que se referem os artigos 52.º e 53.º, a multa será igual ao dobro do imposto.
 
 § 2.º Em qualquer caso, as multas a que se refere este artigo não poderão ser inferiores a 100$00.
 
-###### Art. 68.º A infracção ao disposto no artigo 54.º será punida com a multa de 100$00 a 10000$00.
+Art. 68.º A infracção ao disposto no artigo 54.º será punida com a multa de 100$00 a 10000$00.
 
 § único. Além da multa estabelecida neste artigo, o infractor ficará ainda solidàriamente responsável pelo pagamento do imposto devido até à data do manifesto.
 
-###### Art. 69.º Por qualquer indicação inexacta ou omissão nas declarações exigidas no presente diploma, donde resulte falta de liquidação de imposto ou liquidação inferior à devida, será paga multa de 100$00 a 20000$00, havendo simples negligência; e multa igual a dez vezes o imposto que deixou de ser liquidado, no mínimo de 500$00, havendo dolo.
+Art. 69.º Por qualquer indicação inexacta ou omissão nas declarações exigidas no presente diploma, donde resulte falta de liquidação de imposto ou liquidação inferior à devida, será paga multa de 100$00 a 20000$00, havendo simples negligência; e multa igual a dez vezes o imposto que deixou de ser liquidado, no mínimo de 500$00, havendo dolo.
 
 § único. Consideram-se sempre dolosas as falsas declarações sobre:
 
@@ -654,53 +857,53 @@ c) Recebimento total ou parcial do capital manifestado;
 
 d) Destino dos géneros emprestados.
 
-###### Art. 70.º O credor de dívida litigiosa que não cumprir o preceituado no § 2.º do artigo 29.º incorrerá em multa de 100$00 a 5000$00.
+Art. 70.º O credor de dívida litigiosa que não cumprir o preceituado no § 2.º do artigo 29.º incorrerá em multa de 100$00 a 5000$00.
 
-###### Art. 71.º A falta de declaração da extinção da instância nos termos do § 3.º do artigo 29.º será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
+Art. 71.º A falta de declaração da extinção da instância nos termos do § 3.º do artigo 29.º será punida com multa igual ao triplo do imposto devido, no mínimo de 100$00.
 
-###### Art. 72.º O credor a requerimento do qual se houver julgado a insolvência, se não fizer revalidar o manifesto cancelado logo que tenha conhecimento de que o devedor ou os outros responsáveis adquiriram bens por onde possam solver a dívida, incorrerá na multa de 100$00 a 10000$00.
+Art. 72.º O credor a requerimento do qual se houver julgado a insolvência, se não fizer revalidar o manifesto cancelado logo que tenha conhecimento de que o devedor ou os outros responsáveis adquiriram bens por onde possam solver a dívida, incorrerá na multa de 100$00 a 10000$00.
 
-###### Art. 73.º A inobservância do disposto no artigo 33.º importa aplicação da multa de 1000$00, tratando-se de falta do livro, e de 100$00 pela omissão de cada registo.
+Art. 73.º A inobservância do disposto no artigo 33.º importa aplicação da multa de 1000$00, tratando-se de falta do livro, e de 100$00 pela omissão de cada registo.
 
-###### Art. 74.º A falta de pagamento do imposto no prazo fixado no artigo 47.º será punida com multa igual ao dobro do imposto devido, no mínimo de 100$00.
+Art. 74.º A falta de pagamento do imposto no prazo fixado no artigo 47.º será punida com multa igual ao dobro do imposto devido, no mínimo de 100$00.
 
-###### Art. 75.º A entrega do imposto fora do prazo fixado no § único do artigo 40.º, mas dentro dos dez dias seguintes, será punida com multa de 100$00 a 10000$00.
+Art. 75.º A entrega do imposto fora do prazo fixado no § único do artigo 40.º, mas dentro dos dez dias seguintes, será punida com multa de 100$00 a 10000$00.
 
-###### Art. 76.º A falta, total ou parcial, da entrega do imposto até ao último dos dez dias referidos no artigo anterior será punida com multa igual ao dobro do quantitativo em dívida, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal se houver abuso de confiança.
+Art. 76.º A falta, total ou parcial, da entrega do imposto até ao último dos dez dias referidos no artigo anterior será punida com multa igual ao dobro do quantitativo em dívida, no mínimo de 200$00, sem prejuízo das sanções previstas no artigo 453.º do Código Penal se houver abuso de confiança.
 
 § único. Quando a infracção prevista no corpo deste artigo seja acompanhada de falta do desconto prescrito no artigo 42.º, à multa nele cominada acrescerá, pela primeira vez, a de 250$00 a 5000$00 e, no caso de repetição dentro de cinco anos, a de 2500$00 a 50000$00.
 
-###### Art. 77.º A infracção do disposto no artigo 42.º, quando, não obstante, se proceda à entrega do imposto, será punida, pela primeira vez, com multa de 100$00 a 10000$00, e, no caso de repetição dentro de cinco anos, com a de 5000$00 a 100000$00.
+Art. 77.º A infracção do disposto no artigo 42.º, quando, não obstante, se proceda à entrega do imposto, será punida, pela primeira vez, com multa de 100$00 a 10000$00, e, no caso de repetição dentro de cinco anos, com a de 5000$00 a 100000$00.
 
-###### Art. 78.º O não cumprimento do disposto no artigo 59.º será punido com multa de 500$00 a 20000$00.
+Art. 78.º O não cumprimento do disposto no artigo 59.º será punido com multa de 500$00 a 20000$00.
 
 § único. O director-geral das Contribuições e Impostos poderá relevar a falta do cumprimento do disposto no artigo 59.º quando se trate de modestas actividades com reduzido movimento comercial ou industrial.
 
-###### Art. 79.º Pelo envio fora do prazo dos exemplares dos balanços e demais elementos a que se refere o artigo 59.º será aplicada a multa de 100$00 a 1000$00.
+Art. 79.º Pelo envio fora do prazo dos exemplares dos balanços e demais elementos a que se refere o artigo 59.º será aplicada a multa de 100$00 a 1000$00.
 
-###### Art. 80.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 61.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
+Art. 80.º A recusa de exibição dos arquivos ou da escrita e a de apresentação de quaisquer elementos com eles relacionados, exigidas nos termos dos §§ 1.º e 2.º do artigo 61.º, assim como a sua ocultação, destruição, inutilização, falsificação ou viciação, por parte de entidades que não sejam serviços públicos, serão punidas com multa de 2500$00 a 100000$00, na qual incorrerão, solidàriamente entre si, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que no caso couber.
 
-###### Art. 81.º Realizando-se acto ou contrato simulado, com prejuízo do imposto de capitais que de outro modo seria pago, ficarão os simuladores solidàriamente sujeitos a multa igual ao décuplo do imposto que se deixou de pagar, no mínimo de 500$00.
+Art. 81.º Realizando-se acto ou contrato simulado, com prejuízo do imposto de capitais que de outro modo seria pago, ficarão os simuladores solidàriamente sujeitos a multa igual ao décuplo do imposto que se deixou de pagar, no mínimo de 500$00.
 
-###### Art. 82.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
+Art. 82.º Os funcionários públicos que deixarem de cumprir alguma das obrigações impostas neste diploma incorrerão em responsabilidade disciplinar, se for caso disso, sem prejuízo da responsabilidade penal prevista em outras leis.
 
-###### Art. 83.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
+Art. 83.º Por qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada multa de 100$00 a 1000$00.
 
-###### Art. 84.º Havendo dolo, as multas estabelecidas nos artigos anteriores, quando fixas, serão elevadas ao dobro.
+Art. 84.º Havendo dolo, as multas estabelecidas nos artigos anteriores, quando fixas, serão elevadas ao dobro.
 
-###### Art. 85.º As multas cujo quantitativo apenas dependa do montante do imposto não poderão exceder 1000000$00.
+Art. 85.º As multas cujo quantitativo apenas dependa do montante do imposto não poderão exceder 1000000$00.
 
-###### Art. 86.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 86.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
 § 1.º A responsabilidade solidária prevista neste artigo só terá lugar quanto às pessoas nele referidas que hajam praticado ou sancionado a omissão ou o acto delituosos.
 
 § 2.º Após a extinção das pessoas colectivas, responderão solidàriamente entre si as restantes pessoas neste artigo mencionadas.
 
-###### Art. 87.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
+Art. 87.º Quando os actos ou omissões tiverem sido praticados por procurador, ou gestor de negócios, e lhe couber a responsabilidade da inexactidão ou omissão, contra ele correrá o procedimento para aplicação das multas.
 
 § único. Pelas multas impostas aos mandatários responderão solidàriamente os mandantes.
 
-###### Art. 88.º As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
+Art. 88.º As multas serão impostas mediante auto de transgressão levantado e julgado nos termos estabelecidos na legislação que regula o contencioso das contribuições e impostos.
 
 § 1.º O auto para aplicação da multa prevista no artigo 81.º só poderá ser levantado depois de declarada a nulidade dos actos ou contratos simulados, em acção proposta pelo Ministério Público perante o competente tribunal comum, dentro do prazo de cinco anos a contar da realização do acto.
 
@@ -708,33 +911,33 @@ d) Destino dos géneros emprestados.
 
 § 3.º Transitada em julgado a sentença que declara a nulidade, o tribunal deverá remeter cópia nos oito dias seguintes à secção de finanças competente para o levantamento do auto.
 
-###### Art. 89.º Só poderá ser levantado auto de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida ou transitou em julgado a sentença que anulou o acto simulado.
+Art. 89.º Só poderá ser levantado auto de transgressão, para aplicação das multas cominadas neste diploma, dentro de cinco anos, contados da data em que a infracção foi cometida ou transitou em julgado a sentença que anulou o acto simulado.
 
 § 1.º Ainda que extinto o procedimento para aplicação da multa, levantar-se-á auto para exigência do imposto devido, relativamente aos últimos cinco anos.
 
 § 2.º Se o processo de transgressão estiver parado durante cinco anos, ficará extinto o procedimento para a aplicação da multa, prosseguindo, no entanto, para arrecadação do imposto devido.
 
-###### Art. 90.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
+Art. 90.º Sobre as multas fixadas neste diploma não incidirá nenhum adicional.
 
-###### Art. 91.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
+Art. 91.º A obrigação de pagar qualquer multa prescreverá passados dez anos sobre o trânsito em julgado da condenação.
 
-###### Art. 92.º Serão admitidas denúncias perante as secções e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
+Art. 92.º Serão admitidas denúncias perante as secções e direcções de finanças e serviços centrais e de prevenção e repressão, da Direcção-Geral das Contribuições e Impostos, contra os que transgredirem as disposições do presente diploma.
 
 § 1.º Qualquer denúncia poderá ser feita verbalmente ou por escrito assinado, mas só terá seguimento depois de lavrado termo de identificação do denunciante.
 
 § 2.º A denúncia ficará secreta, salvo se, sendo destituída de fundamento, tiver sido feita dolosamente, caso em que, a requerimento do denunciado, lhe será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 93.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
+Art. 93.º O produto das multas será dividido nos termos do [Decreto n.º 12101](https://diariodarepublica.pt/dr/detalhe/decreto/12101-1926-162831), de 12 de Agosto de 1926, e do [Decreto n.º 12296](https://diariodarepublica.pt/dr/detalhe/decreto/12296-1926-160170), de 10 de Setembro de 1926, com as alterações introduzidas pelos artigos 12.º do [Decreto n.º 15661](https://diariodarepublica.pt/dr/detalhe/decreto/15661-1928-590108), de 1 de Julho de 1928, e 22.º do [Decreto-Lei n.º 44235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44235-1962-518252), de 14 de Março de 1962.
 
-###### Art. 94.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, ou de citado para a acção de simulação, será aquela reduzida a metade, revertendo integralmente para o Estado.
+Art. 94.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, ou de citado para a acção de simulação, será aquela reduzida a metade, revertendo integralmente para o Estado.
 
 § 1.º Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á no caso de multa variável entre limites.
 
 § 2.º Não se considerará voluntário o pedido de pagamento da multa feito posteriormente ao início de qualquer fiscalização mediante exame à escrita do infractor.
 
-###### Art. 95.º Havendo a falsificação ou a viciação previstas no artigo 80.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
+Art. 95.º Havendo a falsificação ou a viciação previstas no artigo 80.º, o tribunal participá-lo-á, nos oito dias seguintes ao trânsito em julgado da decisão, ao agente do Ministério Público competente, nos termos e para efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
 
-###### Art. 96.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados ou a multa aplicada, conforme se trate da secção A ou B, exceder 100000$00, será dada publicidade à condenação do transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 96.º Se a transgressão for praticada com dolo e o quantitativo dos rendimentos ocultados ou a multa aplicada, conforme se trate da secção A ou B, exceder 100000$00, será dada publicidade à condenação do transgressor, mediante inserção na imprensa periódica de um extracto da sentença, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § 1.º O extracto será organizado pelo tribunal e publicado, a expensas do infractor, em um dos diários ou, não os havendo, em um dos periódicos do concelho onde o infractor residir e, além disso, na segunda ou terceira página de dois diárias de grande circulação, um de Lisboa e outro do Porto, entrando as despesas da publicação em regra de custas.
 
@@ -742,13 +945,13 @@ d) Destino dos géneros emprestados.
 
 ### CAPÍTULO X — Disposições diversas
 
-###### Art. 97.º Os chefes das secções de finanças enviarão aos conservadores do registo predial, até ao último dia útil de cada mês, uma relação dos manifestos cujos efeitos cessaram no mês anterior, por extinção dos créditos que hajam sido assegurados com garantia real sobre prédios determinados sujeitos a registo obrigatório, devendo referir na relação o número da descrição dos respectivos prédios na conservatória.
+Art. 97.º Os chefes das secções de finanças enviarão aos conservadores do registo predial, até ao último dia útil de cada mês, uma relação dos manifestos cujos efeitos cessaram no mês anterior, por extinção dos créditos que hajam sido assegurados com garantia real sobre prédios determinados sujeitos a registo obrigatório, devendo referir na relação o número da descrição dos respectivos prédios na conservatória.
 
-###### Art. 98.º Entende-se por estabelecimento estável qualquer instalação fixa onde a empresa exerça toda ou parte da sua actividade.
+Art. 98.º Entende-se por estabelecimento estável qualquer instalação fixa onde a empresa exerça toda ou parte da sua actividade.
 
-###### Art. 99.º As secções de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações, a que se referem o § 1.º do artigo 25.º e os artigos 52.º, 53.º e 54.º
+Art. 99.º As secções de finanças deverão devolver sempre, com recibo, um dos exemplares das declarações, relações ou participações, a que se referem o § 1.º do artigo 25.º e os artigos 52.º, 53.º e 54.º
 
-###### Art. 100.º As declarações, relações, participações e outros documentos a apresentar nas direcções e secções de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
+Art. 100.º As declarações, relações, participações e outros documentos a apresentar nas direcções e secções de finanças podem ser remetidos pelo correio, sob registo postal, acompanhados de um sobrescrito devidamente endereçado e franquiado, para devolução imediata, também sob registo, dos duplicados, ou dos documentos, quando for caso disso.
 
 § único. Os documentos referidos neste artigo deverão ser assinados pelas pessoas a que incumba a sua apresentação, ou pelos seus representantes legais ou mandatários.
 
@@ -756,6 +959,6 @@ Ministério das Finanças, 10 de Setembro de 1962. - O Ministro das Finanças, A
 
 Do Modelo n.º 1 ao Modelo n.º 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1962/09/20800/11991211.pdf))](https://files.diariodarepublica.pt/1s/1962/09/20800/11991211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/09/20800/11991211.pdf)
 
 Ministério das Finanças, 10 de Setembro de 1962. - O Ministro das Finanças, António Manuel Pinto Barbosa.

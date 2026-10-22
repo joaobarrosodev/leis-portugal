@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1971-633919
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-04-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4bcfc44813904d1c25ae43ad14fdb741a78efb4a09a82adf8990bbfc86f4813c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4725fedbef9b8644e56adf52ca349aff53d18c0546dac054a6b90f4cfb41db2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Centro de Juventude
+- Conselho Administrativo
+- Direção
+- Ministério da Educação Nacional
+- Mocidade Portuguesa
+- Orgânica
+- Secretariado para a Juventude
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:523191:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:523191:por
+  label: "Extinto o Secretariado para a Juventude criado no presente diploma pelo DEC LEI.171/74.25.04.1974.JSN, DG.IS [97-Supl]\
+    \ de 25.04.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/171-1974-523191
+  date: '1974-04-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:21Z'
   warnings: []
   errors: []
 ---
@@ -104,9 +120,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### Artigo 1.º É criado no Ministério da Educação Nacional o Secretariado para a Juventude, dotado de personalidade jurídica e autonomia administrativa e financeira.
+Artigo 1.º É criado no Ministério da Educação Nacional o Secretariado para a Juventude, dotado de personalidade jurídica e autonomia administrativa e financeira.
 
-###### Art. 2.º O Secretariado para a Juventude, colaborando na acção formativa da Família e da Escola, apoia e estimula actividades juvenis que, no preenchimento de tempos livres, visem a integração esclarecida dos jovens na vida colectiva, preparando-os para uma efectiva participação na obra de desenvolvimento nacional e, neste espírito, promove, nomeadamente:
+Art. 2.º O Secretariado para a Juventude, colaborando na acção formativa da Família e da Escola, apoia e estimula actividades juvenis que, no preenchimento de tempos livres, visem a integração esclarecida dos jovens na vida colectiva, preparando-os para uma efectiva participação na obra de desenvolvimento nacional e, neste espírito, promove, nomeadamente:
 
 a) A expansão entre a juventude das actividades culturais e artísticas;
 
@@ -120,7 +136,7 @@ e) O intercâmbio juvenil entre a metrópole e o ultramar;
 
 f) O desenvolvimento do turismo juvenil.
 
-###### Art. 3.º Na prossecução dos objectivos definidos no artigo anterior, compete ao Secretariado para a Juventude:
+Art. 3.º Na prossecução dos objectivos definidos no artigo anterior, compete ao Secretariado para a Juventude:
 
 a) Estudar os problemas específicos da juventude, em colaboração com os restantes serviços do Ministério da Educação Nacional e eventualmente com os outros Ministérios;
 
@@ -140,13 +156,13 @@ h) Manter em funcionamento campos de férias, pousadas de juventude, campos de t
 
 i) Promover a elaboração e difusão de publicações periódicas juvenis.
 
-###### Art. 4.º O Secretariado para a Juventude poderá estender a sua actividade às províncias ultramarinas quando tal for julgado conveniente pelo Ministro do Ultramar.
+Art. 4.º O Secretariado para a Juventude poderá estender a sua actividade às províncias ultramarinas quando tal for julgado conveniente pelo Ministro do Ultramar.
 
 ### CAPÍTULO II — Órgãos
 
-###### Art. 5.º São órgãos do Secretariado para a Juventude a direcção e o conselho administrativo.
+Art. 5.º São órgãos do Secretariado para a Juventude a direcção e o conselho administrativo.
 
-###### Art. 6.º - 1. A direcção do Secretariado para a Juventude é constituída por um director e dois subdirectores.
+Art. 6.º - 1. A direcção do Secretariado para a Juventude é constituída por um director e dois subdirectores.
 
 2. O director terá a categoria e vencimento equivalente à letra B e os subdirectores à letra D.
 
@@ -154,7 +170,7 @@ i) Promover a elaboração e difusão de publicações periódicas juvenis.
 
 4. O director indica o subdirector que o substitui nas suas faltas e impedimentos.
 
-###### Art. 7.º - 1. A direcção do Secretariado para a Juventude tem competência para deliberar sobre:
+Art. 7.º - 1. A direcção do Secretariado para a Juventude tem competência para deliberar sobre:
 
 a) Todas as actividades próprias, nomeadamente as dos centros de juventude;
 
@@ -172,7 +188,7 @@ f) Quaisquer outros assuntos respeitantes ao funcionamento do Secretariado.
 
 3. O orçamento relativo a cada ano deve ser submetido pela direcção ao Ministro da Educação Nacional até 31 de Agosto do ano anterior àquele a que diga respeito.
 
-###### Art. 8.º Compete ao director:
+Art. 8.º Compete ao director:
 
 a) Superintender no funcionamento de todos os serviços;
 
@@ -182,7 +198,7 @@ c) Submeter as deliberações da direcção que careçam de homologação a desp
 
 d) Promover a execução das deliberações da direcção.
 
-###### Art. 9.º O conselho administrativo tem a constituição seguinte:
+Art. 9.º O conselho administrativo tem a constituição seguinte:
 
 a) O director do Secretariado para a Juventude, que presidirá, com voto de qualidade;
 
@@ -190,7 +206,7 @@ b) Um dos subdirectores designado pelo Ministro da Educação Nacional, ouvido o
 
 c) Um vogal com reconhecida competência em assuntos administrativos, de livre nomeação do Ministro da Educação Nacional.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 a) Elaborar o projecto de orçamento;
 
@@ -208,39 +224,39 @@ g) Submeter à direcção as contas do exercício findo;
 
 h) Apresentar mensalmente à direcção uma informação sobre a situação financeira.
 
-###### Art. 11.º O funcionamento dos órgãos locais do Secretariado para a Juventude será regulado em portaria.
+Art. 11.º O funcionamento dos órgãos locais do Secretariado para a Juventude será regulado em portaria.
 
 ### CAPÍTULO III — Serviços e pessoal
 
-###### Art. 12.º - 1. As actividades do Secretariado para a Juventude são asseguradas por serviços cuja estrutura e funções serão definidas em decreto do Ministro da Educação Nacional, ouvida a direcção do Secretariado.
+Art. 12.º - 1. As actividades do Secretariado para a Juventude são asseguradas por serviços cuja estrutura e funções serão definidas em decreto do Ministro da Educação Nacional, ouvida a direcção do Secretariado.
 
 2. Nos mesmos termos são definidas as normas a que deverão obedecer o recrutamento e o provimento do pessoal incumbido da execução dos referidos serviços.
 
-###### Art. 13.º - 1. O Ministro da Educação Nacional pode transferir, por despacho, para o Secretariado pessoal de outros serviços ou organismos dependentes do Ministério.
+Art. 13.º - 1. O Ministro da Educação Nacional pode transferir, por despacho, para o Secretariado pessoal de outros serviços ou organismos dependentes do Ministério.
 
 2. O pessoal referido no número anterior conserva todas as regalias e direitos que tenha já adquirido, nomeadamente no que respeita a aposentação e previdência.
 
-###### Art. 14.º - 1. Pode ser autorizada por despacho ministerial a realização de trabalhos eventuais por quaisquer pessoas de reconhecida competência, em regime de prestação de serviços.
+Art. 14.º - 1. Pode ser autorizada por despacho ministerial a realização de trabalhos eventuais por quaisquer pessoas de reconhecida competência, em regime de prestação de serviços.
 
 2. Igualmente podem ser atribuídas gratificações pagas por hora de serviço, não podendo o montante global de cada gratificação exceder 50 por cento do vencimento correspondente à letra B, ou senha de presença aos colaboradores do Secretariado que não percebam outra retribuição, devendo aquelas ser fixadas em despacho do Ministro da Educação Nacional.
 
-###### Art. 15.º O Secretariado pode enviar missões de estudo ao estrangeiro, mediante autorização ministerial, para se ocuparem de assuntos relacionados com as suas atribuições.
+Art. 15.º O Secretariado pode enviar missões de estudo ao estrangeiro, mediante autorização ministerial, para se ocuparem de assuntos relacionados com as suas atribuições.
 
-###### Art. 16.º Podem ser destacados para o Secretariado em regime de comissão de serviço quaisquer elementos do pessoal docente dos estabelecimentos dependentes do Ministério da Educação Nacional, considerando-se, para todos os efeitos legais, como serviço docente o serviço por eles prestado.
+Art. 16.º Podem ser destacados para o Secretariado em regime de comissão de serviço quaisquer elementos do pessoal docente dos estabelecimentos dependentes do Ministério da Educação Nacional, considerando-se, para todos os efeitos legais, como serviço docente o serviço por eles prestado.
 
 ### CAPÍTULO IV — Centros de juventude
 
-###### Art. 17.º A ocupação dos tempos livres da juventude será levada a efeito através da criação de centros de juventude abertos, mediante livre inscrição, à frequência de todos os jovens, estudantes ou não, e das organizações juvenis que forem oficialmente autorizadas.
+Art. 17.º A ocupação dos tempos livres da juventude será levada a efeito através da criação de centros de juventude abertos, mediante livre inscrição, à frequência de todos os jovens, estudantes ou não, e das organizações juvenis que forem oficialmente autorizadas.
 
-###### Art. 18.º Os centros de juventude proporcionarão aos seus associados actividades para os tempos livres que, tendo natureza cultural, desportiva ou outra, visem a realização dos objectivos formativos prosseguidos pelo Secretariado para a Juventude.
+Art. 18.º Os centros de juventude proporcionarão aos seus associados actividades para os tempos livres que, tendo natureza cultural, desportiva ou outra, visem a realização dos objectivos formativos prosseguidos pelo Secretariado para a Juventude.
 
-###### Art. 19.º Os centros de juventude poderão funcionar junto dos estabelecimentos de ensino preparatório e secundário e fora deles.
+Art. 19.º Os centros de juventude poderão funcionar junto dos estabelecimentos de ensino preparatório e secundário e fora deles.
 
-###### Art. 20.º - 1. Cada centro de juventude situado fora de um estabelecimento de ensino deverá ser criado, sempre que possível, com o apoio de uma autarquia local, de modo que fique estreitamente associada a colectividade por ela representada à obra do Secretariado para a Juventude, em verdadeiro espírito de participação.
+Art. 20.º - 1. Cada centro de juventude situado fora de um estabelecimento de ensino deverá ser criado, sempre que possível, com o apoio de uma autarquia local, de modo que fique estreitamente associada a colectividade por ela representada à obra do Secretariado para a Juventude, em verdadeiro espírito de participação.
 
 2. Os centros de juventude estabelecerão sempre relações de colaboração com os serviços de acção social escolar do Ministério da Educação Nacional.
 
-###### Art. 21.º - 1. A criação de centros de juventude junto dos estabelecimentos de ensino depende de proposta do reitor ou do director.
+Art. 21.º - 1. A criação de centros de juventude junto dos estabelecimentos de ensino depende de proposta do reitor ou do director.
 
 2. A inscrição nos centros que funcionem junto do estabelecimento de ensino é, como nos demais centros de juventude, facultativa.
 
@@ -250,15 +266,15 @@ h) Apresentar mensalmente à direcção uma informação sobre a situação fina
 
 5. Junto de cada estabelecimento de ensino de frequência mista haverá um só centro de juventude.
 
-###### Art. 22.º O Secretariado para a Juventude coordena os centros de juventude e as outras organizações juvenis autorizadas, subsidia-os, nos termos dos seus planos e orçamentos anuais, e presta-lhes também apoio por outras formas, designadamente facultando-lhes a colaboração do pessoal especializado nas actividades que levem a efeito.
+Art. 22.º O Secretariado para a Juventude coordena os centros de juventude e as outras organizações juvenis autorizadas, subsidia-os, nos termos dos seus planos e orçamentos anuais, e presta-lhes também apoio por outras formas, designadamente facultando-lhes a colaboração do pessoal especializado nas actividades que levem a efeito.
 
-###### Art. 23.º O regulamento dos centros de juventude deverá prever a colaboração e participação dos associados na respectiva gestão.
+Art. 23.º O regulamento dos centros de juventude deverá prever a colaboração e participação dos associados na respectiva gestão.
 
-###### Art. 24.º Quando os centros de juventude não dispuserem de instalações gimnodesportivas próprias, a Direcção-Geral da Educação Física e Desportos deverá facultar-lhes a utilização, sem encargos, de instalações adequadas situadas na proximidade dos centros e, em qualquer circunstância, fornecer-lhes os equipamentos necessários e o apoio dos serviços de medicina desportiva.
+Art. 24.º Quando os centros de juventude não dispuserem de instalações gimnodesportivas próprias, a Direcção-Geral da Educação Física e Desportos deverá facultar-lhes a utilização, sem encargos, de instalações adequadas situadas na proximidade dos centros e, em qualquer circunstância, fornecer-lhes os equipamentos necessários e o apoio dos serviços de medicina desportiva.
 
 ### CAPÍTULO V — Disposições financeiras
 
-###### Art. 25.º Constituem receitas do Secretariado para a Juventude:
+Art. 25.º Constituem receitas do Secretariado para a Juventude:
 
 a) As dotações consignadas no orçamento do Ministério da Educação Nacional;
 
@@ -268,36 +284,36 @@ c) Os rendimentos dos bens próprios;
 
 d) Quaisquer outras receitas permitidas por lei.
 
-###### Art. 26.º O Secretariado para a Juventude pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante autorização do Ministro da Educação Nacional, concedida caso por caso.
+Art. 26.º O Secretariado para a Juventude pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante autorização do Ministro da Educação Nacional, concedida caso por caso.
 
-###### Art. 27.º A autorização das despesas a fazer por verbas previstas no orçamento privativo do Secretariado para a Juventude é da competência do director ou de quem suas vezes fizer.
+Art. 27.º A autorização das despesas a fazer por verbas previstas no orçamento privativo do Secretariado para a Juventude é da competência do director ou de quem suas vezes fizer.
 
-###### Art. 28.º - 1. Pode o Ministro da Educação Nacional determinar que transitem para o Secretariado para a Juventude, independentemente de quaisquer formalidades, os bens actualmente pertencentes aos patrimónios da Organização Nacional Mocidade Portuguesa e da Mocidade Portuguesa Feminina que se revelem indispensáveis ao funcionamento do Secretariado e possam ser dispensados das actividades dessas organizações juvenis.
+Art. 28.º - 1. Pode o Ministro da Educação Nacional determinar que transitem para o Secretariado para a Juventude, independentemente de quaisquer formalidades, os bens actualmente pertencentes aos patrimónios da Organização Nacional Mocidade Portuguesa e da Mocidade Portuguesa Feminina que se revelem indispensáveis ao funcionamento do Secretariado e possam ser dispensados das actividades dessas organizações juvenis.
 
 2. Exceptua-se o Palácio da Independência, em Lisboa, que, de acordo com a doação feita pela colónia portuguesa no Brasil, permanecerá no património privativo da Mocidade Portuguesa.
 
-###### Art. 29.º - 1. O Secretariado para a Juventude pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe sejam afectas.
+Art. 29.º - 1. O Secretariado para a Juventude pode directamente promover a realização de quaisquer obras de conservação e beneficiação nas instalações que lhe sejam afectas.
 
 2. O Secretariado para a Juventude pode levar a efeito construções de natureza provisória.
 
 ### CAPÍTULO VI — Disposições provisórias
 
-###### Art. 30.º - 1. A constituição e funcionamento das organizações, de carácter permanente ou transitório, que tenham por objecto exercer exclusiva ou predominantemente actividades juvenis depende da autorização do Ministro da Educação Nacional.
+Art. 30.º - 1. A constituição e funcionamento das organizações, de carácter permanente ou transitório, que tenham por objecto exercer exclusiva ou predominantemente actividades juvenis depende da autorização do Ministro da Educação Nacional.
 
 2. A autorização referida no número anterior só será concedida, quanto às organizações que se proponham actuar no âmbito de um estabelecimento de ensino, depois de ouvido o Secretariado para a Juventude.
 
 3. Exceptuam-se do disposto nos n.os 1 e 2 do presente artigo as associações juvenis que se proponham realizar actividades de carácter exclusivamente religioso, as quais necessitam, para funcionar, ùnicamente do acordo do reitor ou director.
 
-###### Art. 31.º - 1. As visitas de estudo e excursões de estudantes, bem como, em geral, todas as actividades circum-escolares que não sejam levadas a efeito pelo Secretariado para a Juventude, dependem de autorização.
+Art. 31.º - 1. As visitas de estudo e excursões de estudantes, bem como, em geral, todas as actividades circum-escolares que não sejam levadas a efeito pelo Secretariado para a Juventude, dependem de autorização.
 
 2. A autorização referida no número anterior será dada pelo Ministro da Educação Nacional, excepto quanto às visitas de estudo e excursões que se efectuem dentro do continente ou de qualquer dos distritos autónomos das ilhas adjacentes e não envolvam prejuízo das aulas, ou sacrifiquem três dias de aulas no máximo, as quais serão autorizadas pelo reitor ou director do estabelecimento de ensino.
 
-###### Art. 32.º O presente diploma será regulamentado no prazo de três meses.
+Art. 32.º O presente diploma será regulamentado no prazo de três meses.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 15 de Outubro de 1971.**
+Promulgado em 15 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

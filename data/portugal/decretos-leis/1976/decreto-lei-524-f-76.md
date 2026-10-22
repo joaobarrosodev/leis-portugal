@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 155/1976, 3º Suplemento, Série I de 1976-07-05
   number: '155'
   series: I
-  supplement: 3º Suplemento
+  supplement: null
   pages: 1476-(13) a 1476-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/15503/00130014.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/524-f-1976-353907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46909a8af0d370b72f6088264420f3d213f076ab6825c230b14632d316a3de32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8983782500133b74b225688644fabacbd46399eb6c690038efe3209d7e953d9b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Empréstimo
+- Portugal
+- Rectificação de TIPO de Diploma
+- Reembolso
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:24Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +103,15 @@ de 5 de Julho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde sobre a Concessão de um Empréstimo Reembolsável, assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado o Acordo entre a República Portuguesa e a República de Cabo Verde sobre a Concessão de um Empréstimo Reembolsável, assinado em 15 de Abril de 1976, cujo texto vai anexo ao presente decreto.
 
 Vasco Fernando Leote de Almeida e Costa - Vítor Manuel Trigueiros Crespo - Francisco Salgado Zenha - Ernesto Augusto de Melo Antunes.
 
-**Assinado em 5 de Julho de 1976.**
+Assinado em 5 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ACORDO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE SOBRE A CONCESSÃO DE UM EMPRÉSTIMO REEMBOLSÁVEL.
 
@@ -110,7 +123,7 @@ Considerando os vultosos encargos que resultam para a República de Cabo Verde d
 
 O Governo da República Portuguesa e o Governo da República de Cabo Verde acordam no seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 O Governo Português concederá ao Governo da República de Cabo Verde um empréstimo reembolsável de 125000 contos, nas seguintes condições:
 
@@ -124,15 +137,15 @@ a) Este montante será entregue nas três parcelas seguintes:
 
 b) O empréstimo vencerá juros à taxa de 1,5% ao ano, sendo graciosos os dez primeiros anos, e o reembolso efectuar-se-á em quinze anuidades iguais de capital e juro vencendo-se a primeira em 30 de Junho de 1987.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Por comum acordo, poderão ser alterados ou prorrogados os prazos e os modos de reembolso do empréstimo concedido ao abrigo deste Acordo.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 Das prestações referidas no artigo 1.º, as duas primeiras serão efectuadas em escudos convertíveis e a última em escudos não convertíveis sobre a modalidade de «empréstimo ligado» a produtos portugueses.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 O presente Acordo entrará em vigor na data da sua assinatura e durará até à materialização dos termos acordados.
 

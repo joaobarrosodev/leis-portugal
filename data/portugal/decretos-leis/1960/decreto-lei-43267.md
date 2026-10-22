@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/10/24700/23072318.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43267-1960-513827
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1963-01-26T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0e56ade2f14541f353711c6969297f5a0903139692cfa1ea929c4a89abfeb94
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d40691a0b5c17b74924f52c248dffc6540d260bb78e963ab4ce96ea3c1089854
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Exército
+- Força Aérea
+- Forças Armadas
+- Gratificação
+- Marinha
+- Militar
+- Pessoal Civil
+- Remuneração
+- Serviço Militar
 relationships:
 - type: amended_by
   target: pt:dre:193229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:164220:por
+  label: "Alteradas as gratificações de serviço aéreo atribuídas às praças da Força Aérea em serviço no ultramar, estabelecidas\
+    \ no art. 11.º e tabela 16 deste diploma pelo DEC LEI.44367.28.05.1962.PC, DG.IS [121] de 28.05.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44367-1962-164220
+  date: '1962-05-28'
+- type: amended_by
+  target: pt:dre:156239:por
+  label: "Tornado extensivo aos miltares da Força Aérea o complemento de vencimentos referido no § único do art. 14º do Dec\
+    \ Lei 31896 de 27-Fev de 1942, mantido em vigor pelo art. 14º do presente diploma, pelo DEC LEI.44676.10.11.1962.PC, DG.IS\
+    \ [259] de 10.11.1962\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44676-1962-156239
+  date: '1962-11-10'
+- type: cites
+  target: pt:dre:254820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:193229:por
+  label: "Revogado pelo DEC LEI.44864.26.01.1963.PC, DG.IS [22] de 26.01.1963\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44864-1963-193229
+  date: '1963-01-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:06Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +138,27 @@ Considerando que é de toda a vantagem estabelecer, por diploma único, a legisl
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os vencimentos mensais dos oficiais do Exército, da Armada e da Força Aérea em serviço nas forças armadas das províncias ultramarinas são constituídos pelos vencimento-base e vencimento complementar constantes das tabelas n.º 1, n.º 2 e n.º 3 anexas.
+Artigo 1.º Os vencimentos mensais dos oficiais do Exército, da Armada e da Força Aérea em serviço nas forças armadas das províncias ultramarinas são constituídos pelos vencimento-base e vencimento complementar constantes das tabelas n.º 1, n.º 2 e n.º 3 anexas.
 
 § único. Os oficiais da reserva providos em cargos que os quadros orgânicos autorizem expressamente a ser desempenhados por oficiais nessa situação têm vencimentos iguais aos dos oficiais do activo, respectivamente, de igual patente e arma ou serviço ou classe ou especialidade.
 
-###### Art. 2.º Os vencimentos mensais dos sargentos do Exército, da Armada e da Força Aérea e dos furriéis do Exército e da Força Aérea em serviço nas forças armadas das províncias ultramarinas, em comissão ou dos quadros do ultramar, são constituídos pelo vencimento-base e pelo vencimento complementar constantes das tabelas n.º 4, n.º 5 e n.º 6 anexas.
+Art. 2.º Os vencimentos mensais dos sargentos do Exército, da Armada e da Força Aérea e dos furriéis do Exército e da Força Aérea em serviço nas forças armadas das províncias ultramarinas, em comissão ou dos quadros do ultramar, são constituídos pelo vencimento-base e pelo vencimento complementar constantes das tabelas n.º 4, n.º 5 e n.º 6 anexas.
 
 § único. Os sargentos reformados do Exército e da Força Aérea e os sargentos da Armada na situação de reserva que eventualmente sejam convocados para prestar serviço recebem vencimentos iguais aos do activo de igual graduação quando ocupem lugares fixados nos respectivos quadros ou lotações.
 
-###### Art. 3.º Os vencimentos diários das praças do Exército e da Força Aérea em serviço nas forças armadas das províncias ultramarinas são constituídos pelos vencimento-base, aumento de pré pela readmissão nas províncias ultramarinas e vencimento complementar constantes das tabelas n.º 7 e n.º 8 anexas.
+Art. 3.º Os vencimentos diários das praças do Exército e da Força Aérea em serviço nas forças armadas das províncias ultramarinas são constituídos pelos vencimento-base, aumento de pré pela readmissão nas províncias ultramarinas e vencimento complementar constantes das tabelas n.º 7 e n.º 8 anexas.
 
-###### Art. 4.º Os vencimentos mensais a abonar às praças da marinhagem e da taifa em serviço nos comandos navais ou nos comandos das defesas marítimas das províncias ultramarinas são constituídos pelo vencimento-base e vencimento complementar constantes da tabela n.º 9 anexa.
+Art. 4.º Os vencimentos mensais a abonar às praças da marinhagem e da taifa em serviço nos comandos navais ou nos comandos das defesas marítimas das províncias ultramarinas são constituídos pelo vencimento-base e vencimento complementar constantes da tabela n.º 9 anexa.
 
 § único. As praças da Armada na situação de reserva que eventualmente sejam convocadas para prestar serviço receberão vencimentos iguais aos do activo de igual graduação quando ocupem lugares fixados nas lotações.
 
-###### Art. 5.º Os vencimentos de primeiro-cabo do Exército dos quadros do ultramar nas províncias de Angola, Moçambique e Macau são iguais aos fixados na tabela n.º 7 para os primeiros-cabos em comissão.
+Art. 5.º Os vencimentos de primeiro-cabo do Exército dos quadros do ultramar nas províncias de Angola, Moçambique e Macau são iguais aos fixados na tabela n.º 7 para os primeiros-cabos em comissão.
 
-###### Art. 6.º Os instruendos do curso de sargentos milicianos ministrados nas forças terrestres ultramarinas têm os vencimentos fixados na tabela n.º 7 para recruta ou soldado de 2.ª classe, conforme frequentem o 1.º ou o 2.º ciclo do referido curso. Quando promovidos a primeiro-cabo miliciano, têm vencimentos iguais aos fixados na tabela para primeiro-cabo não readmitido dos quadros de 1.ª classe.
+Art. 6.º Os instruendos do curso de sargentos milicianos ministrados nas forças terrestres ultramarinas têm os vencimentos fixados na tabela n.º 7 para recruta ou soldado de 2.ª classe, conforme frequentem o 1.º ou o 2.º ciclo do referido curso. Quando promovidos a primeiro-cabo miliciano, têm vencimentos iguais aos fixados na tabela para primeiro-cabo não readmitido dos quadros de 1.ª classe.
 
-###### Art. 7.º Os vencimentos mensais referidos nos artigos 1.º, 2.º e 4.º são constituídos, respectivamente, por soldo e exercício e ordenado e exercício. O soldo e o ordenado são iguais a cinco sextos dos respectivos vencimentos e os exercícios a um sexto dos mesmos vencimentos.
+Art. 7.º Os vencimentos mensais referidos nos artigos 1.º, 2.º e 4.º são constituídos, respectivamente, por soldo e exercício e ordenado e exercício. O soldo e o ordenado são iguais a cinco sextos dos respectivos vencimentos e os exercícios a um sexto dos mesmos vencimentos.
 
-###### Art. 8.º A concessão de períodos de readmissão às praças das forças terrestres e aéreas ultramarinas e correspondentes aumentos de pré é feita nas mesmas condições estabelecidas na metrópole para o Exército e Força Aérea, sem prejuízo do que seja disposto especialmente para as referidas forças.
+Art. 8.º A concessão de períodos de readmissão às praças das forças terrestres e aéreas ultramarinas e correspondentes aumentos de pré é feita nas mesmas condições estabelecidas na metrópole para o Exército e Força Aérea, sem prejuízo do que seja disposto especialmente para as referidas forças.
 
 § 1.º Para as praças especializadas em pára-quedismo o 1.º período de readmissão conta-se após dois anos de prestação de serviço nas tropas pára-quedistas, contados a partir da admissão definitiva destas tropas. Os períodos de readmissão são, no entanto, trienais.
 
@@ -122,11 +166,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º O número de praças readmitidas nos quadros de 2.ª e 3.ª classes não podem exceder os limites de, respectivamente, 30 e 20 por cento dos quadros orgânicos de primeiros-cabos e o de 10 por cento dos de segundos-cabos e soldados do segundo daqueles quadros sem que no diploma a editar pelo Ministro da Defesa Nacional, sob proposta do Ministério do Exército, se autorizem limites maiores. O quadro geral do pessoal orçamentado indicará sempre o número total de praças das respectivas graduações de cada um dos dois referidos quadros, que vencerá readmissão pela dotação global inscrita no orçamento para pagamento dos aumentos de pré por períodos de readmissão.
 
-###### Art. 9.º As gratificações a abonar aos oficiais das forças terrestres, navais e aéreas das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 10, n.º 11 e n.º 12 anexas.
+Art. 9.º As gratificações a abonar aos oficiais das forças terrestres, navais e aéreas das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 10, n.º 11 e n.º 12 anexas.
 
 § único. A soma da pensão de reserva ou de reforma e de quaisquer acréscimos com a gratificação fixada na alínea d) do n.º 3) das tabelas n.º 10 e n.º 11 não pode exceder o vencimento total, respectivamente, de igual patente e arma ou serviço, ou classe ou especialidade no activo.
 
-###### Art. 10.º As gratificações a abonar a sargentos e praças das forças terrestres e navais das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 13 e n.º 14 anexas.
+Art. 10.º As gratificações a abonar a sargentos e praças das forças terrestres e navais das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 13 e n.º 14 anexas.
 
 § 1.º As gratificações dos n.os 1) a 7) da tabela n.º 13 só podem ser abonadas a praças que tenham sido dadas prontas da instrução da respectiva especialidade no ultramar mediante as provas prestadas segundo as instruções do Ministério do Exército, ou que a tenham já averbada, se forem praças em comissão.
 
@@ -134,33 +178,33 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º A soma das pensões de reforma ou de reserva e de quaisquer acréscimos com a gratificação fixada no n.º 9) da tabela n.º 13 e n.os 20) e 21) da tabela n.º 14 não pode exceder o vencimento total de igual posto do correspondente quadro no activo, considerando-se este, para as praças do Exército, o fixado para o 4.º período de readmissão. Às praças reformadas do Exército será abonada, além da gratificação, importância diária igual à fixada para alimentação das do activo.
 
-###### Art. 11.º As gratificações de especialidade e serviço aéreo a abonar a sargentos e praças das forças aéreas das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 15 e n.º 16 anexas.
+Art. 11.º As gratificações de especialidade e serviço aéreo a abonar a sargentos e praças das forças aéreas das províncias ultramarinas passam a ser ùnicamente as das tabelas n.º 15 e n.º 16 anexas.
 
 § único. Estas gratificações só podem ser abonadas a praças que tenham sido dadas prontas da instrução da respectiva especialidade no ultramar mediante as provas prestadas segundo as instruções do Subsecretariado de Estado da Aeronáutica, ou que a tenham já averbada, se forem praças em comissão.
 
-###### Art. 12.º Em localidades de fronteira das províncias da Guiné, Angola, Moçambique e Timor em que sejam frequentes relações dos comandos locais com autoridades estrangeiras poderá ser atribuída, por portaria do Ministro da Defesa Nacional, uma gratificação de representação, mediante proposta fundamentada dos comandantes das forças terrestres, navais e aéreas.
+Art. 12.º Em localidades de fronteira das províncias da Guiné, Angola, Moçambique e Timor em que sejam frequentes relações dos comandos locais com autoridades estrangeiras poderá ser atribuída, por portaria do Ministro da Defesa Nacional, uma gratificação de representação, mediante proposta fundamentada dos comandantes das forças terrestres, navais e aéreas.
 
-###### Art. 13.º Poderá ser atribuída gratificação de isolamento aos militares dos três ramos das forças armadas que prestem serviço permanente em localidades de fronteira das províncias da Guiné, Angola, Moçambique e Timor. A concessão será feita nos termos do artigo anterior, mantendo-se, entretanto, em vigor o subsídio de isolamento actualmente percebido nas forças terrestres ultramarinas.
+Art. 13.º Poderá ser atribuída gratificação de isolamento aos militares dos três ramos das forças armadas que prestem serviço permanente em localidades de fronteira das províncias da Guiné, Angola, Moçambique e Timor. A concessão será feita nos termos do artigo anterior, mantendo-se, entretanto, em vigor o subsídio de isolamento actualmente percebido nas forças terrestres ultramarinas.
 
-###### Art. 14.º O complemento de vencimento a que se refere o § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942, é mantido para as respectivas forças terrestres ultramarinas precisamente nas condições legais em que estiver a ser abonado aos funcionários civis e enquanto se mantiver para estes o respectivo direito.
+Art. 14.º O complemento de vencimento a que se refere o § único do artigo 14.º do Decreto n.º 31896, de 27 de Fevereiro de 1942, é mantido para as respectivas forças terrestres ultramarinas precisamente nas condições legais em que estiver a ser abonado aos funcionários civis e enquanto se mantiver para estes o respectivo direito.
 
-###### Art. 15.º Continua em vigor, nos termos e quantitativos actualmente estabelecidos para as forças terrestres ultramarinas, o subsídio para a renda de casa a militares, o qual é extensivo aos militares da Armada e da Força Aérea.
+Art. 15.º Continua em vigor, nos termos e quantitativos actualmente estabelecidos para as forças terrestres ultramarinas, o subsídio para a renda de casa a militares, o qual é extensivo aos militares da Armada e da Força Aérea.
 
-###### Art. 16.º Os militares das forças terrestres, navais e aéreas das províncias ultramarinas que habitem casa do Estado ficam sujeitos ao desconto de importância correspondente a 30 por cento do subsídio para renda de casa que estiver estabelecido na respectiva província para os militares da sua patente ou posto.
+Art. 16.º Os militares das forças terrestres, navais e aéreas das províncias ultramarinas que habitem casa do Estado ficam sujeitos ao desconto de importância correspondente a 30 por cento do subsídio para renda de casa que estiver estabelecido na respectiva província para os militares da sua patente ou posto.
 
 § 1.º Nas províncias onde não houver direito ao abono do subsídio de renda de casa o desconto incidirá sobre o vencimento-base na percentagem que for fixada em portaria do Ministro da Defesa Nacional.
 
 § 2.º O produto das rendas estabelecidas neste artigo constitui receita dos Serviços Sociais das Forças Armadas.
 
-###### Art. 17.º Aos funcionários civis das províncias ultramarinas que, por acumulação, desempenharem funções de justiça nos tribunais militares ou clínicas em unidades ou estabelecimentos das forças terrestres, navais e aéreas serão abonadas as gratificações mensais constantes da tabela n.º 17.
+Art. 17.º Aos funcionários civis das províncias ultramarinas que, por acumulação, desempenharem funções de justiça nos tribunais militares ou clínicas em unidades ou estabelecimentos das forças terrestres, navais e aéreas serão abonadas as gratificações mensais constantes da tabela n.º 17.
 
 § único. Os capelães, médicos e enfermeiros equiparados a militar especializados em pára-quedismo e em serviço nas tropas pára-quedistas serão abonados das gratificações da mesma tabela.
 
-###### Art. 18.º O direito dos militares das forças terrestres, navais e aéreas ultramarinas ao soldo ou ordenado e ao vencimento de exercício, ou ao pré e seus aumentos por períodos de readmissão, por inteiro ou com redução, e a perda total desse direito regem-se pelas disposições legais que vigorarem na metrópole para o Exército, Marinha e Força Aérea.
+Art. 18.º O direito dos militares das forças terrestres, navais e aéreas ultramarinas ao soldo ou ordenado e ao vencimento de exercício, ou ao pré e seus aumentos por períodos de readmissão, por inteiro ou com redução, e a perda total desse direito regem-se pelas disposições legais que vigorarem na metrópole para o Exército, Marinha e Força Aérea.
 
-###### Art. 19.º Para o efeito do direito dos militares das forças terrestres, navais e aéreas ultramarinas ao abono do vencimento complementar, esse vencimento fica sujeito a preceitos iguais aos que, pelo artigo anterior, regulam o direito ao soldo, ordenado ou pré.
+Art. 19.º Para o efeito do direito dos militares das forças terrestres, navais e aéreas ultramarinas ao abono do vencimento complementar, esse vencimento fica sujeito a preceitos iguais aos que, pelo artigo anterior, regulam o direito ao soldo, ordenado ou pré.
 
-###### Art. 20.º Durante as viagens por conta do Estado por qualquer via e durante os períodos em que aguardem transporte ou permaneçam fora da província ultramarina respectiva os vencimentos a abonar aos militares das forças terrestres, navais e aéreas das províncias ultramarinas e aos que a elas se destinem ou delas regressem são os seguintes:
+Art. 20.º Durante as viagens por conta do Estado por qualquer via e durante os períodos em que aguardem transporte ou permaneçam fora da província ultramarina respectiva os vencimentos a abonar aos militares das forças terrestres, navais e aéreas das províncias ultramarinas e aos que a elas se destinem ou delas regressem são os seguintes:
 
 1.º Quando em viagem dentro da província respectiva: os estabelecidos nos artigos 1.º, 2.º, 3.º e 4.º, nos quantitativos a que a sua situação militar lhes der direito;
 
@@ -196,51 +240,51 @@ b) Na metrópole: o vencimento-base que competir à sua patente ou posto segundo
 
 § único. Em todos os casos referidos neste artigo considera-se abrangido pela designação de vencimento-base o aumento de pré pela readmissão nas províncias constante das tabelas n.º 7 e n.º 8 anexas.
 
-###### Art. 21.º Os oficiais das forças terrestres, navais e aéreas ultramarinas perdem o direito ao abono da gratificação para despesas de representação desde o dia em que, por exoneração do cargo, passem a outra situação na província ou fiquem a aguardar transporte para regresso e nas situações em que percam o direito ao vencimento de exercício ou nas de ausência da província.
+Art. 21.º Os oficiais das forças terrestres, navais e aéreas ultramarinas perdem o direito ao abono da gratificação para despesas de representação desde o dia em que, por exoneração do cargo, passem a outra situação na província ou fiquem a aguardar transporte para regresso e nas situações em que percam o direito ao vencimento de exercício ou nas de ausência da província.
 
-###### Art. 22.º Salvo o disposto no artigo antecedente, as gratificações estabelecidas nas tabelas anexas só são abonadas pelo desempenho efectivo da função e enquanto esta durar. As gratificações, exceptuando-se as dos serviços aéreo, de imersão e de mergulhador e a de representação, são inacumuláveis entre si, prevalecendo a maior no caso de acumulação de funções.
+Art. 22.º Salvo o disposto no artigo antecedente, as gratificações estabelecidas nas tabelas anexas só são abonadas pelo desempenho efectivo da função e enquanto esta durar. As gratificações, exceptuando-se as dos serviços aéreo, de imersão e de mergulhador e a de representação, são inacumuláveis entre si, prevalecendo a maior no caso de acumulação de funções.
 
 § único. Para efeitos do constante no corpo deste artigo, o militar na situação de licença disciplinar considera-se no desempenho efectivo da função, excepto se for substituído por outro, ao qual, nesse caso, passará a ser abonada a gratificação respectiva.
 
-###### Art. 23.º Os elementos constituintes de quadros orgânicos de bandas de música nas forças terrestres, navais e aéreas ultramarinas terão vencimentos iguais aos da patente ou posto a que estiverem equiparados.
+Art. 23.º Os elementos constituintes de quadros orgânicos de bandas de música nas forças terrestres, navais e aéreas ultramarinas terão vencimentos iguais aos da patente ou posto a que estiverem equiparados.
 
-###### Art. 24.º Nos vencimentos dos oficiais, dos sargentos e furriéis e das praças readmitidas do Exército e da Força Aérea e das praças de marinhagem do grupo A e da taifa da Armada, em comissão nas forças terrestres, navais e aéreas ultramarinas, será feito o desconto da quota legal para a Caixa Geral de Aposentações.
+Art. 24.º Nos vencimentos dos oficiais, dos sargentos e furriéis e das praças readmitidas do Exército e da Força Aérea e das praças de marinhagem do grupo A e da taifa da Armada, em comissão nas forças terrestres, navais e aéreas ultramarinas, será feito o desconto da quota legal para a Caixa Geral de Aposentações.
 
 § 1.º As gratificações que influem no cálculo das pensões de reserva e de reforma sofrem o desconto da quota legal para a Caixa Geral de Aposentações.
 
 § 2.º Os sargentos e furriéis e as praças readmitidas dos quadros de 1.ª, 2.ª e 3.ª classes ficam sujeitos ao pagamento da compensação de aposentação estabelecido para o funcionalismo ultramarino e beneficiarão dos correspondentes direitos pela forma que vier a ser regulamentada.
 
-###### Art. 25.º Os sargentos e furriéis e as praças readmitidas dos quadros de 2.ª classe que tenham passagem aos quadros metropolitanos, e, consequentemente, passem a ser inscritos na Caixa Geral de Aposentações, deixarão de fazer o pagamento de que trata o § 2.º do artigo anterior e a importância já paga a título de compensação de aposentação será transferida para a mencionada Caixa até ao limite total da indemnização à mesma devida, conforme a lei estabelecer.
+Art. 25.º Os sargentos e furriéis e as praças readmitidas dos quadros de 2.ª classe que tenham passagem aos quadros metropolitanos, e, consequentemente, passem a ser inscritos na Caixa Geral de Aposentações, deixarão de fazer o pagamento de que trata o § 2.º do artigo anterior e a importância já paga a título de compensação de aposentação será transferida para a mencionada Caixa até ao limite total da indemnização à mesma devida, conforme a lei estabelecer.
 
-###### Art. 26.º Os militares das forças terrestres, navais e aéreas ultramarinas estão sujeitas aos descontos para as instituições de previdência ou de assistência oficiais metropolitanas em que, voluntária ou obrigatòriamente, estejam ou venham a estar inscritos, nas precisas condições legais que regularem a realização desses descontos, ainda que elas envolvam incidência sobre vencimentos permanentes ou eventuais que, por outras disposições de lei, beneficiem de qualquer isenção de disposições no ultramar.
+Art. 26.º Os militares das forças terrestres, navais e aéreas ultramarinas estão sujeitas aos descontos para as instituições de previdência ou de assistência oficiais metropolitanas em que, voluntária ou obrigatòriamente, estejam ou venham a estar inscritos, nas precisas condições legais que regularem a realização desses descontos, ainda que elas envolvam incidência sobre vencimentos permanentes ou eventuais que, por outras disposições de lei, beneficiem de qualquer isenção de disposições no ultramar.
 
-###### Art. 27.º Os militares ou equiparados que tenham estado presos e ainda os suspensos das funções de serviço, nos termos do artigo 170.º do Regulamento de Disciplina Militar, serão indemnizados dos vencimentos e mais abonos deixados de perceber por aqueles motivos se vierem a ser ilibados de responsabilidade.
+Art. 27.º Os militares ou equiparados que tenham estado presos e ainda os suspensos das funções de serviço, nos termos do artigo 170.º do Regulamento de Disciplina Militar, serão indemnizados dos vencimentos e mais abonos deixados de perceber por aqueles motivos se vierem a ser ilibados de responsabilidade.
 
-###### Art. 28.º Ficam extintos nas forças terrestres ultramarinas os prémios de readmissão presentemente estabelecidos e o subsídio extraordinário de alimentação actualmente concedido a sargentos e furriéis na província de Macau.
+Art. 28.º Ficam extintos nas forças terrestres ultramarinas os prémios de readmissão presentemente estabelecidos e o subsídio extraordinário de alimentação actualmente concedido a sargentos e furriéis na província de Macau.
 
-###### Art. 29.º Os quantitativos diários, quer em dinheiro, quer em género, a abonar para os diferentes ranchos das forças terrestres, navais e aéreas ultramarinas serão fixados anualmente para cada província por portaria do Ministro da Defesa Nacional, mediante proposta dos Ministros do Exército e da Marinha e Subsecretário de Estado da Aeronáutica.
+Art. 29.º Os quantitativos diários, quer em dinheiro, quer em género, a abonar para os diferentes ranchos das forças terrestres, navais e aéreas ultramarinas serão fixados anualmente para cada província por portaria do Ministro da Defesa Nacional, mediante proposta dos Ministros do Exército e da Marinha e Subsecretário de Estado da Aeronáutica.
 
 § único. Enquanto não for dada execução ao disposto neste artigo mantêm-se em vigor os actuais quantitativos, quer em dinheiro, quer em género.
 
-###### Art. 30.º Os quantitativos destinados a despesas com o fardamento e calçado das praças do Exército e da Força Aérea das províncias ultramarinas serão fixadas anualmente para cada província e para cada um dos departamentos por portaria do Ministro da Defesa Nacional.
+Art. 30.º Os quantitativos destinados a despesas com o fardamento e calçado das praças do Exército e da Força Aérea das províncias ultramarinas serão fixadas anualmente para cada província e para cada um dos departamentos por portaria do Ministro da Defesa Nacional.
 
 § único. Enquanto não for dada execução ao disposto neste artigo mantêm-se em vigor os actuais quantitativos.
 
-###### Art. 31.º É mantido o abono de auxílio para fardamento às praças da Armada dos comandos navais e dos comandos das defesas marítimas, nas mesmas condições e quantitativos vigentes no Ministério da Marinha.
+Art. 31.º É mantido o abono de auxílio para fardamento às praças da Armada dos comandos navais e dos comandos das defesas marítimas, nas mesmas condições e quantitativos vigentes no Ministério da Marinha.
 
-###### Art. 32.º Os vencimentos e gratificações dos militares da Força Aérea em comissão nas forças terrestres ultramarinas são os estabelecidos neste diploma para as respectivas patentes ou postos, acrescidos das gratificações de serviço aéreo, de diploma e de especialidade que lhes competiriam no serviço da Força Aérea, não sendo, porém, as de especialidade das praças acumuláveis com as de especialidade constantes da tabela n.º 13.
+Art. 32.º Os vencimentos e gratificações dos militares da Força Aérea em comissão nas forças terrestres ultramarinas são os estabelecidos neste diploma para as respectivas patentes ou postos, acrescidos das gratificações de serviço aéreo, de diploma e de especialidade que lhes competiriam no serviço da Força Aérea, não sendo, porém, as de especialidade das praças acumuláveis com as de especialidade constantes da tabela n.º 13.
 
-###### Art. 33.º Os segundos-cabos e soldados em comissão e dos quadros de 2.ª classe a quem nesta data estejam já concedidos períodos de readmissão mantêm o direito ao vencimento total que actualmente estejam percebendo enquanto se mantiverem nas fileiras e não passem a ter direito, pela situação, a vencimento superior ao actualmente percebido. O seu vencimento complementar será a diferença entre esse total e o pré que lhes competir pela tabela n.º 7.
+Art. 33.º Os segundos-cabos e soldados em comissão e dos quadros de 2.ª classe a quem nesta data estejam já concedidos períodos de readmissão mantêm o direito ao vencimento total que actualmente estejam percebendo enquanto se mantiverem nas fileiras e não passem a ter direito, pela situação, a vencimento superior ao actualmente percebido. O seu vencimento complementar será a diferença entre esse total e o pré que lhes competir pela tabela n.º 7.
 
-###### Art. 34.º Os primeiros-cabos monitores e os habilitados com o curso de monitores dos quadros de praças de 2.ª e 3.ª classes actualmente existentes com vencimento especial mantêm o direito ao vencimento total que estão percebendo, se ele for superior ao fixado pela tabela n.º 7.º para primeiro-cabo daqueles quadros no período de readmissão que porventura estejam vencendo, enquanto se mantiverem nas fileiras e não passem a ter direito, pela situação, a vencimento superior ao actualmente percebido. O seu vencimento complementar será a diferença entre aquele total e o do pré com a readmissão da província que lhes competir pela tabela n.º 7.
+Art. 34.º Os primeiros-cabos monitores e os habilitados com o curso de monitores dos quadros de praças de 2.ª e 3.ª classes actualmente existentes com vencimento especial mantêm o direito ao vencimento total que estão percebendo, se ele for superior ao fixado pela tabela n.º 7.º para primeiro-cabo daqueles quadros no período de readmissão que porventura estejam vencendo, enquanto se mantiverem nas fileiras e não passem a ter direito, pela situação, a vencimento superior ao actualmente percebido. O seu vencimento complementar será a diferença entre aquele total e o do pré com a readmissão da província que lhes competir pela tabela n.º 7.
 
-###### Art. 35.º Os actuais primeiros e segundos-cabos não readmitidos dos quadros de praças de 2.ª e 3.ª classes da província de Moçambique nas guarnições de Lourenço Marques e Beira mantêm o direito ao vencimento total que estão percebendo enquanto se mantiverem nas fileiras daquelas guarnições sem readmissão, para o que o seu vencimento complementar será a diferença entre aquele total e o pré que lhes competir pela tabela n.º 7.
+Art. 35.º Os actuais primeiros e segundos-cabos não readmitidos dos quadros de praças de 2.ª e 3.ª classes da província de Moçambique nas guarnições de Lourenço Marques e Beira mantêm o direito ao vencimento total que estão percebendo enquanto se mantiverem nas fileiras daquelas guarnições sem readmissão, para o que o seu vencimento complementar será a diferença entre aquele total e o pré que lhes competir pela tabela n.º 7.
 
 De igual maneira se procederá com os recrutas dos referidos quadros das províncias de Angola e de Moçambique (guarnições mencionadas) e dos quadros de 2.ª classe nesta última que actualmente estejam recebendo a instrução de recrutas.
 
-###### Art. 36.º As praças dos quadros de 2.ª e 3.ª classes destacadas noutras províncias, readmitidas ou não, passam a ser abonadas dos vencimentos fixados na tabela n.º 7 para aqueles quadros na província de Moçambique, sem prejuízo, porém, dos vencimentos totais actualmente estabelecidos. Neste segundo caso o seu vencimento complementar será a diferença entre o total actual e o do pré com a readmissão da província que lhes competir pela tabela n.º 7.
+Art. 36.º As praças dos quadros de 2.ª e 3.ª classes destacadas noutras províncias, readmitidas ou não, passam a ser abonadas dos vencimentos fixados na tabela n.º 7 para aqueles quadros na província de Moçambique, sem prejuízo, porém, dos vencimentos totais actualmente estabelecidos. Neste segundo caso o seu vencimento complementar será a diferença entre o total actual e o do pré com a readmissão da província que lhes competir pela tabela n.º 7.
 
-###### Art. 37.º Os militares da Armada das guarnições dos comandos navais e das defesas marítimas que embarquem por motivo de serviço em unidades navais e naveguem para fora dos portos onde estão instaladas as sedes dos respectivos comandos por mais de seis horas serão abonados pelo Ministério da Marinha do subsídio de embarque que pelo Ministério estiver fixado para a província.
+Art. 37.º Os militares da Armada das guarnições dos comandos navais e das defesas marítimas que embarquem por motivo de serviço em unidades navais e naveguem para fora dos portos onde estão instaladas as sedes dos respectivos comandos por mais de seis horas serão abonados pelo Ministério da Marinha do subsídio de embarque que pelo Ministério estiver fixado para a província.
 
 § 1.º Também serão abonados de subsídio de embarque, nas precisas condições do corpo deste artigo, mas não pago pelo Ministério da Marinha, os militares da Armada embarcados em navios atribuídos aos comandos navais e das defesas marítimas com carácter permanente que, por pertencerem às lotações dos mesmos comandos, tenham direito aos vencimentos fixados por este diploma.
 
@@ -248,31 +292,31 @@ De igual maneira se procederá com os recrutas dos referidos quadros das provín
 
 § 3.º Quando se trate de unidades navais que prestem serviço permanente num mesmo rio ou área, o Ministro da Marinha, por proposta do respectivo comandante naval ou de defesa marítima, determinará o porto que deve ser considerado como sede do comando, para efeitos da aplicação do disposto neste artigo.
 
-###### Art. 38.º As disposições do presente diploma não são aplicáveis ao pessoal das guarnições dos navios da Armada em águas do ultramar que não pertença às lotações dos comandos navais e das defesas marítimas, o qual perceberá pelo Ministério da Marinha os vencimentos a que tiver direito.
+Art. 38.º As disposições do presente diploma não são aplicáveis ao pessoal das guarnições dos navios da Armada em águas do ultramar que não pertença às lotações dos comandos navais e das defesas marítimas, o qual perceberá pelo Ministério da Marinha os vencimentos a que tiver direito.
 
-###### Art. 39.º Os militares da Armada que, conjuntamente, exerçam funções nos comandos navais ou nos comandos das defesas marítimas e desempenhem cargos nas direcções e repartições provinciais dos serviços de marinha podem optar pelos vencimentos correspondentes a estes cargos ou pelos vencimentos militares fixados pelo presente diploma.
+Art. 39.º Os militares da Armada que, conjuntamente, exerçam funções nos comandos navais ou nos comandos das defesas marítimas e desempenhem cargos nas direcções e repartições provinciais dos serviços de marinha podem optar pelos vencimentos correspondentes a estes cargos ou pelos vencimentos militares fixados pelo presente diploma.
 
 § único. O pessoal referido no corpo deste artigo que opte pelos vencimentos militares continua recebendo pelas direcções e repartições provinciais os respectivos vencimentos e pelos comandos navais ou das defesas marítimas as diferenças para mais entre aqueles vencimentos e os estabelecidos pelo presente diploma.
 
-###### Art. 40.º As condições de abono das gratificações de serviço aéreo para os oficiais pilotos aviadores, oficiais pilotos navegadores, oficiais navegadores, oficiais técnicos pertencentes às tripulações de aeronaves em voo, sargentos pilotos, sargentos especialistas pertencentes às tripulações das aeronaves em voo, primeiros-cabos readmitidos especialistas pertencentes às tripulações de aeronaves em voo e primeiros-cabos especialistas pertencentes às tripulações de aeronaves em voo são as estabelecidas no [Decreto-Lei n.º 41511](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41511-1958-303788), de 23 de Janeiro de 1958.
+Art. 40.º As condições de abono das gratificações de serviço aéreo para os oficiais pilotos aviadores, oficiais pilotos navegadores, oficiais navegadores, oficiais técnicos pertencentes às tripulações de aeronaves em voo, sargentos pilotos, sargentos especialistas pertencentes às tripulações das aeronaves em voo, primeiros-cabos readmitidos especialistas pertencentes às tripulações de aeronaves em voo e primeiros-cabos especialistas pertencentes às tripulações de aeronaves em voo são as estabelecidas no [Decreto-Lei n.º 41511](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41511-1958-303788), de 23 de Janeiro de 1958.
 
-###### Art. 41.º A condição de abono em cada mês de um semestre das gratificações de serviço aéreo para os militares e equiparados especializados em pára-quedismo em serviço nas tropas pára-quedistas é a execução no semestre anterior de quatro saltos de pára-quedas de abertura automática de avião em voo.
+Art. 41.º A condição de abono em cada mês de um semestre das gratificações de serviço aéreo para os militares e equiparados especializados em pára-quedismo em serviço nas tropas pára-quedistas é a execução no semestre anterior de quatro saltos de pára-quedas de abertura automática de avião em voo.
 
-###### Art. 42.º A condição de abono em cada mês de um trimestre das gratificações pelo desempenho de funções especiais para oficiais pilotos aviadores e sargentos pilotos de aviões de propulsão por reacção é a execução no trimestre anterior do treino mínimo estabelecido nos artigos 1.º e 2.º do [Decreto-Lei n.º 42428](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42428-1959-431648), de 4 de Agosto de 1959.
+Art. 42.º A condição de abono em cada mês de um trimestre das gratificações pelo desempenho de funções especiais para oficiais pilotos aviadores e sargentos pilotos de aviões de propulsão por reacção é a execução no trimestre anterior do treino mínimo estabelecido nos artigos 1.º e 2.º do [Decreto-Lei n.º 42428](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42428-1959-431648), de 4 de Agosto de 1959.
 
-###### Art. 43.º As condições de abono em cada mês de um semestre das gratificações pelo desempenho de funções especiais para oficiais e sargentos especializados em pára-quedismo em serviço nas tropas pára-quedistas e monitores de pára-quedismo são a posse, respectivamente, dos cursos de instrutor de pára-quedismo e monitor de pára-quedismo e a execução no semestre anterior de dois saltos de pára-quedas de abertura manual de avião em voo.
+Art. 43.º As condições de abono em cada mês de um semestre das gratificações pelo desempenho de funções especiais para oficiais e sargentos especializados em pára-quedismo em serviço nas tropas pára-quedistas e monitores de pára-quedismo são a posse, respectivamente, dos cursos de instrutor de pára-quedismo e monitor de pára-quedismo e a execução no semestre anterior de dois saltos de pára-quedas de abertura manual de avião em voo.
 
-###### Art. 44.º São extensivas às províncias ultramarinas as disposições do [Decreto-Lei n.º 41291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41291-1957-254820), de 24 de Setembro de 1957, sendo as gratificações a abonar as estabelecidas nas tabelas n.º 10, n.º 12 e n.º 15 anexas.
+Art. 44.º São extensivas às províncias ultramarinas as disposições do [Decreto-Lei n.º 41291](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41291-1957-254820), de 24 de Setembro de 1957, sendo as gratificações a abonar as estabelecidas nas tabelas n.º 10, n.º 12 e n.º 15 anexas.
 
-###### Art. 45.º Os vencimentos do pessoal civil da Força Aérea serão fixados em portaria especial.
+Art. 45.º Os vencimentos do pessoal civil da Força Aérea serão fixados em portaria especial.
 
-###### Art. 46.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho do Ministro da Defesa Nacional.
+Art. 46.º As dúvidas e casos omissos que se apresentem na execução deste diploma serão resolvidos por despacho do Ministro da Defesa Nacional.
 
-###### Art. 47.º As disposições do presente decreto-lei vigoram a partir de 1 de Janeiro de 1960.
+Art. 47.º As disposições do presente decreto-lei vigoram a partir de 1 de Janeiro de 1960.
 
-###### Art. 48.º Fica revogado o [Decreto-Lei n.º 42309](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42309-1959-432643), de 6 de Junho de 1959.
+Art. 48.º Fica revogado o [Decreto-Lei n.º 42309](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42309-1959-432643), de 6 de Junho de 1959.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -280,6 +324,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Va
 
 Da TABELA N.º 1 à TABELA N.º 17
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/24700/23072318.pdf))](https://files.diariodarepublica.pt/1s/1960/10/24700/23072318.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/10/24700/23072318.pdf)
 
 Presidência do Conselho, 21 de Outubro de 1960. - O Ministro da Defesa Nacional, Júlio Carlos Alves Dias Botelho Moniz.

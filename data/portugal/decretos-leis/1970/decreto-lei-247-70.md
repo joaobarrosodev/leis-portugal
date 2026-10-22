@@ -47,36 +47,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1970-142497
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:13:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 458780911b7b54fc49655c8d0e9b5cd2934f9340a57fdae7e2c1c9226502a72e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4298544a63bed8ae7dd429873dc0b72be990c5d92c36544d9c7b6a414f4fa971
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:13:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Cuidados Médicos
+- Estatuto
+- Internato Médico
+- Medicina
+- Médico
+- Ordem dos Médicos
+- Saúde Infantil e Juvenil
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:231687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:13:44Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +105,9 @@ Considerando que a proposta obteve parecer favorável da Junta Nacional da Educa
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a especialidade de cirurgia pediátrica, que, para todos os efeitos, passa a considerar-se integrada no quadro das especialidades reconhecidas pelo artigo 25.º do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956.
+Artigo 1.º É criada a especialidade de cirurgia pediátrica, que, para todos os efeitos, passa a considerar-se integrada no quadro das especialidades reconhecidas pelo artigo 25.º do Estatuto da Ordem dos Médicos, aprovado pelo [Decreto-Lei n.º 40651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40651-1956-231687), de 21 de Junho de 1956.
 
-###### Art. 2.º - 1. As inscrições na especialidade de cirurgia pediátrica serão efectuadas em conformidade com o disposto na secção II do capítulo II do Estatuto da Ordem dos Médicos.
+Art. 2.º - 1. As inscrições na especialidade de cirurgia pediátrica serão efectuadas em conformidade com o disposto na secção II do capítulo II do Estatuto da Ordem dos Médicos.
 
 2. Aos candidatos ao título de especialista reconhecido por este diploma é exigido:
 
@@ -107,8 +119,8 @@ b) Dois anos de estágio em cirurgia pediátrica.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 11 de Maio de 1970.**
+Promulgado em 11 de Maio de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Maio de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

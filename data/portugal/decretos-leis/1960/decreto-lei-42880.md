@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1960/03/06600/08060806.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42880-1960-282495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T21:31:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d1edcf407676acfdc293657a2345227dfcd4da688708741010a7d987ac593a89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb3f8478a3764119104fef0c6c146a77ea14b6d2ef12262e3e9fda1a0b2f82be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:31:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração dos Portos do Douro e Leixões
+- Administração Geral do Porto de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:685612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:685188:por
+  label: "Revogado, na parte respeitante ao pessoal que seja subscritor da Caixa Geral de Aposentações, o art. 1º pelo DEC\
+    \ LEI.498/72.09.12.1972.MF, DG.IS [285] de 09.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/498-1972-685188
+  date: '1972-12-09'
+- type: repealed_by
+  target: pt:dre:685612:por
+  label: "Revogado pelo DEC LEI.540/72.22.12.1972.MCOMN, DG.IS [296] de 22.12.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/540-1972-685612
+  date: '1972-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:31:33Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +122,11 @@ Havendo que regular situações resultantes dessa circunstância;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Ao pessoal da Administração-Geral do Porto de Lisboa e da Administração dos Portos do Douro e Leixões, de idade superior a 70 anos e com mais de 20 anos de bom e efectivo serviço, que não tenha podido ou não possa beneficiar das disposições do artigo 115.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948, ou das do artigo 83.º do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), da mesma data, e àquele que, com igual tempo de efectividade, tenha sido ou venha a ser desligado do serviço por motivo de incapacidade física devidamente verificada poderá o Ministro das Comunicações, sob proposta do competente conselho de administração, conceder subsídios como os previstos nas indicadas disposições legais, desde que para tal fim exista verba inscrita no respectivo orçamento privativo de despesas e que esses subsídios, adicionados a pensões de aposentação ou outras que o pessoal aufira ou venha a auferir, não excedam a que lhe competiria, como aposentado, se lhe fosse contado todo o tempo de serviço efectivamente prestado nos referidos organismos.
+Artigo 1.º Ao pessoal da Administração-Geral do Porto de Lisboa e da Administração dos Portos do Douro e Leixões, de idade superior a 70 anos e com mais de 20 anos de bom e efectivo serviço, que não tenha podido ou não possa beneficiar das disposições do artigo 115.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948, ou das do artigo 83.º do [Decreto-Lei n.º 36977](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36977-1948-385673), da mesma data, e àquele que, com igual tempo de efectividade, tenha sido ou venha a ser desligado do serviço por motivo de incapacidade física devidamente verificada poderá o Ministro das Comunicações, sob proposta do competente conselho de administração, conceder subsídios como os previstos nas indicadas disposições legais, desde que para tal fim exista verba inscrita no respectivo orçamento privativo de despesas e que esses subsídios, adicionados a pensões de aposentação ou outras que o pessoal aufira ou venha a auferir, não excedam a que lhe competiria, como aposentado, se lhe fosse contado todo o tempo de serviço efectivamente prestado nos referidos organismos.
 
-###### Art. 2.º Os encargos resultantes do disposto no artigo anterior poderão ser satisfeitos no corrente ano económico pelas disponibilidades das verbas inscritas nos respectivos orçamentos privativos para subsídios a pessoal não aposentado, convenientemente reforçadas se vierem a mostrar-se insuficientes.
+Art. 2.º Os encargos resultantes do disposto no artigo anterior poderão ser satisfeitos no corrente ano económico pelas disponibilidades das verbas inscritas nos respectivos orçamentos privativos para subsídios a pessoal não aposentado, convenientemente reforçadas se vierem a mostrar-se insuficientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

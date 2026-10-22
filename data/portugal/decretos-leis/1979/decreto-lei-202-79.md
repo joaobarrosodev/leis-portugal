@@ -47,36 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-1979-380356
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-07-02T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4f3e69d7ef55c910dbefc3c9cff18f2dad9d2832e152b0c4c8c88478e8e466b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b21aed327ba8fbd70d313a0ace36b6ada9739f5d34d4e7007a3db33a552d961f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Activo Imobilizado Corpóreo
+- Empresa
+relationships:
+- type: cites
+  target: pt:dre:139722:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221746:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680463:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:51Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +123,25 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º e 9.º do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º, 4.º, 5.º, 6.º, 7.º e 9.º do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - As empresas que não procederem à reavaliação dos seus bens ao abrigo do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, são autorizadas a reavaliar, até 31 de Dezembro de 1979, os elementos do seu activo imobilizado corpóreo não totalmente reintegrados, nos termos do presente diploma, desde que tal reavaliação seja reportada a 31 de Dezembro de 1978.
+Artigo 1.º - 1 - As empresas que não procederem à reavaliação dos seus bens ao abrigo do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, são autorizadas a reavaliar, até 31 de Dezembro de 1979, os elementos do seu activo imobilizado corpóreo não totalmente reintegrados, nos termos do presente diploma, desde que tal reavaliação seja reportada a 31 de Dezembro de 1978.
 
 2 - A reavaliação autorizada pelo número anterior constará do balanço referente a 31 de Dezembro de 1978, salvo se a mesma for efectuada em data que não permita a sua inclusão neste balanço, caso em que figurará no balanço de 31 de Dezembro de 1979.
 
-###### Art. 2.º - 1 - ...
+Art. 2.º - 1 - ...
 
 2 - Se a reavaliação não constar do balanço de 31 de Dezembro de 1978, só poderão ser reavaliados os bens que, existentes naquela data, estejam ao serviço da empresa no momento da reavaliação.
 
 3 - Quando, do ponto de vista das reintegrações, os bens a reavaliar tenham sido tratados na contabilidade como um conjunto homogéneo de elementos, considerando-se como tal o constituído por elementos da mesma espécie e sujeitos para efeitos fiscais à mesma taxa de reintegração, a reavaliação desses elementos poderá ser feita globalmente.
 
-###### Art. 3.º - 1 - Os valores de aquisição dos bens a reavaliar podem ser actualizados até ao valor que se obtém através da aplicação àqueles valores dos coeficientes de desvalorização monetária constantes da [Portaria n.º 15/79](https://diariodarepublica.pt/dr/detalhe/portaria/15-1979-476696), de 10 de Janeiro.
+Art. 3.º - 1 - Os valores de aquisição dos bens a reavaliar podem ser actualizados até ao valor que se obtém através da aplicação àqueles valores dos coeficientes de desvalorização monetária constantes da [Portaria n.º 15/79](https://diariodarepublica.pt/dr/detalhe/portaria/15-1979-476696), de 10 de Janeiro.
 
 2 - ...
 
 3 - ...
 
-###### Art. 4.º - 1 - ...
+Art. 4.º - 1 - ...
 
 2 - ...
 
@@ -125,7 +151,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Os regimes previstos nos n.os 3 e 4 também se aplicam com os mesmos condicionalismos no caso de transferências em situações não abrangidas no n.º 3 de bens do activo imobilizado de uma empresa para outra para a realização do capital social, ainda que o valor daqueles seja superior à participação neste.
 
-###### Art. 5.º - 1 - ...
+Art. 5.º - 1 - ...
 
 2 - A reserva de reavaliação pode ser utilizada, total ou parcialmente, para a cobertura de prejuízos acumulados até 31 de Dezembro de 1978, deduzidos dos lucros obtidos até àquela data e não aplicados.
 
@@ -133,7 +159,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - As utilizações previstas nos números anteriores só poderão efectivar-se em data posterior à do balanço donde conste a reavaliação.
 
-###### Art. 6.º - 1 - Não se considerará como custo para efeitos fiscais o produto do aumento das reintegrações anuais resultantes da reavaliação, nos termos do presente diploma, pelo quociente da divisão do endividamento líquido pelo somatório do endividamento líquido com a situação líquida, constantes do balanço final do exercício a que respeitar aquele aumento das reintegrações.
+Art. 6.º - 1 - Não se considerará como custo para efeitos fiscais o produto do aumento das reintegrações anuais resultantes da reavaliação, nos termos do presente diploma, pelo quociente da divisão do endividamento líquido pelo somatório do endividamento líquido com a situação líquida, constantes do balanço final do exercício a que respeitar aquele aumento das reintegrações.
 
 2 - ...
 
@@ -143,20 +169,20 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - (Eliminado.)
 
-###### Art. 7.º Sempre que se verifiquem inutilizações ou destruições de bens reavaliados ao abrigo do presente diploma, não se considerará como custo para efeitos fiscais a parte do valor líquido contabilístico desses bens que corresponde à reavaliação efectuada, observando-se na parte restante o disposto na alínea d) do n.º 4.º da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966.
+Art. 7.º Sempre que se verifiquem inutilizações ou destruições de bens reavaliados ao abrigo do presente diploma, não se considerará como custo para efeitos fiscais a parte do valor líquido contabilístico desses bens que corresponde à reavaliação efectuada, observando-se na parte restante o disposto na alínea d) do n.º 4.º da [Portaria n.º 21867](https://diariodarepublica.pt/dr/detalhe/portaria/21867-1966-488132), de 12 de Fevereiro de 1966.
 
-###### Art. 9.º - 1 - As empresas juntarão à respectiva declaração para efeitos de determinação do lucro tributável do exercício de 1978 ou de 1979, conforme o balanço em que, nos termos do n.º 2 do artigo 1.º, conste a reavaliação, mapas demonstrativos da mesma, conforme modelo aprovado por despacho do Ministro das Finanças e do Plano, bem como provas justificativas dos elementos previstos nos n.os 3 a 5 do artigo 4.º, designadamente os mapas de reintegrações e amortizações da empresa originária referentes ao último exercício anterior à transferência dos bens.
+Art. 9.º - 1 - As empresas juntarão à respectiva declaração para efeitos de determinação do lucro tributável do exercício de 1978 ou de 1979, conforme o balanço em que, nos termos do n.º 2 do artigo 1.º, conste a reavaliação, mapas demonstrativos da mesma, conforme modelo aprovado por despacho do Ministro das Finanças e do Plano, bem como provas justificativas dos elementos previstos nos n.os 3 a 5 do artigo 4.º, designadamente os mapas de reintegrações e amortizações da empresa originária referentes ao último exercício anterior à transferência dos bens.
 
 2 - ...
 
 3 - O cálculo do quociente referido no n.º 1 do artigo 6.º será justificado pelas empresas, devendo os contribuintes do grupo B da contribuição industrial juntar à declaração m/3 o balanço sintético, conforme o Plano Oficial de Contabilidade, do respectivo exercício.
 
-###### Art. 2.º As empresas que tiverem feito constar do balanço de 31 de Dezembro de 1978 a reavaliação, nos termos do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro, sem tomarem em consideração o disposto nos n.os 3 a 5 do artigo 4.º do mesmo diploma, poderão corrigir a reavaliação efectuada, dando cumprimento, na parte aplicável, ao disposto no n.º 1 do artigo 9.º, com a redacção dada por este diploma.
+Art. 2.º As empresas que tiverem feito constar do balanço de 31 de Dezembro de 1978 a reavaliação, nos termos do [Decreto-Lei n.º 430/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/430-1978-325309), de 27 de Dezembro, sem tomarem em consideração o disposto nos n.os 3 a 5 do artigo 4.º do mesmo diploma, poderão corrigir a reavaliação efectuada, dando cumprimento, na parte aplicável, ao disposto no n.º 1 do artigo 9.º, com a redacção dada por este diploma.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 18 de Junho de 1979.**
+Promulgado em 18 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

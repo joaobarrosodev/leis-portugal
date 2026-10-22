@@ -49,36 +49,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1971-633327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3d2c9be88376e002adf23e1e007d7a25d069c5fbfbd20502cc7629e4750b755
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af482a4a882c44e9f158dc5644fda532633a9d0e3362af7d2995de9d4df447fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ajudas de Custo
+- Aveiro
+- Coimbra
+- Criação de Lugares
+- Criação de Serviços
+- Ensino Técnico
+- Estabelecimento de Ensino
+- Gratificação
+- Instituto Comercial
+- Instituto Industrial
+- Porto
+- Quadro de Pessoal
+- Rectificação de Numero de Diploma
+- Subdiretor
+- Subsídio de Transporte
+relationships:
+- type: cites
+  target: pt:dre:331053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:16Z'
   warnings: []
   errors: []
 ---
@@ -97,31 +120,31 @@ De longe vem o reconhecimento da necessidade do estabelecimento em Coimbra do en
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Instituto Comercial do Porto a organizar, na cidade de Aveiro, uma secção, na qual será ministrado o ensino do curso de contabilista e o dos preparatórios para o ensino superior de Economia e Finanças.
+Artigo 1.º É autorizado o Instituto Comercial do Porto a organizar, na cidade de Aveiro, uma secção, na qual será ministrado o ensino do curso de contabilista e o dos preparatórios para o ensino superior de Economia e Finanças.
 
-###### Art. 2.º - 1. A superintendência imediata da secção será exercida por um subdirector, nomeado pelo Ministro de entre os professores em exercício no Instituto, mediante proposta do director.
+Art. 2.º - 1. A superintendência imediata da secção será exercida por um subdirector, nomeado pelo Ministro de entre os professores em exercício no Instituto, mediante proposta do director.
 
 2. O subdirector é vogal nato do conselho escolar e do conselho de curso de contabilista do Instituto.
 
 3. O exercício do cargo de subdirector da secção dá direito à gratificação mensal de 1000$00.
 
-###### Art. 3.º A secção entrará em funcionamento quando a Câmara Municipal de Aveiro coloque à disposição do Instituto edifício que reúna, para o efeito, os necessários requisitos, mobilado e apetrechado pela forma que mereça a aprovação do respectivo conselho de curso.
+Art. 3.º A secção entrará em funcionamento quando a Câmara Municipal de Aveiro coloque à disposição do Instituto edifício que reúna, para o efeito, os necessários requisitos, mobilado e apetrechado pela forma que mereça a aprovação do respectivo conselho de curso.
 
-###### Art. 4.º - 1. A secção constitui, nos aspectos técnicos, pedagógico e disciplinar, um instituto comercial, desenvolvendo-se, porém, a sua acção educativa na sequência da orientação geral fixada pelo conselho escolar, e os professores em exercício reunir-se-ão em conselho sempre que isso se torne necessário à realização dos objectivos do ensino e sejam convocados pelo subdirector, competindo especialmente ao conselho de professores pronunciar-se sobre os assuntos referidos nas alíneas c), d), f), h), i) e m) do artigo 25.º do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), de 23 de Abril de 1951, quando respeitem exclusivamente à secção.
+Art. 4.º - 1. A secção constitui, nos aspectos técnicos, pedagógico e disciplinar, um instituto comercial, desenvolvendo-se, porém, a sua acção educativa na sequência da orientação geral fixada pelo conselho escolar, e os professores em exercício reunir-se-ão em conselho sempre que isso se torne necessário à realização dos objectivos do ensino e sejam convocados pelo subdirector, competindo especialmente ao conselho de professores pronunciar-se sobre os assuntos referidos nas alíneas c), d), f), h), i) e m) do artigo 25.º do [Decreto n.º 38231](https://diariodarepublica.pt/dr/detalhe/decreto/38231-1951-331053), de 23 de Abril de 1951, quando respeitem exclusivamente à secção.
 
 2. O director do Instituto assumirá a presidência do conselho de professores sempre que esteja presente.
 
-###### Art. 5.º - 1. Ao quadro de pessoal do Instituto Comercial do Porto são adicionados os lugares constantes do mapa 1 anexo ao presente decreto-lei, cujos titulares prestarão obrigatòriamente serviço na secção, salvo nos casos em que proposta em contrário, cabalmente justificada, seja aprovada por despacho ministerial.
+Art. 5.º - 1. Ao quadro de pessoal do Instituto Comercial do Porto são adicionados os lugares constantes do mapa 1 anexo ao presente decreto-lei, cujos titulares prestarão obrigatòriamente serviço na secção, salvo nos casos em que proposta em contrário, cabalmente justificada, seja aprovada por despacho ministerial.
 
 2. O provimento dos lugares a que se refere o número anterior far-se-á gradualmente em correspondência com as necessidades do serviço escolar.
 
-###### Art. 6.º O director do Instituto, o subdirector, os professores e mestres que tenham de deslocar-se da sede do Instituto à secção, e vice-versa, têm direito ao abono das correspondentes despesas de transporte em 1.ª classe e a ajudas de custo.
+Art. 6.º O director do Instituto, o subdirector, os professores e mestres que tenham de deslocar-se da sede do Instituto à secção, e vice-versa, têm direito ao abono das correspondentes despesas de transporte em 1.ª classe e a ajudas de custo.
 
-###### Art. 7.º - 1. O Instituto Industrial de Coimbra é convertido em Instituto Industrial e Comercial e nele passa a ser também ministrado, a partir do ano lectivo de 1972-1973, o ensino do curso de contabilista e o dos preparatórios para o ensino superior de Economia e Finanças.
+Art. 7.º - 1. O Instituto Industrial de Coimbra é convertido em Instituto Industrial e Comercial e nele passa a ser também ministrado, a partir do ano lectivo de 1972-1973, o ensino do curso de contabilista e o dos preparatórios para o ensino superior de Economia e Finanças.
 
 2. O ensino a que se refere o número anterior rege-se pela legislação aplicável ao ensino médio comercial.
 
-###### Art. 8.º - 1. Ao quadro de pessoal do Instituto Industrial e Comercial de Coimbra são adicionados os lugares constantes do mapa 2 anexo ao presente decreto-lei.
+Art. 8.º - 1. Ao quadro de pessoal do Instituto Industrial e Comercial de Coimbra são adicionados os lugares constantes do mapa 2 anexo ao presente decreto-lei.
 
 2. O provimento dos lugares docentes não será feito antes de 1 de Agosto de 1972.
 
@@ -129,32 +152,32 @@ Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do art
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 15 de Outubro de 1971.**
+Promulgado em 15 de Outubro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Mapa a que se refere o artigo 5.º do Decreto-Lei n.º 440/71, desta data
 
 Pessoal docente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
 
 Pessoal administrativo e auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.
 
 Mapa a que se refere o artigo 8.º do Decreto-Lei n.º 440/71, desta data
 
 Pessoal docente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
 
 Pessoal administrativo e auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf))](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/10/24900/15881589.pdf)
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

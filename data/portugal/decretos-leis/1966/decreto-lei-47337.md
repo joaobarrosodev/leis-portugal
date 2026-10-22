@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47337-1966-477363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-07-06T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a2b90c2d1bc95c90c48d68907e00120b9cd139bff688ab622f8b8326de78fd09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0436bbad24301c28f97ad024e810c49003c7cd4899fa1209dbfad3204fdbada
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açúcar
+- Administração Ultramarina
+- Bolsa de Valores
+- Contribuições e Impostos
+- Cotação na Bolsa
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Empresa Privada
+- Importação
+- Lisboa
+- Pagamento
+- Porto
+- Produção
+- Refinaria de Açúcar
+- Regime Jurídico
+- Sucursal
+- Taxa
 relationships:
 - type: amended_by
   target: pt:dre:476344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141252:por
+  label: "Alterado o artigo 8.º, aditados os §§ 3.º e 4.º ao artigo 10.º e revogado o § 3.º do artigo 5.º, pelo DEC LEI.354/70.28.07.1970.MF,\
+    \ DG.IS [174] de 28.07.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/354-1970-141252
+  date: '1970-07-28'
+- type: cites
+  target: pt:dre:163452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305046:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321312:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582798:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:587831:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:598125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:672782:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476344:por
+  label: "Revogado pelo DEC LEI.305/74.06.07.1974.MCINT, DG.IS [156] de 06.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1974-476344
+  date: '1974-07-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:12Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +166,7 @@ Produção das açucareiras de Angola e Moçambique no período de 1952-1953 a 1
 
 (Toneladas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
 
 4. A este quadro deve, porém, acrescentar-se a criação de novas empresas açucareiras, que não poderia ter-se verificado sem a garantia de estabilidade de condições fornecida por aquele diploma e cuja produção deve começar em futuro próximo.
 
@@ -114,7 +178,7 @@ Quadro do consumo da metrópole e das províncias ultramarinas
 
 (Toneladas)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
 
 6. Em portaria de 30 de Abril de 1965 foi nomeada uma comissão, constituída por um representante do Ministério das Finanças, que presidiu, um representante do Ministério do Ultramar e um representante do Ministério da Economia, encarregada de estudar o regime que vigorará a partir de 1 de Maio de 1967, tendo em vista as necessidades de abastecimento da metrópole e da promoção da cultura açucareira no espaço económico nacional.
 
@@ -124,17 +188,17 @@ Em relação à produção das actuais empresas açucareiras de Angola e Moçamb
 
 Produção provável das actuais empresas produtoras
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
 
 A estes números deverá ser acrescentada a produção provável das empresas em vias de instalação em Moçambique e de uma nova empresa a constituir em Angola, produção que se reputa, no total, da ordem das 150000 t. Entrando em conta com estas previsões de produção o com as de consumo das províncias ultramarinas (excepto Macau), resulta o seguinte quadro de excedentes exportáveis para o continente (em milhares de toneladas):
 
 Excedentes exportáveis para o continente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
 
 Pode, assim, fazer-se a comparação das disponibilidades de açúcar das empresas ultramarinas para abastecimento do continente com as necessidades desta parte do território nacional. O resultado obtido exprime-se da seguinte forma:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27300/18701875.pdf)
 
 Verifica-se, portanto, que, se forem instalados três novos empreendimentos açucareiros, haverá largo excedente a exportar para o estrangeiro.
 
@@ -158,13 +222,13 @@ Foi devidamente ponderado se a importação futura de açúcar deveria ter exclu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É garantida, durante quinze anos, a todas as províncias ultramarinas portuguesas, nos termos do presente decreto-lei, a entrada da quantidade de açúcar anualmente necessária ao consumo do continente.
+Artigo 1.º É garantida, durante quinze anos, a todas as províncias ultramarinas portuguesas, nos termos do presente decreto-lei, a entrada da quantidade de açúcar anualmente necessária ao consumo do continente.
 
-###### Art. 2.º Os Ministros das Finanças e da Economia, depois de fixados, durante o mês de Fevereiro, pelo Ministro do Ultramar, os consumos das províncias ultramarinas, determinarão por portaria, até 15 de Março de cada ano, a quantidade de açúcar a importar durante o ano cultural seguinte, nos termos do artigo anterior.
+Art. 2.º Os Ministros das Finanças e da Economia, depois de fixados, durante o mês de Fevereiro, pelo Ministro do Ultramar, os consumos das províncias ultramarinas, determinarão por portaria, até 15 de Março de cada ano, a quantidade de açúcar a importar durante o ano cultural seguinte, nos termos do artigo anterior.
 
 § único. O ano cultural corresponde ao período compreendido entre os dias 1 de Maio de um ano e 30 de Abril seguinte.
 
-###### Art. 3.º Ao Grémio dos Produtores de Açúcar do Ultramar compete:
+Art. 3.º Ao Grémio dos Produtores de Açúcar do Ultramar compete:
 
 1.º Apresentar, em Fevereiro de cada ano, aos Ministros das Finanças e da Economia, uma previsão da produção de açúcar ultramarino, comparada com a quantidade que presume necessária para o consumo do continente, referida ao ano cultural que deve ter início no dia 1 de Maio seguinte;
 
@@ -182,7 +246,7 @@ c) Quantidades consumidas na província em que a empresa tem as suas plantaçõe
 
 § 2.º Qualquer das empresas interessadas tem o direito de reclamar da proposta de rateio para o director-geral das Alfândegas nos oito dias que se seguirem à reunião do Grémio em que tiver sido votada.
 
-###### Art. 4.º O rateio anual entre os produtores será feito nos termos seguintes:
+Art. 4.º O rateio anual entre os produtores será feito nos termos seguintes:
 
 1.º As quotas de cada empresa serão fixadas proporcionalmente à média aritmética dos seus fornecimentos efectivos ao continente nos dois anos culturais imediatamente anteriores àquele em que se efectuar o rateio. Até ao limite destas quotas cada empresa enviará à Direcção-Geral das Alfândegas, por intermédio do Grémio dos Produtores de Açúcar do Ultramar, um compromisso de fornecimento, no ano cultural, das quantidades de que efectivamente pode dispor para esse efeito;
 
@@ -198,7 +262,7 @@ Passado o período de três anos, entrará na regra geral de rateio.
 
 Para o efeito de concessão de novas quotas serão reduzidas proporcionalmente as quotas de rateio das restantes empresas sacarinas.
 
-###### Art. 5.º À Direcção-Geral das Alfândegas cumpre estabelecer, por despacho publicado no Diário do Governo até ao dia 30 de Abril, o rateio, entre as empresas produtoras, da quantidade de açúcar fixada nos termos do artigo 2.º, determinando a quota de rateio e a de compromisso de cada uma delas, com observância dos princípios enunciados no artigo anterior e tendo em atenção a proposta do Grémio e as reclamações apresentadas.
+Art. 5.º À Direcção-Geral das Alfândegas cumpre estabelecer, por despacho publicado no Diário do Governo até ao dia 30 de Abril, o rateio, entre as empresas produtoras, da quantidade de açúcar fixada nos termos do artigo 2.º, determinando a quota de rateio e a de compromisso de cada uma delas, com observância dos princípios enunciados no artigo anterior e tendo em atenção a proposta do Grémio e as reclamações apresentadas.
 
 § 1.º Qualquer das empresas directamente interessadas tem o direito de reclamar para o Ministro das Finanças contra o rateio feito pela Direcção-Geral das Alfândegas, nos oito dias que se seguirem à sua publicação. Neste caso, o Ministro das Finanças, até 31 de Maio, fixará, por portaria, o rateio a que a Direcção-Geral das Alfândegas deve dar cumprimento.
 
@@ -206,7 +270,7 @@ Para o efeito de concessão de novas quotas serão reduzidas proporcionalmente a
 
 § 3.º As empresas produtoras poderão enviar sob a forma de açúcar cristal branco, pronto a entrar directamente no consumo, um terço da sua quota anual.
 
-###### Art. 6.º A cada empresa produtora competirá preencher, dentro do ano cultural respectivo, a totalidade da sua quota de rateio, estabelecida nos termos do artigo antecedente, com uma tolerância de 1 por cento.
+Art. 6.º A cada empresa produtora competirá preencher, dentro do ano cultural respectivo, a totalidade da sua quota de rateio, estabelecida nos termos do artigo antecedente, com uma tolerância de 1 por cento.
 
 § 1.º As empresas produtoras que não preencherem integralmente a sua quota de rateio, nos termos deste artigo, justificarão o facto perante a Direcção-Geral das Alfândegas até um mês depois de findo o ano cultural. No caso de falta ou insuficiência de justificação, será instaurado processo, nos termos dos artigos 93.º e seguintes do [Decreto-Lei n.º 31664](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31664-1941-321312), de 22 de Novembro de 1941, para o efeito da aplicação de uma multa variável entre 1$00 e 5$00 por quilograma de açúcar não fornecido, consoante a gravidade da falta.
 
@@ -214,7 +278,7 @@ Para o efeito de concessão de novas quotas serão reduzidas proporcionalmente a
 
 § 3.º A justificação a que se refere o § 1.º só pode consistir na prova, feita pela respectiva empresa, de que a falta de preenchimento da sua quota resultou de caso de força maior verificado posteriormente às plantações das áreas necessárias para cobrir as suas responsabilidades de fornecimento.
 
-###### Art. 7.º Os produtores que, perante o Ministério do Ultramar e ouvido o Ministério da Economia, provarem haverem fornecido ou reservado para o consumo do continente e das províncias ultramarinas que lhes cumpre abastecer a totalidade das respectivas quotas, determinadas de harmonia com o n.º 1.º do artigo 4.º, poderão exportar para o estrangeiro as quantidades eventualmente disponíveis, desde que os compromissos de fornecimento das diversas empresas tenham atingido a quantidade fixada nos termos do artigo 2.º
+Art. 7.º Os produtores que, perante o Ministério do Ultramar e ouvido o Ministério da Economia, provarem haverem fornecido ou reservado para o consumo do continente e das províncias ultramarinas que lhes cumpre abastecer a totalidade das respectivas quotas, determinadas de harmonia com o n.º 1.º do artigo 4.º, poderão exportar para o estrangeiro as quantidades eventualmente disponíveis, desde que os compromissos de fornecimento das diversas empresas tenham atingido a quantidade fixada nos termos do artigo 2.º
 
 § 1.º Sempre que os compromissos de fornecimento de todas as empresas produtoras sejam inferiores à quantidade fixada nos termos do artigo 2.º, as empresas referidas no corpo do presente artigo só poderão exportar imediatamente metade das quantidades de que dispuserem para o efeito, sendo a outra metade destinada a suprir proporcionalmente as faltas verificadas, após o que o excedente ficará livre para exportação.
 
@@ -226,9 +290,9 @@ Para o efeito de concessão de novas quotas serão reduzidas proporcionalmente a
 
 As quantidades que forem importadas nos termos deste parágrafo pagarão, conforme o caso, o imposto de 1$64 ou 1$80 a que se refere o artigo 10.º do presente decreto-lei.
 
-###### Art. 8.º É fixado em 3$35 o preço-base C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas pelas empresas produtoras ultramarinas, e em 4$40 o preço-base C. I. F. Tejo ou Leixões do quilograma de açúcar cristal branco com o grau polarimétrico mínimo de 99,5º pronto para entrar no consumo e pelas mesmas empresas fornecido.
+Art. 8.º É fixado em 3$35 o preço-base C. I. F. Tejo ou Leixões do quilograma das ramas amarelas com o grau polarimétrico mínimo de 97,5º, remetidas pelas empresas produtoras ultramarinas, e em 4$40 o preço-base C. I. F. Tejo ou Leixões do quilograma de açúcar cristal branco com o grau polarimétrico mínimo de 99,5º pronto para entrar no consumo e pelas mesmas empresas fornecido.
 
-###### Art. 9.º Os preços-base, fixados no artigo antecedente, deverão ser revistos sempre que se mostrarem alterados os elementos componentes do custo de produção, independentes da vontade dos produtores.
+Art. 9.º Os preços-base, fixados no artigo antecedente, deverão ser revistos sempre que se mostrarem alterados os elementos componentes do custo de produção, independentes da vontade dos produtores.
 
 § 1.º A revisão será efectuada pelo Ministério das Finanças, por iniciativa própria ou a solicitação do Ministério do Ultramar, do Ministério da Economia ou do Grémio dos Produtores de Açúcar do Ultramar, e mediante parecer de uma comissão de três membros, composta por representantes daqueles três Ministérios, nomeada em portaria pelos Ministros das pastas respectivas e presidida pelo representante do Ministério das Finanças, que convocará as reuniões e dirigirá os trabalhos. Às reuniões da comissão assistirá, sem direito a voto, um representante designado pelo Grémio dos Produtores de Açúcar do Ultramar.
 
@@ -236,27 +300,27 @@ As quantidades que forem importadas nos termos deste parágrafo pagarão, confor
 
 § 3.º Para os efeitos deste artigo, consideram-se como elementos independentes da vontade das empresas os aumentos ou diminuições de impostos ou taxas, sacaria, fertilizantes e salários ou despesas obrigatórias, com influência nos custos a cargo da produção sacarina. Os índices gerais dos preços a utilizar pela comissão serão os mais recentes, relativos às províncias ultramarinas produtoras, oficialmente publicados.
 
-###### Art. 10.º Os açúcares de origem nacional, da natureza dos classificáveis pelos artigos 17.01.01 e 17.01.02 da pauta de importação, provenientes das províncias ultramarinas, ficam sujeitos ao pagamento de um imposto especial de consumo, respectivamente, de 1$64 e 1$80, quando despachados nas condições de rateio do presente decreto-lei, e de 2$17 e 2$46, quando despachados fora daquelas condições.
+Art. 10.º Os açúcares de origem nacional, da natureza dos classificáveis pelos artigos 17.01.01 e 17.01.02 da pauta de importação, provenientes das províncias ultramarinas, ficam sujeitos ao pagamento de um imposto especial de consumo, respectivamente, de 1$64 e 1$80, quando despachados nas condições de rateio do presente decreto-lei, e de 2$17 e 2$46, quando despachados fora daquelas condições.
 
 § 1.º O imposto sobre os açúcares de origem nacional sofre um agravamento de $03 ou de $054, consoante o despacho se faça ou não ao abrigo do presente decreto-lei, por quilograma e por cada décimo de grau polarimétrico abaixo do mínimo de 99,5º, sem qualquer tolerância, no caso de açúcar cristal branco, ou abaixo do mínimo de 97,5º, também sem qualquer tolerância, no caso de ramas amarelas.
 
 § 2.º As taxas a que se refere o corpo deste artigo serão cobradas pela alfândega no acto do desembaraço aduaneiro das mercadorias.
 
-###### Art. 11.º Todo o açúcar estrangeiro que se importar no continente fica sujeito à taxa de salvação nacional estabelecida pelo [Decreto n.º 15814](https://diariodarepublica.pt/dr/detalhe/decreto/15814-1928-587831), de 31 de Julho de 1928, com as alterações constantes do [Decreto n.º 17048](https://diariodarepublica.pt/dr/detalhe/decreto/17048-1929-294909), de 29 de Junho de 1929.
+Art. 11.º Todo o açúcar estrangeiro que se importar no continente fica sujeito à taxa de salvação nacional estabelecida pelo [Decreto n.º 15814](https://diariodarepublica.pt/dr/detalhe/decreto/15814-1928-587831), de 31 de Julho de 1928, com as alterações constantes do [Decreto n.º 17048](https://diariodarepublica.pt/dr/detalhe/decreto/17048-1929-294909), de 29 de Junho de 1929.
 
 § 1.º A taxa de salvação nacional aplicável às ramas amarelas ou a outro açúcar de origem estrangeira importado no continente durante o período de garantia referido no artigo 1.º será acrescida da quantia necessária para que o género fique, à saída da alfândega, pelo preço correspondente ao tipo português que vigorar no momento da importação, acrescido dos impostos, taxas e demais verbas cobradas no bilhete de despacho pelas alfândegas.
 
 § 2.º A fixação desta parte variável da taxa será feita mensalmente por despacho do Ministro das Finanças, atendendo à cotação média que, na 1.ª quinzena do mês anterior àquele para que houver de vigorar, o mencionado tipo de açúcar tenha no mercado estrangeiro onde haja sido mais baixa.
 
-###### Art. 12.º O Ministro das Finanças, ouvido o Ministro da Economia, pode alterar as disposições do § 3.º do artigo 5.º do presente decreto-lei, mantendo contudo o preço médio das ramas que resultar das garantias dadas nos artigos 8.º e 9.º
+Art. 12.º O Ministro das Finanças, ouvido o Ministro da Economia, pode alterar as disposições do § 3.º do artigo 5.º do presente decreto-lei, mantendo contudo o preço médio das ramas que resultar das garantias dadas nos artigos 8.º e 9.º
 
-###### Art. 13.º As refinarias não poderão vender açúcar que apresente características inferiores às referidas no [Decreto-Lei n.º 23744](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23744-1934-672782), de 6 de Abril de 1934.
+Art. 13.º As refinarias não poderão vender açúcar que apresente características inferiores às referidas no [Decreto-Lei n.º 23744](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23744-1934-672782), de 6 de Abril de 1934.
 
 § único. O Ministro da Economia poderá estabelecer características superiores às fixadas no corpo deste artigo, quando o exijam as conveniências do abastecimento público.
 
-###### Art. 14.º Os preços e qualidades de açúcar para venda ao público serão fixados para cada ano cultural por portaria do Ministério da Economia.
+Art. 14.º Os preços e qualidades de açúcar para venda ao público serão fixados para cada ano cultural por portaria do Ministério da Economia.
 
-###### Art. 15.º As empresas ultramarinas produtoras de açúcar são obrigadas, para gozarem dos benefícios deste decreto-lei:
+Art. 15.º As empresas ultramarinas produtoras de açúcar são obrigadas, para gozarem dos benefícios deste decreto-lei:
 
 1.º A apresentar as suas acções ou obrigações à cotação das Bolsas de Lisboa e Porto;
 
@@ -266,9 +330,9 @@ As quantidades que forem importadas nos termos deste parágrafo pagarão, confor
 
 § único. As empresas que vierem a constituir-se de novo para a produção de açúcar no ultramar terão obrigatòriamente a sua sede em território português.
 
-###### Art. 16.º O presente decreto-lei entra em vigor, no continente e no ultramar, no dia 1 de Maio de 1967.
+Art. 16.º O presente decreto-lei entra em vigor, no continente e no ultramar, no dia 1 de Maio de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 161/1976, 1º Suplemento, Série I de 1976-07-12
   number: '161'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1540-(2) a 1540-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16101/00020003.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-c-1976-181628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 723d2dedf15557f15c834638ec849db78d2dc52c4feaf822b26e3b17f2e4b353
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 92d834e36913f21994686af2496909337f8151a7f9a1441413b9dbb63ce6134c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Indústria Aeronáutica
+- Oficinas Gerais de Material Aeronáutico
+- Pessoal Civil
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:583588:por
+  label: Substituídas as designações do pessoal contratado das Oficinas Gerais de Material Aeronáutico ao abrigo dos §§ 1.º
+    e 2.º do art. 13.º do Dec Lei 40391 de 22-nov 1955, na redacção do presente diploma, pelo(a) Portaria n.º 642-G/78 - Diário
+    da República n.º 247/1978, 1º Suplemento, Série I de 1978-10-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-g-1978-583588
+  date: '1978-10-26'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:247386:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471705:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:49Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +132,9 @@ Considerando a conveniência de uniformizar a legislação aplicável aos estabe
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O artigo 13.º do [Decreto-Lei n.º 40391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40391-1955-247386), de 22 de Novembro de 1955, alterado pelos Decretos-Leis n.os 40951 e 44180, respectivamente de 28 de Dezembro de 1956 e 9 de Fevereiro de 1962, passa a ter a redacção que se segue:
+Artigo único. O artigo 13.º do [Decreto-Lei n.º 40391](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40391-1955-247386), de 22 de Novembro de 1955, alterado pelos Decretos-Leis n.os 40951 e 44180, respectivamente de 28 de Dezembro de 1956 e 9 de Fevereiro de 1962, passa a ter a redacção que se segue:
 
-###### Art. 13.º O pessoal permanente, militar e civil das Oficinas Gerais de Material Aeronáutico consta do quadro anexo à [Portaria n.º 22041](https://diariodarepublica.pt/dr/detalhe/portaria/22041-1966-471705), de 8 de Junho de 1966, que poderá ser alterado de acordo com o [Decreto-Lei n.º 527/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1970-147778), de 7 de Novembro.
+Art. 13.º O pessoal permanente, militar e civil das Oficinas Gerais de Material Aeronáutico consta do quadro anexo à [Portaria n.º 22041](https://diariodarepublica.pt/dr/detalhe/portaria/22041-1966-471705), de 8 de Junho de 1966, que poderá ser alterado de acordo com o [Decreto-Lei n.º 527/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1970-147778), de 7 de Novembro.
 
 § 1.º Quando as necessidades de serviço e de laboração o exigirem, as Oficinas Gerais de Material Aeronáutico poderão contratar, a título eventual, pessoal civil das categorias e profissões previstas no quadro permanente, mediante autorização do Chefe do Estado-Maior da Força Aérea.
 
@@ -111,8 +144,8 @@ Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, 
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Julho de 1976.**
+Promulgado em 12 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

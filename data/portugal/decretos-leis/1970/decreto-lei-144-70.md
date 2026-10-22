@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1970/04/08300/04520453.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-1970-225844
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-06-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:12:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89faf0841ea76c00626ba0fb178da6295de1d8700c2c4045cebd5ccad4e3c0bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d1492b36a64a852f9f7ef6bc02cb26a03153135d992209617c8bec537c222aaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:12:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Edifício Público
+- Extinção de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:473554:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:151957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634561:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473554:por
+  label: "Revogado pelo DEC LEI.204/80.1980.06.28.MFP,DR.IS [147]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/204-1980-473554
+  date: '1980-06-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:12:58Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +121,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2 do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinta a Delegação das Novas Instalações para os Serviços Públicos, criada pelo [Decreto-Lei n.º 36818](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36818-1948-151957), de 5 de Abril de 1948, passando a sua competência a ser directamente exercida pela Direcção-Geral dos Edifícios e Monumentos Nacionais.
+Artigo 1.º É extinta a Delegação das Novas Instalações para os Serviços Públicos, criada pelo [Decreto-Lei n.º 36818](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36818-1948-151957), de 5 de Abril de 1948, passando a sua competência a ser directamente exercida pela Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 2.º A Direcção dos Serviços de Construção da Direcção-Geral dos Edifícios e Monumentos Nacionais compreenderá:
+Art. 2.º A Direcção dos Serviços de Construção da Direcção-Geral dos Edifícios e Monumentos Nacionais compreenderá:
 
 a) Divisão de Estudos e Projectos;
 
@@ -111,9 +131,9 @@ b) Divisão de Obras;
 
 c) Secção de Expediente Técnico.
 
-###### Art. 3.º São acrescentados ao quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais os lugares constantes do mapa anexo ao presente diploma.
+Art. 3.º São acrescentados ao quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais os lugares constantes do mapa anexo ao presente diploma.
 
-###### Art. 4.º - 1. O primeiro provimento dos lugares referidos no artigo anterior poderá ser feito de entre pessoal que à data da publicação deste diploma, e há mais de três anos, se encontra em serviço na Delegação das Novas Instalações para os Serviços Públicos, com boa informação, em regime de contrato ou sob qualquer outro título, e bem assim o que na mesma data exerça funções em regime de interinidade ou seja abonado por subsídios ou comparticipações do Fundo de Desemprego.
+Art. 4.º - 1. O primeiro provimento dos lugares referidos no artigo anterior poderá ser feito de entre pessoal que à data da publicação deste diploma, e há mais de três anos, se encontra em serviço na Delegação das Novas Instalações para os Serviços Públicos, com boa informação, em regime de contrato ou sob qualquer outro título, e bem assim o que na mesma data exerça funções em regime de interinidade ou seja abonado por subsídios ou comparticipações do Fundo de Desemprego.
 
 2. O provimento previsto no número anterior resultará de lista aprovada pelo Ministério das Obras Públicas e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido.
 
@@ -121,19 +141,19 @@ c) Secção de Expediente Técnico.
 
 4. A colocação do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo a anotação das novas situações pelo Tribunal de Contas.
 
-###### Art. 5.º O pessoal contratado nos termos da legislação própria da Delegação das Novas Instalações para os Serviços Públicos que não ingresse no quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
+Art. 5.º O pessoal contratado nos termos da legislação própria da Delegação das Novas Instalações para os Serviços Públicos que não ingresse no quadro da Direcção-Geral dos Edifícios e Monumentos Nacionais transita para esta na situação que presentemente ocupa, mantendo-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, os respectivos contratos.
 
-###### Art. 6.º - 1. Aos encargos resultantes do presente diploma é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
+Art. 6.º - 1. Aos encargos resultantes do presente diploma é aplicável o disposto no artigo 38.º do [Decreto-Lei n.º 48498](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48498-1968-273612), de 24 de Julho de 1968.
 
 2. Enquanto não se concretizarem as necessárias providências de carácter orçamental, poderão ser utilizadas as disponibilidades das dotações do orçamento do Ministério das Obras Públicas em execução, consignadas ao pagamento das despesas com o pessoal da Direcção-Geral dos Edifícios e Monumentos Nacionais.
 
-###### Art. 7.º Este diploma entra em vigor no dia 1 de Maio de 1970.
+Art. 7.º Este diploma entra em vigor no dia 1 de Maio de 1970.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 
-**Promulgado em 1 de Abril de 1970.**
+Promulgado em 1 de Abril de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 9 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -141,6 +161,6 @@ Para ser presente à Assembleia Nacional.
 
 Mapa a que se refere o artigo 3.º do Decreto-Lei n.º 144/70
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/04/08300/04520453.pdf))](https://files.diariodarepublica.pt/1s/1970/04/08300/04520453.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/04/08300/04520453.pdf)
 
 Ministério das Obras Públicas, 1 de Abril de 1970. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches

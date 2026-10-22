@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/06/14600/08880888.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1975-337176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:41:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8640644b11b1dae8a258991628a9892e8055aec111cfb7e00ebaa222a6da1a32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7e2ee884b7ec1e40c05cca1ec05ad8c7ea3937354d8103c84ace99ce8fb98abd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:41:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Extinção de Serviços
+- Inspecção de Gestão das Participações do Estado
+- IPE
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:472883:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638886:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:41:55Z'
   warnings: []
   errors: []
 ---
@@ -90,16 +112,16 @@ de 27 de Junho
 
 Usando dos poderes conferidos pelo artigo 3.º da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinta a Inspecção de Gestão das Participações do Estado, criada nos termos do artigo 4.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, e posteriormente integrada no Ministério das Finanças, de acordo com os artigos 2.º e 4.º do [Decreto-Lei n.º 525/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1974-472883), de 8 de Outubro.
+Artigo 1.º É extinta a Inspecção de Gestão das Participações do Estado, criada nos termos do artigo 4.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, e posteriormente integrada no Ministério das Finanças, de acordo com os artigos 2.º e 4.º do [Decreto-Lei n.º 525/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1974-472883), de 8 de Outubro.
 
-###### Art. 2.º Toda a documentação, ficheiros ou arquivos pertencentes à Inspecção de Gestão mencionada no artigo anterior serão integrados no património do Instituto das Participações do Estado, criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 27 de Março, devendo ser confiados à comissão instaladora prevista no artigo 7.º, n.º 1, do mesmo decreto-lei.
+Art. 2.º Toda a documentação, ficheiros ou arquivos pertencentes à Inspecção de Gestão mencionada no artigo anterior serão integrados no património do Instituto das Participações do Estado, criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 27 de Março, devendo ser confiados à comissão instaladora prevista no artigo 7.º, n.º 1, do mesmo decreto-lei.
 
-###### Art. 3.º Este diploma entra imediatamente em vigor.
+Art. 3.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 16 de Junho de 1975.**
+Promulgado em 16 de Junho de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,108 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1979-378708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e1fd750e9ca1b3eae1d318a44d94de7a9e088262cd82cf112e52ea0e4ee9059b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 60c852515fd44f3d7bf416ba3c5e30fb2b72fb1282b3b557e194aa6ca20e5b84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto Nacional de Formação Turística
+- Orgânica
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:250607:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:170942:por
+  label: "Aumentados lugares ao quadro de pessoal, aprovado pelo presente diploma, pela PORT.935/85.10.12.1985.PCM, DR.IS\
+    \ [284] de 10.12.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/935-1985-170942
+  date: '1985-12-10'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: ALTERADO O QUADRO DE PESSOAL DO INSTITUTO NACIONAL DE FORMAÇÃO TURÍSTICA, PELA PORT 784/87 DE 10-SET DR.IS [208],
+    QUE PASSA A SER CONSTANTE AO ANEXO III DA REFERIDA PORTARIA
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1987-09-10'
+- type: amended_by
+  target: pt:dre:495110:por
+  label: Substituído o quadro de pessoal do Instituto Nacional de Formação Turística e o quadro de pessoal tipo das escolas
+    de hotelaria e turismo pelo(a) Portaria n.º 784/87 - Diário da República n.º 208/1987, Série I de 1987-09-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/784-1987-495110
+  date: '1987-09-10'
+- type: amended_by
+  target: pt:dre:615428:por
+  label: "Alterado o quadro de pessoal aprovado pelo presente diploma, pela PORT.263/89.10.04.1989.MF, DR.IS [83] de 10.04.1989\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/263-1989-615428
+  date: '1989-04-10'
+- type: amended_by
+  target: pt:dre:217717:por
+  label: ALTERADO O QUADRO DE PESSOAL PELO DN 52/92 DR.IS-B [94] DE 22/ABR/1992
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/52-1992-217717
+  date: '1992-04-22'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "TRANSITOU PARA A TUTELA DO MINISTÉRIO DA ECONOMIA PELO DEC LEI 296-A/95 DE 17-NOV DR.IS-A [266]SUPL\0-A/95 DE 17-NOV\
+    \ DR.IS-A [266]SUPL"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-11-17'
+- type: amended_by
+  target: pt:dre:374616:por
+  label: "Alterados os arts. 3º, 4º, 26º e 27º pelo DEC LEI.258/99.1999.07.07.MECO,DR.IS-A [156]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/258-1999-374616
+  date: '1999-07-07'
+- type: cites
+  target: pt:dre:295402:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295403:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324523:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324712:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329837:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626254:por
+  label: "Revogado pelo DEC LEI.277/2001.2001.10.19.MECO DR.IS-A [243] a partir da respectiva entrada em vigor\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/277-2001-626254
+  date: '2001-10-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:57Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +172,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - 1 - O Centro Nacional de Formação Turística e Hoteleira, criado e regulamentado pelo [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402) e pelo [Decreto n.º 46355](https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403), ambos de 26 de Maio de 1965, passa a denominar-se Instituto Nacional de Formação Turística, abreviadamente designado neste diploma por Instituto, regendo-se pelo disposto no presente decreto-lei e demais legislação complementar.
+Artigo 1.º - 1 - O Centro Nacional de Formação Turística e Hoteleira, criado e regulamentado pelo [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402) e pelo [Decreto n.º 46355](https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403), ambos de 26 de Maio de 1965, passa a denominar-se Instituto Nacional de Formação Turística, abreviadamente designado neste diploma por Instituto, regendo-se pelo disposto no presente decreto-lei e demais legislação complementar.
 
 2 - O Instituto goza de personalidade jurídica e é dotado de autonomia administrativa, financeira e de património próprio.
 
 ### CAPÍTULO II — Das atribuições e competência
 
-###### Art. 2.º O Instituto tem as seguintes atribuições:
+Art. 2.º O Instituto tem as seguintes atribuições:
 
 a) Promover, executar e coordenar a formação profissional dos trabalhadores dos vários sectores de turismo;
 
@@ -124,7 +192,7 @@ e) Promover e apoiar o prestígio sócio-profissional das profissões turística
 
 f) Difundir a imagem de qualidade técnico-profissional do turismo português no País e no estrangeiro.
 
-###### Art. 3.º Para a realização destas atribuições compete nomeadamente ao Instituto:
+Art. 3.º Para a realização destas atribuições compete nomeadamente ao Instituto:
 
 a) Criar, manter e desenvolver as estruturas e os meios necessários à formação profissional turística, nomeadamente escolas, hotéis de aplicação, cursos móveis e formação de monitores;
 
@@ -148,7 +216,7 @@ i) Promover, coordenar e executar as acções necessárias à prossecução das 
 
 #### SECÇÃO I — Da estrutura geral
 
-###### Art. 4.º - 1 - O Instituto compreenderá:
+Art. 4.º - 1 - O Instituto compreenderá:
 
 a) Órgãos;
 
@@ -178,9 +246,9 @@ b) Os hotéis de aplicação.
 
 #### SECÇÃO II — Dos órgãos
 
-###### Art. 5.º Ao director incumbe a direcção e gestão do Instituto.
+Art. 5.º Ao director incumbe a direcção e gestão do Instituto.
 
-###### Art. 6.º - 1 - Para o desempenho das suas funções compete especialmente ao director:
+Art. 6.º - 1 - Para o desempenho das suas funções compete especialmente ao director:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -204,9 +272,9 @@ j) Outorgar nos contratos em representação do Instituto.
 
 2 - A competência prevista nas alíneas b), g) e h) do número anterior será exercida precedendo parecer da secção de formação e profissões turísticas do Conselho Nacional de Turismo.
 
-###### Art. 7.º O director, nas suas faltas e impedimentos, poderá delegar por despacho a sua competência.
+Art. 7.º O director, nas suas faltas e impedimentos, poderá delegar por despacho a sua competência.
 
-###### Art. 8.º O conselho administrativo é composto por:
+Art. 8.º O conselho administrativo é composto por:
 
 a) O director do Instituto, que presidirá;
 
@@ -214,7 +282,7 @@ b) Um dos chefes de repartição dos Serviços Administrativos a designar pelo d
 
 c) Um representante do Ministério das Finanças.
 
-###### Art. 9.º - 1 - Compete ao conselho administrativo:
+Art. 9.º - 1 - Compete ao conselho administrativo:
 
 a) Elaborar o orçamento, relatório e contas anuais de gerência;
 
@@ -236,19 +304,19 @@ i) Pronunciar-se sobre qualquer outros assuntos de natureza administrativa ou fi
 
 2 - O conselho administrativo poderá delegar no director a competência a que alude a primeira parte da alínea h) do número anterior, especificando os limites dos poderes abrangidos na delegação.
 
-###### Art. 10.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando o director o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
+Art. 10.º - 1 - O conselho administrativo reunirá ordinariamente uma vez por mês e extraordinariamente quando o director o convocar, podendo deliberar desde que esteja presente a maioria dos seus membros.
 
 2 - As deliberações do conselho serão tomadas por maioria dos votos.
 
 #### SECÇÃO III — Dos serviços
 
-###### Art. 11.º A Direcção dos Serviços de Formação compreende:
+Art. 11.º A Direcção dos Serviços de Formação compreende:
 
 a) A Divisão de Planeamento, Orientação Pedagógica e Cooperação Técnica;
 
 b) A Divisão de Assistência Técnica e Formação na Empresa.
 
-###### Art. 12.º - 1 - Os Serviços Administrativos compreendem:
+Art. 12.º - 1 - Os Serviços Administrativos compreendem:
 
 a) A Repartição Administrativa,
 
@@ -266,7 +334,7 @@ a) Contabilidade;
 
 b) Tesouraria.
 
-###### Art. 13.º - 1 - À Direcção dos Serviços de Formação cabe planear coordenar e executar as acções de formação profissional da competência do Instituto e assegurar a cooperação e assistência técnica a nível nacional e internacional.
+Art. 13.º - 1 - À Direcção dos Serviços de Formação cabe planear coordenar e executar as acções de formação profissional da competência do Instituto e assegurar a cooperação e assistência técnica a nível nacional e internacional.
 
 2 - Aos Serviços Administrativos cabe o desempenho das tarefas administrativas e de contabilidade necessárias a prossecução das atribuições do Instituto.
 
@@ -276,15 +344,15 @@ b) Tesouraria.
 
 ##### SUBSECÇÃO I — Das escolas de hotelaria e turismo
 
-###### Art. 14.º As escolas de hotelaria e turismo gozam de personalidade jurídica e dependem hierárquica, administrativa e financeiramente do Instituto.
+Art. 14.º As escolas de hotelaria e turismo gozam de personalidade jurídica e dependem hierárquica, administrativa e financeiramente do Instituto.
 
-###### Art. 15.º As escolas de hotelaria e turismo destinam-se à formação e aperfeiçoamento dos profissionais das actividades turísticas e ainda a dar execução, a nível regional, às acções dimanadas do Instituto.
+Art. 15.º As escolas de hotelaria e turismo destinam-se à formação e aperfeiçoamento dos profissionais das actividades turísticas e ainda a dar execução, a nível regional, às acções dimanadas do Instituto.
 
-###### Art. 16.º - 1 - As escolas de hotelaria e turismo serão regidas pelo disposto no presente diploma e respectivo estatuto regimental, bem como pelos regulamentos internos aprovados pelo Instituto.
+Art. 16.º - 1 - As escolas de hotelaria e turismo serão regidas pelo disposto no presente diploma e respectivo estatuto regimental, bem como pelos regulamentos internos aprovados pelo Instituto.
 
 2 - O estatuto regimental das escolas, bem como as respectivas alterações, serão aprovados por portaria do Secretário de Estado do Turismo.
 
-###### Art. 17.º São órgãos das escolas de hotelaria e turismo:
+Art. 17.º São órgãos das escolas de hotelaria e turismo:
 
 a) O director;
 
@@ -292,11 +360,11 @@ b) A comissão consultiva;
 
 c) O conselho pedagógico.
 
-###### Art. 18.º - 1 - O director, poderá ser assistido por um ou mais subdirectores.
+Art. 18.º - 1 - O director, poderá ser assistido por um ou mais subdirectores.
 
 2 - O director, bem como os subdirectores, deverão ter formação técnica adequada ao desempenho das suas funções.
 
-###### Art. 19.º Ao director compete, nomeadamente
+Art. 19.º Ao director compete, nomeadamente
 
 a) Representar a escola;
 
@@ -318,13 +386,13 @@ i) Despachar os requerimentos apresentados à escola sobre os assuntos constante
 
 j) Velar pela manutenção e conservação do património.
 
-###### Art. 20.º Competirá aos subdirectores, em geral, coadjuvar o director no exercício das suas funções e, em especial:
+Art. 20.º Competirá aos subdirectores, em geral, coadjuvar o director no exercício das suas funções e, em especial:
 
 a) Substituí-lo nas suas faltas ou impedimentos;
 
 b) Exercer as competências que neles forem delegadas pelo director.
 
-###### Art. 21.º À comissão consultiva compete:
+Art. 21.º À comissão consultiva compete:
 
 a) Emitir parecer sobre o plano de actividades e relatório;
 
@@ -332,7 +400,7 @@ b) Emitir parecer sobre o interesse sócio-profissional dos cursos a ministrar, 
 
 c) Pronunciar-se sobre quaisquer outros assuntos de interesse para a escola que lhe sejam submetidos.
 
-###### Art. 22.º - 1 - A comissão consultiva terá a seguinte composição:
+Art. 22.º - 1 - A comissão consultiva terá a seguinte composição:
 
 a) O director da escola, que presidirá;
 
@@ -342,7 +410,7 @@ c) Dois representantes das associações empresariais mais representativas dos s
 
 2 - Os subdirectores poderão participar sem direito a voto nas reuniões da comissão quando convocada pelo director.
 
-###### Art. 23.º Ao conselho pedagógico compete:
+Art. 23.º Ao conselho pedagógico compete:
 
 a) Emitir parecer sobre plano de actividades para cada ano lectivo;
 
@@ -352,7 +420,7 @@ c) Apresentar, sempre que tal se justifique, propostas de alteração do plano d
 
 d) Emitir parecer sobre outros assuntos de natureza pedagógica que lhe sejam submetidos.
 
-###### Art. 24.º O conselho pedagógico terá a seguinte composição:
+Art. 24.º O conselho pedagógico terá a seguinte composição:
 
 a) O director da escola, que presidirá;
 
@@ -362,17 +430,17 @@ c) Os professores e os monitores;
 
 d) Dois representantes dos alunos dos cursos de formação.
 
-###### Art. 25.º O modo de funcionamento da comissão consultiva e do conselho pedagógico constará do estatuto das escolas de hotelaria e turismo aprovado por portaria do Secretário de Estado do Turismo.
+Art. 25.º O modo de funcionamento da comissão consultiva e do conselho pedagógico constará do estatuto das escolas de hotelaria e turismo aprovado por portaria do Secretário de Estado do Turismo.
 
 ##### SUBSECÇÃO II — Dos hotéis de aplicação
 
-###### Art. 26.º - 1 - Os hotéis de aplicação regular-se-ão pelo disposto no presente diploma e nos respectivos regulamentos internos aprovados pelo Instituto.
+Art. 26.º - 1 - Os hotéis de aplicação regular-se-ão pelo disposto no presente diploma e nos respectivos regulamentos internos aprovados pelo Instituto.
 
 2 - A vinculação jurídica, incluindo o regime disciplinar, de todo o pessoal do quadro dos hotéis de aplicação será regida pela legislação de trabalho aplicável aos estabelecimentos hoteleiros.
 
 3 - Exceptuam-se do disposto no número anterior o pessoal do Instituto e das escolas que sejam destacados em serviço para os estabelecimentos, bem como os alunos das escolas no âmbito dos respectivos cursos.
 
-###### Art. 27.º - 1 - Os directores dos hotéis de aplicação dependem, em termos hierárquicos e disciplinares, do director do Instituto, que poderá delegar esta competência na direcção da escola mais próxima da respectiva área de implantação.
+Art. 27.º - 1 - Os directores dos hotéis de aplicação dependem, em termos hierárquicos e disciplinares, do director do Instituto, que poderá delegar esta competência na direcção da escola mais próxima da respectiva área de implantação.
 
 2 - Os hotéis de aplicação terão orçamento e plano anual de actividades próprios, aprovados pelo Instituto.
 
@@ -382,15 +450,15 @@ d) Dois representantes dos alunos dos cursos de formação.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 28.º - 1 - O Instituto terá o pessoal permanente constante do quadro anexo ao presente diploma.
+Art. 28.º - 1 - O Instituto terá o pessoal permanente constante do quadro anexo ao presente diploma.
 
 2 - O quadro do pessoal do Instituto e o quadro tipo das escolas poderão ser alterados por diploma regulamentar nos termos da legislação em vigor.
 
-###### Art. 29.º - 1 - Cada escola de hotelaria e turismo terá um quadro próprio de pessoal, de acordo com o quadro tipo anexo ao presente diploma.
+Art. 29.º - 1 - Cada escola de hotelaria e turismo terá um quadro próprio de pessoal, de acordo com o quadro tipo anexo ao presente diploma.
 
 2 - O quadro de pessoal de cada escola previsto no número anterior será estabelecido por diploma regulamentar, nos termos da legislação em vigor.
 
-###### Art. 30.º - 1 - O provimento do pessoal dos quadros do Instituto e das escolas será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
+Art. 30.º - 1 - O provimento do pessoal dos quadros do Instituto e das escolas será feito por nomeação, salvo os casos de provimento por contrato, nos termos da lei geral.
 
 2 - As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
@@ -400,13 +468,13 @@ d) Dois representantes dos alunos dos cursos de formação.
 
 5 - No caso previsto no número anterior, durante o período da nomeação provisória as funções serão exercidas em comissão de serviço.
 
-###### Art. 31.º O director do Instituto, com a categoria de director-geral, será nomeado em comissão de serviço pelo período de três anos, renovável, de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
+Art. 31.º O director do Instituto, com a categoria de director-geral, será nomeado em comissão de serviço pelo período de três anos, renovável, de entre licenciados com curso superior adequado ao desempenho das respectivas funções.
 
-###### Art. 32.º - 1 - Os lugares de director de serviços e de chefe de divisão serão providos em comissão de serviço pelo período de três anos, renovável, mediante despacho do Ministro do Comércio e Turismo, sob proposta do director do Instituto, de entre chefes de divisão e assessores e de entre assessores e técnicos superiores principais, respectivamente.
+Art. 32.º - 1 - Os lugares de director de serviços e de chefe de divisão serão providos em comissão de serviço pelo período de três anos, renovável, mediante despacho do Ministro do Comércio e Turismo, sob proposta do director do Instituto, de entre chefes de divisão e assessores e de entre assessores e técnicos superiores principais, respectivamente.
 
 2 - O provimento dos lugares de chefe de repartição far-se-á de entre diplomados com curso superior adequado ou de entre chefes de secção do Instituto com três anos de bom e efectivo serviço na categoria.
 
-###### Art. 33.º - 1 - Salvo o disposto nos artigos anteriores, os lugares do quadro serão providos por despacho do Secretário de Estado do Turismo, sob proposta do director do Instituto, de harmonia com as seguintes regras:
+Art. 33.º - 1 - Salvo o disposto nos artigos anteriores, os lugares do quadro serão providos por despacho do Secretário de Estado do Turismo, sob proposta do director do Instituto, de harmonia com as seguintes regras:
 
 a) Os técnicos assessores por promoção dos técnicos superiores principais ou equiparados, licenciados, com um mínimo de três anos na categoria e nove anos na carreira, classificação de serviço de Muito bom o provas de apreciação curricular, que incluirão a discussão de trabalho apresentado para o efeito;
 
@@ -428,13 +496,13 @@ h) Os restantes lugares, cujo provimento não esteja especialmente regulado no p
 
 3 - Sob proposta do director do instituto, o Secretário de Estado do Turismo poderá condicionar o provimento nos lugares do quadro à realização de concursos ou de cursos de promoção, nas condições julgadas convenientes.
 
-###### Art. 34.º A qualificação do grau de acesso dos cursos especializados de turismo e hotelaria para efeito do provimento a que alude o n.º 2 do artigo anterior será feita por despacho do Secretário de Estado do Turismo, sob proposta fundamentada do director do Instituto.
+Art. 34.º A qualificação do grau de acesso dos cursos especializados de turismo e hotelaria para efeito do provimento a que alude o n.º 2 do artigo anterior será feita por despacho do Secretário de Estado do Turismo, sob proposta fundamentada do director do Instituto.
 
-###### Art. 35.º - 1 - Os directores e os subdirectores das escolas serão nomeados por despacho do Secretário de Estado do Turismo em comissão de serviço pelo período de três anos, renovável, de entre os técnicos assessores, os técnicos principais e os técnicos de 1.ª classe do Instituto ou contratados de entre indivíduos habilitados com licenciatura adequada ou com os cursos especializados de turismo e hotelaria referidos no n.º 2 do artigo 33.º e no artigo 34.º
+Art. 35.º - 1 - Os directores e os subdirectores das escolas serão nomeados por despacho do Secretário de Estado do Turismo em comissão de serviço pelo período de três anos, renovável, de entre os técnicos assessores, os técnicos principais e os técnicos de 1.ª classe do Instituto ou contratados de entre indivíduos habilitados com licenciatura adequada ou com os cursos especializados de turismo e hotelaria referidos no n.º 2 do artigo 33.º e no artigo 34.º
 
 2 - Os subdirectores das escolas poderão ainda ser nomeados de entre os técnicos de 2.ª classe do Instituto.
 
-###### Art. 36.º - 1 - O cargo de chefe de secretaria das escolas será provido por despacho do director do Instituto, sob proposta do director da escola.
+Art. 36.º - 1 - O cargo de chefe de secretaria das escolas será provido por despacho do director do Instituto, sob proposta do director da escola.
 
 2 - O chefe da secretaria chefiará directamente uma das secções do sector administrativo da escola, a designar por despacho do respectivo director.
 
@@ -442,25 +510,25 @@ h) Os restantes lugares, cujo provimento não esteja especialmente regulado no p
 
 4 - Sob proposta do director da escola, o director do Instituto poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção, nas condições julgadas convenientes.
 
-###### Art. 37.º O despacho que determinar a realização dos concursos ou dos cursos de promoção previstos no n.º 3 do artigo 33.º e no n.º 4 do artigo 36.º estabelecerá igualmente os respectivos regulamentos.
+Art. 37.º O despacho que determinar a realização dos concursos ou dos cursos de promoção previstos no n.º 3 do artigo 33.º e no n.º 4 do artigo 36.º estabelecerá igualmente os respectivos regulamentos.
 
-###### Art. 38.º - 1 - Poderá o Instituto admitir em regime de contrato civil de prestação de serviços pessoal especializado nos sectores de hotelaria e turismo para acções de formação profissional, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas para esse fim.
+Art. 38.º - 1 - Poderá o Instituto admitir em regime de contrato civil de prestação de serviços pessoal especializado nos sectores de hotelaria e turismo para acções de formação profissional, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas para esse fim.
 
 2 - Ao pessoal contratado nos termos do número anterior e ao actualmente existente do Centro Nacional de Formação Turística e Hoteleira na mesma situação que seja beneficiário de instituições de previdência social será mantido esse regime.
 
-###### Art. 39.º - 1 - O Instituto poderá recorrer à colaboração de técnicos empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos relativos à formação profissional ou para a execução de outras funções especializadas em regime de contrato civil de prestação de serviços.
+Art. 39.º - 1 - O Instituto poderá recorrer à colaboração de técnicos empresas ou organismos, nacionais ou estrangeiros, para a elaboração de estudos, pareceres ou projectos relativos à formação profissional ou para a execução de outras funções especializadas em regime de contrato civil de prestação de serviços.
 
 2 - Os contratos celebrados ao abrigo do número anterior deverão especificar, obrigatoriamente, a natureza da tarefa a realizar, o prazo para a sua execução e a remuneração a pagar.
 
-###### Art. 40.º - 1 - O pessoal docente das escolas será contratado directamente por cada uma delas, mediante autorização prévia do director do Instituto.
+Art. 40.º - 1 - O pessoal docente das escolas será contratado directamente por cada uma delas, mediante autorização prévia do director do Instituto.
 
 2 - À contratação do pessoal referido no número anterior é aplicável o disposto no artigo 38.º
 
 ### CAPÍTULO V — Da gestão financeira
 
-###### Art. 41.º A contabilidade do Instituto obedecerá às normas em vigor para serviços com autonomia financeira.
+Art. 41.º A contabilidade do Instituto obedecerá às normas em vigor para serviços com autonomia financeira.
 
-###### Art. 42.º Constituem receitas do Instituto:
+Art. 42.º Constituem receitas do Instituto:
 
 a) As dotações anuais que lhe forem consignadas no Orçamento Geral do Estado;
 
@@ -470,17 +538,17 @@ c) Os rendimentos de bens ou serviços explorados pelo Instituto;
 
 d) Os saldos de anos findos.
 
-###### Art. 43.º - 1 - As receitas e despesas do Instituto serão movimentadas através de instituições de crédito do Estado, em conta aberta à ordem do Instituto.
+Art. 43.º - 1 - As receitas e despesas do Instituto serão movimentadas através de instituições de crédito do Estado, em conta aberta à ordem do Instituto.
 
 2 - Os documentos de movimentação de receitas e despesas do Instituto carecem, para serem válidos, das assinaturas conjuntas do director do Instituto e do chefe da Repartição de Contabilidade dos Serviços Administrativos ou das dos seus substitutos legais.
 
-###### Art. 44.º Para a satisfação das pequenas despesas de carácter obrigatório ou normal poderá ser constituído um fundo de maneio, reembolsável mensalmente mediante a apresentação da respectiva documentação e o processamento das competentes ordens de pagamento, não superior à quarta parte de um duodécimo da receita anual orçamentada.
+Art. 44.º Para a satisfação das pequenas despesas de carácter obrigatório ou normal poderá ser constituído um fundo de maneio, reembolsável mensalmente mediante a apresentação da respectiva documentação e o processamento das competentes ordens de pagamento, não superior à quarta parte de um duodécimo da receita anual orçamentada.
 
-###### Art. 45.º O chefe da secção de tesouraria da Repartição de Contabilidade do Instituto terá direito a abono para falhas, nos termos legais.
+Art. 45.º O chefe da secção de tesouraria da Repartição de Contabilidade do Instituto terá direito a abono para falhas, nos termos legais.
 
 ### CAPÍTULO VI — Disposições gerais, transitórias e finais
 
-###### Art. 46.º - 1 - O pessoal integrado no quadro homologado anexo ao orçamento ordinário do Centro Nacional de Formação Turística e Hoteleira pelo Secretário de Estado do Turismo, bem como o de carácter permanente das escolas, será provido nos lugares dos quadros do Instituto e das escolas, transitando em idênticas categorias mediante lista ou listas nominativas aprovadas pelo Ministério do Comércio e Turismo, publicadas no Diário da República, das quais constem o lugar em que cada funcionário ficará provido e o carácter provisório ou definitivo do provimento, sem dependência de qualquer outra formalidade, salvo visto ou anotação das novas situações pelo Tribunal de Contas.
+Art. 46.º - 1 - O pessoal integrado no quadro homologado anexo ao orçamento ordinário do Centro Nacional de Formação Turística e Hoteleira pelo Secretário de Estado do Turismo, bem como o de carácter permanente das escolas, será provido nos lugares dos quadros do Instituto e das escolas, transitando em idênticas categorias mediante lista ou listas nominativas aprovadas pelo Ministério do Comércio e Turismo, publicadas no Diário da República, das quais constem o lugar em que cada funcionário ficará provido e o carácter provisório ou definitivo do provimento, sem dependência de qualquer outra formalidade, salvo visto ou anotação das novas situações pelo Tribunal de Contas.
 
 2 - O disposto no número anterior não se aplica ao provimento dos lugares de técnico assessor.
 
@@ -488,30 +556,30 @@ d) Os saldos de anos findos.
 
 4 - O pessoal integrado no Instituto nos termos deste artigo conservará todos os direitos que possuía à data da sua integração, designadamente no que respeita a categoria, antiguidade e remuneração.
 
-###### Art. 47.º O tempo de serviço prestado pelos funcionários nas comissões de serviço ou requisições contar-se-á para todos os efeitos legais como se tivesse sido prestado nos respectivos cargos do Instituto, desde que as funções a desempenhar sejam de carácter técnico e afins às actividades do Instituto.
+Art. 47.º O tempo de serviço prestado pelos funcionários nas comissões de serviço ou requisições contar-se-á para todos os efeitos legais como se tivesse sido prestado nos respectivos cargos do Instituto, desde que as funções a desempenhar sejam de carácter técnico e afins às actividades do Instituto.
 
-###### Art. 48.º - 1 - Todos os direitos e obrigações da titularidade do Centro Nacional de Formação Turística e Hoteleira à data deste diploma transitam para o Instituto por simples efeito desta norma.
+Art. 48.º - 1 - Todos os direitos e obrigações da titularidade do Centro Nacional de Formação Turística e Hoteleira à data deste diploma transitam para o Instituto por simples efeito desta norma.
 
 2 - Nos direitos sujeitos a registo, o averbamento da titularidade a favor do Instituto de direitos da anterior titularidade do Centro será feito sem encargos emolumentares, a simples requerimento do Instituto.
 
-###### Art. 49.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Secretário de Estado do Turismo e do Ministro das Finanças e do Plano, e ainda do Secretário de Estado da Administração Pública, quando envolvam matéria da respectiva competência.
+Art. 49.º As dúvidas que se suscitarem na aplicação deste diploma serão resolvidas por despacho conjunto do Secretário de Estado do Turismo e do Ministro das Finanças e do Plano, e ainda do Secretário de Estado da Administração Pública, quando envolvam matéria da respectiva competência.
 
-###### Art. 50.º Mantém-se em vigor em tudo o que não contrariar o disposto no presente decreto-lei a [Portaria n.º 715/78](https://diariodarepublica.pt/dr/detalhe/portaria/715-1978-324523), de 6 de Dezembro.
+Art. 50.º Mantém-se em vigor em tudo o que não contrariar o disposto no presente decreto-lei a [Portaria n.º 715/78](https://diariodarepublica.pt/dr/detalhe/portaria/715-1978-324523), de 6 de Dezembro.
 
-###### Art. 51.º Sem prejuízo do disposto nos Decretos-Leis n.os [281/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1978-329837), de 8 de Setembro, e [391/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1978-324712), de 14 de Dezembro, ficam revogados o [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402) e o [Decreto n.º 46355](https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403), ambos de 26 de Maio de 1965.
+Art. 51.º Sem prejuízo do disposto nos Decretos-Leis n.os [281/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1978-329837), de 8 de Setembro, e [391/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1978-324712), de 14 de Dezembro, ficam revogados o [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402) e o [Decreto n.º 46355](https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403), ambos de 26 de Maio de 1965.
 
 Carlos Alberto da Mota Pinto - Lino Dias Miguel - Henrique Afonso da Silva Horta - Manuel Jacinto Nunes - Abel Pinto Repolho Correia - Eusébio Marques de Carvalho - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ## ANEXO I — Quadro de pessoal permanente a que se refere o artigo 28.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf)
 
 ## ANEXO II — Quadro de pessoal permanente a que se refere n.º 1 do artigo 29.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19500/20702076.pdf)

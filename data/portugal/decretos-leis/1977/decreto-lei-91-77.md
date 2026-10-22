@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05800/04420444.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1977-140294
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 67b4184de8491fa7d298c7f5e50ae067bc69e247a8c647e157e9fa4ba6e4e0db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 46aeb34cf0ed81a5b95dd3d158b08e7b2122d2064dec3b7039a2ae77a5e2e9ce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direção Geral da Saúde
+- Direcção Geral de Saúde e Assistência
+- Extinção de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:353726:por
+  label: "Aumentado o quadro de pessoal da Direcção-Geral da Saúde pela PORT.714/79.31.12.1979.PCM, DR.IS [300] de 31.12.1979\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/714-1979-353726
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:160307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421804:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:21Z'
   warnings: []
   errors: []
 ---
@@ -99,17 +134,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É extinta a Direcção-Geral de Saúde e Assistência, da Secretaria de Estado da Integração Administrativa, sendo o respectivo pessoal integrado nos serviços da Secretaria de Estado da Saúde, do Ministério dos Assuntos Sociais, nos termos do artigo 6.º do presente diploma.
+Artigo 1.º É extinta a Direcção-Geral de Saúde e Assistência, da Secretaria de Estado da Integração Administrativa, sendo o respectivo pessoal integrado nos serviços da Secretaria de Estado da Saúde, do Ministério dos Assuntos Sociais, nos termos do artigo 6.º do presente diploma.
 
-###### Art. 2.º O quadro VI «Direcção-Geral de Saúde» anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com alterações introduzidas pelo [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, pela [Portaria n.º 503/73](https://diariodarepublica.pt/dr/detalhe/portaria/503-1973-421804), de 27 de Julho, e pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, é substituído pelo quadro anexo ao presente diploma.
+Art. 2.º O quadro VI «Direcção-Geral de Saúde» anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com alterações introduzidas pelo [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, pela [Portaria n.º 503/73](https://diariodarepublica.pt/dr/detalhe/portaria/503-1973-421804), de 27 de Julho, e pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, é substituído pelo quadro anexo ao presente diploma.
 
-###### Art. 3.º Ao quadro do pessoal técnico da Direcção-Geral dos Hospitais «Quadro VIII», anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, e [73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307), de 20 de Fevereiro, é acrescido um lugar de técnico de 1.ª classe.
+Art. 3.º Ao quadro do pessoal técnico da Direcção-Geral dos Hospitais «Quadro VIII», anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações introduzidas pelos Decretos-Leis n.os [331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, e [73/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1975-160307), de 20 de Fevereiro, é acrescido um lugar de técnico de 1.ª classe.
 
-###### Art. 4.º Ao quadro do pessoal administrativo dos Serviços Locais «Quadro X», anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, pela [Portaria n.º 503/73](https://diariodarepublica.pt/dr/detalhe/portaria/503-1973-421804), de 27 de Julho, e pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, são acrescentados os seguintes lugares: um primeiro-oficial, um segundo-oficial e um terceiro-oficial.
+Art. 4.º Ao quadro do pessoal administrativo dos Serviços Locais «Quadro X», anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, pela [Portaria n.º 503/73](https://diariodarepublica.pt/dr/detalhe/portaria/503-1973-421804), de 27 de Julho, e pela [Portaria n.º 3/77](https://diariodarepublica.pt/dr/detalhe/portaria/3-1977-492685), de 5 de Janeiro, são acrescentados os seguintes lugares: um primeiro-oficial, um segundo-oficial e um terceiro-oficial.
 
-###### Art. 5.º Os n.os 7, 10 e 13 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, passam a ter a seguinte redacção:
+Art. 5.º Os n.os 7, 10 e 13 do artigo 66.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, passam a ter a seguinte redacção:
 
-###### Art. 66.º ...
+Art. 66.º ...
 
 ...
 
@@ -125,30 +160,30 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ...
 
-###### Art. 6.º - 1. O primeiro provimento dos lugares do quadro do pessoal anexo ao presente diploma será feito ao abrigo do disposto no artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, na parte não alterada por este decreto-lei.
+Art. 6.º - 1. O primeiro provimento dos lugares do quadro do pessoal anexo ao presente diploma será feito ao abrigo do disposto no artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, na parte não alterada por este decreto-lei.
 
 2. Será elaborada uma relação nominal de todo o pessoal colocado no quadro referido no número anterior, quer o da Direcção-Geral de Saúde, quer o da Direcção-Geral de Saúde e Assistência, a qual, depois de sancionada por despacho do Secretário de Estado da Saúde e visada pelo Tribunal de Contas, será publicada no Diário da República, verificando-se os seus efeitos a partir da data da publicação do presente diploma.
 
 3. De igual modo se procederá em relação ao pessoal da Direcção-Geral de Saúde e Assistência integrado na Direcção-Geral dos Hospitais e nos serviços locais da Direcção-Geral de Saúde.
 
-###### Art. 7.º As despesas resultantes da execução do presente diploma serão satisfeitas pelas disponibilidades das dotações adequadas do vigente orçamento de despesa da Direcção-Geral de Saúde e da Direcção-Geral dos Hospitais, enquanto não forem introduzidas as alterações indispensáveis no Orçamento Geral do Estado.
+Art. 7.º As despesas resultantes da execução do presente diploma serão satisfeitas pelas disponibilidades das dotações adequadas do vigente orçamento de despesa da Direcção-Geral de Saúde e da Direcção-Geral dos Hospitais, enquanto não forem introduzidas as alterações indispensáveis no Orçamento Geral do Estado.
 
-###### Art. 8.º O pessoal que se encontrava a prestar serviço na Direcção-Geral de Saúde e Assistência, ora extinta, considera-se inscrito na Caixa Geral de Aposentações, devendo as quotas liquidadas para a «Compensação da aposentação» ser transferidas para aquela Caixa.
+Art. 8.º O pessoal que se encontrava a prestar serviço na Direcção-Geral de Saúde e Assistência, ora extinta, considera-se inscrito na Caixa Geral de Aposentações, devendo as quotas liquidadas para a «Compensação da aposentação» ser transferidas para aquela Caixa.
 
-###### Art. 9.º Este diploma entra em vigor no dia seguinte ao da data da publicação.
+Art. 9.º Este diploma entra em vigor no dia seguinte ao da data da publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira - Armando Bacelar.
 
-**Promulgado em 28 de Fevereiro de 1977.**
+Promulgado em 28 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Direcção-Geral de Saúde
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1977/03/05800/04420444.pdf))](https://files.diariodarepublica.pt/1s/1977/03/05800/04420444.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/03/05800/04420444.pdf)
 
 Nota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho ministerial, será abonada a gratificação mensal de 1000$00.
 
-**O Ministro dos Assuntos Sociais, Armando Bacelar.**
+O Ministro dos Assuntos Sociais, Armando Bacelar.

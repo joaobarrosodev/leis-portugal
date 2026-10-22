@@ -47,36 +47,40 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46153-1965-226631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a435109018584eef44353da4c2da9220c2e93f2c8e67aaddc206d92c47263bbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d854a94d5313f4cb9b2077267e274c60a5780db36932bbffeb57cf4c256d3c5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Pessoal
+- Direcção Geral da Contabilidade Pública
+- Pessoal Administrativo
+- Pessoal Contratado
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:51:57Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +89,9 @@ validation:
 
 Usando da faculdade conferida pela 1ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Até ao montante inscrito no Orçamento Geral do Estado, para satisfação dos encargos com o pessoal contratado não pertencente aos quadros da Direcção-Geral da Contabilidade Pública, poderá a mesma Direcção-Geral, com o acordo do Ministro das Finanças, contratar pessoal auxiliar da categoria de dactilógrafo e escriturário de 2.ª classe com as habilitações e idade exigidas pela lei geral.
+Artigo único. Até ao montante inscrito no Orçamento Geral do Estado, para satisfação dos encargos com o pessoal contratado não pertencente aos quadros da Direcção-Geral da Contabilidade Pública, poderá a mesma Direcção-Geral, com o acordo do Ministro das Finanças, contratar pessoal auxiliar da categoria de dactilógrafo e escriturário de 2.ª classe com as habilitações e idade exigidas pela lei geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

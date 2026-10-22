@@ -47,36 +47,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1972-400060
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:23:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5f6c8cab17174f8daf21f6eddc66bf3bd8eca59000f76f4a7b2db5f7a290b572
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ad3df76e6976d02e1d0834f12bfe165b5870874cece8389c4ac8357e2e88e6d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:23:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação do Património
+- Direcção Geral dos Serviços Eléctricos
+- Distribuição de Energia Elétrica
+- Empresa
+- Energia Elétrica
+- Rede Elétrica de Serviço Público
+relationships:
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:23:02Z'
   warnings: []
   errors: []
 ---
@@ -95,15 +105,15 @@ Torna-se também necessário providenciar no sentido de resolver as dificuldades
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O justo valor das instalações, obras e demais bens afectos às concessões de pequena distribuição de energia eléctrica a transferir para os concedentes, no termo das concessões ou por força do seu resgate ou rescisão, será fixado de comum acordo ou, na sua falta, por uma comissão de três peritos, um nomeado pela entidade concedente, outro pelo concessionário e um terceiro por acordo de ambas as partes contratantes, ou, na falta deste, pela Direcção-Geral dos Serviços Eléctricos, ficando a cargo das duas partes interessadas e na proporção de metade para cada uma o pagamento das despesas com o seu funcionamento.
+Artigo 1.º O justo valor das instalações, obras e demais bens afectos às concessões de pequena distribuição de energia eléctrica a transferir para os concedentes, no termo das concessões ou por força do seu resgate ou rescisão, será fixado de comum acordo ou, na sua falta, por uma comissão de três peritos, um nomeado pela entidade concedente, outro pelo concessionário e um terceiro por acordo de ambas as partes contratantes, ou, na falta deste, pela Direcção-Geral dos Serviços Eléctricos, ficando a cargo das duas partes interessadas e na proporção de metade para cada uma o pagamento das despesas com o seu funcionamento.
 
-###### Art. 2.º - 1. Deverá ser apresentado pela entidade concessionária o cadastro completo das instalações, obras e demais bens afectos à concessão, devidamente actualizado, e acompanhado de documentos esclarecedores das quantidades de materiais, bem como especificações, plantas, esquemas e outros elementos úteis.
+Art. 2.º - 1. Deverá ser apresentado pela entidade concessionária o cadastro completo das instalações, obras e demais bens afectos à concessão, devidamente actualizado, e acompanhado de documentos esclarecedores das quantidades de materiais, bem como especificações, plantas, esquemas e outros elementos úteis.
 
 2. O concessionário deverá apresentar o referido cadastro no prazo acordado pelas partes contratantes, fixado em função da importância da concessão, mas não excedente a 180 dias contados a partir da data da denúncia do contrato de concessão, ou da data do aviso de resgate ou rescisão.
 
 3. Não sendo apresentado o cadastro dentro do prazo a que alude o número anterior ou se, tendo-o sido, não merecer confiança, a entidade concedente promoverá a sua elaboração, ficando a cargo da concessionária as respectivas despesas.
 
-###### Art. 3.º Na avaliação das instalações, obras e demais bens a que se referem os artigos anteriores deverão observar-se as seguintes regras:
+Art. 3.º Na avaliação das instalações, obras e demais bens a que se referem os artigos anteriores deverão observar-se as seguintes regras:
 
 a) Será considerado o seu valor de aquisição, o qual será calculado a partir dos elementos contabilísticos do concessionário e dos elementos de cadastro referidos no artigo 2.º; no caso de não existirem, ou de não merecerem confiança, a qualquer das partes ou peritos, os elementos contabilísticos, recorrer-se-á à Direcção-Geral dos Serviços Eléctricos para que sejam fornecidas informações de preços simples e compostos relativas à data da aquisição;
 
@@ -113,20 +123,20 @@ c) O valor resultante será corrigido pela aplicação do factor de desvaloriza�
 
 d) A este valor serão deduzidos os valores de reintegrações, sendo estas calculadas pelo método de quotas constantes.
 
-###### Art. 4.º Para determinação das datas de aquisição e de entrada em serviço das instalações, necessárias para os cálculos previstos, respectivamente, nas alíneas c) e d) do artigo 3.º, recorrer-se-á aos registos do concessionário. Na sua falta, ou não merecendo confiança a qualquer das partes interessadas, deverá proceder-se a um inquérito, recorrendo-se a registos e outra informação de posse da Direcção-Geral dos Serviços Eléctricos ou a outra documentação disponível.
+Art. 4.º Para determinação das datas de aquisição e de entrada em serviço das instalações, necessárias para os cálculos previstos, respectivamente, nas alíneas c) e d) do artigo 3.º, recorrer-se-á aos registos do concessionário. Na sua falta, ou não merecendo confiança a qualquer das partes interessadas, deverá proceder-se a um inquérito, recorrendo-se a registos e outra informação de posse da Direcção-Geral dos Serviços Eléctricos ou a outra documentação disponível.
 
-###### Art. 5.º - 1. Para os efeitos da alínea d) do artigo 3.º adoptar-se-ão as taxas máximas de reintegração e de amortização, fixadas em cumprimento do artigo 30.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, que estiveram em vigor ao longo dos anos de amortização.
+Art. 5.º - 1. Para os efeitos da alínea d) do artigo 3.º adoptar-se-ão as taxas máximas de reintegração e de amortização, fixadas em cumprimento do artigo 30.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, que estiveram em vigor ao longo dos anos de amortização.
 
 2. O disposto no número anterior não é aplicável às concessões outorgadas antes da entrada em vigor deste decreto-lei, sendo quanto a elas admitido que o período de reintegração é o fixado no respectivo caderno de encargos ou que, não o tendo sido, é o prazo inicial da concessão com o limite mínimo de quinze anos.
 
-###### Art. 6.º Sempre que se torne necessário assegurar o abastecimento público de energia eléctrica a cargo das câmaras municipais ou suas federações e não se encontrem em vigor contratos de fornecimento ou de concessão que regulem o regime de tal abastecimento, competirá ao Secretário de Estado da Indústria, na falta de acordo entre os referidos corpos administrativos e as empresas distribuidoras de energia eléctrica, estabelecer, por despacho, ouvidas as duas partes interessadas, todas as condições em que o abastecimento se deve efectuar.
+Art. 6.º Sempre que se torne necessário assegurar o abastecimento público de energia eléctrica a cargo das câmaras municipais ou suas federações e não se encontrem em vigor contratos de fornecimento ou de concessão que regulem o regime de tal abastecimento, competirá ao Secretário de Estado da Indústria, na falta de acordo entre os referidos corpos administrativos e as empresas distribuidoras de energia eléctrica, estabelecer, por despacho, ouvidas as duas partes interessadas, todas as condições em que o abastecimento se deve efectuar.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 12 de Janeiro de 1972.**
+Promulgado em 12 de Janeiro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

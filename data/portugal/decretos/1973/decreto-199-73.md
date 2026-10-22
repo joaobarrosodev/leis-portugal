@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/10400/06820686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/199-1973-422010
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1981-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d98badf431e05804e6b2b012e46602928441752cd7e573385230f8f6e5ad4e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d08a63acbfb541c8075a8f5e34d8597bbac25bf3ebd994689111fb33245f3c47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral dos Serviços Prisionais
+- Estabelecimento Prisional
+- Ministério da Justiça
+- Orgânica
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:563002:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:502820:por
+  label: Alargado para três anos o período de interinidade fixado nos n.ºs 2 e 3 do art. 34.º pelo(a) Decreto n.º 237/76 -
+    Diário do Governo n.º 82/1976, Série I de 1976-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/237-1976-502820
+  date: '1976-04-06'
+- type: amended_by
+  target: pt:dre:409310:por
+  label: "Dada nova redacção ao art. 25º pelo DEC LEI.783/76.29.10.1976.MJ, DR.IS [254] de 29.10.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/783-1976-409310
+  date: '1976-10-29'
+- type: amended_by
+  target: pt:dre:325762:por
+  label: "Alterado o art. 21.º pelo DEC LEI.347/78.17.11.1978.MJ, DR.IS [265] de 17.11.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1978-325762
+  date: '1978-11-17'
+- type: cites
+  target: pt:dre:265133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:530234:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:476478:por
+  label: "Revogado o artigo 38.º pelo DEC LEI.324/74.10.07.1974.MJ, DG.IS [159] de 10.07.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1974-476478
+  date: '1974-07-10'
+- type: repealed_by
+  target: pt:dre:563002:por
+  label: "Revogado pelo DEC LEI.268/81.1981.09.16.MJ, DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1981-563002
+  date: '1981-09-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:15Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +140,9 @@ REGULAMENTO DA DIRECÇÃO-GERAL DOS SERVIÇOS PRISIONAIS
 
 #### SECÇÃO I — Disposições preliminares
 
-###### Artigo 1.º À Direcção-Geral dos Serviços Prisionais incumbe orientar os serviços de detenção e de execução de penas e medidas de segurança, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à prevenção do crime e ao tratamento dos delinquentes.
+Artigo 1.º À Direcção-Geral dos Serviços Prisionais incumbe orientar os serviços de detenção e de execução de penas e medidas de segurança, superintender na sua organização e funcionamento, e ainda efectuar os estudos referentes à prevenção do crime e ao tratamento dos delinquentes.
 
-###### Art. 2.º - 1. Para o exercício das suas atribuições, compete especialmente à Direcção-Geral:
+Art. 2.º - 1. Para o exercício das suas atribuições, compete especialmente à Direcção-Geral:
 
 a) Propor a criação, encerramento ou extinção de estabelecimentos prisionais, campos e brigadas de trabalho, a definição do seu destino e a aprovação dos respectivos regulamentos;
 
@@ -120,7 +164,7 @@ i) Promover a suspensão da execução das medidas de segurança ou das prorroga
 
 2. As remunerações a que se refere a alínea e) do número anterior respondem exclusivamente pelos encargos constantes do artigo 28.º do [Decreto n.º 34674](https://diariodarepublica.pt/dr/detalhe/decreto/34674-1945-530234), de 18 de Junho de 1945.
 
-###### Art. 3.º - 1. Compete ainda à Direcção-Geral, autorizada pelo Ministro da Justiça, solicitar a admissão a concurso para a execução, por empreitada, de obras públicas do Estado ou dos corpos administrativos.
+Art. 3.º - 1. Compete ainda à Direcção-Geral, autorizada pelo Ministro da Justiça, solicitar a admissão a concurso para a execução, por empreitada, de obras públicas do Estado ou dos corpos administrativos.
 
 2. O concurso público será dispensado por acordo entre os Ministros da Justiça e das Obras Públicas, ou entre aquele e o representante do corpo administrativo, quando se trate de obras de construção, reparação ou conservação de edifícios destinados à instalação dos serviços do Ministério da Justiça ou de bairros ou habitações económicas.
 
@@ -128,13 +172,13 @@ i) Promover a suspensão da execução das medidas de segurança ou das prorroga
 
 4. Pode o Ministro da Justiça determinar que a diferença entre o preço da adjudicação e o custo das obras reverta a favor do Fundo de Fomento e Patronato Prisional ou seja por ele suportada.
 
-###### Art. 4.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
+Art. 4.º - 1. A Direcção-Geral compreende serviços centrais e serviços externos.
 
 2. A Direcção-Geral dispõe ainda do Fundo de Fomento e Patronato Prisional.
 
 #### SECÇÃO II — Serviços centrais
 
-###### Art. 5.º - 1. Os serviços centrais abrangem:
+Art. 5.º - 1. Os serviços centrais abrangem:
 
 a) Os serviços técnicos;
 
@@ -142,11 +186,11 @@ b) Os serviços de administração.
 
 2. Junto dos serviços centrais funcionam o conselho técnico e o conselho administrativo.
 
-###### Art. 6.º Os serviços técnicos compreendem o gabinete de estudos, o serviço de execução de penas e medidas de segurança, o serviço de assistência social e o serviço de inspecção técnica.
+Art. 6.º Os serviços técnicos compreendem o gabinete de estudos, o serviço de execução de penas e medidas de segurança, o serviço de assistência social e o serviço de inspecção técnica.
 
-###### Art. 7.º Os serviços de administração compreendem os serviços de secretaria, de contabilidade e de inspecção administrativa.
+Art. 7.º Os serviços de administração compreendem os serviços de secretaria, de contabilidade e de inspecção administrativa.
 
-###### Art. 8.º - 1. Compete especialmente ao gabinete de estudos:
+Art. 8.º - 1. Compete especialmente ao gabinete de estudos:
 
 a) Proceder aos estudos que lhe forem determinados;
 
@@ -160,9 +204,9 @@ e) Editar o Boletim da Administração Penitenciária e dos Institutos de Crimin
 
 2. O Boletim da Administração Penitenciária e dos Institutos de Criminologia publicará também a jurisprudência de maior interesse para os serviços e poderá ser subsidiado pelo Cofre Geral dos Tribunais.
 
-###### Art. 9.º Ao serviço de execução de penas e medidas de segurança compete organizar os processos individuais dos presos, promover a distribuição destes pelos estabelecimentos prisionais, campos e brigadas de trabalho, e prover ao necessário expediente.
+Art. 9.º Ao serviço de execução de penas e medidas de segurança compete organizar os processos individuais dos presos, promover a distribuição destes pelos estabelecimentos prisionais, campos e brigadas de trabalho, e prover ao necessário expediente.
 
-###### Art. 10.º Ao serviço de assistência social compete especialmente:
+Art. 10.º Ao serviço de assistência social compete especialmente:
 
 a) Realizar os inquéritos sociais necessários à individualização da pena ou da medida de segurança, ao tratamento penitenciário e à preparação do regresso do recluso à vida livre;
 
@@ -178,13 +222,13 @@ f) Administrar o pecúlio dos ex-reclusos sempre que haja fundadas suspeitas de 
 
 g) Vigiar e amparar as pessoas sujeitas a penas e medidas de segurança não privativas de liberdade ou a regime de liberdade provisória, quando carecidas de assistência ou tutela.
 
-###### Art. 11.º - 1. Ao serviço de inspecção técnica compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, no aspecto técnico, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
+Art. 11.º - 1. Ao serviço de inspecção técnica compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, no aspecto técnico, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
 
 2. Para efeitos do disposto no número anterior, deverão realizar-se inspecções, tanto quanto possível, de três em três anos, bem como os inquéritos, sindicâncias e processos disciplinares que se mostrem necessários.
 
-###### Art. 12.º Ao serviço de secretaria compete especialmente promover o expediente respeitante ao pessoal dos serviços externos, organizar os respectivos processos e assegurar o serviço de arquivo do expediente geral.
+Art. 12.º Ao serviço de secretaria compete especialmente promover o expediente respeitante ao pessoal dos serviços externos, organizar os respectivos processos e assegurar o serviço de arquivo do expediente geral.
 
-###### Art. 13.º Ao serviço de contabilidade compete especialmente:
+Art. 13.º Ao serviço de contabilidade compete especialmente:
 
 a) Elaborar os projectos de orçamento dos serviços centrais e externos sem autonomia administrativa, promover as alterações indispensáveis e realizar as operações necessárias à sua execução;
 
@@ -194,11 +238,11 @@ c) Estudar e informar os projectos de orçamento das receitas próprias dos serv
 
 d) Realizar os serviços de contabilidade do Fundo de Fomento e Patronato Prisional e das obras executadas através da Direcção-Geral, e organizar as respectivas contas.
 
-###### Art. 14.º - 1. Ao serviço de inspecção administrativa compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, no aspecto administrativo, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
+Art. 14.º - 1. Ao serviço de inspecção administrativa compete recolher os elementos de informação necessários ao conhecimento do estado dos serviços, no aspecto administrativo, para melhor os orientar, aperfeiçoar a sua organização e suprir as deficiências que se verificarem, destinando-se complementarmente os elementos recolhidos a classificar o serviço dos funcionários e reprimir as irregularidades ou infracções que cometerem.
 
 2. Para efeitos do disposto no número anterior, deverão realizar-se inspecções, tanto quanto possível, de três em três anos, bem como os inquéritos, sindicâncias e processos disciplinares que se mostrem necessários.
 
-###### Art. 15.º Compete especialmente ao conselho técnico:
+Art. 15.º Compete especialmente ao conselho técnico:
 
 a) Emitir parecer sobre os estudos referentes a questões técnicas dos serviços prisionais, incluindo os relativos à organização e funcionamento dos serviços;
 
@@ -208,19 +252,19 @@ c) Apreciar os relatórios anuais dos estabelecimentos prisionais, campos e brig
 
 d) Apreciar os processos de inspecção e classificar o serviço dos funcionários.
 
-###### Art. 16.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o inspector superior e o adjunto do director-geral, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre os directores e médicos dos estabelecimentos prisionais.
+Art. 16.º - 1. Do conselho técnico fazem parte o director-geral, como presidente, o inspector superior e o adjunto do director-geral, como vogais permanentes, e dois vogais nomeados trienalmente pelo Ministro da Justiça de entre os directores e médicos dos estabelecimentos prisionais.
 
 2. Na falta ou impedimento de algum dos vogais, o presidente designará o funcionário que deve substituí-lo.
 
 3. Q conselho técnico reúne-se sempre que o presidente o convoque.
 
-###### Art. 17.º - 1. Fixadas, por despacho ministerial, as categorias de funcionários sujeitas a classificação, o respectivo serviço será classificado com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
+Art. 17.º - 1. Fixadas, por despacho ministerial, as categorias de funcionários sujeitas a classificação, o respectivo serviço será classificado com as notas de Muito bom, Bom com distinção, Bom, Regular, Medíocre ou Mau.
 
 2. A nota de Muito bom não pode ser atribuída a funcionários com menos de três anos de serviço inspeccionado, nem aos que há menos de três anos tenham tido classificação inferior à de Bom.
 
 3. Aos funcionários classificados de Mau e àqueles que em duas classificações seguidas ou em três interpoladas tenham obtido a classificação de Medíocre será imediatamente instaurado processo disciplinar por incompetência para o exercício do cargo.
 
-###### Art. 18.º Compete especialmente ao conselho administrativo:
+Art. 18.º Compete especialmente ao conselho administrativo:
 
 a) Propor à aprovação superior o orçamento do Fundo de Fomento e Patronato Prisional e administrar as respectivas verbas;
 
@@ -230,7 +274,7 @@ c) Informar as propostas de alteração do quadro do pessoal a pagar pelos orça
 
 d) Delegar nos conselhos administrativos dos estabelecimentos prisionais a gestão das obras a executar com trabalho prisional, bem como recorrer aos serviços de pessoas qualificadas, mesmo que não sejam funcionários, para assegurar a direcção e fiscalização técnica dessas obras e para manter o funcionamento dos campos e brigadas de trabalho.
 
-###### Art. 19.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta, com o acordo do Ministro da Justiça.
+Art. 19.º - 1. O conselho administrativo é constituído por dois funcionários superiores dos serviços centrais, designados pelo Ministro da Justiça, e por um representante do Ministério das Finanças, designado pelo titular desta pasta, com o acordo do Ministro da Justiça.
 
 2. Na falta ou impedimento de algum dos membros designados pelo Ministro da Justiça, o presidente indicará o funcionário que deve substitui-lo.
 
@@ -238,7 +282,7 @@ d) Delegar nos conselhos administrativos dos estabelecimentos prisionais a gest�
 
 #### SECÇÃO III — Fundo de Fomento e Patronato Prisional
 
-###### Art. 20.º O Fundo de Fomento e Patronato Prisional custeará, entre outros:
+Art. 20.º O Fundo de Fomento e Patronato Prisional custeará, entre outros:
 
 a) Os encargos com a assistência social dos serviços prisionais;
 
@@ -256,7 +300,7 @@ g) Os encargos com a organização e participação em reuniões nacionais e int
 
 h) As quotizações das associações internacionais.
 
-###### Art. 21.º Constituem receitas do Fundo de Fomento e Patronato Prisional:
+Art. 21.º Constituem receitas do Fundo de Fomento e Patronato Prisional:
 
 a) A percentagem sobre as remunerações dos reclusos, fixada pelo Ministro da Justiça, e paga pelos dadores de trabalho;
 
@@ -276,13 +320,13 @@ h) Quaisquer outras importâncias que venham a ser-lhe atribuídas.
 
 #### SECÇÃO IV — Serviços externos
 
-###### Art. 22.º - 1. Os serviços externos compreendem os estabelecimentos prisionais, os campos e brigadas de trabalho e os institutos de criminologia.
+Art. 22.º - 1. Os serviços externos compreendem os estabelecimentos prisionais, os campos e brigadas de trabalho e os institutos de criminologia.
 
 2. Os anexos psiquiátricos fazem parte dos estabelecimentos junto dos quais funcionam.
 
-###### Art. 23.º Em cada estabelecimento prisional com autonomia administrativa há serviços de secretaria, de contabilidade e de economato, um conselho técnico e um conselho administrativo.
+Art. 23.º Em cada estabelecimento prisional com autonomia administrativa há serviços de secretaria, de contabilidade e de economato, um conselho técnico e um conselho administrativo.
 
-###### Art. 24.º Compete especialmente ao conselho técnico:
+Art. 24.º Compete especialmente ao conselho técnico:
 
 a) Elaborar os programas de tratamento penitenciário;
 
@@ -292,11 +336,11 @@ c) Emitir parecer sobre a conveniência de propor ao tribunal a alteração das 
 
 d) Pronunciar-se sobre matéria disciplinar, quando a lei o exija ou o director do estabelecimento o determine.
 
-###### Art. 25.º - 1. O conselho técnico é constituído pelo director do estabelecimento, que preside, e por quatro funcionários designados pelo Ministro da Justiça, sob proposta do director-geral..
+Art. 25.º - 1. O conselho técnico é constituído pelo director do estabelecimento, que preside, e por quatro funcionários designados pelo Ministro da Justiça, sob proposta do director-geral..
 
 2. Quando o Ministro da Justiça o entender conveniente, o conselho técnico será constituído apenas pelo director e por dois funcionários.
 
-###### Art. 26.º - 1. Ao conselho administrativo compete especialmente:
+Art. 26.º - 1. Ao conselho administrativo compete especialmente:
 
 a) Examinar as contas, ordenar os pagamentos e requisitar os fundos necessários;
 
@@ -312,7 +356,7 @@ f) Elaborar os projectos de orçamento e prestar contas, nos termos legalmente e
 
 2. Aos servidores dos estabelecimentos prisionais que o requeiram ou que por exigência do serviço tenham de permanecer no estabelecimento pode ser fornecida alimentação confeccionada para os reclusos, mediante a importância do seu custo, a qual constituirá receita do Estado.
 
-###### Art. 27.º - 1. O conselho administrativo dos estabelecimentos prisionais é constituído pelo director, que preside, e pelos chefes de secretaria e de economato.
+Art. 27.º - 1. O conselho administrativo dos estabelecimentos prisionais é constituído pelo director, que preside, e pelos chefes de secretaria e de economato.
 
 2. O chefe de contabilidade e o tesoureiro podem assistir às sessões do conselho, quando convocados pelo director, mas com voto meramente consultivo.
 
@@ -322,9 +366,9 @@ f) Elaborar os projectos de orçamento e prestar contas, nos termos legalmente e
 
 ### CAPÍTULO II — Pessoal
 
-###### Art. 28.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
+Art. 28.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
 
-###### Art. 29.º Ao inspector superior compete:
+Art. 29.º Ao inspector superior compete:
 
 a) Dirigir os serviços técnicos;
 
@@ -332,7 +376,7 @@ b) Orientar os serviços de inspecção técnica e realizar as inspecções, inq
 
 c) Coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo nas suas faltas ou impedimentos.
 
-###### Art. 30.º - 1. Ao adjunto do director-geral compete:
+Art. 30.º - 1. Ao adjunto do director-geral compete:
 
 a) Dirigir os serviços de administração;
 
@@ -342,11 +386,11 @@ c) Coadjuvar o director-geral no exercício das respectivas funções, nos termo
 
 2. O adjunto será substituído, nas suas faltas ou impedimentos, pelo funcionário designado pelo director-geral.
 
-###### Art. 31.º - 1. Aos inspectores compete exercer as funções próprias do serviço de inspecção, cabendo ainda a um deles dirigir, coordenar e fiscalizar a actividade dos orientadores sociais.
+Art. 31.º - 1. Aos inspectores compete exercer as funções próprias do serviço de inspecção, cabendo ainda a um deles dirigir, coordenar e fiscalizar a actividade dos orientadores sociais.
 
 2. Por conveniência de serviço, pode o Ministro da Justiça encarregar magistrados e outros funcionários do Ministério de proceder a inquéritos e sindicâncias ou de instruir processos disciplinares.
 
-###### Art. 32.º - 1. Aos orientadores sociais incumbe a execução das tarefas próprias do serviço de assistência social.
+Art. 32.º - 1. Aos orientadores sociais incumbe a execução das tarefas próprias do serviço de assistência social.
 
 2. Cada orientador social anotará diariamente, em livro próprio, fornecido pela Direcção-Geral, a descrição sucinta das diligências, tanto internas como externas, com menção do local e das pessoas junto de quem foram efectuadas, podendo ser-lhe determinada a elaboração de um relatório periódico sobre os serviços a seu cargo.
 
@@ -354,23 +398,23 @@ c) Coadjuvar o director-geral no exercício das respectivas funções, nos termo
 
 4. Os orientadores sociais dependem imediatamente dos serviços centrais, ficando, porém, subordinados aos directores dos estabelecimentos prisionais enquanto exercem funções dentro destes.
 
-###### Art. 33.º - 1. Os educadores desempenham funções docentes e as que lhes forem indicadas para melhor individualização do tratamento penitenciário.
+Art. 33.º - 1. Os educadores desempenham funções docentes e as que lhes forem indicadas para melhor individualização do tratamento penitenciário.
 
 2. Nos estabelecimentos prisionais regionais, ao educador compete ainda assegurar a execução dos serviços burocráticos.
 
-###### Art. 34.º - 1. Os lugares de ingresso nas carreiras de educadores e educadores-adjuntos e de orientadores sociais e orientadores sociais-adjuntos são providos, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigidas.
+Art. 34.º - 1. Os lugares de ingresso nas carreiras de educadores e educadores-adjuntos e de orientadores sociais e orientadores sociais-adjuntos são providos, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigidas.
 
 2. Na falta de candidatos com o curso adequado do Instituto de Formação Profissional, podem ser providos, interinamente e por dois anos, indivíduos que possuam as restantes habilitações legais.
 
 3. Findo o prazo de dois anos, se o funcionário tiver tido aproveitamento no curso, o período de interinidade será considerado como provisório, para todos os efeitos legais; no caso contrário, o funcionário será imediatamente exonerado.
 
-###### Art. 35.º - 1. Os lugares de mestres de serralheiros, carpinteiros, marceneiros e artes gráficas são providos, mediante concurso de prestação de provas, de entre indivíduos habilitados com o curso de formação apropriado das escolas técnicas.
+Art. 35.º - 1. Os lugares de mestres de serralheiros, carpinteiros, marceneiros e artes gráficas são providos, mediante concurso de prestação de provas, de entre indivíduos habilitados com o curso de formação apropriado das escolas técnicas.
 
 2. Na falta de candidatos com as habilitações requeridas, podem ser providos, como encarregados de ensino, indivíduos aprovados em concurso de prestação de provas que possuam a habilitação correspondente à escolaridade obrigatória.
 
-###### Art. 36.º Os lugares de mestres de alfaiates e sapateiros, bem como os lugares de ingresso na carreira de profissionais de artes e ofícios são providos, mediante concurso de prestação de provas, em indivíduos que possuam a habilitação correspondente à escolaridade obrigatória.
+Art. 36.º Os lugares de mestres de alfaiates e sapateiros, bem como os lugares de ingresso na carreira de profissionais de artes e ofícios são providos, mediante concurso de prestação de provas, em indivíduos que possuam a habilitação correspondente à escolaridade obrigatória.
 
-###### Art. 37.º - 1. Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 48557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48557-1968-265133), de 30 de Agosto de 1968, o pessoal de enfermagem é provido nos seguintes termos:
+Art. 37.º - 1. Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 48557](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48557-1968-265133), de 30 de Agosto de 1968, o pessoal de enfermagem é provido nos seguintes termos:
 
 a) O lugar de enfermeiro-chefe é exercido, em regime de acumulação, pelo subchefe designado pelo Ministro da Justiça;
 
@@ -380,15 +424,15 @@ c) Os lugares de enfermeiro e de auxiliar de enfermagem são providos, mediante 
 
 2. Na falta de candidatos com as habilitações exigidas por lei, os lugares de enfermeiro podem ser providos em auxiliares de enfermagem de 1.ª classe ou, na falta destes, mediante concurso de prestação de provas, em ajudantes de enfermaria.
 
-###### Art. 38.º Os lugares de ingresso na carreira do pessoal de vigilância são providos em regime de estágio por dois anos, podendo o Ministro da Justiça fixar, em portaria, condições especiais de ingresso e de promoção.
+Art. 38.º Os lugares de ingresso na carreira do pessoal de vigilância são providos em regime de estágio por dois anos, podendo o Ministro da Justiça fixar, em portaria, condições especiais de ingresso e de promoção.
 
-###### Art. 39.º Os lugares de médico, técnicos farmacêuticos, terapeuta e auxiliar de laboratório, ajudantes técnicos de radiologia e farmácia, enfermeiro, auxiliar de enfermagem e ajudante de enfermaria, profissional de artes e ofícios, mestre de oficinas e encarregado do ensino podem ser providos por contrato, quando tal se mostre conveniente.
+Art. 39.º Os lugares de médico, técnicos farmacêuticos, terapeuta e auxiliar de laboratório, ajudantes técnicos de radiologia e farmácia, enfermeiro, auxiliar de enfermagem e ajudante de enfermaria, profissional de artes e ofícios, mestre de oficinas e encarregado do ensino podem ser providos por contrato, quando tal se mostre conveniente.
 
-###### Art. 40.º - 1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos, salários e outros abonos constituirão encargos dos respectivos orçamentos, em conta de receitas próprias.
+Art. 40.º - 1. Para os serviços das explorações económicas ou do ensino profissional dos estabelecimentos pode ser contratado ou assalariado o pessoal de carácter permanente ou eventual que seja indispensável, mas as despesas com vencimentos, salários e outros abonos constituirão encargos dos respectivos orçamentos, em conta de receitas próprias.
 
 2. O pessoal assalariado pode ser admitido e despedido pelo director do respectivo estabelecimento, depois de obtido, por intermédio da Direcção-Geral, despacho ministerial de concordância.
 
-###### Art. 41.º - 1. Os médicos que estejam a ser pagos por conta da verba do pessoal contratado além do quadro conservam as regalias que auferiam anteriormente a 1 de Janeiro de 1972.
+Art. 41.º - 1. Os médicos que estejam a ser pagos por conta da verba do pessoal contratado além do quadro conservam as regalias que auferiam anteriormente a 1 de Janeiro de 1972.
 
 2. Consideram-se providos por contrato os titulares dos cargos previstos no artigo 39.º que estavam providos por esse modo anteriormente a 1 de Janeiro
 
@@ -396,8 +440,8 @@ de 1973.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

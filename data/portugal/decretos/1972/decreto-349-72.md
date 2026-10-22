@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/349-1972-688614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a8ff8b844e0fcc16d5089aa1efbd81c11e06f7d6c56af1a3909e153f60bd68d5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72809a8f2b42758b88ac3adf53c923f8bff3143ef18950c7d68fd28209c30ccd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:36Z'
   warnings: []
   errors: []
 ---
@@ -98,21 +118,21 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Moçambique, com uma sociedade anónima portuguesa de responsabilidade limitada, a constituir pela Companhia Mineira do Lobito, S. A. R. L., Bethlehem Steel Corporation e Companhia de Urânio de Moçambique, S. A. R. L., um contrato de concessão em conformidade com as bases contratuais anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Moçambique, com uma sociedade anónima portuguesa de responsabilidade limitada, a constituir pela Companhia Mineira do Lobito, S. A. R. L., Bethlehem Steel Corporation e Companhia de Urânio de Moçambique, S. A. R. L., um contrato de concessão em conformidade com as bases contratuais anexas ao presente decreto, que são aprovadas para todos os efeitos, dele ficam fazendo parte integrante e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de sessenta dias, contados a partir da data da aprovação dos seus estatutos pelo Ministro do Ultramar.
+Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de sessenta dias, contados a partir da data da aprovação dos seus estatutos pelo Ministro do Ultramar.
 
-###### Art. 3.º O contrato de concessão terá de ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
+Art. 3.º O contrato de concessão terá de ser assinado dentro de sessenta dias, contados a partir da data da constituição da sociedade.
 
-###### Art. 4.º Este decreto entra imediatamente em vigor.
+Art. 4.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Agosto de 1972.**
+Promulgado em 24 de Agosto de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
 
@@ -360,7 +380,7 @@ c) Outras despesas com trabalhos geológicos e mineiros necessários ao desenvol
 
 d) A depreciação anual dos bens do activo imobilizado, nas seguintes percentagens máximas dos respectivos valores de aquisição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/09/20800/12701280.pdf))](https://files.diariodarepublica.pt/1s/1972/09/20800/12701280.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/09/20800/12701280.pdf)
 
 e) As perdas, prejuízos e destruições sofridas durante o ano social não cobertas ou compensadas por seguro ou qualquer outra forma;
 
@@ -658,4 +678,4 @@ b) Os restantes 70 por cento serão pagos em quatro prestações sucessivas anua
 
 c) Se o contrato for rescindido a pedido da sociedade nos termos do n.º 3 da base VII ou da base XXIV, a obrigação de pagamento cessará a partir da data da rescisão.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

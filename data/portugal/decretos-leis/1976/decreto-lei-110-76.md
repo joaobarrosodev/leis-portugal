@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1976-506639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-05-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ebafb041b2388bf832c3830de6b057341590ce43d28a19f1992e3bda4fd3abc0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39ea697a08a4e8c60add6acb888aee48687aff46461363206b89b049417176bb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cabo Verde
+- Cidade da Praia
+- Convenção
+- Cooperação Científica
+- Cooperação Técnica
+- Cooperante
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:474285:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:474285:por
+  label: "Alterados os art 15.º, 17.º e 19.º do presente Acordo pelo Protocolo Adicional aprovado para ratificação pelo DEC.31/80.1980.05.22.MNE\
+    \ DR.IS [118]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/31-1980-474285
+  date: '1980-05-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:11Z'
   warnings: []
   errors: []
 ---
@@ -90,15 +103,15 @@ de 7 de Fevereiro
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, o Governo decreta o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Científica e Técnica entre Portugal e a República de Cabo Verde, assinado em 5 de Julho de 1975, cujo texto vai anexo ao presente decreto.
+Artigo único. É aprovado, para ratificação, o Acordo de Cooperação Científica e Técnica entre Portugal e a República de Cabo Verde, assinado em 5 de Julho de 1975, cujo texto vai anexo ao presente decreto.
 
 José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Luís Cordes da Ponte Marques do Carmo - António Poppe Lopes Cardoso - Ernesto Augusto de Melo Antunes - Álvaro Augusto Veiga de Oliveira - Walter Ruivo Pinto Gomes Rosa - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa.
 
-**Assinado em 30 de Janeiro de 1976.**
+Assinado em 30 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 Acordo de Cooperação Científica e Técnica entre Portugal e Cabo Verde
 
@@ -106,7 +119,7 @@ Nos termos do Acordo Geral de Cooperação e Amizade estabelecido entre o Estado
 
 ### CAPÍTULO I — Acções de cooperação
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 1.º O Estado Português compromete-se, na medida das suas possibilidades e quando solicitado pelo Estado de Cabo Verde, a:
 
@@ -124,37 +137,37 @@ f) Pôr à sua disposição equipamentos, instrumentos e materiais que sirvam a 
 
 2. As acções de cooperação serão conduzidas com o espírito de contribuir para o progresso de Cabo Verde, nomeadamente no respeitante à transmissão de conhecimentos e à formação e aperfeiçoamento profissional dos respectivos quadros.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 Os meios referidos no artigo 1.º poderão ser utilizados na criação e desenvolvimento de centros de formação técnica e profissional, de laboratórios, de organismos científicos e técnicos e ainda na criação ou reorganização de outros serviços.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 O Estado Português procurará facultar amplamente aos candidatos que lhe forem indicados pelo Estado de Cabo Verde o acesso aos estabelecimentos portugueses de ensino e de formação profissional bem como a estágios profissionais em organismos públicos e privados.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 As duas Partes facilitarão e estimularão o intercâmbio entre os seus centros de documentação, escolas e organismos científicos e técnicos, em particular através da permuta de documentação e informações científicas e técnicas. Manterão ainda o regular envio de documentos e informações com interesse para o desenvolvimento científico, técnico, económico, cultural e social que possam ser úteis à outra Parte.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 Os objectivos, os programas, o financiamento e a responsabilidade de projectos de cooperação serão definidos, em cada caso, por convénio especial.
 
 ### CAPÍTULO II — Estatuto do cooperante
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 São considerados cooperantes os indivíduos postos à disposição do Estado de Cabo Verde pelo Estado Português, nos termos deste Acordo.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 A prestação de serviço de cooperação será regida por contratos escritos celebrados entre o cooperante e cada um dos Estados, de harmonia com as condições adiante enunciadas.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 Caberá aos serviços portugueses o recrutamento de candidatos a lugares de cooperantes solicitados pelo Estado de Cabo Verde e a este a selecção final dos candidatos.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 1. Os cooperantes a que se refere o presente Acordo ficam sujeitos às leis do Estado de Cabo Verde e submetidos à autoridade administrativa junto da qual forem colocados.
 
@@ -166,11 +179,11 @@ Caberá aos serviços portugueses o recrutamento de candidatos a lugares de coop
 
 5. É interdita toda a actividade particular lucrativa, salvo autorização expressa do Governo de Cabo Verde.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 A prestação de serviços no quadro da cooperação realizar-se-á numa base de financiamento comum, nos termos dos dois artigos seguintes.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 Serão suportados pelo Estado Português os encargos de:
 
@@ -182,7 +195,7 @@ c) Pagamento ao cooperante, em Portugal e em moeda portuguesa, de uma quantia qu
 
 d) Pagamento das contribuições à Caixa Geral de Aposentações, à Caixa Nacional de Pensões, ou a qualquer outro organismo de previdência, conforme o caso, respeitantes aos benefícios de aposentação, invalidez, e sobrevivência.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 Serão suportados pelo Governo de Cabo Verde os encargos de:
 
@@ -196,7 +209,7 @@ d) Assistência médica, medicamentosa, cirúrgica e hospitalar para o cooperant
 
 e) Seguro de acidentes pessoais, incluindo riscos profissionais, por valor não inferior a quinhentos mil escudos portugueses, e seguro de acidentes de trabalho, devendo o Estado de Cabo Verde assegurar a transferência cambial para Portugal das indemnizações arbitradas.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 1. O pagamento de todas as quantias devidas pelo Estado de Cabo Verde ao cooperante será efectuado em moeda cabo-verdiana e no local habitual da prestação de serviço.
 
@@ -204,13 +217,13 @@ e) Seguro de acidentes pessoais, incluindo riscos profissionais, por valor não 
 
 3. O cooperante que, por qualquer causa, tenha efectuado mensalmente transferências de montante inferior às autorizadas terá direito a transferir a soma das diferenças até ao montante autorizado, não podendo, contudo, esta última transferência - que poderá ser feita em mais de uma prestação e num período não superior a seis meses a contar da data do pedido - ser superior ao total das transferências correspondentes a seis meses de prestação de serviço.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 1. Considera-se família do cooperante, para os efeitos previstos neste Acordo, o cônjuge e os filhos menores ou incapazes.
 
 2. Beneficia da qualificação formulada no n.º 1 a pessoa que, anteriormente à assinatura dos títulos contratuais, já vivia em situação marital com o cooperante e bem assim os filhos menores ou incapazes nascidos dessa ligação.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 1. Os contratos terão, em regra, a duração de um ano, podendo ser renovados por iguais e sucessivos períodos.
 
@@ -226,11 +239,11 @@ Em caso inverso, o Estado de Cabo Verde pagará ao cooperante uma indemnização
 
 6. No caso previsto na segunda parte do n.º 4, o pagamento de quaisquer indemnizações a que houver lugar será feito, integralmente, no momento em que o contrato for denunciado.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 O tempo que durar a prestação de serviço do cooperante será contado, em Portugal, para todos os efeitos legais, designadamente os de antiguidade e promoção.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 1. O cooperante terá direito a trinta dias de férias em cada ano de serviço prestado em Cabo Verde.
 
@@ -244,11 +257,11 @@ O tempo que durar a prestação de serviço do cooperante será contado, em Port
 
 6. Os docentes e outros cooperantes poderão beneficiar de regimes de férias especiais quando tal for regra para os funcionários cabo-verdianos do mesmo grupo profissional.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 O disposto nas alíneas a) e b) do artigo 11.º, b) e c) do artigo 12.º e n.º 3 do artigo 17.º será aplicado, com as necessárias adaptações, ao caso de o cooperante não proceder de território português.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 1. Em caso de doença, devidamente comprovada, que impossibilite o cooperante de exercer as suas funções por um período superior a noventa dias, será a sua prestação de serviço dada por finda, cabendo as despesas do seu repatriamento e dos seus familiares ao Estado Português ou ao Estado de Cabo Verde conforme o facto se tenha verificado ou não no primeiro ano de serviço.
 
@@ -256,29 +269,29 @@ O disposto nas alíneas a) e b) do artigo 11.º, b) e c) do artigo 12.º e n.º 
 
 3. O contrato, no caso de terminar antes de o cooperante ser dado por curado, com ou sem incapacidade, considerar-se-á prorrogado até que tal se verifique.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 O Estado de Cabo Verde atribuirá aos cooperantes do sexo feminino, nos casos de gravidez parto, os mesmos direitos e regalias reconhecidos, em casos idênticos, às suas funcionárias.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 1. O Estado de Cabo Verde isentará de todos os direitos de alfândega e outras taxas, de restrições à importação ou à reexportação e de qualquer outro encargo fiscal, o automóvel e bens de uso pessoal e doméstico do cooperante e sua família.
 
 2. A saída do território de Cabo Verde, com isenção de direitos e demais encargos aduaneiros, dos bens adquiridos pelo cooperante durante a sua estada será autorizada dentro de condições fixadas pelas autoridades cabo-verdianas.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 1. Quando o Estado Português fornecer ao Estado de Cabo Verde ou a organismos designados de comum acordo máquinas, livros, instrumentos ou equipamentos, o Estado de Cabo Verde autorizará a entrada destes no seu território, isentando-os de todas as imposições ou taxas aduaneiras e outros impostos, assim como de qualquer restrição à importação ou à reexportação.
 
 2. Os meios de acção, designadamente veículos, instrumentos e equipamentos que forem postos à disposição dos cooperantes, ficarão submetidos a regime idêntico, permanecendo propriedade do Estado Português.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 Uma comissão mista composta de membros nomeados pelos dois Governos reunir-se-á pelo menos uma vez por ano, em princípio, alternadamente em cada um dos países, para apreciar o desenvolvimento de cooperação científica e técnica e definir o programa a empreender no ano seguinte, o qual será submetido à aprovação das duas Partes.
 
 O programa poderá ser alterado a todo o tempo por comum acordo.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 O presente Acordo entrará em vigor na data da troca de instrumentos de ratificação e terá a duração de três anos, renováveis por períodos iguais e sucessivos, se não for denunciado por qualquer das Partes.
 

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 302/1972, 2º Suplemento, Série I de 1972-12-30
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 2144-(80) a 2144-(80)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30202/00800080.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/598-1972-163787
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:25:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33e8d40e165725033b279f1054cf3049267db1c95ea443f771d214a41b3cba56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7426309d9179eff1950b1b8610a905feb3f4e22db654f07b510ede7e3359d06
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:25:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:25:57Z'
   warnings: []
   errors: []
 ---
@@ -88,26 +92,26 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 1368645$00 destinado a reforçar a seguinte verba do vigente orçamento do Ministério da Economia:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 1368645$00 destinado a reforçar a seguinte verba do vigente orçamento do Ministério da Economia:
 
 Despesa extraordinária
 
 III Plano de Fomento
 
-### Capítulo 26.º «Junta de Hidráulica Agrícola»:
+Capítulo 26.º «Junta de Hidráulica Agrícola»:
 
 Obras de beneficiação e complementares dos regadios em exploração
 
-###### Artigo 554.º «Investimentos»:
+Artigo 554.º «Investimentos»:
 
 N.º 3 «Melhoramentos fundiários» ... 1368645$00
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior, é adicionada igual importância à verba inscrita no capítulo 5.º, grupo 3, artigo 181.º Transferências diversas», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação do crédito designado no artigo anterior, é adicionada igual importância à verba inscrita no capítulo 5.º, grupo 3, artigo 181.º Transferências diversas», do actual orçamento das receitas do Estado.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 
-**Promulgado em 27 de Dezembro de 1972.**
+Promulgado em 27 de Dezembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

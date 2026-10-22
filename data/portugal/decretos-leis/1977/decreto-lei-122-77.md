@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/07600/06520661.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-1977-139694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd8a4a2b4194126a20e215211d3291b5108b89f8e8437f480c80a98d3425c0bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 173ab0c487828a2d38ccb765960c0ab61bdd6c67ed729f7c842937f33974ddac
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- ANA
+- Criação de Serviços
+- Direcção Geral da Aeronáutica Civil
+- Direcção Geral da Aviação Civil
+- Empresa Pública
+- Estatuto
+- Extinção de Serviços
+- Fiscalização
+- Integração de Trabalhadores
+- Isenção Fiscal
+- Lisboa
+- Naer-Novo Aeroporto
+- Transporte Aéreo
 relationships:
 - type: amended_by
   target: pt:dre:329840:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:404499:por
+  label: "Prorrogados, os prazos referidos nos arts. 6º e 8º do presente diploma, pelo DEC LEI.561/77.31.12.1977.MTC, DR.IS\
+    \ [302-3ºSupl] de 31.12.1977, nos termos do seu art. 1º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/561-1977-404499
+  date: '1977-12-31'
+- type: amended_by
+  target: pt:dre:299444:por
+  label: "Dada nova redacção à al. a) do nº 1 do art. 13º pelo DEC LEI.254/78.28.08.1978.MTC, DR.IS [197] de 28.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/254-1978-299444
+  date: '1978-08-28'
+- type: amended_by
+  target: pt:dre:299445:por
+  label: "Alterado o art. 7º dos Estatutos da ANA, E.P. pelo DEC LEI.256/78.28.08.1978.MTC, DR.IS [197] de 28.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/256-1978-299445
+  date: '1978-08-28'
+- type: amended_by
+  target: pt:dre:329840:por
+  label: Declarada, com força obrigatória geral, a inconstitucionalidade das normas contidas no presente diploma pelo(a) Resolução
+    n.º 136/78 - Diário da República n.º 208/1978, Série I de 1978-09-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/136-1978-329840
+  date: '1978-09-09'
+- type: cites
+  target: pt:dre:148061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525213:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:139905:por
+  label: Rectificado pela DECL.DD8147.12.04.1977.PCM, DR.IS [85] de 12.04.1977, sendo eliminado o texto do artigo 34.º e passando
+    os artigos 35.º, 36.º, 37.º e 38.º, respectivamente, a artigos 34.º, 35.º, 36.º e 37.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1977-139905
+  date: '1977-04-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:42Z'
   warnings: []
   errors: []
 ---
@@ -139,37 +196,37 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São criadas, na dependência do Ministro dos Transportes e Comunicações e nos termos do presente diploma, a Direcção-Geral da Aviação Civil (DGAC), que sucederá à Direcção-Geral da Aeronáutica Civil, e a empresa pública Aeroportos e Navegação Aérea (ANA, E. P.), a qual goza de personalidade jurídica, autonomia administrativa e financeira e é dotada de património próprio.
+Artigo 1.º São criadas, na dependência do Ministro dos Transportes e Comunicações e nos termos do presente diploma, a Direcção-Geral da Aviação Civil (DGAC), que sucederá à Direcção-Geral da Aeronáutica Civil, e a empresa pública Aeroportos e Navegação Aérea (ANA, E. P.), a qual goza de personalidade jurídica, autonomia administrativa e financeira e é dotada de património próprio.
 
-###### Art. 2.º À DGAC caberá, em geral, prosseguir as atribuições de orientação, regulamentação e fiscalização das actividades relacionadas com a aviação civil nacional, designadamente em matéria de política e segurança aéreas.
+Art. 2.º À DGAC caberá, em geral, prosseguir as atribuições de orientação, regulamentação e fiscalização das actividades relacionadas com a aviação civil nacional, designadamente em matéria de política e segurança aéreas.
 
-###### Art. 3.º - 1. ANA, E. P., terá como objecto principal a exploração e desenvolvimento, em regime de exclusivo e em moldes empresariais, das actividades inerentes ao aproveitamento funcional das infra-estruturas aeroportuárias e de navegação aérea da Direcção-Geral da Aeronáutica Civil e outras que venham a ser construídas e de interesse comercial, sem prejuízo de lhe poderem ser impostas especiais obrigações de serviço público.
+Art. 3.º - 1. ANA, E. P., terá como objecto principal a exploração e desenvolvimento, em regime de exclusivo e em moldes empresariais, das actividades inerentes ao aproveitamento funcional das infra-estruturas aeroportuárias e de navegação aérea da Direcção-Geral da Aeronáutica Civil e outras que venham a ser construídas e de interesse comercial, sem prejuízo de lhe poderem ser impostas especiais obrigações de serviço público.
 
 2. Poderá ainda a empresa dedicar-se, acessoriamente, a actividades relacionadas directa ou indirectamente com o objecto principal.
 
-###### Art. 4.º Os princípios fundamentais quanto às atribuições, organização, competência e regime do pessoal da DGAC, bem como a fixação da respectiva entrada em funcionamento, serão objecto do decreto simples, a publicar no prazo de cento e vinte dias, após análise de estudos e propostas resultantes da reestruturação do sector.
+Art. 4.º Os princípios fundamentais quanto às atribuições, organização, competência e regime do pessoal da DGAC, bem como a fixação da respectiva entrada em funcionamento, serão objecto do decreto simples, a publicar no prazo de cento e vinte dias, após análise de estudos e propostas resultantes da reestruturação do sector.
 
-###### Art. 5.º ANA, E. P., rege-se pelo estatuto anexo ao presente decreto-lei, que dele faz parte integrante.
+Art. 5.º ANA, E. P., rege-se pelo estatuto anexo ao presente decreto-lei, que dele faz parte integrante.
 
-###### Art. 6.º A entrada em funcionamento da DGAC ou da empresa pública, que exige estejam previamente assegurados os pressupostos mínimos de uma gestão efectiva e responsável, não deverá ultrapassar 1 de Janeiro de 1978.
+Art. 6.º A entrada em funcionamento da DGAC ou da empresa pública, que exige estejam previamente assegurados os pressupostos mínimos de uma gestão efectiva e responsável, não deverá ultrapassar 1 de Janeiro de 1978.
 
-###### Art. 7.º Na dependência do Ministro dos Transportes e Comunicações funcionará a comissão de instalação de ANA, E. P., composta por cinco membros, a nomear pelo Conselho de Ministros sob proposta do Ministro dos Transportes e Comunicações, nela se integrando, necessariamente, um elemento da Direcção-Geral da Aeronáutica Civil e outro do Gabinete do Novo Aeroporto de Lisboa.
+Art. 7.º Na dependência do Ministro dos Transportes e Comunicações funcionará a comissão de instalação de ANA, E. P., composta por cinco membros, a nomear pelo Conselho de Ministros sob proposta do Ministro dos Transportes e Comunicações, nela se integrando, necessariamente, um elemento da Direcção-Geral da Aeronáutica Civil e outro do Gabinete do Novo Aeroporto de Lisboa.
 
-###### Art. 8.º A comissão de instalação terá por atribuições organizar os serviços constitutivos da empresa, de modo que esta esteja em condições de funcionamento até à data prevista no artigo 6.º
+Art. 8.º A comissão de instalação terá por atribuições organizar os serviços constitutivos da empresa, de modo que esta esteja em condições de funcionamento até à data prevista no artigo 6.º
 
-###### Art. 9.º A comissão de instalação terá competência para praticar todos os actos indispensáveis ao cumprimento do mandato estabelecido no presente diploma, podendo a mesma ser regulamentada por despacho do Ministro dos Transportes e Comunicações e, quando for caso disso, por despacho conjunto com o Ministro das Finanças.
+Art. 9.º A comissão de instalação terá competência para praticar todos os actos indispensáveis ao cumprimento do mandato estabelecido no presente diploma, podendo a mesma ser regulamentada por despacho do Ministro dos Transportes e Comunicações e, quando for caso disso, por despacho conjunto com o Ministro das Finanças.
 
-###### Art. 10.º Até à data da entrada em funcionamento da empresa, a DGAC continuará a assegurar todos os serviços dependentes da Direcção-Geral da Aeronáutica Civil, devendo, contudo, adoptar, de acordo com o estado de adiantamento dos trabalhos da comissão de instalação, as providências necessárias para adaptar os serviços às atribuições que, nos termos do que legalmente vier a ser estabelecido, caberão à DGAC e à empresa.
+Art. 10.º Até à data da entrada em funcionamento da empresa, a DGAC continuará a assegurar todos os serviços dependentes da Direcção-Geral da Aeronáutica Civil, devendo, contudo, adoptar, de acordo com o estado de adiantamento dos trabalhos da comissão de instalação, as providências necessárias para adaptar os serviços às atribuições que, nos termos do que legalmente vier a ser estabelecido, caberão à DGAC e à empresa.
 
-###### Art. 11.º Para os efeitos do disposto no artigo anterior, a Direcção-Geral da Aeronáutica Civil promoverá encontros periódicos com a comissão de instalação da empresa para análise de situações e problemas comuns decorrentes da reestruturação determinada pelo presente diploma.
+Art. 11.º Para os efeitos do disposto no artigo anterior, a Direcção-Geral da Aeronáutica Civil promoverá encontros periódicos com a comissão de instalação da empresa para análise de situações e problemas comuns decorrentes da reestruturação determinada pelo presente diploma.
 
-###### Art. 12.º - 1. A empresa receberá todo o pessoal da Direcção-Geral da Aeronáutica Civil que não seja indispensável à prossecução das atribuições próprias da Direcção-Geral da Aviação Civil.
+Art. 12.º - 1. A empresa receberá todo o pessoal da Direcção-Geral da Aeronáutica Civil que não seja indispensável à prossecução das atribuições próprias da Direcção-Geral da Aviação Civil.
 
 2. A distribuição do pessoal far-se-á tendo em conta as suas funções e qualificações profissionais.
 
 3. Na transição do pessoal da Direcção-Geral da Aeronáutica Civil para a Direcção-Geral da Aviação Civil e ANA, E. P., será facultada a possibilidade de o mesmo optar pelo organismo em que pretenda exercer a sua actividade, na medida em que for permitido pelo estabelecido no número anterior e condicionado aos efectivos previstos no quadro de pessoal a estabelecer no diploma a que se refere o artigo 4.º
 
-###### Art. 13.º - 1. O estatuto do pessoal será publicado no prazo de um ano, contado da entrada em funcionamento da empresa, e orientar-se-á pelos seguintes princípios fundamentais:
+Art. 13.º - 1. O estatuto do pessoal será publicado no prazo de um ano, contado da entrada em funcionamento da empresa, e orientar-se-á pelos seguintes princípios fundamentais:
 
 a) A afectação do pessoal da Direcção-Geral da Aeronáutica Civil ou do Gabinete do Novo Aeroporto de Lisboa processar-se-á com respeito pelos direitos e legítimas expectativas daquele à data da entrada em funcionamento da empresa, independentemente do vínculo de ligação aos respectivos serviços;
 
@@ -179,29 +236,29 @@ c) As condições de trabalho e de remuneração na empresa serão progressivame
 
 2. Até à data referida no n.º 1, o pessoal da empresa que tenha transitado da Direcção-Geral da Aeronáutica Civil ou do Gabinete do Novo Aeroporto de Lisboa exercerá funções em comissão de serviço.
 
-###### Art. 14.º O Gabinete do Novo Aeroporto de Lisboa (GNAL), criado pelo [Decreto-Lei n.º 48902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213), de 8 de Março de 1969, será extinto na data de entrada em funcionamento da Direcção-Geral da Aviação Civil e da empresa pública Aeroportos e Navegação Aérea.
+Art. 14.º O Gabinete do Novo Aeroporto de Lisboa (GNAL), criado pelo [Decreto-Lei n.º 48902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213), de 8 de Março de 1969, será extinto na data de entrada em funcionamento da Direcção-Geral da Aviação Civil e da empresa pública Aeroportos e Navegação Aérea.
 
-###### Art. 15.º Após a extinção, o pessoal em serviço no GNAL à data da publicação do presente decreto-lei será integrado no quadro orgânico da Direcção-Geral da Aviação Civil ou empresa pública nas mesmas categorias ou em categorias equivalentes às que ocupar no momento da integração, seja qual for a forma de provimento e sem prejuízo dos restantes direitos.
+Art. 15.º Após a extinção, o pessoal em serviço no GNAL à data da publicação do presente decreto-lei será integrado no quadro orgânico da Direcção-Geral da Aviação Civil ou empresa pública nas mesmas categorias ou em categorias equivalentes às que ocupar no momento da integração, seja qual for a forma de provimento e sem prejuízo dos restantes direitos.
 
-###### Art. 16.º Os Ministros dos Transportes e Comunicações e das Finanças ficam autorizados a repartir, por despacho conjunto, o montante dos saldos provenientes de dotações orçamentais atribuídas ao GNAL com vista à realização parcial do capital estatutário da empresa pública, ao suporte das despesas a efectuar pela comissão de instalação, nos termos do estabelecido no presente diploma ou, eventualmente, a dar entrada nos cofres do Estado.
+Art. 16.º Os Ministros dos Transportes e Comunicações e das Finanças ficam autorizados a repartir, por despacho conjunto, o montante dos saldos provenientes de dotações orçamentais atribuídas ao GNAL com vista à realização parcial do capital estatutário da empresa pública, ao suporte das despesas a efectuar pela comissão de instalação, nos termos do estabelecido no presente diploma ou, eventualmente, a dar entrada nos cofres do Estado.
 
-###### Art. 17.º A determinação do capital estatutário da empresa será efectuada posteriormente nos termos do artigo 4.º do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, considerando-se desde já como fazendo parte integrante do estatuto anexo ao presente diploma as disposições legais a publicar para o efeito.
+Art. 17.º A determinação do capital estatutário da empresa será efectuada posteriormente nos termos do artigo 4.º do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho, considerando-se desde já como fazendo parte integrante do estatuto anexo ao presente diploma as disposições legais a publicar para o efeito.
 
-###### Art. 18.º Durante os três primeiros anos de funcionamento a empresa ficará isenta do pogamento de impostos e taxas devidos ao Estado.
+Art. 18.º Durante os três primeiros anos de funcionamento a empresa ficará isenta do pogamento de impostos e taxas devidos ao Estado.
 
-###### Art. 19.º Por despacho das entidades competentes para o efeito serão transferidos para o património da empresa, mediante registo e indicação de valor pecuniário, todos os direitos e bens afectos à Direcção-Geral da Aeronáutica Civil e GNAL que se não mostrem necessários ao cumprimento das atribuições da Direcção-Geral da Aviação Civil.
+Art. 19.º Por despacho das entidades competentes para o efeito serão transferidos para o património da empresa, mediante registo e indicação de valor pecuniário, todos os direitos e bens afectos à Direcção-Geral da Aeronáutica Civil e GNAL que se não mostrem necessários ao cumprimento das atribuições da Direcção-Geral da Aviação Civil.
 
-###### Art. 20.º O presente diploma entrará em vigor na data da sua publicação.
+Art. 20.º O presente diploma entrará em vigor na data da sua publicação.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 21 de Março de 1977.**
+Promulgado em 21 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## Anexo ao Decreto-Lei n.º 122/77
+Anexo ao Decreto-Lei n.º 122/77
 
 ESTATUTO DA EMPRESA AEROPORTOS E NAVEGAÇÃO AÉREA, E. P.
 
@@ -685,4 +742,4 @@ As dúvidas que se suscitarem na interpretação ou aplicação do presente Esta
 
 3. O presente Estatuto será adaptado ao regime legal de contrôle da gestão, nos sessenta dias posteriores à publicação do respectivo diploma.
 
-**O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar.

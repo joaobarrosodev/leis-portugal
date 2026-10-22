@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28000/25792582.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,94 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1978-324529
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-04-26T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bd8e21106dc8a0abad7e9b4ec04c85adb829ace93f8ce8415fa4440d10f1d02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 810b31ac7a68a9e509189db0c3fa33ac58e5da9108eb5d9ad7799c1c9d595424
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Administrativo
+- Criação de Serviços
+- Definição de Competências
+- Diretor
+- Extinção de Serviços
+- Gabinete Coordenador do Ingresso no Ensino Superior
+- Gestão Administrativa
+- Gestão do Património
+- Gestão Financeira
+- Integração de Trabalhadores
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Serviço Cívico Estudantil
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:665352:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:567928:por
+  label: "Acrescentado um lugar de inspector-coordenador-chefe ao quadro de pessoal constante do anexo, pelo DEC LEI.319/81.27.11.1981.MEU,\
+    \ DR.IS [274] de 27.11.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-1981-567928
+  date: '1981-11-27'
+- type: amended_by
+  target: pt:dre:665342:por
+  label: "Extinto pelo DEC LEI.133/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/133-1993-665342
+  date: '1993-04-26'
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253197:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:656410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665352:por
+  label: "Revogado pelo DEC LEI.136/93.26.04.1993.ME, DR.IS-A [97] de 26.04.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/136-1993-665352
+  date: '1993-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:09Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +154,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Criação e objectivos
 
-###### Artigo 1.º É criado o Gabinete Coordenador do Ingresso no Ensino Superior, que adiante se designará, abreviadamente, por Gabinete, organismo dotado de personalidade jurídica e autonomia administrativa, dependente directamente da Secretaria de Estado do Ensino Superior e Investigação Científica.
+Artigo 1.º É criado o Gabinete Coordenador do Ingresso no Ensino Superior, que adiante se designará, abreviadamente, por Gabinete, organismo dotado de personalidade jurídica e autonomia administrativa, dependente directamente da Secretaria de Estado do Ensino Superior e Investigação Científica.
 
-###### Art. 2.º São atribuições do Gabinete:
+Art. 2.º São atribuições do Gabinete:
 
 a) Proceder à matrícula e inscrição dos alunos no Ano Propedêutico e à demais tramitação para o seu ingresso no ensino superior;
 
@@ -120,7 +174,7 @@ g) Cooperar com a Direcção-Geral do Ensino Superior em acções ou programas s
 
 h) Suportar todos os encargos decorrentes da execução do [Decreto-Lei n.º 491/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1977-281414), de 23 de Novembro, com a redacção que lhe foi dada pela [Lei n.º 33/78](https://diariodarepublica.pt/dr/detalhe/lei/33-1978-298440), de 22 de Junho.
 
-###### Art. 3.º Constituem receitas do Gabinete:
+Art. 3.º Constituem receitas do Gabinete:
 
 a) O produto da venda de publicações, impressos e material didáctico, nomeadamente livros e textos de apoio pedagógico;
 
@@ -132,13 +186,13 @@ d) Quaisquer outras receitas que lhe sejam atribuídas por lei.
 
 ### CAPÍTULO II — Organização e funcionamento
 
-###### Art. 4.º São órgãos do Gabinete:
+Art. 4.º São órgãos do Gabinete:
 
 a) O director;
 
 b) O conselho administrativo;
 
-###### Art. 5.º Compete ao director:
+Art. 5.º Compete ao director:
 
 a) Dirigir os serviços e orientar a acção do Gabinete e gerir o pessoal dos diversos serviços e delegações;
 
@@ -156,11 +210,11 @@ g) Decidir sobre quaisquer outros assuntos respeitantes ao funcionamento dos ser
 
 h) Representar o Gabinete em juízo e fora dele e outorgar nos contratos aprovados superiormente.
 
-###### Art. 6.º - 1 - O director poderá delegar as competências que lhe são cometidas por este diploma e pela lei geral e subdelegar aquelas que para tanto seja autorizado pelo despacho de delegação.
+Art. 6.º - 1 - O director poderá delegar as competências que lhe são cometidas por este diploma e pela lei geral e subdelegar aquelas que para tanto seja autorizado pelo despacho de delegação.
 
 2 - O director, nas suas faltas e impedimentos, será substituído pelo director de serviços.
 
-###### Art. 7.º - 1 - O conselho administrativo será constituído pelo director, que preside, e pelos seguintes vogais:
+Art. 7.º - 1 - O conselho administrativo será constituído pelo director, que preside, e pelos seguintes vogais:
 
 a) O director de serviços;
 
@@ -172,7 +226,7 @@ c) Dois representantes da Direcção-Geral do Ensino Superior.
 
 3 - O conselho será secretariado por um funcionário administrativo, sem direito a voto, designado pelo director.
 
-###### Art. 8.º O conselho administrativo reunirá quinzenalmente e sempre que o director entenda dever convocá-lo, competindo-lhe, designadamente:
+Art. 8.º O conselho administrativo reunirá quinzenalmente e sempre que o director entenda dever convocá-lo, competindo-lhe, designadamente:
 
 a) Orientar a preparação do orçamento anual do Gabinete e dar parecer sobre o mesmo;
 
@@ -190,7 +244,7 @@ g) Superintender na organização da conta anual de gerência;
 
 h) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submetido pelo director.
 
-###### Art. 9.º O Gabinete compreende os seguintes serviços:
+Art. 9.º O Gabinete compreende os seguintes serviços:
 
 a) Direcção de Serviços Académicos;
 
@@ -202,7 +256,7 @@ d) Repartição Administrativa;
 
 e) Delegações.
 
-###### Art. 10.º - 1 - A Direcção de Serviços Académicos é constituída pela Divisão de Gestão Académica e pela Divisão de Análise Curricular.
+Art. 10.º - 1 - A Direcção de Serviços Académicos é constituída pela Divisão de Gestão Académica e pela Divisão de Análise Curricular.
 
 2 - Compete à Divisão de Gestão Académica:
 
@@ -228,11 +282,11 @@ b) Manter um centro de documentação adequado à finalidade de recolha de bibli
 
 c) Fornecer aos outros serviços do Gabinete os elementos de informação que lhe forem solicitados e os que julgue de interesse para aqueles serviços.
 
-###### Art. 11.º Compete à Divisão de Estudos:
+Art. 11.º Compete à Divisão de Estudos:
 
 Realizar os estudos de concretização de programas que lhe forem cometidos no âmbito da problemática do Ano Propedêutico, do acesso ao ensino superior e do ensino à distância, bem como prestar a cooperação referida na alínea g) do artigo 2.º do presente diploma.
 
-###### Art. 12.º Compete à Divisão de Planeamento, Programação e Contrôle:
+Art. 12.º Compete à Divisão de Planeamento, Programação e Contrôle:
 
 a) Planear as actividades específicas do Gabinete;
 
@@ -244,23 +298,23 @@ d) Orientar a recolha dos dados estatísticos e outros indispensáveis ao cumpri
 
 e) Reunir os elementos necessários à elaboração do relatório anual que lhe sejam solicitados pelo director.
 
-###### Art. 13.º À Repartição Administrativa compete:
+Art. 13.º À Repartição Administrativa compete:
 
 a) Assegurar os serviços de contabilidade, economato, expediente geral e administração de pessoal;
 
 b) Prestar apoio ao conselho administrativo.
 
-###### Art. 14.º - 1 - As delegações asseguram regionalmente as actividades do Gabinete, sendo a sua orgânica e funcionamento estabelecidos por decreto.
+Art. 14.º - 1 - As delegações asseguram regionalmente as actividades do Gabinete, sendo a sua orgânica e funcionamento estabelecidos por decreto.
 
 2 - As delegações de Lisboa e Porto serão dirigidas por um chefe de repartição.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 15.º - 1 - Os quadros de pessoal do Gabinete serão estabelecidos por decreto dos Ministros das Finanças e do Plano, da Educação e Cultura e do Secretário de Estado da Administração Pública, que definirá igualmente a forma de integração nos mesmos do pessoal que nele preste serviço.
+Art. 15.º - 1 - Os quadros de pessoal do Gabinete serão estabelecidos por decreto dos Ministros das Finanças e do Plano, da Educação e Cultura e do Secretário de Estado da Administração Pública, que definirá igualmente a forma de integração nos mesmos do pessoal que nele preste serviço.
 
 2 - Os quadros referidos no número anterior ficam, porém, desde já, dotados com o pessoal constante do mapa anexo a este decreto-lei e serão integrados nos quadros comuns dos serviços centrais do MEC.
 
-###### Art. 16.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal do Gabinete são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no [Decreto-Lei n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1978-656410), de 15 de Julho, sem prejuízo do disposto nas alíneas seguintes:
+Art. 16.º - 1 - As formas de recrutamento e os regimes de provimento do pessoal do Gabinete são os estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, e no [Decreto-Lei n.º 69/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1978-656410), de 15 de Julho, sem prejuízo do disposto nas alíneas seguintes:
 
 a) O lugar de director será provido em comissão de serviço, por tempo indeterminado, por escolha do Ministro da Educação e Cultura, de entre diplomados com o curso superior adequado e de reconhecida competência;
 
@@ -268,47 +322,47 @@ b) O lugar de director de serviços será provido, por escolha do Ministro da Ed
 
 2 - Quando o provimento do cargo a que se refere a alínea a) do número anterior recair em funcionário público ou administrativo, assistirá a este a faculdade de optar pelo vencimento correspondente ao do lugar de origem.
 
-###### Art. 17.º - 1 - O primeiro provimento dos lugares do quadro previstos neste decreto-lei poderá ser feito, por livre escolha do Ministro da Educação e Cultura, de entre pessoal, a qualquer título vinculado ao Estado, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento dos respectivos lugares.
+Art. 17.º - 1 - O primeiro provimento dos lugares do quadro previstos neste decreto-lei poderá ser feito, por livre escolha do Ministro da Educação e Cultura, de entre pessoal, a qualquer título vinculado ao Estado, directamente para qualquer categoria e independentemente do tempo de serviço prestado em categorias anteriores, mas com ressalva das habilitações literárias exigidas para o provimento dos respectivos lugares.
 
 2 - O provimento a que se refere o número anterior far-se-á através de lista nominativa, a aprovar por despacho do Ministro da Educação e Cultura, sem dependência de outras formalidades que não sejam o visto do Tribunal de Contas e a publicação no Diário da República.
 
-###### Art. 18.º - 1 - O Ministro da Educação e Cultura poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos, seja contratado além dos quadros, ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
+Art. 18.º - 1 - O Ministro da Educação e Cultura poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos, seja contratado além dos quadros, ao abrigo do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 19 de Novembro de 1969, pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
 
 2 - A utilização das disponibilidades de vencimentos de pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças e do Plano.
 
-###### Art. 19.º - 1 - O director poderá propor superiormente:
+Art. 19.º - 1 - O director poderá propor superiormente:
 
 a) A realização de contratos de prestação de serviços que serão reduzidos a escrito com indicação da tarefa, do prazo, da remuneração e que não conferirão, em qualquer caso, a qualidade de agente administrativo;
 
 b) O convite a entidades nacionais ou estrangeiras para realizarem estudos e inquéritos, aplicando-se, neste caso, o disposto no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
 
-###### Art. 20.º Precedendo despacho favorável do Ministro da Educação e Cultura, ou deste e do Ministro que superintenda no serviço a que pertençam os interessados, poderá ser colocado no Gabinete, em regime de comissão de serviço ou de destacamento, pessoal vinculado a outros serviços públicos, sem prejuízo dos direitos e regalias correspondentes ao lugar de origem, por onde, em caso de destacamento, deverão ser abonadas as respectivas remunerações.
+Art. 20.º Precedendo despacho favorável do Ministro da Educação e Cultura, ou deste e do Ministro que superintenda no serviço a que pertençam os interessados, poderá ser colocado no Gabinete, em regime de comissão de serviço ou de destacamento, pessoal vinculado a outros serviços públicos, sem prejuízo dos direitos e regalias correspondentes ao lugar de origem, por onde, em caso de destacamento, deverão ser abonadas as respectivas remunerações.
 
-###### Art. 21.º O pessoal dirigente, técnico e administrativo poderá exercer funções de inspecção ou orientação junto das delegações, mediante despacho do director.
+Art. 21.º O pessoal dirigente, técnico e administrativo poderá exercer funções de inspecção ou orientação junto das delegações, mediante despacho do director.
 
-###### Art. 22.º O Gabinete poderá, mediante autorização ministerial, enviar missões de estudo ao estrangeiro para se ocuparem de assuntos relacionados com as suas atribuições.
+Art. 22.º O Gabinete poderá, mediante autorização ministerial, enviar missões de estudo ao estrangeiro para se ocuparem de assuntos relacionados com as suas atribuições.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 23.º - 1 - O pessoal colocado em comissão de serviço ou destacado no ex-Serviço Cívico Estudantil poderá continuar a exercer funções no Gabinete, na situação em que se encontrava perante aquele, observando-se em tal caso o disposto no artigo 20.º deste diploma.
+Art. 23.º - 1 - O pessoal colocado em comissão de serviço ou destacado no ex-Serviço Cívico Estudantil poderá continuar a exercer funções no Gabinete, na situação em que se encontrava perante aquele, observando-se em tal caso o disposto no artigo 20.º deste diploma.
 
 2 - Os encargos com remunerações certas e permanentes resultantes da execução do presente diploma serão suportadas, no corrente ano, pelas disponibilidades das dotações inscritas no capítulo 02 do orçamento do Ministério da Educação e Cultura.
 
-###### Art. 24.º - 1 - São transferidos para o Gabinete, com dispensa de quaisquer formalidades, os encargos resultantes da extinção do Serviço Cívico Estudantil, bem como todo o património pertencente a este ou a ele afecto.
+Art. 24.º - 1 - São transferidos para o Gabinete, com dispensa de quaisquer formalidades, os encargos resultantes da extinção do Serviço Cívico Estudantil, bem como todo o património pertencente a este ou a ele afecto.
 
 2 - Podem ainda, com a aquiescência do Ministro das Finanças e do Plano, transitar para o Gabinete, em termos idênticos, quaisquer bens patrimoniais pertencentes ou afectos a outros serviços públicos que deles prescindam.
 
-###### Art. 25.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Cultura e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+Art. 25.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Educação e Cultura e do Secretário de Estado da Administração Pública, consoante a sua natureza.
 
-###### Art. 26.º Para fins de organização e gestão administrativa este diploma produz efeitos a partir do termo do prazo a que se refere o artigo 3.º da [Lei n.º 37/77](https://diariodarepublica.pt/dr/detalhe/lei/37-1977-253197), de 17 de Junho, considerando-se legitimadas todas as despesas efectuadas pelo ex-Serviço Cívico Estudantil, desde que autorizadas por despacho das entidades competentes.
+Art. 26.º Para fins de organização e gestão administrativa este diploma produz efeitos a partir do termo do prazo a que se refere o artigo 3.º da [Lei n.º 37/77](https://diariodarepublica.pt/dr/detalhe/lei/37-1977-253197), de 17 de Junho, considerando-se legitimadas todas as despesas efectuadas pelo ex-Serviço Cívico Estudantil, desde que autorizadas por despacho das entidades competentes.
 
 Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Carlos Alberto Lloyd Braga.
 
-**Promulgado em 17 de Novembro de 1978.**
+Promulgado em 17 de Novembro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Mapa anexo ao Decreto-Lei n.º 385/78
 
@@ -322,4 +376,4 @@ Mapa anexo ao Decreto-Lei n.º 385/78
 
 10 chefes de secção ... I
 
-**O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.**
+O Ministro da Educação e Cultura, Carlos Alberto Lloyd Braga.

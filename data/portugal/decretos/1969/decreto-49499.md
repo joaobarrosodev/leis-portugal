@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49499-1969-213212
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1f6bbaebda86d406629f0cd999d3ede1b4238e6ecd94974b6dbe2d196e30d820
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f812b428ed825f03f603a3c8b6e3ca9a4b09bbbac8199ec7d01e98ab3a12cd80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:17Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +98,13 @@ Com fundamento no § 1.º da artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo único. São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério das Obras Públicas
 
 No capítulo 14.º:
 
-###### Artigo 115.º «Construções hospitalares no País»:
+Artigo 115.º «Construções hospitalares no País»:
 
 Do n.º 1), alínea 4 «Escolas e lares de enfermagem» ... -3625000$00
 
@@ -112,7 +124,7 @@ Ministério da Educação Nacional
 
 No capítulo 13.º:
 
-###### Artigo 990.º «Educação e investigação não ligada ao ensino»:
+Artigo 990.º «Educação e investigação não ligada ao ensino»:
 
 Do n.º 2) «Reapetrechamento» ... -490000$00
 
@@ -124,8 +136,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches - José Hermano Saraiva.
 
-**Promulgado em 31 de Dezembro de 1969.**
+Promulgado em 31 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

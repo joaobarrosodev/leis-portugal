@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19400/20552056.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1979-378739
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9635a9175ecebd9b54bb002415ad2cc7685b4fadf1be5a53152506e7724f62d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b3f18a8e0401fe23ef2cf512aa087bb883fb94d8ac2151cdf8a41cf4ac3fbcc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Nacional Portuguesa da Conferência Mundial de Energia
+- Direcção Geral de Energia
+- Representação Portuguesa
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228829:por
+  label: Extinta a Comissão Nacional Portuguesa da Conferência Mundial de Energia (CNP-CME), criada pelo presente diploma,
+    e determinada a transferência das respetivas atribuições, patrimómio e universalidade dos direitos e obrigações para a
+    Direcção-Geral de Energia pelo(a) Decreto-Lei n.º 145/86 - Diário da República n.º 135/1986, Série I de 1986-06-16
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/145-1986-228829
+  date: '1986-06-16'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:47Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +108,7 @@ Tendo em conta a necessidade de continuar a assegurar a representação de Portu
 
 Usando dos poderes conferidos pelo artigo 201.º, n.º 1, alínea a), da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º No Ministério da Indústria e Tecnologia é criada a Comissão Nacional Portuguesa da Conferência Mundial da Energia (CNP-CME), que funcionará adstrita à Direcção-Geral de Energia, com o objectivo de representar Portugal na Conferência Mundial da Energia (CME) e que terá, entre outras, as seguintes atribuições genéricas:
+Artigo 1.º No Ministério da Indústria e Tecnologia é criada a Comissão Nacional Portuguesa da Conferência Mundial da Energia (CNP-CME), que funcionará adstrita à Direcção-Geral de Energia, com o objectivo de representar Portugal na Conferência Mundial da Energia (CME) e que terá, entre outras, as seguintes atribuições genéricas:
 
 a) Manter as relações entre Portugal e a CME e promover as acções necessárias a assegurar a participação portuguesa nas actividades da CME;
 
@@ -100,7 +116,7 @@ b) Promover, no nosso país, o aproveitamento das actividades e recomendações 
 
 c) Assegurar a concretização dos objectivos da CME, recolhendo, tratando e fornecendo todas as informações que lhe forem pela mesma solicitadas.
 
-###### Art. 2.º - 1 - A CNP-CME será constituída por um presidente, um secretário-geral e vogais representantes dos organismos ou empresas públicas ou privadas com acção mais directamente ligada às atribuições da CNP, dos quais se indicam desde já os seguintes
+Art. 2.º - 1 - A CNP-CME será constituída por um presidente, um secretário-geral e vogais representantes dos organismos ou empresas públicas ou privadas com acção mais directamente ligada às atribuições da CNP, dos quais se indicam desde já os seguintes
 
 a) Direcção-Geral de Energia - DGE;
 
@@ -126,11 +142,11 @@ h) Instituto Nacional de Estatística - INE.
 
 5 - Os vogais serão designados pelas entidades que representam.
 
-###### Art. 3.º O funcionamento da CNP reger-se-á por um regulamento interno, a aprovar por despacho do Secretário de Estado da Energia e Indústrias de Base.
+Art. 3.º O funcionamento da CNP reger-se-á por um regulamento interno, a aprovar por despacho do Secretário de Estado da Energia e Indústrias de Base.
 
-###### Art. 4.º A Direcção-Geral de Energia assegurara o serviço técnico e administrativo da CNP-CME.
+Art. 4.º A Direcção-Geral de Energia assegurara o serviço técnico e administrativo da CNP-CME.
 
-###### Art. 5.º - 1 - Os encargos a que der origem o funcionamento da CNP-CME serão cobertos por receitas próprias, constituídas pelas quotizações e subsídios dos seus membros ou de outras entidades e pelo produto da venda de publicações ligadas à sua actividade ou, na insuficiência de tais receitas, por verbas inscritas no orçamento da Direcção-Geral de Energia.
+Art. 5.º - 1 - Os encargos a que der origem o funcionamento da CNP-CME serão cobertos por receitas próprias, constituídas pelas quotizações e subsídios dos seus membros ou de outras entidades e pelo produto da venda de publicações ligadas à sua actividade ou, na insuficiência de tais receitas, por verbas inscritas no orçamento da Direcção-Geral de Energia.
 
 2 - A gestão das receitas próprias far-se-á em regime de autonomia administrativa, sob a responsabilidade do presidente, do secretário-geral e de outro membro a designar pela Comissão, que prestarão contas ao Tribunal de Contas.
 
@@ -140,8 +156,8 @@ h) Instituto Nacional de Estatística - INE.
 
 Visto e aprovado em Conselho de Ministros de 26 de Abril de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 8 de Agosto de 1979.**
+Promulgado em 8 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

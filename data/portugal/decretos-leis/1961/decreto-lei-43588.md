@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43588-1961-558457
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d5ebd14c6b0dc5c26f0b42b5c936d5cec02495bc142dcaf15e4392acce4b8c9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83cbd53b5e5a94594e89d7303cb12805fe2270dca800130b9e0dba4aac9d22fa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Definição de Competências
+- Direcção Geral da Aeronáutica Civil
+- Director Geral Adjunto
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:429805:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:429805:por
+  label: Criados dois lugares de subdirector-geral e extinto o lugar de adjunto do director-geral, criado pelo presente diploma,
+    pelo(a) Decreto n.º 658/76 - Diário da República n.º 180/1976, Série I de 1976-08-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/658-1976-429805
+  date: '1976-08-03'
+- type: cites
+  target: pt:dre:185742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636700:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636703:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:427433:por
+  label: "Revogado o § único do art. 1º pelo DEC LEI.315/76.29.04.1976.MTC, DR.IS [101] de 29.04.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/315-1976-427433
+  date: '1976-04-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:19Z'
   warnings: []
   errors: []
 ---
@@ -111,11 +143,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+Artigo 1.º É criado no quadro da Direcção-Geral da Aeronáutica Civil um lugar de adjunto do director-geral, com a categoria e vencimentos correspondentes à letra C do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 § único. O lugar referido no corpo deste artigo será provido por escolha entre funcionários de categoria igual ou superior à da letra F do citado artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), em qualquer situação, que tenham prestado, pelo menos, seis anos de bom e efectivo serviço em lugares dessa categoria dos quadros da Direcção-Geral da Aeronáutica Civil.
 
-###### Art. 2.º Compete ao adjunto do director-geral:
+Art. 2.º Compete ao adjunto do director-geral:
 
 a) Realizar as inspecções e missões que forem ordenadas pelo director-geral;
 
@@ -127,21 +159,21 @@ d) Sugerir as providências que reputar convenientes para o bom funcionamento do
 
 e) Coadjuvar o director-geral e substituí-lo nas suas faltas e impedimentos.
 
-###### Art. 3 º O director-geral da Aeronáutica Civil poderá delegar no adjunto do director-geral a competência que por lei lhe é conferida e em cada um dos directores de serviços, bem como nos chefes das repartições não integradas nas direcções de Serviço, aquela que diga respeito ao despacho corrente das mesmas.
+Art. 3 º O director-geral da Aeronáutica Civil poderá delegar no adjunto do director-geral a competência que por lei lhe é conferida e em cada um dos directores de serviços, bem como nos chefes das repartições não integradas nas direcções de Serviço, aquela que diga respeito ao despacho corrente das mesmas.
 
-###### Art. 4.º O lugar de engenheiro civil de 1.ª ou 2.ª classes, piloto aviador, previsto no quadro do pessoal técnico anexo ao [Decreto-Lei n.º 36319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36319-1947-185742), de 2 de Junho de 1947, é substituído por um lugar de inspector de material de voo, com a categoria e vencimentos correspondentes à letra F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 13 de Dezembro de 1958.
+Art. 4.º O lugar de engenheiro civil de 1.ª ou 2.ª classes, piloto aviador, previsto no quadro do pessoal técnico anexo ao [Decreto-Lei n.º 36319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36319-1947-185742), de 2 de Junho de 1947, é substituído por um lugar de inspector de material de voo, com a categoria e vencimentos correspondentes à letra F do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 13 de Dezembro de 1958.
 
 § único. O lugar a que se refere este artigo será provido por escolha entre indivíduos habilitados com o curso de Engenharia que possuam os conhecimentos reputados necessários para o exercício do cargo.
 
-###### Art. 5.º É eliminada a observação a) aos mapas I a V anexos ao [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
+Art. 5.º É eliminada a observação a) aos mapas I a V anexos ao [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947.
 
-###### Art. 6.º Até à reorganização dos quadros a que se referem os artigos 7.º dos Decretos-Leis n.os 36319 e 36619, respectivamente de 2 de Junho e 24 de Novembro de 1947, poderá o Ministro das Comunicações, por despacho a publicar no Diário do Governo, alterar as dotações dos mesmos quadros, desde que das alterações não resulte aumento de unidades em cada categoria e classe, considerados aqueles quadros no seu conjunto.
+Art. 6.º Até à reorganização dos quadros a que se referem os artigos 7.º dos Decretos-Leis n.os 36319 e 36619, respectivamente de 2 de Junho e 24 de Novembro de 1947, poderá o Ministro das Comunicações, por despacho a publicar no Diário do Governo, alterar as dotações dos mesmos quadros, desde que das alterações não resulte aumento de unidades em cada categoria e classe, considerados aqueles quadros no seu conjunto.
 
 § único. Os ajustamentos orçamentais indispensáveis poderão efectuar-se por simples transferência de verbas autorizada por despacho do Ministro das Comunicações e publicada no Diário do Governo depois de obtida a concordância do Ministro das Finanças.
 
-###### Art. 7.º Os encargos resultantes da execução dos artigos 1.º e 4.º do presente diploma serão suportados pelas disponibilidades da competente dotação do actual orçamento do Ministério das Comunicações, convenientemente reforçadas se vierem a mostrar-se insuficientes.
+Art. 7.º Os encargos resultantes da execução dos artigos 1.º e 4.º do presente diploma serão suportados pelas disponibilidades da competente dotação do actual orçamento do Ministério das Comunicações, convenientemente reforçadas se vierem a mostrar-se insuficientes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

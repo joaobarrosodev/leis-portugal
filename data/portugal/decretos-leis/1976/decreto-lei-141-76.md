@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04200/03490349.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1976-507576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:49:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bb62357601a2f5493642e36fa39a66b35f77b4fba4fbd63b98e9166d6be1d991
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e37154cb641ef61e8918eb942c1e9a95991c2698c466e3675815580bb95b383
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:49:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aeroporto
+- Angola
+- Comando Aéreo
+- Conselho Administrativo
+- Extinção de Serviços
+- Força Aérea
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:504547:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:49:43Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +107,11 @@ de 19 de Fevereiro
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São extintos, com data de 11 de Novembro de 1975, o Comando da 2.ª Região Aérea e as unidades, órgãos e serviços da Força Aérea localizados em Angola.
+Artigo 1.º São extintos, com data de 11 de Novembro de 1975, o Comando da 2.ª Região Aérea e as unidades, órgãos e serviços da Força Aérea localizados em Angola.
 
-###### Art. 2.º É extinto, com data de 27 de Março de 1975, o Aeródromo de Trânsito n.º 2, com sede em S. Tomé, também dependente daquele Comando.
+Art. 2.º É extinto, com data de 27 de Março de 1975, o Aeródromo de Trânsito n.º 2, com sede em S. Tomé, também dependente daquele Comando.
 
-###### Art. 3.º Para efeitos administrativos, são extintos, com data de 1 de Janeiro de 1975, os conselhos administrativos das unidades a seguir mencionadas:
+Art. 3.º Para efeitos administrativos, são extintos, com data de 1 de Janeiro de 1975, os conselhos administrativos das unidades a seguir mencionadas:
 
 Base Aérea n.º 9;
 
@@ -105,12 +121,12 @@ Aeródromo-Base n.º 4;
 
 Batalhão de Caçadores Pára-Quedistas n.º 21.
 
-###### Art. 4.º O pessoal da Força Aérea que se encontrava colocado no Comando, unidades, órgãos e serviços referidos nos artigos 1.º e 2.º deste diploma e que está abrangido pelo disposto no artigo 4.º do [Decreto-Lei n.º 47550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547), de 22 de Fevereiro de 1967, mantém-se nas condições de acordo com as restantes disposições legais em vigor.
+Art. 4.º O pessoal da Força Aérea que se encontrava colocado no Comando, unidades, órgãos e serviços referidos nos artigos 1.º e 2.º deste diploma e que está abrangido pelo disposto no artigo 4.º do [Decreto-Lei n.º 47550](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547), de 22 de Fevereiro de 1967, mantém-se nas condições de acordo com as restantes disposições legais em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 12 de Fevereiro de 1976.**
+Promulgado em 12 de Fevereiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

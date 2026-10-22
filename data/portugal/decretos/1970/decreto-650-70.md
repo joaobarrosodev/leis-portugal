@@ -48,36 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/650-1970-146025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f915736ccc747209d186297d419173485c83a68618e959c2263617a96544fc8b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f31604f60e8c36f250d5eee51e8192d4735c0998c4c93ea2c57cf3d37e27e900
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Agrícola
+- Ensino Industrial
+- Ministério da Economia
+- Ministério da Educação Nacional
+- Ministério do Exército
+- Ministério do Interior
+- Secretaria de Estado da Agricultura
+- Secretaria de Estado da Indústria
+- Secretaria de Estado do Comércio
+- Secretaria de Estado do Orçamento
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:141220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:548812:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 22
-  section_count: 21
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:05Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +125,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério da Educação Nacional
 
@@ -122,15 +157,15 @@ Do artigo 304.º, n.º 4) «Trabalhos de campo, ...» ... -55500$00
 
 Para o artigo 302.º, n.º 1) «Rendas de casa» ... +55500$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 7610525$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 7610525$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
 Secretaria de Estado do Orçamento
 
-### Capítulo 11.º «Pensões e reformas»:
+Capítulo 11.º «Pensões e reformas»:
 
-###### Artigo 149.º «Subsídios»:
+Artigo 149.º «Subsídios»:
 
 N.º 2) «Ao Montepio dos Servidores do Estado ...» ... 2000000$00
 
@@ -140,29 +175,29 @@ N.º 3) «Caixa Geral de Aposentações para:», alínea 2 «Pensões de invalid
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 2), alínea 1 «Subsídio à Legião Portuguesa» ... 992825$00
+Artigo 9.º, n.º 2), alínea 1 «Subsídio à Legião Portuguesa» ... 992825$00
 
 Ministério do Exército
 
-### Capítulo 8.º «Encargos Gerais do Ministério»:
+Capítulo 8.º «Encargos Gerais do Ministério»:
 
 Sargentos na situação de reserva
 
 Despesas com o pessoal:
 
-###### Artigo 345.º - A «Remunerações certas ao pessoal fora do serviço»:
+Artigo 345.º - A «Remunerações certas ao pessoal fora do serviço»:
 
 N.º 1) «Pensões dos sargentos na situação de reserva» ... 413300$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Direcção-Geral
 
-###### Artigo 799.º «Despesas de comunicações»:
+Artigo 799.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 4000$00
 
@@ -172,9 +207,9 @@ Ensino industrial e comercial
 
 Escolas técnicas, industriais, comerciais e industriais-comerciais
 
-###### Artigo 856.º, n.º 1) «Fardamentos, ...» ... 75000$00
+Artigo 856.º, n.º 1) «Fardamentos, ...» ... 75000$00
 
-###### Artigo 857.º, n.º 2) «Móveis»:
+Artigo 857.º, n.º 2) «Móveis»:
 
 Escola Industrial e Comercial de Vila Nova de Famalicão ... 8000$00
 
@@ -182,7 +217,7 @@ Escola Industrial e Comercial de Vila Franca de Xira ... 30000$00
 
 ... 38000$00
 
-###### Artigo 858.º «Despesas de conservação ...»:
+Artigo 858.º «Despesas de conservação ...»:
 
 N.º 1) «De imóveis», alínea 2 «Prédios urbanos»:
 
@@ -196,7 +231,7 @@ N.º 3) «De móveis»:
 
 Escola Industrial e Comercial de Vila Franca de Xira ... 4600$00
 
-###### Artigo 859.º «Material de consumo corrente»:
+Artigo 859.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...»:
 
@@ -226,7 +261,7 @@ Escola Industrial e Comercial de Vila Franca de Xira ... 10000$00
 
 ... 16000$00
 
-###### Artigo 860.º, n.º 2) «Luz, ...»:
+Artigo 860.º, n.º 2) «Luz, ...»:
 
 Escola Industrial e Comercial de Santo Tirso ... 13500$00
 
@@ -234,7 +269,7 @@ Escola Industrial e Comercial de Vila Franca de Xira ... 15500$00
 
 ... 29000$00
 
-###### Artigo 861.º «Despesas de comunicações»:
+Artigo 861.º «Despesas de comunicações»:
 
 N.º 1) «Correios ...»:
 
@@ -242,7 +277,7 @@ Escola Industrial e Comercial de Vila Franca de Xira ... 100$00
 
 N.º 3) «Transportes» ... 85000$00
 
-###### Artigo 864.º, n.º 1) «Força motriz»:
+Artigo 864.º, n.º 1) «Força motriz»:
 
 Escola Industrial e Comercial de Vila Franca de Xira ... 6500$00
 
@@ -252,45 +287,45 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Santarém
 
-###### Artigo 879.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 50000$00
+Artigo 879.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 50000$00
 
-###### Artigo 883.º, n.º 1) «Alimentação, ...» ... 150000$00
+Artigo 883.º, n.º 1) «Alimentação, ...» ... 150000$00
 
 Escola de Regentes Agrícolas de Évora
 
-###### Artigo 894.º, n.º 1) «Alimentação, ...» ... 50000$00
+Artigo 894.º, n.º 1) «Alimentação, ...» ... 50000$00
 
 ... 630600$00
 
 Ministério da Economia
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 16.º «Remunerações certas ao pessoal em exercício»:
+Artigo 16.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»: «Compensação a um contínuo de 2.ª classe, nos termos do § único do artigo 1.º do [Decreto-Lei n.º 33651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33651-1944-548812), de 19 de Maio de 1944 (durante três meses)» ... 600$00
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
+Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
 
-###### Artigo 35.º «Remunerações certas ao pessoal em exercício»:
+Artigo 35.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»: «Compensação a um contínuo de 2.ª classe, nos termos do § único do artigo 1.º do [Decreto-Lei n.º 33651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33651-1944-548812), de 19 de Maio de 1944 (durante seis meses)» ... 1200$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
 
 Serviços centrais
 
-###### Artigo 78.º, n.º 1) «Participações em cobranças ou receitas» ... 2000000$00
+Artigo 78.º, n.º 1) «Participações em cobranças ou receitas» ... 2000000$00
 
 Secretaria de Estado do Comércio
 
-### Capítulo 8.º «Gabinete do Secretário de Estado»:
+Capítulo 8.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 191.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 40000$00
+Artigo 191.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 40000$00
 
-###### Artigo 192.º «Material de consumo corrente»:
+Artigo 192.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 2000$00
 
@@ -298,59 +333,59 @@ N.º 2) «Artigos de expediente ...» ... 10000$00
 
 Secretaria de Estado da Indústria
 
-### Capítulo 13.º «Gabinete do Secretário de Estado»:
+Capítulo 13.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 254.º, n.º 1) «Ajudas de custo» ... 20000$00
+Artigo 254.º, n.º 1) «Ajudas de custo» ... 20000$00
 
 ... 2073800$00
 
 ... 7610525$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 8.º, artigo 260.º «Serviços pecuários - Diversas receitas» ... 2000000$00
+Capítulo 8.º, artigo 260.º «Serviços pecuários - Diversas receitas» ... 2000000$00
 
 Ministério das Finanças
 
-### Capítulo 4.º, artigo 47.º ... 2600000$00
+Capítulo 4.º, artigo 47.º ... 2600000$00
 
-### Capítulo 11.º, artigo 148.º, n.º 1) ... 900000$00
+Capítulo 11.º, artigo 148.º, n.º 1) ... 900000$00
 
-### Capítulo 12.º, artigo 151.º n.º 1) ... 992825$00
+Capítulo 12.º, artigo 151.º n.º 1) ... 992825$00
 
 ... 4492825$00
 
 Ministério do Exército
 
-### Capítulo 8.º, artigo 343.º, n.º 1), alínea 1 «Disponibilidade» ... 413300$00
+Capítulo 8.º, artigo 343.º, n.º 1), alínea 1 «Disponibilidade» ... 413300$00
 
 Ministério da Educação Nacional
 
-### Capítulo 5.º, artigo 854.º, n.º 1) ... 545600$00
+Capítulo 5.º, artigo 854.º, n.º 1) ... 545600$00
 
-### Capítulo 5.º, artigo 857.º, n.º 2) ... 85000$00
+Capítulo 5.º, artigo 857.º, n.º 2) ... 85000$00
 
 ... 630600$00
 
 Ministério da Economia
 
-### Capítulo 2.º, artigo 16.º, n.º 1) ... 600$00
+Capítulo 2.º, artigo 16.º, n.º 1) ... 600$00
 
-### Capítulo 4.º, artigo 35.º, n.º 1) ... 1200$00
+Capítulo 4.º, artigo 35.º, n.º 1) ... 1200$00
 
-### Capítulo 8.º, artigo 194.º, n.º 2) ... 12000$00
+Capítulo 8.º, artigo 194.º, n.º 2) ... 12000$00
 
-### Capítulo 8.º, artigo 195.º, n.º 1) ... 40000$00
+Capítulo 8.º, artigo 195.º, n.º 1) ... 40000$00
 
-### Capítulo 13.º - A, artigo 268.º - A, n.º 1) ... 20000$00
+Capítulo 13.º - A, artigo 268.º - A, n.º 1) ... 20000$00
 
 ... 73800$00
 
 ... 7610525$00
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Educação Nacional:
 
 A observação (b), aposta à dotação do capítulo 5.º, artigo 861.º, n.º 3), é alterada para:
 
@@ -360,8 +395,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 12 de Dezembro de 1970.**
+Promulgado em 12 de Dezembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

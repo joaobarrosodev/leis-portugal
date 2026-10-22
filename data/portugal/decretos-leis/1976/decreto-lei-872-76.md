@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30000/28532854.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/872-1976-416431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:00:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2afa6adbdcf39914c4e71b50ddf8661fd0aef75db022a21b926d0fd1150e5ad2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fed1f94a1014363df02f0dbd133d7c7f9028363a82d7af64b24da38e85f62877
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:00:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Emissão de Títulos
+- Empréstimo Interno
+- Instituição de Crédito
+- Mercado de Títulos
+- Obrigações do Tesouro
+- Prazo
+- TAXA de JURO
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:171134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232936:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:00:12Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +121,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. Para a subscrição pública do empréstimo cuja emissão foi autorizada pelo [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134), de 10 de Maio, denominada «Obrigações do Tesouro, 6%, ouro - 1976», é concedido um novo prazo, que decorre de 16 de Agosto a 14 de Novembro de 1976, considerando-se este prazo dividido em seis períodos para efeito do valor dos juros parciais que se vencem em 15 de Novembro.
+Artigo 1.º - 1. Para a subscrição pública do empréstimo cuja emissão foi autorizada pelo [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134), de 10 de Maio, denominada «Obrigações do Tesouro, 6%, ouro - 1976», é concedido um novo prazo, que decorre de 16 de Agosto a 14 de Novembro de 1976, considerando-se este prazo dividido em seis períodos para efeito do valor dos juros parciais que se vencem em 15 de Novembro.
 
 2. São os seguintes os juros parciais, por obrigação, conferidos aos tomadores, em relação a cada um dos seis períodos referidos no número anterior:
 
@@ -117,18 +137,18 @@ Período de 16 a 31 de Outubro - 2$50;
 
 Período de 1 a 14 de Novembro - 1$20.
 
-###### Art. 2.º - 1. As disposições do artigo 11.º do [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134) são aplicáveis, face ao alargamento do prazo de subscrição, para as obrigações subscritas até 31 de Outubro de 1976.
+Art. 2.º - 1. As disposições do artigo 11.º do [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134) são aplicáveis, face ao alargamento do prazo de subscrição, para as obrigações subscritas até 31 de Outubro de 1976.
 
 2. As importâncias correspondentes ao juros das obrigações subscritas de 1 a 14 de Novembro serão entregues às instituições de crédito, também por ordens de pagamento, até 30 de Novembro de 1976.
 
-###### Art. 3.º As disposições dos artigos 13.º e 14.º do referido [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134) são igualmente aplicáveis aos novos períodos de subscrição estabelecidos no presente diploma.
+Art. 3.º As disposições dos artigos 13.º e 14.º do referido [Decreto-Lei n.º 333-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-b-1976-171134) são igualmente aplicáveis aos novos períodos de subscrição estabelecidos no presente diploma.
 
-###### Art. 4.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 4.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
 
-**Promulgado em 17 de Dezembro de 1976.**
+Promulgado em 17 de Dezembro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

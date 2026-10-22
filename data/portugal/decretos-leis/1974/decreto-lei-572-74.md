@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 254/1974, 1º Suplemento, Série I de 1974-10-31
   number: '254'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1302-(2) a 1302-(3)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/25401/00020003.pdf
 entry_into_force_dates: []
@@ -46,36 +46,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/572-1974-365307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T22:35:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 967e3afb7a32cf437c5039aaa46e63157a1aed15e9e4fa5240d09d16dfc25622
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0d3e44f0e6bb1dfb9efecb9a582916c3542e751b7aa13635323d9535d53174fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Advogado
+- Assembleia Geral
+- Bastonário
+- Conselho Geral
+- Eleição
+- Ordem dos Advogados
+relationships:
+- type: cites
+  target: pt:dre:398139:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:35:09Z'
   warnings: []
   errors: []
 ---
@@ -90,25 +100,25 @@ Assim:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º A assembleia geral da Ordem, para a eleição do bastonário e dos membros do conselho superior e do conselho geral, é constituída por todos os advogados inscritos, no pleno uso dos seus direitos.
+Artigo 1.º A assembleia geral da Ordem, para a eleição do bastonário e dos membros do conselho superior e do conselho geral, é constituída por todos os advogados inscritos, no pleno uso dos seus direitos.
 
-###### Art. 2.º O bastonário e todos os membros do conselho superior e do conselho geral são eleitos, por sufrágio directo, pela assembleia geral da Ordem.
+Art. 2.º O bastonário e todos os membros do conselho superior e do conselho geral são eleitos, por sufrágio directo, pela assembleia geral da Ordem.
 
-###### Art. 3.º As assembleias distritais, para a eleição dos membros dos conselhos distritais, são constituídas por todos os advogados inscritos no respectivo distrito judicial.
+Art. 3.º As assembleias distritais, para a eleição dos membros dos conselhos distritais, são constituídas por todos os advogados inscritos no respectivo distrito judicial.
 
-###### Art. 4.º Todos os membros dos conselhos distritais são eleitos, por sufrágio directo, pelas respectivas assembleias distritais.
+Art. 4.º Todos os membros dos conselhos distritais são eleitos, por sufrágio directo, pelas respectivas assembleias distritais.
 
-###### Art. 5.º São elegíveis para os cargos de bastonário e de membros dos conselhos superior, geral e distritais todos os advogados inscritos na Ordem, no pleno gozo dos seus direitos, independentemente do período por que tenham exercido a advocacia.
+Art. 5.º São elegíveis para os cargos de bastonário e de membros dos conselhos superior, geral e distritais todos os advogados inscritos na Ordem, no pleno gozo dos seus direitos, independentemente do período por que tenham exercido a advocacia.
 
-###### Art. 6.º - 1. O bastonário não é reelegível.
+Art. 6.º - 1. O bastonário não é reelegível.
 
 2. Só é permitida a reeleição, quanto a cada um dos conselhos, de um terço dos seus membros.
 
-###### Art. 7.º À assembleia geral da Ordem presidirá o bastonário em exercício, que constituirá a mesa com mais quatro advogados, cuja escolha seja ratificada pela assembleia antes de iniciado o seu funcionamento.
+Art. 7.º À assembleia geral da Ordem presidirá o bastonário em exercício, que constituirá a mesa com mais quatro advogados, cuja escolha seja ratificada pela assembleia antes de iniciado o seu funcionamento.
 
-###### Art. 8.º Às assembleias distritais presidirão os presidentes em exercício dos respectivos conselhos distritais, que constituirão a mesa com mais dois advogados, cuja escolha seja ratificada pelas assembleias antes de iniciado o seu funcionamento.
+Art. 8.º Às assembleias distritais presidirão os presidentes em exercício dos respectivos conselhos distritais, que constituirão a mesa com mais dois advogados, cuja escolha seja ratificada pelas assembleias antes de iniciado o seu funcionamento.
 
-###### Art. 9.º - 1. A apresentação das candidaturas para os cargos da Ordem deverá ser feita ao bastonário em exercício até 20 de Novembro do corrente ano.
+Art. 9.º - 1. A apresentação das candidaturas para os cargos da Ordem deverá ser feita ao bastonário em exercício até 20 de Novembro do corrente ano.
 
 2. As propostas de candidaturas serão subscritas por um mínimo de 100 advogados inscritos, no pleno gozo dos seus direitos, quanto às listas referentes ao bastonário e aos membros dos conselhos superior e geral, e por um mínimo de 30 advogados inscritos, quanto às listas referentes a cada um dos conselhos distritais.
 
@@ -118,20 +128,20 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 5. As propostas de candidaturas apresentadas às assembleias distritais deverão indicar o candidato a presidente do respectivo conselho distrital.
 
-###### Art. 10.º - 1. O voto é secreto e obrigatório e poderá ser exercido por carta dirigida ao bastonário em exercício ou ao presidente em exercício do conselho distrital, conforme for o caso.
+Art. 10.º - 1. O voto é secreto e obrigatório e poderá ser exercido por carta dirigida ao bastonário em exercício ou ao presidente em exercício do conselho distrital, conforme for o caso.
 
 2. No caso de voto por correspondência, a lista será encerrada em sobrescrito, acompanhada de carta assinada pelo votante e autenticada pelo conselho distrital ou delegação da Ordem da área do escritório do advogado eleitor, ou reconhecida por notário.
 
 3. O advogado que deixar de votar pagará uma multa, que reverte para a Caixa de Previdência da Ordem dos Advogados, do montante de 500$00.
 
-###### Art. 11.º As eleições serão convocadas para data a fixar pelo bastonário em exercício ou pelo presidente do conselho distrital entre 20 de Novembro e 20 de Dezembro do corrente ano.
+Art. 11.º As eleições serão convocadas para data a fixar pelo bastonário em exercício ou pelo presidente do conselho distrital entre 20 de Novembro e 20 de Dezembro do corrente ano.
 
-###### Art. 12.º Os corpos directivos da Ordem serão eleitos por um triénio, que se iniciará em 1 de Janeiro de 1975.
+Art. 12.º Os corpos directivos da Ordem serão eleitos por um triénio, que se iniciará em 1 de Janeiro de 1975.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha.
 
-**Promulgado em 22 de Outubro de 1974.**
+Promulgado em 22 de Outubro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

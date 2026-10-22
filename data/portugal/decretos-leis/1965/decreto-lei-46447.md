@@ -47,36 +47,87 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T21:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 810ffb5d92fbedacbd1d9887094ba0c33930cfe550a701fc0f080aa707384faf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9ae057f7f0302352a99bbec7de948176929f7e4c7afdb7280d5ff72eb564bb1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Cultura
+- Definição de Competências
+- Educação
+- Ensino Oficial
+- Ensino Particular
+- Estabelecimento de Ensino
+- Estado Português da Índia
+- Fiscalização
+- Guiné.Colónia Portuguesa
+- Macau.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Pedagogia
+- Quadro de Pessoal
+- São Tomé e Príncipe.Colónia Portuguesa
+- Timor.Colónia Portuguesa
+- Ultramar
+relationships:
+- type: cites
+  target: pt:dre:173965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:222194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537580:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:292339:por
+  label: "Rectificado pela RECT.DD601.12.08.1965.PC, DG.IS [180] de 12.08.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-292339
+  date: '1965-08-12'
+- type: corrected_by
+  target: pt:dre:509624:por
+  label: "Rectificado pela RECT.DD594.06.09.1965.PC, DG.IS [201] de 06.09.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-509624
+  date: '1965-09-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:53:54Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +142,7 @@ Ouvidos os governadores das províncias ultramarinas e o Conselho Ultramarino;
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As funções de inspecção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas, a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, serão desempenhadas por:
+Artigo 1.º As funções de inspecção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas, a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, serão desempenhadas por:
 
 a) Inspectores da Direcção-Geral do Ensino e inspectores provinciais de educação;
 
@@ -101,11 +152,11 @@ c) Inspectores e subinspectores escolares.
 
 § único. O mapa I anexo ao presente decreto-lei estabelece as categorias e a distribuição dos agentes de inspecção nas províncias ultramarinas.
 
-###### Art. 2.º De harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, as hierarquias de direcção e de inspecção são paralelas, formando ramos conexos dos serviços de educação.
+Art. 2.º De harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, as hierarquias de direcção e de inspecção são paralelas, formando ramos conexos dos serviços de educação.
 
-###### Art. 3.º Os inspectores da Direcção-Geral do Ensino, os inspectores provinciais de educação e os directores provinciais de educação podem ser livremente transferidos e permutados entre si.
+Art. 3.º Os inspectores da Direcção-Geral do Ensino, os inspectores provinciais de educação e os directores provinciais de educação podem ser livremente transferidos e permutados entre si.
 
-###### Art. 4.º Nas províncias de governo-geral a inspecção do ensino primário é chefiada pelos inspectores adjuntos deste grau de ensino e exercida pelos inspectores escolares, coadjuvados pelos subinspectores escolares havidos por necessários à inspecção permanente da actividade docente, e distribui-se por zonas de inspecção.
+Art. 4.º Nas províncias de governo-geral a inspecção do ensino primário é chefiada pelos inspectores adjuntos deste grau de ensino e exercida pelos inspectores escolares, coadjuvados pelos subinspectores escolares havidos por necessários à inspecção permanente da actividade docente, e distribui-se por zonas de inspecção.
 
 § 1.º A cada distrito dotado de repartição escolar que não seja sede de zona de inspecção poderá ser atribuído um subinspector escolar, integrado na zona correspondente.
 
@@ -115,9 +166,9 @@ c) Inspectores e subinspectores escolares.
 
 § 4.º Nas províncias de governo simples a inspecção do ensino primário manter-se-á, enquanto as circunstâncias o justificarem, integrada na repartição provincial da educação.
 
-###### Art. 5.º O número de subinspectoras escolares, quando as haja, é limitado pelo das zonas de inspecção, em cujas sedes serão colocadas, e ser-lhes-á distribuído, especialmente, serviço da sua competência nos centros urbanos e seus subúrbios.
+Art. 5.º O número de subinspectoras escolares, quando as haja, é limitado pelo das zonas de inspecção, em cujas sedes serão colocadas, e ser-lhes-á distribuído, especialmente, serviço da sua competência nos centros urbanos e seus subúrbios.
 
-###### Art. 6.º São zonas de inspecção:
+Art. 6.º São zonas de inspecção:
 
 a) Em Angola:
 
@@ -145,21 +196,21 @@ b) Em Moçambique:
 
 5.ª Nampula, com os distritos de Moçambique e do Cabo Delgado.
 
-###### Art. 7.º Aos agentes de inspecção não é permitido ministrar o ensino, oficial ou particular, nem ser directores, proprietários ou por qualquer forma interessados em estabelecimentos de ensino particular.
+Art. 7.º Aos agentes de inspecção não é permitido ministrar o ensino, oficial ou particular, nem ser directores, proprietários ou por qualquer forma interessados em estabelecimentos de ensino particular.
 
 § 1.º Em regra, os agentes de inspecção não podem ser encarregados de inquéritos e processos de natureza disciplinar.
 
 § 2.º O não cumprimento do disposto no corpo do artigo constitui a infracção disciplinar prevista na 1.ª parte do n.º 20 do artigo 366.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 8.º Os subinspectores e os inspectores escolares com mais de cinco anos de serviço efectivo na categoria podem, a seu requerimento ou por conveniência de serviço, transitar, respectivamente, para lugares de subdirectora e director escolar da mesma categoria, abrindo vaga no quadro de inspecção.
+Art. 8.º Os subinspectores e os inspectores escolares com mais de cinco anos de serviço efectivo na categoria podem, a seu requerimento ou por conveniência de serviço, transitar, respectivamente, para lugares de subdirectora e director escolar da mesma categoria, abrindo vaga no quadro de inspecção.
 
-###### Art. 9.º As inspecções provinciais, as zonas de inspecção escolar e os distritos onde tiver sede um subinspector escolar serão dotados pelos governos das respectivas províncias com as instalações convenientes e o pessoal necessário, a acrescer no quadro burocrático dos serviços de educação, nos termos constantes do mapa II, dado em anexo, e de harmonia com as disponibilidades orçamentais.
+Art. 9.º As inspecções provinciais, as zonas de inspecção escolar e os distritos onde tiver sede um subinspector escolar serão dotados pelos governos das respectivas províncias com as instalações convenientes e o pessoal necessário, a acrescer no quadro burocrático dos serviços de educação, nos termos constantes do mapa II, dado em anexo, e de harmonia com as disponibilidades orçamentais.
 
 § único. Enquanto não for dado cumprimento ao disposto no presente artigo, poderão os governadores, por simples despacho, determinar que prestem serviço nas sedes das zonas de inspecção escolar e junto dos subinspectores referidos, respectivamente, um professor primário e dois professores de posto escolar, e um professor de posto escolar, do quadro da província.
 
-###### Art. 10.º Aos agentes de inspecção serão atribuídos os meios de transporte necessários ao exercício permanente das suas funções, cumprindo aos governadores-gerais e de província regulamentar a sua utilização.
+Art. 10.º Aos agentes de inspecção serão atribuídos os meios de transporte necessários ao exercício permanente das suas funções, cumprindo aos governadores-gerais e de província regulamentar a sua utilização.
 
-###### Art. 11.º Os lugares de inspector provincial de educação são providos por escolha do Ministro do Ultramar:
+Art. 11.º Os lugares de inspector provincial de educação são providos por escolha do Ministro do Ultramar:
 
 a) Entre os directores provinciais de serviços de educação, os chefes das repartições da Direcção-Geral do Ensino do Ministério do Ultramar e das repartições dos serviços de educação das províncias ultramarinas diplomados por curso superior, de preferência com aprovação na secção de Ciências Pedagógicas; ou
 
@@ -167,19 +218,19 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 § único. Quando o provimento recair nos professores referidos na alínea b), poderá a nomeação ser feita em comissão de serviço, considerando-se o tempo desta, para todos os efeitos legais, como de actividade docente.
 
-###### Art. 12.º Os inspectores provinciais são substituídos nos seus impedimentos ou ausências por um dos inspectores adjuntos do ensino secundário, a designar por despacho do governador-geral, ouvido o inspector provincial de educação.
+Art. 12.º Os inspectores provinciais são substituídos nos seus impedimentos ou ausências por um dos inspectores adjuntos do ensino secundário, a designar por despacho do governador-geral, ouvido o inspector provincial de educação.
 
-###### Art. 13.º Os inspectores adjuntos do ensino liceal e do ensino técnico profissional são nomeados, em comissão, por escolha do Ministro do Ultramar, entre professores efectivos daqueles graus de ensino em serviço na respectiva província, com Exame de Estado e boas informações, ficando dispensados das actividades docentes.
+Art. 13.º Os inspectores adjuntos do ensino liceal e do ensino técnico profissional são nomeados, em comissão, por escolha do Ministro do Ultramar, entre professores efectivos daqueles graus de ensino em serviço na respectiva província, com Exame de Estado e boas informações, ficando dispensados das actividades docentes.
 
 § 1.º O inspector adjunto do ensino técnico profissional será sempre professor do 2.º grau.
 
 § 2.º É aplicável aos inspectores adjuntos do ensino secundário o disposto no § único do artigo 11.º
 
-###### Art. 14.º Os inspectores adjuntos do ensino primário são nomeados por escolha do Ministro do Ultramar, entre os inspectores escolares com mais de cinco anos de exercício efectivo do cargo no ultramar, com boas informações.
+Art. 14.º Os inspectores adjuntos do ensino primário são nomeados por escolha do Ministro do Ultramar, entre os inspectores escolares com mais de cinco anos de exercício efectivo do cargo no ultramar, com boas informações.
 
 § único. Na falta de indivíduos nas condições previstas neste artigo, poderá a escolha recair, em primeira nomeação, em directores escolares distritais, com a secção de Ciências Pedagógicas.
 
-###### Art. 15.º Os lugares de inspector escolar são providos mediante concurso de provas públicas, entre subinspectores escolares com, pelo menos, cinco anos de exercício efectivo do cargo e boas informações.
+Art. 15.º Os lugares de inspector escolar são providos mediante concurso de provas públicas, entre subinspectores escolares com, pelo menos, cinco anos de exercício efectivo do cargo e boas informações.
 
 § 1.º Os júris dos concursos para inspectores escolares nas províncias de governo-geral serão presididos por um inspector da Direcção-Geral do Ensino ou por um inspector provincial de educação e deles farão parte quatro vogais, designados por despacho ministerial de entre inspectores provinciais e inspectores adjuntos do ensino primário.
 
@@ -187,7 +238,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 § 3.º Nas províncias de governo simples, o júri dos concursos será designado por despacho ministerial, sob proposta da Direcção-Geral do Ensino.
 
-###### Art. 16.º Os subinspectores escolares serão recrutados, por concurso de provas públicas, entre professores do ensino primário habilitados com o curso das escolas do magistério primário, com a secção de Ciências Pedagógicas e todo o serviço docente prestado qualificado de Suficiente.
+Art. 16.º Os subinspectores escolares serão recrutados, por concurso de provas públicas, entre professores do ensino primário habilitados com o curso das escolas do magistério primário, com a secção de Ciências Pedagógicas e todo o serviço docente prestado qualificado de Suficiente.
 
 § 1.º Não sendo providas todas as vagas nos termos do corpo do artigo, proceder-se-á logo a concurso de provas públicas entre professores primários com, pelo menos, cinco anos de serviço docente nas províncias ultramarinas, qualificado de Suficiente.
 
@@ -197,7 +248,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 § 4.º É aplicável à constituição destes júris o disposto no § 2.º do artigo 15.º do presente decreto.
 
-###### Art. 17.º Nos concursos referidos nos artigos anteriores os candidatos apresentarão uma dissertação e prestarão provas práticas e orais.
+Art. 17.º Nos concursos referidos nos artigos anteriores os candidatos apresentarão uma dissertação e prestarão provas práticas e orais.
 
 § 1.º Nas províncias de governo simples o júri será constituído nos termos do disposto no § 3.º do artigo 15.º do presente diploma.
 
@@ -205,7 +256,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 § 3.º Nas províncias de governo simples as provas práticas e orais realizar-se-ão perante júris constituídos pela forma prevista na parte final do § 1.º deste artigo, cumprindo-lhes igualmente classificar todas as provas.
 
-###### Art. 18.º Aos inspectores da Direcção-Geral do Ensino compete:
+Art. 18.º Aos inspectores da Direcção-Geral do Ensino compete:
 
 1.º Coadjuvar o director-geral no desempenho das suas atribuições;
 
@@ -223,7 +274,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 8.º Todas as demais que lhes sejam atribuídas pelo Ministro.
 
-###### Art. 19.º Aos inspectores provinciais de educação compete:
+Art. 19.º Aos inspectores provinciais de educação compete:
 
 1.º Dirigir os serviços de inspecção das províncias, consoante as disposições vigentes e as determinações superiores, despachando com os governadores os assuntos da sua competência;
 
@@ -241,7 +292,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 8.º Todas as demais que lhes sejam atribuídas por lei ou por despacho.
 
-###### Art. 20.º Aos inspectores adjuntos do ensino secundário compete:
+Art. 20.º Aos inspectores adjuntos do ensino secundário compete:
 
 1.º Coadjuvar, em ordem ao ensino liceal e técnico profissional, a acção dos inspectores provinciais a que estiverem adstritos;
 
@@ -255,7 +306,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 6.º Todas as demais que lhes sejam atribuídas por lei ou por despacho.
 
-###### Art. 21.º Aos inspectores adjuntos do ensino primário compete:
+Art. 21.º Aos inspectores adjuntos do ensino primário compete:
 
 1.º Coadjuvar, em ordem ao ensino primário e do magistério primário, a acção dos inspectores provinciais a que estiverem adstritos;
 
@@ -271,7 +322,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 7.º Todas as demais que lhes sejam atribuídas por lei ou por despacho.
 
-###### Art. 22.º Aos inspectores escolares compete:
+Art. 22.º Aos inspectores escolares compete:
 
 1.º Chefiar e orientar, consoante as disposições vigentes e as determinações superiores, as actividades de inspecção do ensino infantil e primário nas zonas onde estiverem colocados;
 
@@ -289,7 +340,7 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 8.º Todas as demais que lhes sejam atribuídas por lei ou por despacho.
 
-###### Art. 23.º Aos subinspectores escolares compete:
+Art. 23.º Aos subinspectores escolares compete:
 
 1.º Coadjuvar os inspectores escolares nas tarefas de sua competência;
 
@@ -307,19 +358,19 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 8.º Todas as demais que lhes sejam atribuídas por lei ou por despacho.
 
-###### Art. 24.º Os inspectores e subinspectores escolares não poderão prestar serviço na mesma zona de inspecção por mais de cinco anos.
+Art. 24.º Os inspectores e subinspectores escolares não poderão prestar serviço na mesma zona de inspecção por mais de cinco anos.
 
-###### Art. 25.º Os inspectores adjuntos são vogais natos da comissão de literatura e espectáculos para menores.
+Art. 25.º Os inspectores adjuntos são vogais natos da comissão de literatura e espectáculos para menores.
 
-###### Art. 26.º Na sede das inspecções provinciais haverá reuniões anuais dos agentes de inspecção da respectiva província, para coordenação das correspondentes actividades, e sempre que o inspector provincial as tenha por convenientes.
+Art. 26.º Na sede das inspecções provinciais haverá reuniões anuais dos agentes de inspecção da respectiva província, para coordenação das correspondentes actividades, e sempre que o inspector provincial as tenha por convenientes.
 
 § 1.º A reunião do inspector provincial, seu adjunto para o ensino primário e inspectores escolares constitui o conselho dos inspectores escolares, a que será dado regimento próprio, aprovado, sob proposta do inspector provincial, por portaria do governo da província.
 
 § 2.º Para as reuniões do conselho dos inspectores escolares poderão ser convocados subinspectores escolares, sempre que havido por conveniente.
 
-###### Art. 27.º Da qualificação do serviço docente anual atribuída pelos inspectores provinciais cabe reclamação, nos termos aplicáveis do disposto no artigo 127.º do Estatuto do Funcionalismo Ultramarino.
+Art. 27.º Da qualificação do serviço docente anual atribuída pelos inspectores provinciais cabe reclamação, nos termos aplicáveis do disposto no artigo 127.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 28.º Nas sedes das inspecções provinciais ficarão adstritas à inspecção, e a esta subordinadas, escolas primárias destinadas a ensaios e aplicação de didácticas, organização escolar e actividades psicopedagógicas e similares.
+Art. 28.º Nas sedes das inspecções provinciais ficarão adstritas à inspecção, e a esta subordinadas, escolas primárias destinadas a ensaios e aplicação de didácticas, organização escolar e actividades psicopedagógicas e similares.
 
 § 1.º O pessoal docente destas escolas será nelas colocado por proposta do inspector provincial.
 
@@ -329,39 +380,39 @@ b) Entre professores efectivos, com Exame de Estado para o ensino liceal ou téc
 
 § 4.º A actual Escola de Aplicação e Ensaios, de Luanda, fica desde já adstrita e subordinada à inspecção provincial da educação.
 
-###### Art. 29.º São extintos nas províncias de S. Tomé e Príncipe, Macau e Timor os lugares de adjunto do chefe dos serviços, e criados, em substituição, os de inspector escolar.
+Art. 29.º São extintos nas províncias de S. Tomé e Príncipe, Macau e Timor os lugares de adjunto do chefe dos serviços, e criados, em substituição, os de inspector escolar.
 
 § único. Os actuais adjuntos, de provimento efectivo, ficam providos, sem dependência de formalidades legais, em lugares de director escolar distrital de 2.ª classe, e são colocados por despacho ministerial.
 
-###### Art. 30.º Junto de cada um dos inspectores escolares das províncias de governo simples, e como seu substituto legal nos impedimentos e ausências de inspecção, poderá ser colocado um professor primário, do quadro da província, designado por despacho do governador.
+Art. 30.º Junto de cada um dos inspectores escolares das províncias de governo simples, e como seu substituto legal nos impedimentos e ausências de inspecção, poderá ser colocado um professor primário, do quadro da província, designado por despacho do governador.
 
-###### Art. 31.º Um dos lugares de inspector escolar da província de Cabo Verde terá sede na cidade do Mindelo, da ilha de S. Vicente.
+Art. 31.º Um dos lugares de inspector escolar da província de Cabo Verde terá sede na cidade do Mindelo, da ilha de S. Vicente.
 
 § 1.º O governador de Cabo Verde definirá, em portaria, a área de inspecção atribuída a cada um dos inspectores escolares da província e inscreverá no orçamento geral as verbas necessárias ao cumprimento do presente artigo, quando o tiver por conveniente.
 
 § 2.º Na inspecção escolar do Mindelo será colocada uma dactilógrafa dos serviços provinciais de educação.
 
-###### Art. 32.º Na falta de indivíduos aprovados em concurso de provas públicas para o provimento dos lugares vagos de inspector escolar, pode o Ministro do Ultramar provê-los, em primeira nomeação, por escolha entre directores escolares com a secção de Ciências Pedagógicas e aprovação em concurso de provas públicas e subinspectores escolares aprovados em concurso de provas públicas com pelo menos dois anos de serviço no cargo com boas informações.
+Art. 32.º Na falta de indivíduos aprovados em concurso de provas públicas para o provimento dos lugares vagos de inspector escolar, pode o Ministro do Ultramar provê-los, em primeira nomeação, por escolha entre directores escolares com a secção de Ciências Pedagógicas e aprovação em concurso de provas públicas e subinspectores escolares aprovados em concurso de provas públicas com pelo menos dois anos de serviço no cargo com boas informações.
 
 § 1.º Nas mesmas circunstâncias, pode o Ministro do Ultramar prover as vagas de subinspector escolar em professores do ensino primário de nomeação definitiva que reúnam as condições exigidas na parte final do artigo 19.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961, e hajam prestado serviço de inspecção com boas informações.
 
 § 2.º Sem prejuízo do disposto no corpo do artigo, o provimento dos lugares de inspector escolar nas províncias de governo simples poderá recair, em primeira nomeação em subinspectores escolares nomeados nos termos do parágrafo anterior.
 
-###### Art. 33.º Em todas as províncias haverá cursos de actualização e melhoria das actividades do ensino com registo de todos os trabalhos inerentes e sua publicação, os quais se realizarão durante as férias escolares.
+Art. 33.º Em todas as províncias haverá cursos de actualização e melhoria das actividades do ensino com registo de todos os trabalhos inerentes e sua publicação, os quais se realizarão durante as férias escolares.
 
 § 1.º Reunidos os trabalhos para publicação, nos 45 dias posteriores ao termo de cada curso, será deles remetida cópia à Direcção-Geral do Ensino.
 
 § 2.º Nos cursos determinados no presente artigo poderá tomar parte o director dos serviços de educação com os chefes das repartições respectivas e da 4.ª Repartição, nos que respeitem ao ensino liceal e técnico profissional e médio, e com os chefes da 1.ª e 4.ª Repartições, nos que respeitem ao ensino primário. Os directores e subdirectores escolares poderão tomar parte nos que se efectuem nos distritos sedes das repartições zonas ou áreas de inspecção.
 
-###### Art. 34.º Aos inspectores adjuntos do ensino liceal ou técnico profissional, durante o exercício destas funções e enquanto não tiverem vinte ou mais anos de serviço docente, ser-lhes-á abonada a diferença de vencimento correspondente ao total dos vencimentos atribuídos aos professores com tal tempo de serviço.
+Art. 34.º Aos inspectores adjuntos do ensino liceal ou técnico profissional, durante o exercício destas funções e enquanto não tiverem vinte ou mais anos de serviço docente, ser-lhes-á abonada a diferença de vencimento correspondente ao total dos vencimentos atribuídos aos professores com tal tempo de serviço.
 
-###### Art. 35.º Aos inspectores provinciais de educação e aos inspectores da Direcção-Geral do Ensino, quando em serviço no ultramar, aos inspectores adjuntos, aos inspectores escolares e aos subinspectores escolares, são aplicáveis as disposições do artigo 63.º do regulamento aprovado pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, respeitantes aos inspectores provinciais e inspectores provinciais adjuntos, aos inspectores e aos adjuntos dos serviços de Fazenda e contabilidade.
+Art. 35.º Aos inspectores provinciais de educação e aos inspectores da Direcção-Geral do Ensino, quando em serviço no ultramar, aos inspectores adjuntos, aos inspectores escolares e aos subinspectores escolares, são aplicáveis as disposições do artigo 63.º do regulamento aprovado pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, respeitantes aos inspectores provinciais e inspectores provinciais adjuntos, aos inspectores e aos adjuntos dos serviços de Fazenda e contabilidade.
 
-###### Art. 36.º O Ministro do Ultramar regulamentará, por portaria, os concursos para provimento dos lugares de subinspector e inspector escolares.
+Art. 36.º O Ministro do Ultramar regulamentará, por portaria, os concursos para provimento dos lugares de subinspector e inspector escolares.
 
-###### Art. 37.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades orçamentais de cada província.
+Art. 37.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades orçamentais de cada província.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

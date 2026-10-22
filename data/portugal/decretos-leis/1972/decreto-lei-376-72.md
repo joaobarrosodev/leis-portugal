@@ -46,40 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1972-691986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T22:24:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 181390c23c5d6bf00ca518851d87004b8e5800c72f973d5a55ef9ea76f846a23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3637fa2edf6c2917d8e2150424f19b821e53f8fed7ebbf7ce2872a9d8372e48
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:24:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ministério da Educação Nacional
+- OBRA Social
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:487696:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:487696:por
+  label: "Extinta a Obra Social do Ministério da Educação pelo DEC LEI.82/91.19.02.1991.ME, DR.IS-A [41] de 19.02.1991, transferindo\
+    \ as suas atribuições e competências para o IASE. \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/82-1991-487696
+  date: '1991-02-19'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632734:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:24:01Z'
   warnings: []
   errors: []
 ---
@@ -96,21 +117,21 @@ A Caixa de Previdência do Ministério, organismo de larga projecção nos domí
 
 Assim, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada a Obra Social do Ministério da Educação Nacional, com o fim de contribuir para a segurança social dos servidores do Ministério e dos organismos e serviços dele dependentes.
+Artigo 1.º - 1. É criada a Obra Social do Ministério da Educação Nacional, com o fim de contribuir para a segurança social dos servidores do Ministério e dos organismos e serviços dele dependentes.
 
 2. Ficam integrados na Obra Social os serviços e organismos dependentes do Ministério que se proponham fins idênticos aos que a ela são cometidos.
 
 3. A Caixa de Previdência do Ministério da Educação Nacional manterá, contudo, a sua autonomia e personalidade jurídica e continuará a reger-se pelos diplomas legais que lhe são próprios.
 
-###### Art. 2.º - 1. A Obra Social goza de personalidade jurídica e é dotada de autonomia administrativa e financeira.
+Art. 2.º - 1. A Obra Social goza de personalidade jurídica e é dotada de autonomia administrativa e financeira.
 
 2. Está isenta de pagamento de custas e selos em todos os processos em que seja parte interessada, bem como do pagamento de quaisquer emolumentos, taxas, contribuições ou impostos.
 
 3. Além disso, beneficiará de todas as vantagens e facilidades conferidas por lei a instituições oficiais de previdência, assistência ou cultura.
 
-###### Art. 3.º Na acção a desenvolver, a Obra Social deverá colaborar com instituições similares, oficiais ou particulares, que se proponham realizações de interesse comum, bem como estabelecer acordos com essas instituições ou outras entidades para a melhor prossecução dos seus fins.
+Art. 3.º Na acção a desenvolver, a Obra Social deverá colaborar com instituições similares, oficiais ou particulares, que se proponham realizações de interesse comum, bem como estabelecer acordos com essas instituições ou outras entidades para a melhor prossecução dos seus fins.
 
-###### Art. 4.º - 1. Entre os objectivos a alcançar, a Obra Social propõe-se:
+Art. 4.º - 1. Entre os objectivos a alcançar, a Obra Social propõe-se:
 
 a) Conceder aos beneficiários subsídios por casamento e por nascimento de filhos e aos familiares deles por sua morte;
 
@@ -134,9 +155,9 @@ i) Promover e estimular, entre os beneficiários, iniciativas de natureza cultur
 
 3. A concessão dos benefícios mencionados nas alíneas a), b), d) e f), ou de outros que venham a ser instituídos, pode ficar dependente da prova de necessidade do beneficiário que os requeira.
 
-###### Art. 5.º Os subsídios concedidos pela Obra Social são intransmissíveis e impenhoráveis, estando isentos de quaisquer emolumentos, taxas, contribuições ou impostos.
+Art. 5.º Os subsídios concedidos pela Obra Social são intransmissíveis e impenhoráveis, estando isentos de quaisquer emolumentos, taxas, contribuições ou impostos.
 
-###### Art. 6.º - 1. Podem ser beneficiários da Obra Social:
+Art. 6.º - 1. Podem ser beneficiários da Obra Social:
 
 a) Os funcionários e servidores do Ministério e dos organismos e serviços dele dependentes, qualquer que seja a forma do seu provimento ou a natureza da prestação dos seus serviços, e ainda os aposentados e os que foram compelidos, por motivo de doença, a passar à situação de licença ilimitada.
 
@@ -146,9 +167,9 @@ b) Os funcionários da 10.ª Repartição da Direcção-Geral da Contabilidade P
 
 3. A aposentação do beneficiário extingue a obrigação o pagamento de quotas, mantendo, todavia, o direito aos beneficiários da Obra Social.
 
-###### Art. 7.º As quotizações mensais dos beneficiários da Obra Social serão fixadas por despacho do Ministro, ouvidos os Serviços da Reforma Administrativa.
+Art. 7.º As quotizações mensais dos beneficiários da Obra Social serão fixadas por despacho do Ministro, ouvidos os Serviços da Reforma Administrativa.
 
-###### Art. 8.º - 1. Constituem receitas da Obra Social:
+Art. 8.º - 1. Constituem receitas da Obra Social:
 
 a) As quotizações dos beneficiários, as contribuições deles e dos seus familiares para pagamento de serviços que lhes sejam prestados e a restituição, com os respectivos juros, de importâncias que lhes tenham sido emprestadas;
 
@@ -166,23 +187,23 @@ g) Quaisquer outras receitas que lhe venham a ser atribuídas.
 
 2. A realização de empréstimos e a alienação de bens imobiliários carecem de autorização do Ministro da Educação Nacional.
 
-###### Art. 9.º - 1. A cobrança das importâncias devidas à Obra Social pelos seus beneficiários poderá ser feita por desconto nas respectivas remunerações de trabalho ou prestações periódicas pagas a título de aposentação.
+Art. 9.º - 1. A cobrança das importâncias devidas à Obra Social pelos seus beneficiários poderá ser feita por desconto nas respectivas remunerações de trabalho ou prestações periódicas pagas a título de aposentação.
 
 2. Os descontos referidos no número anterior nunca poderão ir além dos limites fixados no Código de Processo Civil para bens relativa ou parcialmente impenhoráveis.
 
-###### Art. 10.º As despesas da Obra Social são as que resultam da execução das suas finalidades, de acordo com os orçamentos aprovados.
+Art. 10.º As despesas da Obra Social são as que resultam da execução das suas finalidades, de acordo com os orçamentos aprovados.
 
-###### Art. 11.º São órgãos da Obra Social a direcção, o conselho consultivo e a comissão verificadora de contas.
+Art. 11.º São órgãos da Obra Social a direcção, o conselho consultivo e a comissão verificadora de contas.
 
-###### Art. 12.º A direcção é constituída por um director e quatro vogais nomeados pelo Ministro da Educação Nacional.
+Art. 12.º A direcção é constituída por um director e quatro vogais nomeados pelo Ministro da Educação Nacional.
 
-###### Art. 13.º - 1. O director da Obra Social será designado pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico dos serviços centrais do Ministério.
+Art. 13.º - 1. O director da Obra Social será designado pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico dos serviços centrais do Ministério.
 
 2. Enquanto no exercício destas funções, o director poderá ser total ou parcialmente dispensado do desempenho de seu cargo.
 
-###### Art. 14.º Os vogais da direcção serão designados de entre os funcionários do Ministério da Educação Nacional, por períodos de dois anos renováveis, podendo ser dispensados total ou parcialmente do desempenho dos seus cargos.
+Art. 14.º Os vogais da direcção serão designados de entre os funcionários do Ministério da Educação Nacional, por períodos de dois anos renováveis, podendo ser dispensados total ou parcialmente do desempenho dos seus cargos.
 
-###### Art. 15.º - 1. Compete à direcção:
+Art. 15.º - 1. Compete à direcção:
 
 a) Dirigir a actividade da Obra Social de acordo com os planos de acção propostos pelo conselho consultivo;
 
@@ -200,11 +221,11 @@ g) Praticar todos os mais actos necessários ao funcionamento da Obra Social.
 
 2. A direcção só pode decidir com a presença da maioria dos seus titulares e as deliberações serão tomadas por maioria de votos dos presentes, tendo o director, além do seu voto, direito a voto de desempate.
 
-###### Art. 16.º - 1. O conselho consultivo é constituído por representantes dos serviços centrais do Ministério, incluindo os organismos autónomos, designados pelo Ministro.
+Art. 16.º - 1. O conselho consultivo é constituído por representantes dos serviços centrais do Ministério, incluindo os organismos autónomos, designados pelo Ministro.
 
 2. O secretário-geral do Ministério presidirá ao conselho consultivo.
 
-###### Art. 17.º Compete ao conselho consultivo:
+Art. 17.º Compete ao conselho consultivo:
 
 a) Elaborar os planos de acção a executar pela Obra Social;
 
@@ -214,7 +235,7 @@ c) Dar parecer sobre os assuntos que lhe sejam apresentados pelo Ministro ou pel
 
 d) Fixar as orientações tendentes a fomentar ou aperfeiçoar as actividades da Obra Social.
 
-###### Art. 18.º - 1. A comissão verificadora de contas é composta por cinco membros, designados pelo Ministro.
+Art. 18.º - 1. A comissão verificadora de contas é composta por cinco membros, designados pelo Ministro.
 
 2. Na comissão verificadora de contas deverão estar representados:
 
@@ -224,7 +245,7 @@ b) Os organismos dependentes;
 
 c) A 10.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 19.º À comissão verificadora de contas incumbe:
+Art. 19.º À comissão verificadora de contas incumbe:
 
 a) Examinar, sempre que o julgue conveniente, a escrituração da Obra Social;
 
@@ -232,11 +253,11 @@ b) Dar parece sobre os balanços, inventários, relatórios e contas de gerênci
 
 c) Pronunciar-se sobre a aplicação das receitas da Obra Social à realização das actividades desenvolvidas.
 
-###### Art. 20.º - 1. O relatório e contas de gerência serão anualmente submetidos à aprovação do Ministro da Educação Nacional, acompanhados dos pareceres da comissão verificadora de contas e do conselho consultivo.
+Art. 20.º - 1. O relatório e contas de gerência serão anualmente submetidos à aprovação do Ministro da Educação Nacional, acompanhados dos pareceres da comissão verificadora de contas e do conselho consultivo.
 
 2. A aprovação a que se refere este artigo corresponde, para o efeito de prestação e julgamento de contas, à quitação da direcção, sem prejuízo de revisão a determinar pelo Ministro nos casos admitidos por lei.
 
-###### Art. 21.º - 1. A Obra Social terá o pessoal indispensável à boa execução dos seus fins.
+Art. 21.º - 1. A Obra Social terá o pessoal indispensável à boa execução dos seus fins.
 
 2. As necessidades da Obra Social poderão ser asseguradas por funcionários destacados dos serviços do Ministério ou por funcionários de outros serviços do Estado, em regime de comissão de serviço por tempo indeterminado, sem perda, em qualquer caso, dos direitos inerentes aos cargos de origem, designadamente quanto a antiguidade, promoção e aposentação.
 
@@ -244,13 +265,13 @@ c) Pronunciar-se sobre a aplicação das receitas da Obra Social à realização
 
 4. Poderão ser preenchidos interinamente os lugares, nos quadros de origem, dos funcionários referidos nos números anteriores.
 
-###### Art. 22.º Mediante autorização ministerial, a Obra Social poderá:
+Art. 22.º Mediante autorização ministerial, a Obra Social poderá:
 
 a) Contratar ou assalariar o pessoal eventual que se mostrar indispensável;
 
 b) Confiar a quaisquer entidades, em regime de prestação de serviços, a realização de estudos, inquéritos ou outros trabalhos necessários ao bom desempenho das atribuições do organismo.
 
-###### Art. 23.º - 1. Serão estabelecidas por decreto regulamentar as normas necessárias à prossecução dos fins da Obra Social.
+Art. 23.º - 1. Serão estabelecidas por decreto regulamentar as normas necessárias à prossecução dos fins da Obra Social.
 
 2. Constarão especialmente do regulamento:
 
@@ -270,8 +291,8 @@ f) Os actos que o Ministro entenda submeter à sua autorização.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 
-**Promulgado em 21 de Setembro de 1972.**
+Promulgado em 21 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

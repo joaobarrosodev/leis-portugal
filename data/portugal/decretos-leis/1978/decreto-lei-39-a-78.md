@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 51/1978, 1º Suplemento, Série I de 1978-03-02
   number: '51'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 446-(1) a 446-(1)
   pdf_url: https://files.diariodarepublica.pt/1s/1978/03/05101/00010001.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-1978-508581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T23:15:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8b97305bc88378068bfdbc0c74f7def4c9dbc595ead0edd4d7c5baeac74d6220
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 25c2dfb1f7395020d9a0c71636dee2c819206c79521447125c9ba1264ba2fe94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:15:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comemoração
+- Comissão Organizadora
+- Dia 25 de Abril
+- DIA da Liberdade
 relationships:
 - type: amended_by
   target: pt:dre:292481:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTA A COMISSAO ORGANIZADORA DAS COMEMORACOES DO DIA DA LIBERDADE, PELO DECRETO LEI 451/91, DE 4 DE DEZEMBRO,\
+    \ PUBLICADO NO DR.IS-A, 279, SUPL.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1991-12-04'
+- type: amended_by
+  target: pt:dre:292481:por
+  label: Extinta a Comissão Organizadora do Dia da Liberdade, criada pelo presente diploma, pelo(a) Decreto-Lei n.º 451/91
+    - Diário da República n.º 279/1991, 1º Suplemento, Série I-A de 1991-12-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/451-1991-292481
+  date: '1991-12-04'
+- type: cites
+  target: pt:dre:402107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:439421:por
+  label: "Revogado pelo DEC LEI.355/83.02.09.1983.PCM, DR.IS [202] de 02.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1983-439421
+  date: '1983-09-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:15:14Z'
   warnings: []
   errors: []
 ---
@@ -97,20 +126,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O dia 25 de Abril passa a designar-se Dia da Liberdade, devendo ser comemorado em todo o País, ao nível das comunidades locais, por forma a dar a devida projecção à data histórica do 25 de Abril.
+Artigo 1.º O dia 25 de Abril passa a designar-se Dia da Liberdade, devendo ser comemorado em todo o País, ao nível das comunidades locais, por forma a dar a devida projecção à data histórica do 25 de Abril.
 
-###### Art. 2.º A coordenação e organização das comemorações oficiais do Dia da Liberdade fica a cargo de uma comissão organizadora das comemorações do Dia da Liberdade.
+Art. 2.º A coordenação e organização das comemorações oficiais do Dia da Liberdade fica a cargo de uma comissão organizadora das comemorações do Dia da Liberdade.
 
-###### Art. 3.º Os membros da comissão organizadora das comemorações do Dia da Liberdade são nomeados anualmente por despacho conjunto do Presidente do Conselho da Revolução e do Primeiro-Ministro.
+Art. 3.º Os membros da comissão organizadora das comemorações do Dia da Liberdade são nomeados anualmente por despacho conjunto do Presidente do Conselho da Revolução e do Primeiro-Ministro.
 
-###### Art. 4.º As despesas resultantes da execução do presente diploma serão satisfeitas de conta de dotações adequadas a inscrever na Secretaria-Geral da Presidência do Conselho de Ministros, a qual prestará à comissão organizadora o apoio administrativo necessário.
+Art. 4.º As despesas resultantes da execução do presente diploma serão satisfeitas de conta de dotações adequadas a inscrever na Secretaria-Geral da Presidência do Conselho de Ministros, a qual prestará à comissão organizadora o apoio administrativo necessário.
 
-###### Art. 5.º Ficam revogados os Decretos-Leis n.os [210-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-a-1975-402107), de 18 de Abril, e [99-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-a-1977-469175), de 17 de Março.
+Art. 5.º Ficam revogados os Decretos-Leis n.os [210-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-a-1975-402107), de 18 de Abril, e [99-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-a-1977-469175), de 17 de Março.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
 
-**Promulgado em 2 de Março de 1978.**
+Promulgado em 2 de Março de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

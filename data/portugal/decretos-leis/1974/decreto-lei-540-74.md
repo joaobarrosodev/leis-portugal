@@ -20,12 +20,12 @@ publication:
   reference: Diário do Governo n.º 238/1974, 1º Suplemento, Série I de 1974-10-12
   number: '238'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1214-(5) a 1214-(6)
   pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23801/00050006.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1974-585843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:34:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: df4274accfa6dc45d5fdea982dddef16dc517fa72989edd075237ba7502d2a32
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 47bfc623ef19b34b6d76089f1ce69a693ad8046ed6095c8fc872c38672c14f7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:34:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Direcção Geral do Comércio Externo
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: repealed_by
+  target: pt:dre:634691:por
+  label: Revogado pelo(a) Decreto-Lei n.º 86/93 - Diário da República n.º 65/1993, Série I-A de 1993-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/86-1993-634691
+  date: '1993-03-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:34:49Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +111,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Secretaria de Estado do Comércio Externo e Turismo a Direcção-Geral do Comércio Externo.
+Artigo 1.º É criada na Secretaria de Estado do Comércio Externo e Turismo a Direcção-Geral do Comércio Externo.
 
-###### Art. 2.º À Direcção-Geral do Comércio Externo compete, no quadro das orientações superiormente determinadas:
+Art. 2.º À Direcção-Geral do Comércio Externo compete, no quadro das orientações superiormente determinadas:
 
 a) Promover e coordenar a realização dos trabalhos de programação no domínio do comércio externo;
 
@@ -125,7 +139,7 @@ k) Informar a Administração, as associações sócio-profissionais e o públic
 
 l) Desempenhar as demais atribuições que lhe venham a ser cometidas por lei.
 
-###### Art. 3.º - 1. A Direcção-Geral do Comércio Externo englobará os seguinte serviços:
+Art. 3.º - 1. A Direcção-Geral do Comércio Externo englobará os seguinte serviços:
 
 a) Direcção de Serviços de Estudo e Planeamento;
 
@@ -141,9 +155,9 @@ f) Divisão de Documentação e Informação.
 
 2. A distribuição das funções da Direcção-Geral pelos serviços designados no número anterior, bem como o quadro do pessoal, modo de provimento e acesso aos lugares, constarão de decreto referendado pelos Ministros das Finanças e da Economia.
 
-###### Art. 4.º Transitam para a Direcção-Geral do Comércio Externo as funções que, no domínio das relações económicas externas, incumbem ao Gabinete do Planeamento da extinta Secretaria de Estado do Comércio, à Comissão de Coordenação Económica e à Direcção-Geral do Comércio.
+Art. 4.º Transitam para a Direcção-Geral do Comércio Externo as funções que, no domínio das relações económicas externas, incumbem ao Gabinete do Planeamento da extinta Secretaria de Estado do Comércio, à Comissão de Coordenação Económica e à Direcção-Geral do Comércio.
 
-###### Art. 5.º - 1. Existirá junto da Direcção-Geral do Comércio Externo um grupo de trabalho permanente, integrando representantes da Direcção-Geral, do Fundo de Fomento de Exportação e dos organismos de coordenação económica com responsabilidades especiais em matéria de exportação que forem designados pelo Secretário de Estado do Comércio Externo e Turismo.
+Art. 5.º - 1. Existirá junto da Direcção-Geral do Comércio Externo um grupo de trabalho permanente, integrando representantes da Direcção-Geral, do Fundo de Fomento de Exportação e dos organismos de coordenação económica com responsabilidades especiais em matéria de exportação que forem designados pelo Secretário de Estado do Comércio Externo e Turismo.
 
 2. O grupo de trabalho terá por função promover e assegurar a convergência de objectivos dos departamentos com responsabilidades em matéria de exportação, bem como a compatibilidade dos seus programas de acção e respectivos ritmos de execução.
 
@@ -153,22 +167,22 @@ f) Divisão de Documentação e Informação.
 
 5. Poderão ser chamados a prestar colaboração ao grupo representantes de outros serviços públicos e das actividades económicas, sempre que tal se julgue aconselhável.
 
-###### Art. 6.º O Ministro da Economia poderá autorizar o provimento dos lugares do quadro da Direcção-Geral por funcionários de outros serviços do Ministério da Economia.
+Art. 6.º O Ministro da Economia poderá autorizar o provimento dos lugares do quadro da Direcção-Geral por funcionários de outros serviços do Ministério da Economia.
 
-###### Art. 7.º - 1. O pessoal dos serviços mencionados no artigo 4.º que exerça actualmente funções no domínio das relações económicas externas ou administrativas que lhe correspondam transitará para os quadros da Direcção-Geral, mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Comércio Externo e Turismo, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
+Art. 7.º - 1. O pessoal dos serviços mencionados no artigo 4.º que exerça actualmente funções no domínio das relações económicas externas ou administrativas que lhe correspondam transitará para os quadros da Direcção-Geral, mediante lista ou listas nominativas aprovadas pelo Secretário de Estado do Comércio Externo e Turismo, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
 2. Até à publicação dessas listas, o pessoal referido no número anterior manter-se-á em funções na Direcção-Geral, na situação em que presentemente se encontra.
 
-###### Art. 8.º - 1. A Direcção-Geral poderá recrutar individualidades nacionais ou estrangeiras, em regime de prestação de serviço e nas condições que forem fixadas em despacho do Secretário de Estado do Comércio Externo e Turismo, para a execução de tarefas especializadas.
+Art. 8.º - 1. A Direcção-Geral poderá recrutar individualidades nacionais ou estrangeiras, em regime de prestação de serviço e nas condições que forem fixadas em despacho do Secretário de Estado do Comércio Externo e Turismo, para a execução de tarefas especializadas.
 
 2. A Direcção-Geral poderá também, para execução das tarefas específicas referidas no número anterior e nas condições nele mencionadas, celebrar contratos com organizações especializadas.
 
-###### Art. 9.º Nos termos a estabelecer pelos Ministros das Finanças e da Economia, transitarão para a Direcção-Geral do Comércio Externo os bens, direitos e obrigações dos serviços mencionados no artigo 4.º, de entre os quais se contam os direitos emergentes dos contratos de arrendamento celebrados por aqueles serviços.
+Art. 9.º Nos termos a estabelecer pelos Ministros das Finanças e da Economia, transitarão para a Direcção-Geral do Comércio Externo os bens, direitos e obrigações dos serviços mencionados no artigo 4.º, de entre os quais se contam os direitos emergentes dos contratos de arrendamento celebrados por aqueles serviços.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 30 de Setembro de 1974.**
+Promulgado em 30 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/254-1971-644149
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-06-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:17:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 83c622688d9623f4a0b331bbabeb154747d936df87565592662e9fe51aa55250
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 643402f68c43752eaf3739f395c042daae7d1baf3cb72a630db508beaf9ef79e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:17:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:17:51Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A administração de todas as receitas da Mocidade Portuguesa em Angola compete a um conselho administrativo, que terá a seguinte constituição:
+Artigo 1.º - 1. A administração de todas as receitas da Mocidade Portuguesa em Angola compete a um conselho administrativo, que terá a seguinte constituição:
 
 Presidente - o comissário provincial;
 
@@ -102,30 +102,30 @@ Um funcionário da Direcção Provincial dos Serviços de Fazenda e Contabilidad
 
 2. Servirá de secretário do conselho, sem voto, um funcionário do quadro do pessoal administrativo da Mocidade Portuguesa a designar pelo comissário provincial.
 
-###### Art. 2.º O presidente, que disporá de vota de qualidade, será substituído na sua ausência ou impedimento pelo comissário provincial-adjunto.
+Art. 2.º O presidente, que disporá de vota de qualidade, será substituído na sua ausência ou impedimento pelo comissário provincial-adjunto.
 
-###### Art. 3.º - 1. O conselho reunirá obrigatòriamente uma vez por semana, em dia a fixar pelo próprio conselho, e extraordinàriamente sempre que seja convocado pelo presidente.
+Art. 3.º - 1. O conselho reunirá obrigatòriamente uma vez por semana, em dia a fixar pelo próprio conselho, e extraordinàriamente sempre que seja convocado pelo presidente.
 
 2. De cada sessão será lavrada acta, sujeita a aprovação na sessão seguinte.
 
-###### Art. 4.º - 1. Ao representante dos serviços de Fazenda e contabilidade, bem como aos restantes membros do conselho administrativo, serão abonadas senhas de presença por sessão, de modo a não ultrapassar o quantitativo mensal de 1500$00 para cada membro.
+Art. 4.º - 1. Ao representante dos serviços de Fazenda e contabilidade, bem como aos restantes membros do conselho administrativo, serão abonadas senhas de presença por sessão, de modo a não ultrapassar o quantitativo mensal de 1500$00 para cada membro.
 
 2. Ao secretário será atribuída uma gratificação mensal a fixar por diploma legislativo da província.
 
-###### Art. 5.º - 1. Todas as dotações e receitas da Mocidade Portuguesa serão depositadas no Instituto de Crédito de Angola, à ordem do conselho administrativo.
+Art. 5.º - 1. Todas as dotações e receitas da Mocidade Portuguesa serão depositadas no Instituto de Crédito de Angola, à ordem do conselho administrativo.
 
 2. A conta de depósito, feita nos termos do presente artigo, só poderá ser movimentada por meio de cheques assinados por dois membros do conselho administrativo.
 
-###### Art. 6.º A competência e demais atribuições do conselho administrativo serão fixadas por diploma legislativo provincial.
+Art. 6.º A competência e demais atribuições do conselho administrativo serão fixadas por diploma legislativo provincial.
 
-###### Art. 7.º Anualmente serão prestadas contas ao Tribunal Administrativo, nos termos e prazos previstos na lei, dos fundos administrados pelo conselho administrativo.
+Art. 7.º Anualmente serão prestadas contas ao Tribunal Administrativo, nos termos e prazos previstos na lei, dos fundos administrados pelo conselho administrativo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 27 de Agosto de 1971.**
+Promulgado em 27 de Agosto de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado na Boletim Oficial de Angola. - J. da Silva Cunha.

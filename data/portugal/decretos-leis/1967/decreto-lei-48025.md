@@ -47,36 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48025-1967-388824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:03:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a57db5e0c77e259eb7587abd9ce55a7476af2c173759c6b632a900642f47e7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3c211f2b58a251c21a960cc2882d1a75874276892a52038f3fba8c528397bad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:03:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Instituto Nacional de Investigação Industrial
+- Orgânica
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509792:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678468:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:03:08Z'
   warnings: []
   errors: []
 ---
@@ -99,39 +126,39 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os serviços técnicos do Instituto Nacional de Investigação Industrial, a que se refere o artigo 20.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), de 23 de Janeiro de 1959, passam a ser constituídos por mais um, designado por:
+Artigo 1.º Os serviços técnicos do Instituto Nacional de Investigação Industrial, a que se refere o artigo 20.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), de 23 de Janeiro de 1959, passam a ser constituídos por mais um, designado por:
 
 3.º serviço - Estudos económicos e de desenvolvimento industrial.
 
-###### Art. 2.º Compete ao 3.º serviço (estudos económicos e de desenvolvimento industrial) realizar os estudos económicos de interesse para o progresso da indústria portuguesa, em geral, e, nomeadamente, os necessários à criação de novas modalidades e empreendimentos, cabendo-lhe ainda acompanhar as actividades nacionais e internacionais em matéria de industrialização e promover as acções de formação e de divulgação que se mostrarem úteis para o desenvolvimento daquele sector.
+Art. 2.º Compete ao 3.º serviço (estudos económicos e de desenvolvimento industrial) realizar os estudos económicos de interesse para o progresso da indústria portuguesa, em geral, e, nomeadamente, os necessários à criação de novas modalidades e empreendimentos, cabendo-lhe ainda acompanhar as actividades nacionais e internacionais em matéria de industrialização e promover as acções de formação e de divulgação que se mostrarem úteis para o desenvolvimento daquele sector.
 
-###### Art. 3.º O n.º 1.º do artigo 19.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), bem como o artigo 21.º e o parágrafo do seu artigo 22.º, passam a ter a seguinte redacção:
+Art. 3.º O n.º 1.º do artigo 19.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), bem como o artigo 21.º e o parágrafo do seu artigo 22.º, passam a ter a seguinte redacção:
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 1.º Assegurar a unidade de orientação científica e técnica na realização dos estudos e investigações da iniciativa do Instituto ou das instituições que com ele colaborem e, bem assim, coordenar todas as actividades de formação pelo mesmo promovidas, ou em que participe.
 
 ...
 
-###### Art. 21.º O gabinete central de coordenação, planeamento e informação e os serviços técnicos subdividir-se-ão em divisões, grupos, centros ou núcleos de estudo ou assistência, e esses, por sua vez, nos laboratórios, gabinetes ou secções que as necessidades justificarem.
+Art. 21.º O gabinete central de coordenação, planeamento e informação e os serviços técnicos subdividir-se-ão em divisões, grupos, centros ou núcleos de estudo ou assistência, e esses, por sua vez, nos laboratórios, gabinetes ou secções que as necessidades justificarem.
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 § 1.º Além das divisões, grupos, laboratórios e demais departamentos gerais ou de base que se mostrarem indispensáveis, o 1.º serviço compreenderá ainda núcleos especializados para o estudo, apoio e assistência, nos respectivos domínios, aos vários ramos da indústria nacional em que tal se verificar ser vantajoso.
 
-###### Art. 4.º O quadro do pessoal do Instituto Nacional de Investigação Industrial, anexo ao [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, é substituído pelo que se publica anexo ao presente decreto-lei.
+Art. 4.º O quadro do pessoal do Instituto Nacional de Investigação Industrial, anexo ao [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, é substituído pelo que se publica anexo ao presente decreto-lei.
 
 § único. É igualmente substituída pela designação de «chefe de serviço», que consta nesse quadro, a categoria de «director de serviço», que figurava nos diplomas legais anteriores, nomeadamente no artigo 12.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075) e no § único do artigo 4.º, artigo 27.º e artigo 28.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), de 23 de Janeiro de 1959.
 
-###### Art. 5.º O artigo 14.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, passa a ter a seguinte redacção:
+Art. 5.º O artigo 14.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, passa a ter a seguinte redacção:
 
-###### Art. 14.º O pessoal contratado além dos quadros poderá ingressar nestes, na categoria correspondente às funções que venha desempenhando, mediante concurso, sob proposta do director do Instituto, se possuir as habilitações e informações de bom e efectivo serviço requeridas e tiver sido contratado há mais de três anos dentro do limite de idade legalmente estabelecido, salvo se já for funcionário, contando-se, para todos os efeitos legais, o tempo de serviço já prestado na categoria que venha exercendo.
+Art. 14.º O pessoal contratado além dos quadros poderá ingressar nestes, na categoria correspondente às funções que venha desempenhando, mediante concurso, sob proposta do director do Instituto, se possuir as habilitações e informações de bom e efectivo serviço requeridas e tiver sido contratado há mais de três anos dentro do limite de idade legalmente estabelecido, salvo se já for funcionário, contando-se, para todos os efeitos legais, o tempo de serviço já prestado na categoria que venha exercendo.
 
-###### Art. 6.º As vagas de investigador serão distribuídas por forma a verificar-se igualdade numérica em relação aos seguintes tipos de especialização: economia, organização (produtividade), ciência e tecnologia.
+Art. 6.º As vagas de investigador serão distribuídas por forma a verificar-se igualdade numérica em relação aos seguintes tipos de especialização: economia, organização (produtividade), ciência e tecnologia.
 
 § único. Os lugares de investigador serão providos nos termas do artigo 27.º do [Decreto n.º 42121](https://diariodarepublica.pt/dr/detalhe/decreto/42121-1959-592076), de 23 de Janeiro de 1959, de entre os funcionários do quadro e além do quadro cujo excepcional currículo, nível de preparação científica ou técnica e qualidades pessoais, nos domínios do estudo e investigação, os indiquem muito particularmente para o desempenho das referidas funções, nas correspondentes especialidades exigidas pelas vagas a preencher.
 
-###### Art. 7.º Os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º do Decreto-lei n.º 39840, de 4 de Outubro de 1954, passam a ter a seguinte redacção:
+Art. 7.º Os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º do Decreto-lei n.º 39840, de 4 de Outubro de 1954, passam a ter a seguinte redacção:
 
 § 1.º O quadro do pessoal superior da Fábrica-Escola, bem como as suas remunerações e a do administrador, serão fixados por despacho do Secretário de Estado da Indústria, constituindo estas encargo daquela Fábrica-Escola.
 
@@ -141,21 +168,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Na ausência ou impedimento do administrador, serão as suas funções exercidas por funcionário superior da Fábrica, ou personalidade a ela estranha, que, sob proposta do director do Instituto Nacional de Investigação Industrial, for designada pelo Secretário de Estado da Indústria.
 
-###### Art. 8.º Ficam revogados o § único do artigo 2.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º e o artigo 8.º e respectivos parágrafos do [Decreto-Lei n.º 39840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39840-1954-678468), de 4 de Outubro de 1954, e, bem assim, o § único do artigo 7.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959.
+Art. 8.º Ficam revogados o § único do artigo 2.º, os §§ 1.º, 2.º, 3.º e 4.º do artigo 7.º e o artigo 8.º e respectivos parágrafos do [Decreto-Lei n.º 39840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39840-1954-678468), de 4 de Outubro de 1954, e, bem assim, o § único do artigo 7.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959.
 
-###### Art. 9.º Quando os serviços prestados pelo Instituto sejam remunerados, de harmonia com o artigo 9.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, poderá ser fixada, pelo Secretário de Estado da Indústria, com o acordo do Ministério das Finanças, uma percentagem a atribuir ao pessoal encarregado dos respectivos trabalhos.
+Art. 9.º Quando os serviços prestados pelo Instituto sejam remunerados, de harmonia com o artigo 9.º do [Decreto-Lei n.º 42120](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42120-1959-592075), de 23 de Janeiro de 1959, poderá ser fixada, pelo Secretário de Estado da Indústria, com o acordo do Ministério das Finanças, uma percentagem a atribuir ao pessoal encarregado dos respectivos trabalhos.
 
-###### Art. 10.º Ao pessoal técnico e operário do Instituto, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, poderão ser atribuídos fatos de trabalho e calçado apropriado, mediante despacho do Secretário de Estado da Indústria.
+Art. 10.º Ao pessoal técnico e operário do Instituto, quando no desempenho de actividades que ocasionem desgaste anormal dos seus artigos de vestuário ou que exijam calçado especial, poderão ser atribuídos fatos de trabalho e calçado apropriado, mediante despacho do Secretário de Estado da Indústria.
 
-###### Art. 11.º Quando um trabalho de natureza especial o impuser, pode o horário de trabalho dos funcionários que dele se ocupam ser fixado pelo director do Instituto, de harmonia com as conveniências do serviço, sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
+Art. 11.º Quando um trabalho de natureza especial o impuser, pode o horário de trabalho dos funcionários que dele se ocupam ser fixado pelo director do Instituto, de harmonia com as conveniências do serviço, sem prejuízo do cumprimento do número de horas de trabalho fixado por lei.
 
-###### Art. 12.º O Instituto Nacional de Investigação Industrial poderá estender também as suas actividades às províncias ultramarinas, nas condições que forem estabelecidas por despacho conjunto do Ministro do Ultramar e do Secretário de Estado da Indústria.
+Art. 12.º O Instituto Nacional de Investigação Industrial poderá estender também as suas actividades às províncias ultramarinas, nas condições que forem estabelecidas por despacho conjunto do Ministro do Ultramar e do Secretário de Estado da Indústria.
 
-###### Art. 13.º São tornadas extensivas ao pessoal do Instituto Nacional de Investigação Industrial que se desloque às províncias ultramarinas, bem como à aparelhagem, material e produtos destinados ou provenientes do seu trabalho nesses territórios as disposições aplicáveis do [Decreto-Lei n.º 43609](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43609-1961-569522), de 20 de Abril de 1961, e dos artigos 259.º a 276.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, cabendo ao Secretário de Estado da Indústria a competência ali atribuída, respectivamente, aos Ministros das Obras Públicas e do Ultramar.
+Art. 13.º São tornadas extensivas ao pessoal do Instituto Nacional de Investigação Industrial que se desloque às províncias ultramarinas, bem como à aparelhagem, material e produtos destinados ou provenientes do seu trabalho nesses territórios as disposições aplicáveis do [Decreto-Lei n.º 43609](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43609-1961-569522), de 20 de Abril de 1961, e dos artigos 259.º a 276.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, cabendo ao Secretário de Estado da Indústria a competência ali atribuída, respectivamente, aos Ministros das Obras Públicas e do Ultramar.
 
 São igualmente aplicáveis a esse pessoal os artigos 29.º, 30.º e 31.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Manuel Rafael Amaro da Costa.
 
@@ -163,6 +190,6 @@ Quadro do pessoal do Instituto Nacional de Investigação Industrial
 
 (Anexo ao Decreto-Lei n.º 48025)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/11/25700/19271929.pdf))](https://files.diariodarepublica.pt/1s/1967/11/25700/19271929.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/25700/19271929.pdf)
 
 Ministério da Economia, 4 de Novembro de 1967. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

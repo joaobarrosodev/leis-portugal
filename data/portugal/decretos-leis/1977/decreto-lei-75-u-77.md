@@ -19,12 +19,12 @@ publication:
   reference: Diário da República n.º 49/1977, 1º Suplemento, Série I de 1977-02-28
   number: '49'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 318-(42) a 318-(42)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04901/00420042.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-u-1977-509054
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T23:10:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66d04acc70450de22a2c284b16351d3b8b6c7f40791b5d2a9be256ad36e3f3be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 128a1d864acb6e1005c7ba9ab115ab317c3792408fb8379430e7dc0af577e312
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:10:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fretamento
+- Marinha Mercante
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:663361:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:250829:por
+  label: "Alterados, por ratificação, os arts. 1º e 2º pela LEI.49/77.20.07.1977.AR, DR.IS [166] de 20.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/49-1977-250829
+  date: '1977-07-20'
+- type: repealed_by
+  target: pt:dre:663361:por
+  label: "Revogado pelo DEC LEI.34/87.20.01.1987.MOPTC, DR.IS [16] de 20.01.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-1987-663361
+  date: '1987-01-20'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:10:06Z'
   warnings: []
   errors: []
 ---
@@ -100,26 +113,26 @@ Nesta conformidade, e sem prejuízo de acordos e convenções internacionais rat
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. O transporte marítimo de mercadorias importadas por qualquer órgão da administração pública ou por empresas públicas será feito obrigatoriamente em navios de bandeira portuguesa, ou em navios estrangeiros afretados por armadores nacionais.
+Artigo 1.º - 1. O transporte marítimo de mercadorias importadas por qualquer órgão da administração pública ou por empresas públicas será feito obrigatoriamente em navios de bandeira portuguesa, ou em navios estrangeiros afretados por armadores nacionais.
 
 2. Estas disposições aplicar-se-ão igualmente a importações efectuadas por entidades não contempladas no n.º 1 deste artigo, mas destinadas às que ali são referidas ao abrigo de contratos firmados entre essas entidades antes da efectivação da importação. Competirá às entidades referidas no n.º 1 cuidar do cumprimento do que aqui se dispõe.
 
 3. O transporte marítimo de mercadorias nacionais exportadas pelas entidades referidas no n.º 1, com inclusão do frete, está também sujeito à obrigatoriedade definida neste artigo.
 
-###### Art. 2.º As cargas de importação ou exportação, vinculadas nos termos do artigo 1.º, poderão ser liberadas até 50% do seu total a favor da bandeira do país importador ou exportador, desde que a legislação desse país conceda igual tratamento à bandeira portuguesa.
+Art. 2.º As cargas de importação ou exportação, vinculadas nos termos do artigo 1.º, poderão ser liberadas até 50% do seu total a favor da bandeira do país importador ou exportador, desde que a legislação desse país conceda igual tratamento à bandeira portuguesa.
 
-###### Art. 3.º Em caso de falta de navio de bandeira portuguesa, ou afretado por armadores portugueses, para o transporte do total ou de parte da percentagem que lhe couber, será feita a liberação das cargas.
+Art. 3.º Em caso de falta de navio de bandeira portuguesa, ou afretado por armadores portugueses, para o transporte do total ou de parte da percentagem que lhe couber, será feita a liberação das cargas.
 
-###### Art. 4.º Os pedidos de liberação deverão ser apresentados na Direcção-Geral da Marinha do Comércio, que os apreciará e despachará em tempo útil, nos termos dos artigos anteriores.
+Art. 4.º Os pedidos de liberação deverão ser apresentados na Direcção-Geral da Marinha do Comércio, que os apreciará e despachará em tempo útil, nos termos dos artigos anteriores.
 
-###### Art. 5.º Os pedidos de liberação não contemplados neste diploma serão resolvidos por despacho do Secretário de Estado da Marinha Mercante.
+Art. 5.º Os pedidos de liberação não contemplados neste diploma serão resolvidos por despacho do Secretário de Estado da Marinha Mercante.
 
-###### Art. 6.º O presente decreto-lei aplicar-se-á com ressalva de acordos e convenções internacionais ratificados e entra em vigor trinta dias após a data da sua publicação.
+Art. 6.º O presente decreto-lei aplicar-se-á com ressalva de acordos e convenções internacionais ratificados e entra em vigor trinta dias após a data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 27 de Fevereiro de 1977.**
+Promulgado em 27 de Fevereiro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

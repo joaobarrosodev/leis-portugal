@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1973/05/10400/06790680.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/197-1973-422008
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:27:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60adf528a95e56d175a7ed2d13a6cb5857d31b6ffd0ae3096c9bb46a6788d41e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 568f54204c5eae700dd31a603d546ca5233869f51a2ec462031e6e1b3120bf9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:27:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,21 @@ relationships:
   target: pt:dre:607277:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:607277:por
+  label: "Revogado pelo DEC LEI.99/82.07.04.1982.MJ, DR.IS [81] de 07.04.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1982-607277
+  date: '1982-04-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:27:11Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +101,9 @@ I
 
 Estrutura e competência
 
-###### Artigo 1.º À Direcção-Geral dos Serviços Judiciários incumbe superintender, do ponto de vista administrativo, na organização e funcionamento das instituições judiciárias e efectuar os estudos relativos ao seu funcionamento.
+Artigo 1.º À Direcção-Geral dos Serviços Judiciários incumbe superintender, do ponto de vista administrativo, na organização e funcionamento das instituições judiciárias e efectuar os estudos relativos ao seu funcionamento.
 
-###### Art. 2.º Para o exercício das suas atribuições compete especialmente à Direcção-Geral:
+Art. 2.º Para o exercício das suas atribuições compete especialmente à Direcção-Geral:
 
 a) Coordenar os relatórios, pareceres, circulares e sugestões do Conselho Superior Judiciário e da Procuradoria-Geral da República;
 
@@ -120,19 +125,19 @@ i) Elaborar as listas dos peritos médico-legais e dos peritos para as expropria
 
 j) Informar sobre a instalação e equipamento dos serviços e ainda sobre as condições de habitação dos magistrados judiciais e do Ministério Público.
 
-###### Art. 3.º A Direcção-Geral actua em estreita ligação e cooperação com o Conselho Superior Judiciário e a Procuradoria-Geral da República, mas sem prejuízo das funções específicas destes.
+Art. 3.º A Direcção-Geral actua em estreita ligação e cooperação com o Conselho Superior Judiciário e a Procuradoria-Geral da República, mas sem prejuízo das funções específicas destes.
 
-###### Art. 4.º - 1. A Direcção-Geral dispõe de serviços centrais.
+Art. 4.º - 1. A Direcção-Geral dispõe de serviços centrais.
 
 2. As instituições judiciárias compreendem o Conselho Superior Judiciário, a Procuradoria-Geral da República, os tribunais, os serviços do Ministério Público e os serviços médico-legais.
 
-###### Art. 5.º Os serviços centrais da Direcção-Geral abrangem.
+Art. 5.º Os serviços centrais da Direcção-Geral abrangem.
 
 a) Os serviços técnicos;
 
 b) Os serviços de administração.
 
-###### Art. 6.º Aos serviços técnicos compete especialmente:
+Art. 6.º Aos serviços técnicos compete especialmente:
 
 a) Proceder aos estudos de ordem técnica que lhes forem determinados;
 
@@ -140,7 +145,7 @@ b) Estudar e propor as medidas tendentes à permanente actualização da estrutu
 
 c) Organizar a estatística anual do movimento das instituições judiciárias.
 
-###### Art. 7.º Aos serviços de administração compete especialmente:
+Art. 7.º Aos serviços de administração compete especialmente:
 
 a) Promover o expediente relacionado com o Conselho Superior Judiciário, tribunais, serviços do Ministério Público e serviços médico-legais;
 
@@ -152,16 +157,16 @@ II
 
 Pessoal
 
-###### Art. 8.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
+Art. 8.º Ao director-geral compete orientar e coordenar superiormente os serviços, submeter a despacho do Ministro da Justiça os assuntos que careçam de resolução superior e, bem assim, proceder à distribuição do pessoal dos serviços centrais.
 
-###### Art. 9.º - 1. Ao adjunto do director-geral compete dirigir os serviços de administração, coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo nas suas faltas ou impedimentos.
+Art. 9.º - 1. Ao adjunto do director-geral compete dirigir os serviços de administração, coadjuvar o director-geral no exercício das respectivas funções, nos termos por este determinados, e substituí-lo nas suas faltas ou impedimentos.
 
 2. O adjunto será substituído, nas suas faltas ou impedimentos, pelo funcionário designado pelo director-geral.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 14 de Abril de 1973.**
+Promulgado em 14 de Abril de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

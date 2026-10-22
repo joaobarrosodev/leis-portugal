@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -48,40 +48,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1979-378973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 457fafdb0cd5bbc3300cacd911f4d3c4c72393ee1e274f28d364afd3baa128fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2851019f7096fef1a45368e77f4f2893fb17cee9c60edbfa8b671c870afdbcd7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ave de Capoeira
+- Carne
+- Carne de AVES de Capoeira
+- Comércio
+- Embalagem
+- Produto Animal
 relationships:
 - type: amended_by
   target: pt:dre:575571:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:457594:por
+  label: "Acrescentado um artigo 6.º pelo DEC LEI.532/80.06.11.1980.PCM, DR.IS [257] de 06.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/532-1980-457594
+  date: '1980-11-06'
+- type: amended_by
+  target: pt:dre:380310:por
+  label: "Alterados os artigos 2.º, 8.º, 13.º, 15.º, 16.º, 19.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 30.º, 32.º, 35.º e 40.º,\
+    \ os anexos II e III, eliminado o artigo 44.º, e o anexo V, passando os artigos 45.º, 46.º, 47.º e 48.º para 44.º, 45.º,\
+    \ 46.º e 47.º, respectivamente, do Regulamento pela PORT.1133/82.06.12.1982.MACP, DR.IS [281] de 06.12.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1133-1982-380310
+  date: '1982-12-06'
+- type: amended_by
+  target: pt:dre:661886:por
+  label: "Alterado o artigo 36.º do Regulamento pela PORT.174/84.1984.03.27.MAFA DR.IS [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/174-1984-661886
+  date: '1984-03-27'
+- type: cites
+  target: pt:dre:295653:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:369821:por
+  label: Rectificado pela DECL.DD7218.19.09.1979.PCM, DR.IS [217] de 19.09.1979
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1979-369821
+  date: '1979-09-19'
+- type: repealed_by
+  target: pt:dre:575571:por
+  label: "Revogado pelo DEC LEI.222/90.07.07.1990.MAPA, DR.IS [155] de 07.07.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/222-1990-575571
+  date: '1990-07-07'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:26Z'
   warnings: []
   errors: []
 ---
@@ -98,11 +135,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Apresentação e Comercialização de Aves, Suas Carnes e Miudezas, que vai apenso a este diploma, dele fazendo parte.
+Artigo 1.º É aprovado o Regulamento da Apresentação e Comercialização de Aves, Suas Carnes e Miudezas, que vai apenso a este diploma, dele fazendo parte.
 
-###### Art. 2.º Este diploma não é aplicável às Regiões Autónomas da Madeira e dos Açores.
+Art. 2.º Este diploma não é aplicável às Regiões Autónomas da Madeira e dos Açores.
 
-###### Art. 3.º - 1 - O presente decreto-lei entra em vigor:
+Art. 3.º - 1 - O presente decreto-lei entra em vigor:
 
 a) Nos concelhos constantes do anexo I do Regulamento, cento e oitenta dias a contar da sua publicação;
 
@@ -110,23 +147,23 @@ b) Nos restantes concelhos, dois anos a contar da sua publicação.
 
 2 - Nos casos de impossibilidade justificada, mediante proposta da Junta Nacional dos Produtos Pecuários, os prazos estabelecidos no número anterior poderão ser prorrogados por despacho do Secretário de Estado do Comércio e Indústrias Agrícolas.
 
-###### Art. 4.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
+Art. 4.º As dúvidas que surjam na aplicação do presente diploma serão esclarecidas por despacho conjunto dos Ministros da Agricultura e Pescas e do Comércio e Turismo.
 
-###### Art. 5.º São revogados a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 de Junho de 1965, e o despacho das Secretarias de Estado da Agricultura e do Comércio de 10 de Março de 1961, publicado no Diário do Governo, 1.ª série, de 13 de Março de 1961, em tudo o que contrarie o disposto no presente diploma.
+Art. 5.º São revogados a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 de Junho de 1965, e o despacho das Secretarias de Estado da Agricultura e do Comércio de 10 de Março de 1961, publicado no Diário do Governo, 1.ª série, de 13 de Março de 1961, em tudo o que contrarie o disposto no presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 12 de Junho de 1979. - Carlos Alberto da Mota Pinto - António Gonçalves Ribeiro - Apolinário José Barbosa da Cruz Vaz Portugal - Abel Pinto Repolho Correia - Acácio Manuel Pereira Magro - José Ricardo Marques da Costa - João Orlindo Almeida Pina.
 
-**Promulgado em 26 de Julho de 1979.**
+Promulgado em 26 de Julho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 REGULAMENTO DA APRESENTAÇÃO E COMERCIALIZAÇÃO DE AVES, SUAS CARNES E MIUDEZAS
 
-###### Artigo 1.º A apresentação e a comercialização de aves, suas carnes e miudezas regem-se pelas disposições do presente Regulamento.
+Artigo 1.º A apresentação e a comercialização de aves, suas carnes e miudezas regem-se pelas disposições do presente Regulamento.
 
-###### Art. 2.º Para efeitos do presente Regulamento, entende-se por:
+Art. 2.º Para efeitos do presente Regulamento, entende-se por:
 
 a) Aves - as espécies avícolas comestíveis domésticas e as cinegéticas criadas em cativeiro;
 
@@ -138,11 +175,11 @@ d) Carnes - a carcaça, suas partes ou porções.
 
 Dos estabelecimentos de abate
 
-###### Art. 3.º A carne de aves, bem como as miudezas comestíveis, frescas ou refrigeradas e congeladas, só podem ser comercializadas para consumo público desde que sejam provenientes de estabelecimentos de abate devidamente legalizados e com inspecção sanitária assegurada.
+Art. 3.º A carne de aves, bem como as miudezas comestíveis, frescas ou refrigeradas e congeladas, só podem ser comercializadas para consumo público desde que sejam provenientes de estabelecimentos de abate devidamente legalizados e com inspecção sanitária assegurada.
 
-###### Art. 4.º É proibido o abate de aves em mercados municipais ou regionais.
+Art. 4.º É proibido o abate de aves em mercados municipais ou regionais.
 
-###### Art. 5.º Os estabelecimentos de abate destinam-se à realização das seguintes operações:
+Art. 5.º Os estabelecimentos de abate destinam-se à realização das seguintes operações:
 
 a) Recepção;
 
@@ -166,7 +203,7 @@ j) Tratamento dos produtos, quando necessário;
 
 l) Tratamento dos subprodutos, quando aconselhável.
 
-###### Art. 6.º Nos estabelecimentos de abate a instalar têm de ser observados os seguintes requisitos:
+Art. 6.º Nos estabelecimentos de abate a instalar têm de ser observados os seguintes requisitos:
 
 1) Projecto e plano das instalações e funcionamento aprovados pela Junta Nacional dos Produtos Pecuários e pela Direcção-Geral dos Serviços Veterinários, na parte respectiva;
 
@@ -222,27 +259,27 @@ e) Lavagem e desinfecção de grades;
 
 f) Tratamento de efluentes.
 
-###### Art. 7.º - 1 - Os estabelecimentos de abate deverão entrar em funcionamento no prazo máximo de dois anos, a contar da data da aprovação do respectivo projecto, caso contrário será esta cancelada.
+Art. 7.º - 1 - Os estabelecimentos de abate deverão entrar em funcionamento no prazo máximo de dois anos, a contar da data da aprovação do respectivo projecto, caso contrário será esta cancelada.
 
 2 - Quando devidamente justificado, o prazo referido no número anterior poderá ser prorrogado até seis meses, por despacho da Direcção-Geral dos Serviços Veterinários, ouvida a Junta Nacional dos Produtos Pecuários.
 
-###### Art. 8.º A montagem em estabelecimentos já existentes de instalações para o corte e desossagem, assim como para o tratamento de produtos e subprodutos, carece de autorização prévia da Direcção-Geral dos Serviços Veterinários.
+Art. 8.º A montagem em estabelecimentos já existentes de instalações para o corte e desossagem, assim como para o tratamento de produtos e subprodutos, carece de autorização prévia da Direcção-Geral dos Serviços Veterinários.
 
-###### Art. 9.º Depois de preparadas, inspeccionadas e classificadas, as carnes e miudezas serão devidamente acondicionadas para distribuição.
+Art. 9.º Depois de preparadas, inspeccionadas e classificadas, as carnes e miudezas serão devidamente acondicionadas para distribuição.
 
-###### Art. 10.º As carnes aprovadas na inspecção sanitária terão aposta a respectiva marca comprovativa.
+Art. 10.º As carnes aprovadas na inspecção sanitária terão aposta a respectiva marca comprovativa.
 
 Das carcaças
 
-###### Art. 11.º Para efeitos deste Regulamento, consideram-se:
+Art. 11.º Para efeitos deste Regulamento, consideram-se:
 
 1) Carcaças frescas ou refrigeradas - as que, submetidas à acção do frio, apresentam em qualquer momento na sua massa muscular profunda temperatura compreendida entre 0ºC e 4ºC;
 
 2) Carcaças congeladas - as que, submetidas à acção do frio, atingiram na sua massa muscular profunda temperatura igual ou inferior a - 18ºC.
 
-###### Art. 12.º As carcaças frescas ou refrigeradas e congeladas, excluindo as das espécies cinegéticas criadas em cativeiro, obedecerão às características constantes do quadro do anexo II.
+Art. 12.º As carcaças frescas ou refrigeradas e congeladas, excluindo as das espécies cinegéticas criadas em cativeiro, obedecerão às características constantes do quadro do anexo II.
 
-###### Art. 13.º - 1 - A comercialização das carcaças obedecerá aos seguintes requisitos:
+Art. 13.º - 1 - A comercialização das carcaças obedecerá aos seguintes requisitos:
 
 a) Boa colocação dos membros inferiores, presos na sua extremidade distal pela prega resultante do corte correcto na região anal, de modo que se mantenham contraídos junto do peito;
 
@@ -264,9 +301,9 @@ b) Corantes não autorizados.
 
 5 - Só é permitido o arrefecimento das carcaças por água refrigerada desde que se destinem a ser congeladas para exportação e o país importador autorize tal processo.
 
-###### Art. 14.º As carcaças destinadas ao consumo público, com excepção para as das espécies cinegéticas criadas em cativeiro, classificam-se, segundo a sua qualidade, em duas classes, A e B, cujas características constam do quadro anexo III.
+Art. 14.º As carcaças destinadas ao consumo público, com excepção para as das espécies cinegéticas criadas em cativeiro, classificam-se, segundo a sua qualidade, em duas classes, A e B, cujas características constam do quadro anexo III.
 
-###### Art. 15.º - 1 - A calibragem só se aplica às carcaças de frangos.
+Art. 15.º - 1 - A calibragem só se aplica às carcaças de frangos.
 
 2 - Dentro de cada classe, as carcaças de frangos distinguem-se pelo seu peso, fixando-se quatro tipos ou calibres:
 
@@ -282,17 +319,17 @@ Tipo 4 - carcaças, sem miudezas comestíveis, de peso unitário de 700 g a 1000
 
 Das embalagens
 
-###### Art. 16.º Para efeitos deste Regulamento, entende-se por:
+Art. 16.º Para efeitos deste Regulamento, entende-se por:
 
 a) Embalagem individual a que contém apenas uma carcaça, porções ou miudezas de uma carcaça;
 
 b) Embalagem colectiva a que contêm duas ou mais carcaças, porções ou miudezas comestíveis de mais de uma carcaças.
 
-###### Art. 17.º - 1 - As embalagens individuais não são recuperáveis.
+Art. 17.º - 1 - As embalagens individuais não são recuperáveis.
 
 2 - Consideram-se perdidas as embalagens colectivas, com excepção das metálicas, de plástico ou de qualquer outro material e que a Direcção-Geral dos Serviços Veterinários entenda recuperáveis, de fácil limpeza e desinfecção.
 
-###### Art. 18.º É proibido o uso de embalagens individuais ou colectivas susceptíveis de:
+Art. 18.º É proibido o uso de embalagens individuais ou colectivas susceptíveis de:
 
 a) Transmitir às carnes substâncias nocivas à saúde;
 
@@ -300,9 +337,9 @@ b) Tornar as carnes impróprias para consumo;
 
 c) Alterar as suas características organolépticas.
 
-###### Art. 19.º Cada embalagem colectiva só poderá conter carcaças da mesma classe e tipo.
+Art. 19.º Cada embalagem colectiva só poderá conter carcaças da mesma classe e tipo.
 
-###### Art. 20.º Nas embalagens colectivas devem estar apostas, de modo facilmente legível e indelével, as seguintes indicações em português:
+Art. 20.º Nas embalagens colectivas devem estar apostas, de modo facilmente legível e indelével, as seguintes indicações em português:
 
 a) Designação do produto;
 
@@ -318,7 +355,7 @@ f) Nome da firma ou denominação social e localização do estabelecimento de a
 
 g) Número do registo do estabelecimento de abate na Junta Nacional dos Produtos Pecuários.
 
-###### Art. 21.º As embalagens das partes ou porções de carcaças deverão mencionar:
+Art. 21.º As embalagens das partes ou porções de carcaças deverão mencionar:
 
 a) O tipo de carne;
 
@@ -326,7 +363,7 @@ b) A peça que contêm;
 
 c) O respectivo peso líquido.
 
-###### Art. 22.º As embalagens colectivas de carcaças congeladas devem obedecer às seguintes condições:
+Art. 22.º As embalagens colectivas de carcaças congeladas devem obedecer às seguintes condições:
 
 a) Ser novas, resistentes aos choques, adequadas ao peso que contenham, secas e fabricadas com materiais que protejam as carcaças de qualquer alteração da sua qualidade;
 
@@ -334,13 +371,13 @@ b) Serem perfuradas;
 
 c) Não conter quantidade de água superior a 6% do seu peso.
 
-###### Art. 23.º - 1 - Na embalagem individual das carcaças congeladas deve ser utilizada uma película impermeável à água e ao vapor de água.
+Art. 23.º - 1 - Na embalagem individual das carcaças congeladas deve ser utilizada uma película impermeável à água e ao vapor de água.
 
 2 - É permitida a embalagem individual por meio de vácuo.
 
-###### Art. 24.º As embalagens colectivas de carcaças congeladas serão devidamente cintadas.
+Art. 24.º As embalagens colectivas de carcaças congeladas serão devidamente cintadas.
 
-###### Art. 25.º - 1 - As embalagens de carcaças congeladas devem ter aposto, além do mencionado no artigo 20.º deste Regulamento, o seguinte:
+Art. 25.º - 1 - As embalagens de carcaças congeladas devem ter aposto, além do mencionado no artigo 20.º deste Regulamento, o seguinte:
 
 a) Data da congelação;
 
@@ -348,43 +385,43 @@ b) Cuidados a ter com a conservação.
 
 2 - As embalagens individuais de carcaças congeladas devem ter ainda apostas instruções relativas à descongelação.
 
-###### Art. 26.º Só podem ser congeladas as carcaças da classe A.
+Art. 26.º Só podem ser congeladas as carcaças da classe A.
 
-###### Art. 27.º A congelação das miudezas comestíveis deve ser feita em sacos de película impermeável à água e ao vapor de água, que serão colocados nas embalagens colectivas, fora das carcaças.
+Art. 27.º A congelação das miudezas comestíveis deve ser feita em sacos de película impermeável à água e ao vapor de água, que serão colocados nas embalagens colectivas, fora das carcaças.
 
-###### Art. 28.º As carnes, as miudezas e as embalagens não devem apresentar acumulações de gelo e líquidos sanguinolentos ou quaisquer outras substâncias aderentes, quer interna quer externamente.
+Art. 28.º As carnes, as miudezas e as embalagens não devem apresentar acumulações de gelo e líquidos sanguinolentos ou quaisquer outras substâncias aderentes, quer interna quer externamente.
 
 Do armazenamento em câmaras frigoríficas
 
-###### Art. 29.º - 1 - A estiva, na armazenagem das carnes e miudezas, deve ser efectuada de modo a permitir um fácil acesso a todos os lotes, com vista à verificação, a qualquer momento, do seu estado de conservação.
+Art. 29.º - 1 - A estiva, na armazenagem das carnes e miudezas, deve ser efectuada de modo a permitir um fácil acesso a todos os lotes, com vista à verificação, a qualquer momento, do seu estado de conservação.
 
 2 - A estiva das carnes, das miudezas e dos recipientes que as contêm deverá ser efectuada sobre estrados e de modo que não haja compressões excessivas, permitindo uma eficiente circulação de ar.
 
-###### Art. 30.º É proibida a armazenagem frigorífica em caixas de madeira, cestas de vime e sacos de juta ou ráfia.
+Art. 30.º É proibida a armazenagem frigorífica em caixas de madeira, cestas de vime e sacos de juta ou ráfia.
 
-###### Art. 31.º As entidades proprietárias dos frigoríficos onde estejam armazenadas carnes e miudezas congeladas são obrigadas a enviar mensalmente para a Junta Nacional dos Produtos Pecuários, devidamente preenchido, um mapa, que lhes será fornecido por aquele organismo, no qual constem, além do nome do proprietário, as entradas e saídas da mercadoria.
+Art. 31.º As entidades proprietárias dos frigoríficos onde estejam armazenadas carnes e miudezas congeladas são obrigadas a enviar mensalmente para a Junta Nacional dos Produtos Pecuários, devidamente preenchido, um mapa, que lhes será fornecido por aquele organismo, no qual constem, além do nome do proprietário, as entradas e saídas da mercadoria.
 
 Da exportação e importação
 
-###### Art. 32.º - 1 - Só é permitida a exportação de carcaças congeladas, acompanhadas ou não das miudezas comestíveis, que obedeçam em tudo ao preceituado no presente diploma, a não ser que o exportador faça prova de que o país interessado exige preparação ou apresentação diferentes.
+Art. 32.º - 1 - Só é permitida a exportação de carcaças congeladas, acompanhadas ou não das miudezas comestíveis, que obedeçam em tudo ao preceituado no presente diploma, a não ser que o exportador faça prova de que o país interessado exige preparação ou apresentação diferentes.
 
 2 - As embalagens têm de conter, além das indicações referidas nos artigos 20.º e 25.º, em caracteres bem legíveis, a indicação «Produzido em Portugal».
 
-###### Art. 33.º - 1 - A Junta Nacional dos Produtos Pecuários fará, por amostragem, a verificação das carcaças e miudezas comestíveis a exportar, recusando a autorização de exportação quando a mercadoria não se encontrar nas condições fixadas no presente Regulamento.
+Art. 33.º - 1 - A Junta Nacional dos Produtos Pecuários fará, por amostragem, a verificação das carcaças e miudezas comestíveis a exportar, recusando a autorização de exportação quando a mercadoria não se encontrar nas condições fixadas no presente Regulamento.
 
 2 - Serão também rejeitadas para exportação as carcaças congeladas, com ou sem miudezas, que apresentem no momento da verificação para expedição temperatura superior a - 12ºC.
 
 3 - A amostragem referida será feita sobre as seguintes quantidades de carcaças:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
 
 4 - No caso de o país interessado não indicar o método a seguir para a determinação da quantidade de água absorvida pelas carcaças de aves durante a sua preparação para congelação, será utilizado, se necessário, o processo indicado no anexo IV ao presente Regulamento.
 
-###### Art. 34.º Só é permitida a importação de carcaças de aves congeladas desde que sejam respeitadas as determinações deste Regulamento.
+Art. 34.º Só é permitida a importação de carcaças de aves congeladas desde que sejam respeitadas as determinações deste Regulamento.
 
 Do transporte
 
-###### Art. 35.º No transporte de aves, suas carnes e miudezas devem ser observadas as seguintes condições:
+Art. 35.º No transporte de aves, suas carnes e miudezas devem ser observadas as seguintes condições:
 
 1) Do produtor ao centro de abate, em viaturas de caixa aberta, acondicionadas em grades de materiais facilmente laváveis e desinfectáveis, comportando cada uma, no máximo, os seguintes animais:
 
@@ -402,7 +439,7 @@ d) Perus - 10;
 
 Disposições gerais
 
-###### Art. 36.º É obrigatória a inscrição na Junta Nacional dos Produtos Pecuários:
+Art. 36.º É obrigatória a inscrição na Junta Nacional dos Produtos Pecuários:
 
 a) Dos produtores que tenham uma população de aves superior a:
 
@@ -420,7 +457,7 @@ b) Das associações de produtores;
 
 c) Das pessoas singulares ou colectivas que se dediquem ao comércio por grosso dos produtos avícolas referidos neste Regulamento.
 
-###### Art. 37.º - 1 - Os produtores e suas associações que exerçam o comércio por grosso ou a retalho e os comerciantes grossistas devem, para proceder à concentração de recolha, dispor de:
+Art. 37.º - 1 - Os produtores e suas associações que exerçam o comércio por grosso ou a retalho e os comerciantes grossistas devem, para proceder à concentração de recolha, dispor de:
 
 a) Instalações com capacidade adequada ao respectivo movimento;
 
@@ -428,7 +465,7 @@ b) Pessoal convenientemente habilitado para proceder à recolha.
 
 2 - As entidades referidas no número anterior deverão fazer prova, no acto da inscrição, de se encontrarem colectadas pela actividade que exercem e de que possuem a necessária autorização para o exercício do comércio.
 
-###### Art. 38.º A venda de carnes e miudezas só poderá ser efectuada em estabelecimentos que as mantenham:
+Art. 38.º A venda de carnes e miudezas só poderá ser efectuada em estabelecimentos que as mantenham:
 
 a) Em dispositivos frigoríficos adequados;
 
@@ -436,31 +473,31 @@ b) Isoladas de produtos que lhes possam transmitir odores e ou sabores anormais;
 
 c) Fora do contacto com outros produtos, designadamente carnes de outras espécies.
 
-###### Art. 39.º - 1 - Os produtores inscritos na Junta Nacional dos Produtos Pecuários remeterão, de dois em dois meses, a esta entidade um mapa devidamente preenchido, com a indicação da sua produção e do destino que lhe foi dado.
+Art. 39.º - 1 - Os produtores inscritos na Junta Nacional dos Produtos Pecuários remeterão, de dois em dois meses, a esta entidade um mapa devidamente preenchido, com a indicação da sua produção e do destino que lhe foi dado.
 
 2 - O mapa a que se refere o número anterior será fornecido pela Junta Nacional dos Produtos Pecuários.
 
-###### Art. 40.º Os estabelecimentos de abate remeterão mensalmente à Junta Nacional dos Produtos Pecuários um mapa devidamente preenchido que lhe será fornecido por esta entidade, no qual conste o movimento de abate.
+Art. 40.º Os estabelecimentos de abate remeterão mensalmente à Junta Nacional dos Produtos Pecuários um mapa devidamente preenchido que lhe será fornecido por esta entidade, no qual conste o movimento de abate.
 
-###### Art. 41.º Compete à Junta Nacional dos Produtos Pecuários propor a instalação de mercados abastecedores.
+Art. 41.º Compete à Junta Nacional dos Produtos Pecuários propor a instalação de mercados abastecedores.
 
 Da responsabilidade penal
 
-###### Art. 42.º As infracções ao disposto nos artigos 3.º, 4.º e 10.º constituem contravenção punível com multa de 1000$00 a 10000$00 e prisão até um mês, às quais acrescerá a perda das carnes a favor de obras de assistência, hospitais ou estabelecimentos prisionais, quando próprias para consumo.
+Art. 42.º As infracções ao disposto nos artigos 3.º, 4.º e 10.º constituem contravenção punível com multa de 1000$00 a 10000$00 e prisão até um mês, às quais acrescerá a perda das carnes a favor de obras de assistência, hospitais ou estabelecimentos prisionais, quando próprias para consumo.
 
-###### Art. 43.º As infracções às restantes disposições do presente diploma constituem contravenção punível com multa de 1000$00 a 10000$00.
+Art. 43.º As infracções às restantes disposições do presente diploma constituem contravenção punível com multa de 1000$00 a 10000$00.
 
-###### Art. 44.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente diploma que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
+Art. 44.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente diploma que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
 
-###### Art. 45.º A infracção ao disposto no artigo 21.º, alínea c), constitui contravenção punível com multa de 5000$00 a 50000$00.
+Art. 45.º A infracção ao disposto no artigo 21.º, alínea c), constitui contravenção punível com multa de 5000$00 a 50000$00.
 
-###### Art. 46.º As infracções ao disposto nos artigos 8.º, 31.º, 39.º, n.º 1, e 40.º constituem contravenção punível com multa de 2000$00 a 20000$00.
+Art. 46.º As infracções ao disposto nos artigos 8.º, 31.º, 39.º, n.º 1, e 40.º constituem contravenção punível com multa de 2000$00 a 20000$00.
 
-###### Art. 47.º A infracção ao disposto no artigo 36.º constitui contravenção punível com multa de 3000$00 a 30000$00.
+Art. 47.º A infracção ao disposto no artigo 36.º constitui contravenção punível com multa de 3000$00 a 30000$00.
 
-###### Art. 48.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente diploma que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
+Art. 48.º Em conformidade com a legislação vigente, a fiscalização do cumprimento das normas do presente diploma que prevêem e punem infracções antieconómicas e contra a saúde pública compete à Direcção-Geral de Fiscalização Económica.
 
-**O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.**
+O Ministro da Agricultura e Pescas, Apolinário José Barbosa da Cruz Vaz Portugal. - O Ministro do Comércio e Turismo, Abel Pinto Repolho Correia. - O Ministro dos Transportes e Comunicações, José Ricardo Marques da Costa.
 
 ## ANEXO I — Concelhos
 
@@ -528,11 +565,11 @@ Todos os concelhos, com excepção de Penedono, S. João da Pesqueira, Sernancel
 
 Apresentação das carnes frescas ou refrigeradas e congeladas, exceptuando as das espécies cinegéticas criadas em cativeiro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
 
 ## ANEXO III — Classificação das carcaças
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
 
 Nota. - Nos frangos, a cartilagem do externo não está ainda ossificada.
 
@@ -582,4 +619,4 @@ Ha = (P - P(índice 1)) - P(índice 2)/(P - P(índice 1)) x 100
 
 ## ANEXO V — Dimensões mínimas, interiores, das grades
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/08/19000/19881994.pdf)

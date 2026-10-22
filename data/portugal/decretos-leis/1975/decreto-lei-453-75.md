@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/08/19200/12121213.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/453-1975-314909
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4243135675ecd04363952ffa9f28b078a7ebbcb4095dc325842b2f05698dfd1e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c95dd4eacce18aae97195149fbe08671045254286f0b580a1c82c5528b26ea18
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:43:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Companhia Nacional de Petroquímica
+- Empresa Privada
+- Extinção de Empresas
+- Nacionalização
+- Órgãos Sociais
+- Sociedade Anónima
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:407693:por
+  label: "Transformada partir de 16.12.1976 em empresa pública a Companhia Nacional de Petroquímica, S.A.R.L., nacionalizada\
+    \ pelo presente diploma, pelo DEC LEI.848/76.16.12.1976.MPCE, DR.IS [292] de 16.12.1976, que transferiu a universalidade\
+    \ dos direitos e obrigações para a empresa pública criada naquele.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/848-1976-407693
+  date: '1976-12-16'
+- type: cites
+  target: pt:dre:473881:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:43:59Z'
   warnings: []
   errors: []
 ---
@@ -100,31 +124,31 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A Companhia Nacional de Petroquímica, S. A. R. L., é declarada nacionalizada, com eficácia a contar de 10 de Julho de 1975.
+Artigo 1.º - 1. A Companhia Nacional de Petroquímica, S. A. R. L., é declarada nacionalizada, com eficácia a contar de 10 de Julho de 1975.
 
 2. A nacionalização prevista no n.º 1 é feita sem prejuízo do direito dos actuais titulares de acções representativas do capital privado a serem indemnizados.
 
-###### Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Companhia Nacional de Petroquímica, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização, a definir quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
+Art. 2.º O Estado pagará às entidades privadas titulares de acções do capital da Companhia Nacional de Petroquímica, S. A. R. L., contra a entrega dos respectivos títulos, uma indemnização, a definir quanto ao montante, prazo e forma de pagamento, em diploma legal a publicar no prazo de cento e oitenta dias a contar da data do início da eficácia da nacionalização.
 
-###### Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Companhia Nacional de Petroquímica, S. A. R. L., ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização ou a ele igualmente afectos.
+Art. 3.º - 1. A universalidade dos bens, direitos e obrigações que integram o activo e o passivo da Companhia Nacional de Petroquímica, S. A. R. L., ou que se encontrem afectos à respectiva exploração, são transferidos para o Estado, integrados no património autónomo da empresa resultante da nacionalização ou a ele igualmente afectos.
 
 2. O disposto no número anterior constitui título comprovativo da transferência, para todos os efeitos legais, incluindo os de registo, sendo, em caso de dúvida, título bastante a simples declaração feita pela empresa e confirmada pela Direcção-Geral da Fazenda Pública de que os bens se incluem entre os referidos no n.º 1.
 
-###### Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Companhia Nacional de Petroquímica, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
+Art. 4.º - 1. A empresa nacionalizada assumirá, em relação a todos os actos praticados e contratos celebrados pela Companhia Nacional de Petroquímica, S. A. R. L., a posição jurídica e contratual que esta detiver à data do início da eficácia da nacionalização.
 
 2. A empresa nacionalizada assumirá igualmente a posição social que a Companhia Nacional de Petroquímica, S. A. R. L., detiver em sociedades em que seja sócia à data do início da eficácia da nacionalização.
 
-###### Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Companhia Nacional de Petroquímica, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
+Art. 5.º - 1. O pessoal que à data do início da eficácia da nacionalização estiver ao serviço da Companhia Nacional de Petroquímica, S. A. R. L., transitará automaticamente para a empresa nacionalizada.
 
 2. Até entrar em vigor o regime a definir no estatuto a que se refere o artigo 10.º do presente decreto-lei, mantém-se a vigência da legislação aplicável ao trabalho prestado na Companhia Nacional de Petroquímica, S. A. R. L., bem como as convenções de trabalho celebradas às quais tem estado vinculada a sociedade e o seu pessoal, assumindo a empresa nacionalizada as posições que antes cabiam à Companhia Nacional de Petroquímica, S. A. R. L.
 
-###### Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Companhia Nacional de Petroquímica, S. A. R. L.
+Art. 6.º - 1. São dissolvidos os actuais órgãos sociais da Companhia Nacional de Petroquímica, S. A. R. L.
 
 2. Por resolução do Conselho de Ministros e sob proposta do Ministro da Indústria e Tecnologia será nomeada uma comissão administrativa para a Companhia Nacional de Petroquímica, S. A. R. L., composta por três a sete elementos de reconhecida competência em problemas do sector.
 
 3. A comissão administrativa exercerá funções até a designação dos titulares dos órgãos de gestão previstos nos estatutos, a elaborar nos termos da alínea a) do artigo 10.º
 
-###### Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos da Companhia Nacional de Petroquímica, S. A. R. L., pertenciam ao conselho de administração, com excepção:
+Art. 7.º - 1. A comissão administrativa terá todos os poderes que pela lei ou pelos estatutos da Companhia Nacional de Petroquímica, S. A. R. L., pertenciam ao conselho de administração, com excepção:
 
 a) Da faculdade de demissão ou, quando assumam carácter colectivo, de alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -132,22 +156,22 @@ b) Do poder de decisão sobre investimentos superiores a 50000 contos ou sobre m
 
 2. A prática dos actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho do Ministro da Indústria e Tecnologia ou de despacho conjunto deste e do Ministro do Trabalho, quando estiver em causa o estatuto dos trabalhadores.
 
-###### Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da Companhia Nacional de Petroquímica, S. A. R. L.
+Art. 8.º As remunerações dos membros da comissão administrativa serão fixadas por despacho do Ministro da Indústria e Tecnologia, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, e constituem encargo da Companhia Nacional de Petroquímica, S. A. R. L.
 
-###### Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros das comissões administrativas será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+Art. 9.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros das comissões administrativas será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-###### Art. 10.º - 1. A comissão administrativa apresentará até 31 de Dezembro de 1975 o novo projecto de estatutos da empresa nacionalizada.
+Art. 10.º - 1. A comissão administrativa apresentará até 31 de Dezembro de 1975 o novo projecto de estatutos da empresa nacionalizada.
 
 2. No prazo de trinta dias a contar do termo do seu mandato, a comissão administrativa apresentará ainda, para apreciação do Ministro da Indústria e Tecnologia, o relatório circunstanciado da sua actuação.
 
-###### Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+Art. 11.º Os membros dos conselhos de administração e fiscal, dissolvidos nos termos do presente diploma, ficam obrigados a prestar às comissões administrativas as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
 
-###### Art. 12.º O presente diploma entra imediatamente em vigor.
+Art. 12.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - Francisco José Cruz Pereira de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - João Cardona Gomes Cravinho.
 
-**Promulgado em 7 de Agosto de 1975.**
+Promulgado em 7 de Agosto de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

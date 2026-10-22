@@ -49,36 +49,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49287-1969-215904
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab2245d322605acb2205de16533d085b29c18169d8f03ddcbb7e4a82c537259b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4b74f49112634e8ba31a9091193f399e2a9a0d66b9c72196658d87f01a374cd0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Companhia das Águas de Lisboa
+- Delegação de Competências
+- Ministro das Obras Públicas
+relationships:
+- type: cites
+  target: pt:dre:400846:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:07Z'
   warnings: []
   errors: []
 ---
@@ -89,12 +96,12 @@ Na sequência do regime geral de delegação de competências estabelecido pelo 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Ministro das Obras Públicas poderá delegar no presidente do organismo a que se refere a cláusula XV do contrato entre o Estado e a Companhia das Águas de Lisboa, de 10 de Março de 1952, a competência para a prática dos actos mais correntes ou repetidos relativos às funções específicas do referido organismo, com observância das disposições aplicáveis do [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1967.
+Artigo 1.º O Ministro das Obras Públicas poderá delegar no presidente do organismo a que se refere a cláusula XV do contrato entre o Estado e a Companhia das Águas de Lisboa, de 10 de Março de 1952, a competência para a prática dos actos mais correntes ou repetidos relativos às funções específicas do referido organismo, com observância das disposições aplicáveis do [Decreto-Lei n.º 48059](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48059-1967-400846), de 23 de Novembro de 1967.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 26 de Setembro de 1969.**
+Promulgado em 26 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Outubro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

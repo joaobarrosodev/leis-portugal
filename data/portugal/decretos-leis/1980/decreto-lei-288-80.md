@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18800/22032203.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1980-470777
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bece2f29e1218c403b94112db02b6a66d80b628f67f0a703b6a218a626d054f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e8a2bafebc258c4aad7f9218d79ac9578747b682a688280cf86e16debd0ab802
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Formas de Provimento
+- Função Pública
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:458200:por
+  label: Rectificado o art. 2.º, na parte em altera o n.º 2 do art. 2.º do Dec Lei 180/80 de 03-Jun, pelo(a) Declaração -
+    Diário da República n.º 268/1980, Série I de 1980-11-19
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-458200
+  date: '1980-11-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:27Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +117,18 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os prazos previstos no [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, são prorrogados até 31 de Dezembro do ano corrente.
+Artigo 1.º Os prazos previstos no [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, são prorrogados até 31 de Dezembro do ano corrente.
 
-###### Art. 2.º O n.º 2 do artigo 2.º do referido decreto-lei passa a ter a seguinte redacção:
+Art. 2.º O n.º 2 do artigo 2.º do referido decreto-lei passa a ter a seguinte redacção:
 
 2 - Poderão ainda ser preenchidos até ao termo do prazo fixado no artigo anterior e de acordo com as regras estabelecidas no n.º 1 do artigo 1.º, respeitadas as disponibilidades orçamentais para o corrente ano económico, os lugares dos quadros que nunca tenham sido providos.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 1 de Agosto de 1980.**
+Promulgado em 1 de Agosto de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

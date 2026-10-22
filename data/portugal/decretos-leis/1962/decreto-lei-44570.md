@@ -48,36 +48,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44570-1962-159964
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-09-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:42:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6d86ce9cf460a7fa93f7d1d8877babe5cd4cb9a49533eab1a17a3f3a76d4f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 12cdc0d90d064605456e6a69deacd3a91d74c35f01e76c76c7f751820cb3d245
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:42:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Autorização de Despesas
+- Caixa de Crédito Agrícola Mútuo
+- Caixa Geral de Depósitos Crédito e Previdência
+- Caixa Nacional de Crédito
+- Crédito Agrícola
+- Despesas Públicas
+- Exploração Agrícola
+- Federação Nacional dos Produtores de Trigo
+- Financiamento
+- Indústria da Panificação
+- Trigo
+relationships:
+- type: cites
+  target: pt:dre:159965:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:42:09Z'
   warnings: []
   errors: []
 ---
@@ -94,20 +113,20 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizada a Federação Nacional dos Produtores de Trigo a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até 160000 contos, destinado ao pagamento da subvenção a que se refere o artigo 2.º do [Decreto-Lei n.º 44571](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44571-1962-159965).
+Artigo 1.º É autorizada a Federação Nacional dos Produtores de Trigo a contrair na Caixa Geral de Depósitos, Crédito e Previdência um empréstimo até 160000 contos, destinado ao pagamento da subvenção a que se refere o artigo 2.º do [Decreto-Lei n.º 44571](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44571-1962-159965).
 
-###### Art. 2.º Para assegurar o reembolso do empréstimo a que alude o artigo anterior e ocorrer aos respectivos encargos será obrigatòriamente depositado em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, à sua ordem e à medida que for arrecadado, o produto do diferencial cobrado a favor do Fundo de Abastecimento e relativo aos trigos importados para consumo do continente.
+Art. 2.º Para assegurar o reembolso do empréstimo a que alude o artigo anterior e ocorrer aos respectivos encargos será obrigatòriamente depositado em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, à sua ordem e à medida que for arrecadado, o produto do diferencial cobrado a favor do Fundo de Abastecimento e relativo aos trigos importados para consumo do continente.
 
-###### Art. 3.º São consignadas à satisfação das responsabilidades emergentes do disposto no artigo anterior e até à concorrência do seu montante as receitas percebidas pela Federação Nacional dos Produtores de Trigo e provenientes da importação de trigos exóticos destinados às ilhas adjacentes.
+Art. 3.º São consignadas à satisfação das responsabilidades emergentes do disposto no artigo anterior e até à concorrência do seu montante as receitas percebidas pela Federação Nacional dos Produtores de Trigo e provenientes da importação de trigos exóticos destinados às ilhas adjacentes.
 
-###### Art. 4.º Fica a Caixa Nacional de Crédito autorizada a dispensar a apresentação das apólices do seguro referidas nos artigos 3.º e 4.º do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), nos casos que vier a estabelecer, e bem assim a descontar, no montante do empréstimo, além dos respectivos encargos, as verbas necessárias à regularização de operações anteriores.
+Art. 4.º Fica a Caixa Nacional de Crédito autorizada a dispensar a apresentação das apólices do seguro referidas nos artigos 3.º e 4.º do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), nos casos que vier a estabelecer, e bem assim a descontar, no montante do empréstimo, além dos respectivos encargos, as verbas necessárias à regularização de operações anteriores.
 
 § único. A disposição deste artigo é extensiva aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.
 
-###### Art. 5.º É mantido em 1000$00 por hectare o financiamento a conceder para a campanha do trigo de 1962-1963, nos termos do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941.
+Art. 5.º É mantido em 1000$00 por hectare o financiamento a conceder para a campanha do trigo de 1962-1963, nos termos do [Decreto-Lei n.º 31507](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31507-1941-371001), de 15 de Setembro de 1941.
 
 § único. Este financiamento será dividido em duas fracções de 700$00 e 300$00, respectivamente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Setembro de 1962.- AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - Samuel Rodrigues Sanches.

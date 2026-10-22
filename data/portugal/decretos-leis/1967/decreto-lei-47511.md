@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/02100/01250126.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47511-1967-500697
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5bdea23eeda413d18c28cf7cbdd4ba7fd910a6ad39c4c19c6542140a47182e5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a11f1fb98cda455a64767004fdcf1005594c7fd65aace2d6acbf5f0878689d10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Definição de Competências
+- Direção Geral da Saúde
+- Estabelecimento Comercial
+- Estabelecimento Industrial
+- Fiscalização
+- Inspecção do Trabalho
+- Medicina do Trabalho
+- Médico
 relationships:
 - type: amended_by
   target: pt:dre:302964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:165442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659528:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693617:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:496680:por
+  label: "Revogado pelo DEC LEI.26/94.1994.02.01.MESS, DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1994-496680
+  date: '1994-02-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:57Z'
   warnings: []
   errors: []
 ---
@@ -114,19 +160,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Nas empresas industriais e comerciais devem ser organizados serviços médicos do trabalho, observando-se nos restantes aspectos relativos à prevenção médica das pneumoconioses o preceituado no [Decreto-Lei n.º 44308](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44308-1962-516071), de 27 de Abril de 1962, e no [Decreto n.º 44537](https://diariodarepublica.pt/dr/detalhe/decreto/44537-1962-165442), de 22 de Agosto de 1962.
+Artigo 1.º Nas empresas industriais e comerciais devem ser organizados serviços médicos do trabalho, observando-se nos restantes aspectos relativos à prevenção médica das pneumoconioses o preceituado no [Decreto-Lei n.º 44308](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44308-1962-516071), de 27 de Abril de 1962, e no [Decreto n.º 44537](https://diariodarepublica.pt/dr/detalhe/decreto/44537-1962-165442), de 22 de Agosto de 1962.
 
-###### Art. 2.º Estes serviços médicos têm por fim a defesa da saúde dos trabalhadores e a vigilância das condições higiénicas do seu trabalho, são essencialmente de carácter preventivo e ficam a cargo dos médicos do trabalho.
+Art. 2.º Estes serviços médicos têm por fim a defesa da saúde dos trabalhadores e a vigilância das condições higiénicas do seu trabalho, são essencialmente de carácter preventivo e ficam a cargo dos médicos do trabalho.
 
 § único. São médicos do trabalho os licenciados em Medicina diplomados com o curso de Medicina do Trabalho, criado pelo [Decreto n.º 45160](https://diariodarepublica.pt/dr/detalhe/decreto/45160-1963-693617), de 25 de Julho de 1963, e remodelado pelo [Decreto n.º 45992](https://diariodarepublica.pt/dr/detalhe/decreto/45992-1964-537057), de 23 de Outubro de 1964, ou efectuado na Escola Nacional de Saúde Pública e de Medicina Tropical, criada pelo [Decreto-Lei n.º 47102](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47102-1966-475291), de 16 de Julho de 1966.
 
-###### Art. 3.º Os serviços médicos podem ser privativos de uma única empresa ou comuns a várias, segundo a importância dessas empresas.
+Art. 3.º Os serviços médicos podem ser privativos de uma única empresa ou comuns a várias, segundo a importância dessas empresas.
 
-###### Art. 4.º Compete às empresas organizar e custear os referidos serviços médicos.
+Art. 4.º Compete às empresas organizar e custear os referidos serviços médicos.
 
 § único. Se os serviços forem comuns a várias empresas, as despesas são repartidas proporcionalmente ao número de trabalhadores de cada uma, a menos que, entre si, acordem de outra forma.
 
-###### Art. 5.º As infracções ao disposto neste decreto-lei e seus regulamentos serão punidas com multa de 500$00 a 3000$00, sem prejuízo das demais responsabilidades que porventura caibam às empresas em consequência destas infracções.
+Art. 5.º As infracções ao disposto neste decreto-lei e seus regulamentos serão punidas com multa de 500$00 a 3000$00, sem prejuízo das demais responsabilidades que porventura caibam às empresas em consequência destas infracções.
 
 § 1.º Verificada uma infracção, será fixado um prazo à empresa para o cumprimento das determinações impostas, sem prejuízo do normal procedimento do auto levantado.
 
@@ -134,13 +180,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º As ulteriores infracções por inobservância dos novos prazos fixados serão punidas elevando-se ao décuplo os limites do quantitativo da multa.
 
-###### Art. 6.º Compete à Direcção-Geral de Saúde e à Inspecção do Trabalho, dentro da esfera das respectivas atribuições, fiscalizar o cumprimento do preceituado neste diploma e levantar os autos de notícia das transgressões.
+Art. 6.º Compete à Direcção-Geral de Saúde e à Inspecção do Trabalho, dentro da esfera das respectivas atribuições, fiscalizar o cumprimento do preceituado neste diploma e levantar os autos de notícia das transgressões.
 
 § único. Para efeitos do pagamento das multas, aplicar-se-á o disposto no artigo 25.º do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948, na redacção do [Decreto-Lei n.º 43182](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43182-1960-514841), de 23 de Setembro de 1960, entendendo-se que onde se fala em Inspecção do Trabalho se deverá referir a Direcção-Geral de Saúde quando os autos hajam sido levantados por estes serviços, cabendo aos tribunais do trabalho a competência para apreciação destes casos.
 
-###### Art. 7.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência aprovarão os regulamentos necessários à execução deste decreto-lei, nos quais se poderá estabelecer um número mínimo de trabalhadores para efeito do artigo 1.º e um período transitório quanto à exigência a que se refere o § único do artigo 2.º
+Art. 7.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência aprovarão os regulamentos necessários à execução deste decreto-lei, nos quais se poderá estabelecer um número mínimo de trabalhadores para efeito do artigo 1.º e um período transitório quanto à exigência a que se refere o § único do artigo 2.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 

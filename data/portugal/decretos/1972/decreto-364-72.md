@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/364-1972-691223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-09-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44bd6c5bfbb2c88a3a50dc489a42d9e54b7875803ef04727781f8c0d959046f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77e6496f1a782742d413cab63ecb5b3e0990c673621cb803ee7ecd1577079336
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:139272:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229116:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:521831:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:50Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As Faculdades de Direito destinam-se a cultivar, investigar e ensinar as ciências jurídicas e, bem assim, as ciências históricas, políticas, económicas e sociais cujo estudo deva apoiar o das primeiras.
+Artigo 1.º As Faculdades de Direito destinam-se a cultivar, investigar e ensinar as ciências jurídicas e, bem assim, as ciências históricas, políticas, económicas e sociais cujo estudo deva apoiar o das primeiras.
 
-###### Art. 2.º - 1. As Faculdades de Direito conferem os graus de bacharel e de licenciado em Direito e, ainda, o de doutor.
+Art. 2.º - 1. As Faculdades de Direito conferem os graus de bacharel e de licenciado em Direito e, ainda, o de doutor.
 
 2. O grau de bacharel em Direito é inerente à aprovação em todas as disciplinas dos três primeiros anos do curso.
 
@@ -106,7 +118,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. O grau de doutor em Direito é inerente à aprovação nas respectivas provas, nos termos do [Decreto-Lei n.º 388/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1970-139272), de 18 de Agosto.
 
-###### Art. 3.º - 1. O curso de Direito é ministrado em semestres lectivos.
+Art. 3.º - 1. O curso de Direito é ministrado em semestres lectivos.
 
 2. As disciplinas professadas no curso de Direito são as que constam do mapa anexo ao presente diploma.
 
@@ -114,7 +126,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Poderá o conselho escolar organizar o ensino de línguas vivas e sessões de educação física e prática desportiva.
 
-###### Art. 4.º - 1. O curso de Direito tem a duração de cinco anos, compreendendo dez semestres.
+Art. 4.º - 1. O curso de Direito tem a duração de cinco anos, compreendendo dez semestres.
 
 2. Na licenciatura é facultado aos alunos optar, em cada ano, por uma das cadeiras de opção oferecidas no mapa anexo ao presente diploma.
 
@@ -122,19 +134,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Os alunos do bacharelato frequentarão ainda, obtida a aprovação em Direito Penal II, um semestre de Medicina Legal em condições a determinar pelo reitor, ouvidas as Faculdades de Direito a de Medicina.
 
-###### Art. 5.º - 1. O ano escolar começa em 1 de Outubro e termina em 31 de Julho.
+Art. 5.º - 1. O ano escolar começa em 1 de Outubro e termina em 31 de Julho.
 
 2. O 1.º semestre começa a 1 de Outubro e termina a 28 de Fevereiro; o 2.º semestre começa a 1 de Março e termina a 31 de Julho.
 
 3. No período final de cada semestre haverá uma única época de exames, cujo início será fixado pelo conselho escolar, devendo o encerramento das aulas, sempre que possível, anteceder em uma semana o início dos exames.
 
-###### Art. 6.º - 1. Constitui escolaridade mínima obrigatória, em qualquer semestre, a correspondente a duas disciplinas, salvo nos casos de impossibilidade comprovada pelo conselho escolar.
+Art. 6.º - 1. Constitui escolaridade mínima obrigatória, em qualquer semestre, a correspondente a duas disciplinas, salvo nos casos de impossibilidade comprovada pelo conselho escolar.
 
 2. Só pode inscrever-se nas disciplinas de um dado semestre o aluno que tenha obtido aprovação nas disciplinas dos semestres anteriores, com excepção de duas e sem prejuízo das precedências que forem fixadas.
 
 3. Nenhum aluno poderá inscrever-se mais de três vezes da mesma disciplina, ainda que em Faculdades diferentes.
 
-###### Art. 7.º - 1. A precedência das disciplinas a observar pelos alunos na sequência dos estudos será fixada por despacho ministerial, sob proposta das Faculdades.
+Art. 7.º - 1. A precedência das disciplinas a observar pelos alunos na sequência dos estudos será fixada por despacho ministerial, sob proposta das Faculdades.
 
 2. A inscrição em disciplinas sujeitas a precedência depende apenas da obtenção da frequência na disciplina precedente, mas a aprovação naquela fica dependente da aprovação nesta.
 
@@ -142,7 +154,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. A inscrição no 1.º semestre do 4.º ano só é permitida aos alunos que possuam o bacharelato completo ou, condicionalmente, aos que o possam completar na época de exames imediatamente a seguir.
 
-###### Art. 8.º - 1. Nos seis primeiros semestres do curso far-se-á distinção entre aulas teóricas e práticas.
+Art. 8.º - 1. Nos seis primeiros semestres do curso far-se-á distinção entre aulas teóricas e práticas.
 
 2. O número de aulas teóricas e práticas em cada semestre deverá estar compreendido entre dezoito e vinte e quatro horas semanais.
 
@@ -154,7 +166,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6. Dentro dos limites fixados nos números anteriores, pode o conselho escolar estabelecer que sejam agrupadas aulas práticas de duas ou mais disciplinas do mesmo semestre.
 
-###### Art. 9.º - 1. Nas Faculdades de Direito haverá duas classes de alunos, ordinários e voluntários.
+Art. 9.º - 1. Nas Faculdades de Direito haverá duas classes de alunos, ordinários e voluntários.
 
 2. A frequência das aulas teóricas é sempre facultativa.
 
@@ -166,11 +178,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6. A frequência das aulas teóricas é facultativa, mas em caso de ausência colectiva o professor deverá fixar o sumário da matéria que devia ter sido preleccionada.
 
-###### Art. 10.º - 1. Os professores catedráticos e extraordinários são obrigados a destinar seis horas semanais para, na Faculdade, prestarem esclarecimentos ou conselhos que os alunos lhes solicitarem sobre matérias das disciplinas a seu cargo.
+Art. 10.º - 1. Os professores catedráticos e extraordinários são obrigados a destinar seis horas semanais para, na Faculdade, prestarem esclarecimentos ou conselhos que os alunos lhes solicitarem sobre matérias das disciplinas a seu cargo.
 
 2. O disposto no número anterior é aplicável aos professores auxiliares e assistentes com encargos de regência, mas as seis horas ali referidas contarão para efeito do preceituado nos n.os 1 a 5 do artigo 51.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-###### Art. 11.º - 1. A organização dos exames será estabelecida pelo conselho escolar, devendo os respectivos júris ser presididos por magistrados de tribunais superiores ou, na sua falta, por professores da Faculdade.
+Art. 11.º - 1. A organização dos exames será estabelecida pelo conselho escolar, devendo os respectivos júris ser presididos por magistrados de tribunais superiores ou, na sua falta, por professores da Faculdade.
 
 2. Para os alunos ordinários o exame constará apenas de uma prova oral, caso hajam obtido a nota de Suficiente no aproveitamento escolar. Os alunos voluntários prestarão sempre prova escrita e prova oral.
 
@@ -178,11 +190,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Pode também o conselho escolar estabelecer que duas ou mais disciplinas de um mesmo ano sejam agrupadas para efeito de exames. Neste caso, haverá uma prova escrita no termo de cada semestre sobre a matéria dada no respectivo semestre; o aluno que na primeira obtiver nota positiva é dispensado da segunda; o aluno que nas duas obtiver nota negativa é excluído. Em caso de exclusão, o aluno pode repetir o exame na época imediatamente a seguir.
 
-###### Art. 12.º - 1. O aluno admitido a exame só pode realizá-lo, independentemente de nova inscrição e frequência, no fim do semestre respectivo ou, quanto a duas disciplinas, no fim do semestre imediatamente a seguir.
+Art. 12.º - 1. O aluno admitido a exame só pode realizá-lo, independentemente de nova inscrição e frequência, no fim do semestre respectivo ou, quanto a duas disciplinas, no fim do semestre imediatamente a seguir.
 
 2. A repetição do exame para melhoria de nota não conta para o limite estabelecido no número anterior, mas só é permitida numa das duas épocas seguintes à da aprovação.
 
-###### Art. 13.º - 1. A informação final do bacharelato corresponde à média ponderada das notas obtidas em todas as disciplinas dos seis primeiros semestres do curso, sendo atribuído o coeficiente 1, quer às disciplinas não agrupadas, quer a cada uma das disciplinas agrupadas para o efeito de exames.
+Art. 13.º - 1. A informação final do bacharelato corresponde à média ponderada das notas obtidas em todas as disciplinas dos seis primeiros semestres do curso, sendo atribuído o coeficiente 1, quer às disciplinas não agrupadas, quer a cada uma das disciplinas agrupadas para o efeito de exames.
 
 2. A informação final da licenciatura será votada pelo conselho escolar, tendo por base a média ponderada das seguintes classificações:
 
@@ -192,7 +204,7 @@ b) Média aritmética das notas obtidas em todas as disciplinas dos dois último
 
 3. As notas obtidas nas matérias referidas no artigo 3.º, n.º 4, bem como na disciplina de Medicina Legal, se forem susceptíveis de melhorar a informação final do bacharelato ou da licenciatura, serão também tomadas em conta, nos termos que forem definidos pelo conselho escolar.
 
-###### Art. 14.º - 1. As Faculdades organizarão cursos de pós-graduação para licenciados em Direito, cujos planos de estudo serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e ouvida a Junta Nacional da Educação.
+Art. 14.º - 1. As Faculdades organizarão cursos de pós-graduação para licenciados em Direito, cujos planos de estudo serão aprovados pelo Ministro da Educação Nacional, sob proposta do conselho escolar e ouvida a Junta Nacional da Educação.
 
 2. Cada curso terá a duração mínima de um ano, sendo a frequência das aulas obrigatória.
 
@@ -206,27 +218,27 @@ b) Média aritmética das notas obtidas em todas as disciplinas dos dois último
 
 7. Os diplomados com os cursos de pós-graduação beneficiam das vantagens atribuídas aos diplomados com os cursos complementares até agora existentes pelo [Decreto-Lei n.º 34850](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34850-1945-521831), de 21 de Agosto de 1945.
 
-###### Art. 15.º - 1. As Faculdades podem ministrar cursos de aperfeiçoamento e actualização de conhecimentos, destinados a licenciados em Direito ou a diplomados com outras licenciaturas.
+Art. 15.º - 1. As Faculdades podem ministrar cursos de aperfeiçoamento e actualização de conhecimentos, destinados a licenciados em Direito ou a diplomados com outras licenciaturas.
 
 2. A organização dos cursos referidos no número anterior pertence exclusivamente ao conselho escolar, sempre que se trate de cursos livres ou de cursos que apenas dêem lugar à atribuição de certificados de frequência.
 
 3. Se os cursos derem lugar à atribuição de diplomas de aproveitamento, ficarão sujeitos a normas a definir pelo Ministro da Educação Nacional.
 
-###### Art. 16.º - 1. O conselho escolar pode autorizar, se as circunstâncias o permitirem e dentro dos limites que entender convenientes, que algumas das disciplinas professadas nos dois últimos anos do curso de Direito sejam consideradas simultâneamente como disciplinas de aperfeiçoamento ou de actualização.
+Art. 16.º - 1. O conselho escolar pode autorizar, se as circunstâncias o permitirem e dentro dos limites que entender convenientes, que algumas das disciplinas professadas nos dois últimos anos do curso de Direito sejam consideradas simultâneamente como disciplinas de aperfeiçoamento ou de actualização.
 
 2. É aplicável à hipótese prevista no n.º 1 deste artigo o disposto nos n.os 2 e 3 do artigo anterior.
 
-###### Art. 17.º - 1. O Ministro da Educação Nacional poderá criar, ouvido o conselho escolar, centros de estudo destinados à investigação das ciências professadas nas Faculdades de Direito.
+Art. 17.º - 1. O Ministro da Educação Nacional poderá criar, ouvido o conselho escolar, centros de estudo destinados à investigação das ciências professadas nas Faculdades de Direito.
 
 2. Poderá o conselho escolar promover que se estabeleça colaboração permanente dos centros de estudo da sua Faculdade com outros centros ou institutos, mediante acordo com os serviços de que estes dependam.
 
-###### Art. 18.º Os centros de estudo referidos no n.º 1 do artigo anterior poderão, dentro das verbas de que dispuserem para o efeito, contratar investigadores, ou conceder, mesmo a membros do corpo docente, remunerações por tarefas com objecto e prazo de elaboração determinados, contratar pessoal administrativo e auxiliar e, ainda, adquirir espécies bibliográficas e outros bens que se mostrem necessários.
+Art. 18.º Os centros de estudo referidos no n.º 1 do artigo anterior poderão, dentro das verbas de que dispuserem para o efeito, contratar investigadores, ou conceder, mesmo a membros do corpo docente, remunerações por tarefas com objecto e prazo de elaboração determinados, contratar pessoal administrativo e auxiliar e, ainda, adquirir espécies bibliográficas e outros bens que se mostrem necessários.
 
-###### Art. 19.º - 1. Os centros de estudo, criados nos termos dos artigos anteriores, podem encarregar-se, por contrato, de realizar tarefas de investigação aplicada que lhes sejam encomendadas por entidades públicas ou particulares, nacionais ou estrangeiras.
+Art. 19.º - 1. Os centros de estudo, criados nos termos dos artigos anteriores, podem encarregar-se, por contrato, de realizar tarefas de investigação aplicada que lhes sejam encomendadas por entidades públicas ou particulares, nacionais ou estrangeiras.
 
 2. As remunerações obtidas por esses trabalhos serão afectadas ao pessoal e ao funcionamento do centro, nos termos que vierem a ser definidos por portaria do Ministro da Educação Nacional .
 
-###### Art. 20.º - 1. Têm acesso às Faculdades de Direito aqueles que houverem concluído o curso liceal e forem aprovados num exame destinado a apurar a sua aptidão para o curso de Direito, podendo ser dispensados dele segundo as normas a estabelecer.
+Art. 20.º - 1. Têm acesso às Faculdades de Direito aqueles que houverem concluído o curso liceal e forem aprovados num exame destinado a apurar a sua aptidão para o curso de Direito, podendo ser dispensados dele segundo as normas a estabelecer.
 
 2. O exame de aptidão incidirá sobre as disciplinas de História e Filosofia.
 
@@ -236,11 +248,11 @@ b) Média aritmética das notas obtidas em todas as disciplinas dos dois último
 
 5. No ano lectivo de 1972-1973 os alunos poderão, além da Filosofia, optar entre as disciplinas de Latim e História.
 
-###### Art. 21.º - 1. O bacharelato em Direito habilitará para as actividades que vierem a ser definidas em legislação especial.
+Art. 21.º - 1. O bacharelato em Direito habilitará para as actividades que vierem a ser definidas em legislação especial.
 
 2. A licenciatura em Direito habilitará para as mesmas actividades para que habilita a licenciatura actual.
 
-###### Art. 22.º (transitório) - 1. O plano de estudos constante do mapa anexo ao presente diploma será posto em prática progressivamente, começando a funcionar em 1972-1973 o 1.º ano, em 1973-1974 o 2.º, em 1974-1975 o 3.º, em 1975-1976 o 4.º e em 1976-1977 o 5.º
+Art. 22.º (transitório) - 1. O plano de estudos constante do mapa anexo ao presente diploma será posto em prática progressivamente, começando a funcionar em 1972-1973 o 1.º ano, em 1973-1974 o 2.º, em 1974-1975 o 3.º, em 1975-1976 o 4.º e em 1976-1977 o 5.º
 
 2. À medida que forem entrando em funcionamento os vários anos do curso, segundo o novo plano de estudos, deixarão de ser professadas as disciplinas do plano de estudos anterior.
 
@@ -248,7 +260,7 @@ b) Média aritmética das notas obtidas em todas as disciplinas dos dois último
 
 4. A organização do período de transição entre o plano de estudos vigentes e o novo e, bem assim, a integração dos alunos neste último competem ao conselho escolar.
 
-###### Art. 23.º (transitório) - 1. A partir do ano lectivo de 1973-1974, e enquanto for aplicável o plano de estudos em vigor, observar-se-á o seguinte:
+Art. 23.º (transitório) - 1. A partir do ano lectivo de 1973-1974, e enquanto for aplicável o plano de estudos em vigor, observar-se-á o seguinte:
 
 a) As disciplinas anuais serão consideradas como duas disciplinas semestrais e agrupadas para efeito de exames;
 
@@ -256,15 +268,15 @@ b) São aplicáveis os artigos 3.º, 8.º, 11.º e 14.º a 19.º
 
 2. O conselho escolar poderá, no entanto, se o entender conveniente, determinar a aplicação do disposto no n.º 1 deste artigo no ano lectivo de l972-l973.
 
-###### Art. 24.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvidas as Faculdades e a Junta Nacional da Educação.
+Art. 24.º As dúvidas suscitadas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvidas as Faculdades e a Junta Nacional da Educação.
 
 Marcello Caetano - José Veiga Simão.
 
-**Promulgado em 27 de Setembro de 1972.**
+Promulgado em 27 de Setembro de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 MAPA ANEXO
 
@@ -404,4 +416,4 @@ Direito Administrativo Especial II.
 
 Teoria do Processo II ou Direito Civil Comparado II.
 
-**O Ministro da Educação Nacional, José Veiga Simão.**
+O Ministro da Educação Nacional, José Veiga Simão.

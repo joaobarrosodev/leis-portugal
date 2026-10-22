@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/140-1973-675063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:26:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f881f637d5501f7f114c964db101d0359c6e7b3df64b27401cb7045e7aaca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e22850d3d7228d704791fc68f2e08513559d49fc456f83f8663eb7c5deadda95
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:26:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:291793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:26:40Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Nestes termos, com base nas alterações que desde a data da publicação do cit
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea e) do artigo 1.º e o n.º 3 do artigo 2.º do [Decreto n.º 6/72](https://diariodarepublica.pt/dr/detalhe/decreto/6-1972-291793), de 5 de Janeiro, tomarão a redacção seguinte:
+Artigo 1.º A alínea e) do artigo 1.º e o n.º 3 do artigo 2.º do [Decreto n.º 6/72](https://diariodarepublica.pt/dr/detalhe/decreto/6-1972-291793), de 5 de Janeiro, tomarão a redacção seguinte:
 
 ###### Artigo 1.º ...
 
@@ -107,21 +111,21 @@ e) Do ramo de investigação do mar:
 
 ...
 
-###### Art. 2.º ...
+Art. 2.º ...
 
 ...
 
 3. A Comissão Consultiva das Pescas também funciona como organismo de estudo e de consulta do contra-almirante director-geral dos Serviços de Fomento Marítimo e do presidente da Junta Nacional de Fomento das Pescas.
 
-###### Art. 2.º No mesmo diploma é incluído um novo número, na alínea g) do artigo 1.º e na alínea a) do artigo 3.º, com a seguinte redacção:
+Art. 2.º No mesmo diploma é incluído um novo número, na alínea g) do artigo 1.º e na alínea a) do artigo 3.º, com a seguinte redacção:
 
 6. Gabinete de Heráldica Naval.
 
-###### Art. 3.º No referido diploma é eliminado o n.º 4 do artigo 2.º
+Art. 3.º No referido diploma é eliminado o n.º 4 do artigo 2.º
 
-###### Art. 4.º Ao mesmo diploma é aditado um novo artigo, com a redacção seguinte:
+Art. 4.º Ao mesmo diploma é aditado um novo artigo, com a redacção seguinte:
 
-###### Art. 5.º O Ministro da Marinha poderá, por portaria, actualizar o disposto neste diploma, desde que as alterações:
+Art. 5.º O Ministro da Marinha poderá, por portaria, actualizar o disposto neste diploma, desde que as alterações:
 
 a) Resultem de disposições que venham a ser aprovadas por leis ou decretos;
 
@@ -129,8 +133,8 @@ b) Tenham por fim definir a posição das diversas entidades e organismos do Min
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.
 
-**Promulgado em 22 de Março de 1973.**
+Promulgado em 22 de Março de 1973.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

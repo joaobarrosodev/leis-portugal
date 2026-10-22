@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/03/06800/05850586.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1977-141025
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:01:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8326be9db7ef4231c33507594b12a5343fea02bff53eb3dfe0be42d23347eadb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 010c95ba6b07fde69f887ac1992c501fd5398fc923345e911022d75e05a5ae55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:01:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Integração de Trabalhadores
+- Junta de Energia Nuclear
+- Transferência Patrimonial
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:341001:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:01:22Z'
   warnings: []
   errors: []
 ---
@@ -94,26 +107,26 @@ Considerando-se conveniente que estas actividades, até agora desenvolvidas pela
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1. São transferidos para o domínio da Empresa Nacional de Urânio, nos termos do diploma que a cria, todos os bens, móveis ou imóveis, concessões, direitos e obrigações a eles inerentes que na Junta de Energia Nuclear estivessem afectos à exploração mineira do urânio.
+Artigo 1.º - 1. São transferidos para o domínio da Empresa Nacional de Urânio, nos termos do diploma que a cria, todos os bens, móveis ou imóveis, concessões, direitos e obrigações a eles inerentes que na Junta de Energia Nuclear estivessem afectos à exploração mineira do urânio.
 
 2. Nos bens referidos no número anterior não se incluem os concentrados de urânio produzidos até à data da entrada em vigor deste diploma.
 
-###### Art. 2.º É autorizada a transferência e utilização de verbas do orçamento da Junta de Energia Nuclear de 1977 a título de dotação de capital inicial da Empresa Nacional de Urânio no montante que os Ministros das Finanças e da Indústria e Tecnologia para esse efeito aprovarem.
+Art. 2.º É autorizada a transferência e utilização de verbas do orçamento da Junta de Energia Nuclear de 1977 a título de dotação de capital inicial da Empresa Nacional de Urânio no montante que os Ministros das Finanças e da Indústria e Tecnologia para esse efeito aprovarem.
 
-###### Art. 3.º O pessoal contratado além do quadro, subvencionado e assalariado prestando serviço nos distritos mineiros da Direcção-Geral dos Serviços de Prospecção e Exploração Mineira da Junta de Energia Nuclear transitará para a Empresa Nacional de Urânio sem perdas de regalias, ficando sujeito às leis gerais do contrato individual de trabalho.
+Art. 3.º O pessoal contratado além do quadro, subvencionado e assalariado prestando serviço nos distritos mineiros da Direcção-Geral dos Serviços de Prospecção e Exploração Mineira da Junta de Energia Nuclear transitará para a Empresa Nacional de Urânio sem perdas de regalias, ficando sujeito às leis gerais do contrato individual de trabalho.
 
-###### Art. 4.º - 1. Ao pessoal que transite para a Empresa Nacional de Urânio nos termos do respectivo diploma e seja subscritor da Caixa Geral de Aposentações é permitido que opte pela manutenção do regime.
+Art. 4.º - 1. Ao pessoal que transite para a Empresa Nacional de Urânio nos termos do respectivo diploma e seja subscritor da Caixa Geral de Aposentações é permitido que opte pela manutenção do regime.
 
 2. Porém, àqueles trabalhadores que optarem pelo regime da Previdência Social ser-lhes-á contado, para efeitos de antiguidade ou outros com idêntica relevância legal, todo o tempo de serviço efectivamente prestado ao Estado.
 
-###### Art. 5.º São revogados os artigos 19.º e 41.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958.
+Art. 5.º São revogados os artigos 19.º e 41.º do [Decreto-Lei n.º 41995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41995-1958-341001), de 5 de Dezembro de 1958.
 
-###### Art. 6.º O presente diploma entra em vigor na data do diploma que instituir a Empresa Nacional de Urânio.
+Art. 6.º O presente diploma entra em vigor na data do diploma que instituir a Empresa Nacional de Urânio.
 
 Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Correia - António Francisco Barroso de Sousa Gomes.
 
-**Promulgado em 10 de Março de 1977.**
+Promulgado em 10 de Março de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1971-644554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b8bcf46f4bd8648980d342b5bcd1ac9285362bd9523a3dc7b876b124b26f53e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d520313aadcb6b8fc3b9ba1dd072685f1347569c4e613587fdc4cbe25571e211
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Crédito Especial
+- Estabelecimentos Fabris do Exército
+- Manutenção Militar
+- Ministério do Exército
+- Oficinas Gerais de Fardamento e Equipamento
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:161718:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:161718:por
+  label: "Alterada a distribuição do subsídio não reembolsável referido no nº2 do art. 1º do presente diploma, pelo DEC LEI.175/75.02.04.1975.CCEMFA,\
+    \ DG.IS [77] de 02.04.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/175-1975-161718
+  date: '1975-04-02'
 article_structure:
-  article_count: 2
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:40Z'
   warnings: []
   errors: []
 ---
@@ -103,7 +115,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Ministério das Finanças a conceder um subsídio de 700000 contos ao Ministério do Exército a favor dos seus estabelecimentos fabris (Manutenção Militar e Oficinas Gerais de Fardamento e Equipamento).
+Artigo 1.º - 1. É autorizado o Ministério das Finanças a conceder um subsídio de 700000 contos ao Ministério do Exército a favor dos seus estabelecimentos fabris (Manutenção Militar e Oficinas Gerais de Fardamento e Equipamento).
 
 2. O subsídio atrás referido não vence juro e é desdobrado nas duas modalidades seguintes:
 
@@ -115,13 +127,13 @@ b) Reembolsável ... 436000
 
 ... 700000
 
-###### Art. 2.º - 1. É aberto no Ministério das Finanças a favor do Ministério do Exército um crédito especial do montante de 700000000$00, a inscrever no orçamento do segundo dos mencionados Ministérios, sob a forma seguinte:
+Art. 2.º - 1. É aberto no Ministério das Finanças a favor do Ministério do Exército um crédito especial do montante de 700000000$00, a inscrever no orçamento do segundo dos mencionados Ministérios, sob a forma seguinte:
 
 Despesa extraordinária
 
-### Capítulo 13.º «Outros investimentos»:
+Capítulo 13.º «Outros investimentos»:
 
-###### Artigo 393.º «Subsídios sem juros aos estabelecimentos fabris do Ministério do Exército, nos termos do Decreto-Lei n.º 208/71, de 17 de Maio de 1971»:
+Artigo 393.º «Subsídios sem juros aos estabelecimentos fabris do Ministério do Exército, nos termos do Decreto-Lei n.º 208/71, de 17 de Maio de 1971»:
 
 N.º 1) «Subsídio não reembolsável» ... 264000000$00
 
@@ -131,13 +143,13 @@ N.º 2) «Subsídio reembolsável» ... 436000000$00
 
 2. Para compensação dos créditos previstos no número anterior é aumentada a previsão no orçamento das receitas do Estado das seguintes rubricas:
 
-### Capítulo 9.º, artigo 285.º «Importância de parte dos saldos de contas de anos económicos findos» ... 264000000$00
+Capítulo 9.º, artigo 285.º «Importância de parte dos saldos de contas de anos económicos findos» ... 264000000$00
 
-### Capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos» ... 436000000$00
+Capítulo 9.º, artigo 287.º «Produto da venda de títulos ou de empréstimos» ... 436000000$00
 
 ... 700000000$00
 
-###### Art. 3.º - 1. Em despacho conjunto dos Ministros das Finanças e do Exército, sob proposta fundamentada do Conselho Fiscal dos Estabelecimentos Fabris do Ministério do Exército e da Direcção do Serviço de Administração do mesmo Ministério, será distribuído o subsídio de 700000 contos nas duas modalidades previstas no n.º 2 do artigo 1.º à Manutenção Militar e às Oficinas Gerais de Fardamento e Equipamento.
+Art. 3.º - 1. Em despacho conjunto dos Ministros das Finanças e do Exército, sob proposta fundamentada do Conselho Fiscal dos Estabelecimentos Fabris do Ministério do Exército e da Direcção do Serviço de Administração do mesmo Ministério, será distribuído o subsídio de 700000 contos nas duas modalidades previstas no n.º 2 do artigo 1.º à Manutenção Militar e às Oficinas Gerais de Fardamento e Equipamento.
 
 2. Da proposta e do despacho serão enviadas cópias às Direcções-Gerais da Contabilidade Pública e da Fazenda Pública.
 
@@ -149,16 +161,16 @@ Deste documento será enviada cópia à Direcção-Geral da Contabilidade Públi
 
 5. À medida das necessidades, os títulos serão processados pela Repartição de Contabilidade e Pagadoria da Direcção do Serviço de Administração do Ministério do Exército e a 5.ª Repartição da Direcção-Geral da Contabilidade Pública submetê-los-á ao visto do Secretário de Estado do Orçamento, depois de verificar o cumprimento dos n.os 2 e 4 do artigo 3.º
 
-###### Art. 4.º - 1. Enquanto as estruturas administrativas dos estabelecimentos fabris do Ministério do Exército não forem alteradas, estabelecer-se-á entre estes e a Sociedade Financeira Portuguesa um acordo de gestão financeira subordinado ao esquema que for aprovado em despacho conjunto dos Ministros das Finanças e do Exército.
+Art. 4.º - 1. Enquanto as estruturas administrativas dos estabelecimentos fabris do Ministério do Exército não forem alteradas, estabelecer-se-á entre estes e a Sociedade Financeira Portuguesa um acordo de gestão financeira subordinado ao esquema que for aprovado em despacho conjunto dos Ministros das Finanças e do Exército.
 
 2. Os subsídios concedidos pelo presente diploma poderão ser movimentados pela Sociedade Financeira Portuguesa, de conta e ordem do Estado, ao abrigo do contrato de gestão a que se refere o número anterior.
 
-###### Art. 5.º Este diploma entra imediatamente em vigor.
+Art. 5.º Este diploma entra imediatamente em vigor.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 5 de Maio de 1971.**
+Promulgado em 5 de Maio de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

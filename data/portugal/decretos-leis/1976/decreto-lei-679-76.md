@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/09/20600/20952097.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1976-408730
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acbb3faee0ca3901ecf11e91d00e1841b6896fd3f60fc1560cc6ae301c52b5b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc382e524c3984648fa83e7312b582e6e6d90bbeb8b03a67698f87513f45dfa1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Liquidatária de Responsabilidades
+- Definição de Competências
+- Força Aérea
+- Secretário
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:657447:por
   label: Última alteração registada na importação inicial
   source: null
+- type: corrected_by
+  target: pt:dre:407331:por
+  label: Rectificado pela DECL.DD8067.06.11.1976.CR, DR.IS [260] de 06.11.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-407331
+  date: '1976-11-06'
+- type: repealed_by
+  target: pt:dre:657447:por
+  label: "Revogado pelo DEC LEI.51/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-1993-657447
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:28Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +111,11 @@ Considerando, por último, as estruturas que neste sector o Exército e a Marinh
 
 Usando da faculdade conferida pela alínea a) do n.º 1 do artigo 148.º da Constituição da República, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada na Força Aérea a Comissão Liquidatária de Responsabilidades - adiante designada por CLR -, que funciona na dependência do respectivo Chefe do Estado-Maior.
+Artigo 1.º É criada na Força Aérea a Comissão Liquidatária de Responsabilidades - adiante designada por CLR -, que funciona na dependência do respectivo Chefe do Estado-Maior.
 
-###### Art. 2.º São atribuições da CLR, por delegação do Tribunal de Contas, o ajustamento e a aprovação das contas de todas as entidades responsáveis por dinheiro ou materiais do Estado na dependência da Força Aérea.
+Art. 2.º São atribuições da CLR, por delegação do Tribunal de Contas, o ajustamento e a aprovação das contas de todas as entidades responsáveis por dinheiro ou materiais do Estado na dependência da Força Aérea.
 
-###### Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete à CLR:
+Art. 3.º Na prossecução das atribuições referidas no artigo anterior, compete à CLR:
 
 a) Exigir o rigoroso cumprimento das leis da contabilidade pública e administrativas por parte de todos os responsáveis;
 
@@ -126,7 +141,7 @@ l) Comunicar à Direcção do Serviço de Intendência e Contabilidade a rectifi
 
 m) Comunicar a aprovação e devolver à Direcção do Serviço de Intendência e Contabilidade as contas mensais dos conselhos administrativos e dos encarregados de toda a administração que por aquela lhe tenham sido presentes.
 
-###### Art. 4.º - 1. A CLR tem a seguinte constituição:
+Art. 4.º - 1. A CLR tem a seguinte constituição:
 
 Presidente:
 
@@ -134,25 +149,25 @@ Um oficial general do activo ou da reserva, mediante proposta devidamente fundam
 
 Vogais:
 
-**O chefe da Repartição de Contas de Gerência da CLR;**
+O chefe da Repartição de Contas de Gerência da CLR;
 
-**O chefe da 2.ª Repartição de Verificação da Direcção do Serviço de Intendência e Contabilidade;**
+O chefe da 2.ª Repartição de Verificação da Direcção do Serviço de Intendência e Contabilidade;
 
-**O chefe da 1.ª Delegação da Direcção-Geral da Contabilidade Pública, como representante do Ministério das Finanças;**
+O chefe da 1.ª Delegação da Direcção-Geral da Contabilidade Pública, como representante do Ministério das Finanças;
 
-**O chefe da Inspecção e Administração da Direcção do Serviço de Intendência e Contabilidade;**
+O chefe da Inspecção e Administração da Direcção do Serviço de Intendência e Contabilidade;
 
 Secretário (sem voto): um dos chefes da secção da Repartição de Contas da CLR.
 
 2. Junto da Comissão haverá um representante do Tribunal de Contas, que deverá assistir a todas as sessões, elucidando a Comissão sobre as questões da sua competência tratadas nas reuniões, quer a pedido, quer por iniciativa própria.
 
-###### Art. 5.º - 1. A nomeação do presidente, dos vogais e do secretário da CLR efectuar-se-á por portaria do Chefe do Estado-Maior da Força Aérea.
+Art. 5.º - 1. A nomeação do presidente, dos vogais e do secretário da CLR efectuar-se-á por portaria do Chefe do Estado-Maior da Força Aérea.
 
 2. A CLR só pode deliberar quando estiverem presentes, pelo menos, três dos seus membros, tendo o presidente, em caso de empate, voto de qualidade.
 
 3. Das reuniões da CLR lavrar-se-á acta, donde constarão a data da sessão, os nomes dos membros presentes, os assuntos tratados e as deliberações tomadas, apensando-se a cada acta cópias, devidamente assinadas, dos pareceres aprovados em reunião.
 
-###### Art. 6.º A fim de assegurar o cabal desempenho das suas atribuições, a CLR é dotada com uma Repartição de Contas de Gerência, à qual compete, nomeadamente:
+Art. 6.º A fim de assegurar o cabal desempenho das suas atribuições, a CLR é dotada com uma Repartição de Contas de Gerência, à qual compete, nomeadamente:
 
 a) Actuar como secretaria da CLR;
 
@@ -164,16 +179,16 @@ d) Comunicar, imediatamente, à CLR quaisquer irregularidades notadas na anális
 
 e) Pedir, quando for julgado conveniente, todos os esclarecimentos precisos para o eficiente exercício do seu serviço.
 
-###### Art. 7.º A composição da Repartição de Contas de Gerência, que se encontra na directa dependência do presidente da CLR, será fixada por portaria do Chefe do Estado-Maior da Força Aérea. O pessoal colocado na Repartição de Contas de Gerência considera-se adido aos respectivos quadros.
+Art. 7.º A composição da Repartição de Contas de Gerência, que se encontra na directa dependência do presidente da CLR, será fixada por portaria do Chefe do Estado-Maior da Força Aérea. O pessoal colocado na Repartição de Contas de Gerência considera-se adido aos respectivos quadros.
 
-###### Art. 8.º No prazo de três meses, a contar da sua nomeação, a CLR elaborará, para aprovação superior, as instruções que se tornem necessárias para a boa execução deste diploma e demais regulamentação inerente ao seu funcionamento.
+Art. 8.º No prazo de três meses, a contar da sua nomeação, a CLR elaborará, para aprovação superior, as instruções que se tornem necessárias para a boa execução deste diploma e demais regulamentação inerente ao seu funcionamento.
 
-###### Art. 9.º O disposto no presente diploma é aplicável às contas de todas as unidades responsáveis por valores do Estado na dependência da Força Aérea a partir de 1 de Janeiro de 1976.
+Art. 9.º O disposto no presente diploma é aplicável às contas de todas as unidades responsáveis por valores do Estado na dependência da Força Aérea a partir de 1 de Janeiro de 1976.
 
 Visto e aprovado em Conselho da Revolução.
 
-**Promulgado em 23 de Agosto de 1976.**
+Promulgado em 23 de Agosto de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

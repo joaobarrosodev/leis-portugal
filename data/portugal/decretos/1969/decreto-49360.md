@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/11/26000/15291530.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49360-1969-215891
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:10:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3a651f3a98b21cacdc89ec17051046d8011120ff9a665c4511b1fab0f2ff9e7b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df4061c585ef4a3962628e312d329a0ecc9e45c1dd5445c22a99e100313bb9be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:10:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cooperativa Agrícola
+- Definição de Competências
+- Direcção Geral dos Serviços Agrícolas
+- Direcção Geral dos Transportes Terrestres
+- Grémios da Lavoura
+- Junta Nacional dos Produtos Pecuários
+- Leite
+- Licenciamento
+- Regime Fiscal
+- Transporte de Carga
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:250664:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:250664:por
+  label: "Revogado pelo DEC LEI.116/94.1994.05.03.MF, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1994-250664
+  date: '1994-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:10:14Z'
   warnings: []
   errors: []
 ---
@@ -104,7 +138,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os veículos de carga propriedade das entidades que integram a organização da lavoura estão sujeitos a licenciamento e regime fiscal especiais criados pelo presente diploma, quando afectos exclusivamente à actividade de recolha e concentração de leite em zonas estruturadas de acordo com as disposições do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967.
+Artigo 1.º - 1. Os veículos de carga propriedade das entidades que integram a organização da lavoura estão sujeitos a licenciamento e regime fiscal especiais criados pelo presente diploma, quando afectos exclusivamente à actividade de recolha e concentração de leite em zonas estruturadas de acordo com as disposições do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967.
 
 2. Para efeitos do presente diploma, entende-se por organização da lavoura o conjunto das federações de grémios da lavoura e cooperativas agrícolas de produtores e suas uniões ou federações.
 
@@ -112,21 +146,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Ficam igualmente abrangidos pelo mesmo regime os veículos de carga propriedade da organização da lavoura utilizados no transporte de transferência de leite das zonas excedentárias para preenchimento do abastecimento de zonas deficitárias, desde que o referido transporte se integre em planos de abastecimento em conformidade com o [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967.
 
-###### Art. 2.º - 1. Poderão beneficiar do mesmo regime fiscal os veículos de carga actualmente pertencentes a empresas industriais e comerciais que, por força do disposto no § 1.º do artigo 1.º e no artigo 11.º do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), sejam utilizados pela organização da lavoura exclusivamente no serviço de recolha e concentração de leite.
+Art. 2.º - 1. Poderão beneficiar do mesmo regime fiscal os veículos de carga actualmente pertencentes a empresas industriais e comerciais que, por força do disposto no § 1.º do artigo 1.º e no artigo 11.º do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), sejam utilizados pela organização da lavoura exclusivamente no serviço de recolha e concentração de leite.
 
 2. O benefício fiscal referido no número anterior deverá ser requerido pelas entidades a que se refere o n.º 2 do artigo 1.º à Direcção-Geral de Transportes Terrestres e apenas terá validade para um período não superior a cinco anos.
 
-###### Art. 3.º O regime fiscal referido nos artigos anteriores aplica-se apenas aos veículos neles indicados que tenham sido licenciados exclusivamente para efectuar transportes de leite em áreas circulares superiores a 50 km de raio, com centro nas localidades em que estiverem inscritos.
+Art. 3.º O regime fiscal referido nos artigos anteriores aplica-se apenas aos veículos neles indicados que tenham sido licenciados exclusivamente para efectuar transportes de leite em áreas circulares superiores a 50 km de raio, com centro nas localidades em que estiverem inscritos.
 
-###### Art. 4.º Os pedidos de licenciamento nos termos do artigo 1.º e os requerimentos a que se refere o n.º 2 do artigo 2.º devem ser acompanhados de informação da Direcção-Geral dos Serviços Agrícolas relativa à execução das disposições do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181) pelas entidades que formularem os pedidos.
+Art. 4.º Os pedidos de licenciamento nos termos do artigo 1.º e os requerimentos a que se refere o n.º 2 do artigo 2.º devem ser acompanhados de informação da Direcção-Geral dos Serviços Agrícolas relativa à execução das disposições do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181) pelas entidades que formularem os pedidos.
 
-###### Art. 5.º Os veículos de carga propriedade de cooperativas agrícolas de produtores e suas uniões ou federações, utilizados no transporte de leite para a distribuição nos centros de consumo, ficam igualmente sujeitos a licenciamento especial e beneficiam do regime fiscal criado pelo presente diploma, quando os abastecimentos a cargo das referidas entidades se integrem em planos sancionados nos precisos termos estabelecidos pelo [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181).
+Art. 5.º Os veículos de carga propriedade de cooperativas agrícolas de produtores e suas uniões ou federações, utilizados no transporte de leite para a distribuição nos centros de consumo, ficam igualmente sujeitos a licenciamento especial e beneficiam do regime fiscal criado pelo presente diploma, quando os abastecimentos a cargo das referidas entidades se integrem em planos sancionados nos precisos termos estabelecidos pelo [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181).
 
-###### Art. 6.º Os pedidos de licenciamento a que se refere o artigo anterior devem ser acompanhados de informação da Junta Nacional dos Produtos Pecuários, relativa à aprovação dos programas de abastecimento ou comercialização, justificativa de tais pedidos.
+Art. 6.º Os pedidos de licenciamento a que se refere o artigo anterior devem ser acompanhados de informação da Junta Nacional dos Produtos Pecuários, relativa à aprovação dos programas de abastecimento ou comercialização, justificativa de tais pedidos.
 
-###### Art. 7.º Os veículos de carga propriedade das cooperativas agrícolas de produtores e suas uniões ou federações, afectos às actividades de recolha, concentração e abastecimento de leite, podem ser utilizados na distribuição de lacticínios, desde que tal utilização, para evitar duplicação de percursos, se efectue com carácter complementar da distribuição de leite.
+Art. 7.º Os veículos de carga propriedade das cooperativas agrícolas de produtores e suas uniões ou federações, afectos às actividades de recolha, concentração e abastecimento de leite, podem ser utilizados na distribuição de lacticínios, desde que tal utilização, para evitar duplicação de percursos, se efectue com carácter complementar da distribuição de leite.
 
-###### Art. 8.º - 1. O imposto de circulação devido pelos veículos a que se refere o presente diploma determinar-se-á pelas fórmulas seguintes:
+Art. 8.º - 1. O imposto de circulação devido pelos veículos a que se refere o presente diploma determinar-se-á pelas fórmulas seguintes:
 
 Raio de acção de 100 km:
 
@@ -144,11 +178,11 @@ em que I representa o imposto anual a pagar e P o peso bruto do veículo express
 
 2. O valor mínimo anual de imposto de circulação será, por cada veículo, de 300$00.
 
-###### Art. 9.º Aos casos omissos no presente diploma aplicar-se-ão as disposições correspondentes do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, e do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964.
+Art. 9.º Aos casos omissos no presente diploma aplicar-se-ão as disposições correspondentes do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, e do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964.
 
-###### Art. 10.º O regime especial criado pelo presente diploma será obrigatòriamente revisto no prazo de três anos, contados a partir da data da sua entrada em vigor.
+Art. 10.º O regime especial criado pelo presente diploma será obrigatòriamente revisto no prazo de três anos, contados a partir da data da sua entrada em vigor.
 
-###### Art. 11.º O presente diploma entra em vigor:
+Art. 11.º O presente diploma entra em vigor:
 
 a) Quanto às regras do regime fiscal, em 1 de Janeiro de 1970;
 
@@ -156,8 +190,8 @@ b) Quanto às normas relativas ao especial licenciamento, em 1 de Novembro de 19
 
 Marcello Caetano - João Augusto Dias Rosas - Fernando Alberto de Oliveira.
 
-**Promulgado em 27 de Outubro de 1969.**
+Promulgado em 27 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência de República, 6 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

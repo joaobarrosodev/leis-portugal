@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/128-1971-445696
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9a02e39d54b742f4fc1f4a8a5c48b4a2297298259de001d0a28c0aa50fabb1de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 30707ee9efe558ed2f6af07578f06a273e4ac25167064572f71d92ce8ac1f45d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:16:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:16:48Z'
   warnings: []
   errors: []
 ---
@@ -91,16 +99,16 @@ Com fundamento nas disposições do artigo 33.º e sua alínea a) do [Decreto n.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 25000000$00, devendo a mesma importância constituir a rubrica «Empréstimo por contrato de 17 de Março de 1970», da alínea 2 «Contraída ao abrigo de outros acordos» do n.º 4) «Dívida externa a cargo do Tesouro» do artigo 36.º «Juros», capítulo 5.º «Encargos da dívida pública», do orçamento respeitante ao corrente ano económico do mencionado Ministério.
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial da quantia de 25000000$00, devendo a mesma importância constituir a rubrica «Empréstimo por contrato de 17 de Março de 1970», da alínea 2 «Contraída ao abrigo de outros acordos» do n.º 4) «Dívida externa a cargo do Tesouro» do artigo 36.º «Juros», capítulo 5.º «Encargos da dívida pública», do orçamento respeitante ao corrente ano económico do mencionado Ministério.
 
-###### Art. 2.º É anulada igual importância no artigo 47.º «Encargos de empréstimos a realizar», capítulo 5.º, do vigente orçamento do Ministério das Finanças.
+Art. 2.º É anulada igual importância no artigo 47.º «Encargos de empréstimos a realizar», capítulo 5.º, do vigente orçamento do Ministério das Finanças.
 
 Este crédito foi registado na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 24 de Março de 1971.**
+Promulgado em 24 de Março de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

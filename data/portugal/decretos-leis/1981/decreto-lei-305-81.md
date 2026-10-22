@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26100/29983004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,113 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c0ddf6cd9b7928061575d52e795b9502ec139e5b5b3ff049776b0a91fedc515
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 89be0af62205579fcce5ed9cb60507e8a2da3d7fde55719f63bae3c98686a4c2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Enfermagem
+- Pessoal de Enfermagem
+- Reestruturação de Carreiras
 relationships:
 - type: amended_by
   target: pt:dre:257601:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: INTRODUZIDAS NOVAS COMPETENCIAS AS REFERIDAS NO NUM 4 DO ART 6, PELA PORT 384/82 DE 16-ABR DR.IS [88]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1982-04-16'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "EXTINTO O CURSO DE ENFERMAGEM COMPLEMENTAR A QUE SE REFERE O DEC LEI 38884 DE 28-AGO 1952 E SUBSTITUÍDO O MESMO\
+    \ PELOS CURSOS MENCIONADOS NO ART 14 DO PRESENTE DIPLOMA, PELO DEC LEI 265/83 DE 16-JUN DR.IS [136]\06]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1983-06-16'
+- type: amended_by
+  target: pt:dre:453218:por
+  label: "Alterados os artigos 7.º, 10.º, 13.º, 16.º, 18.º e 19.º, pelo DEC LEI.324/83.06.07.1983.MFP, DR.IS [153] de 06.07.1983\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/324-1983-453218
+  date: '1983-07-06'
+- type: amended_by
+  target: pt:dre:328437:por
+  label: "Estabelecida a extens&#227;o ao LNEC das disposi&#231;&#245;es constantes do presente diploma pela PORT.49/85.1985.01.24.PCM,\
+    \ DR. IS [20] de 24/Jan/1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/49-1985-328437
+  date: '1985-01-24'
+- type: cites
+  target: pt:dre:154456:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:160280:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446114:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632740:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674003:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:567963:por
+  label: Rectificado pela DECL.DD6271.13.11.1981.PCM, DR.IS [271] de 24.11.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-567963
+  date: '1981-11-13'
+- type: repealed_by
+  target: pt:dre:151547:por
+  label: "Revogado pelo DEC LEI.178/85.23.05.1985.MS, DR.IS [118] de 23.05.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1985-151547
+  date: '1985-05-23'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:23Z'
   warnings: []
   errors: []
 ---
@@ -468,14 +541,14 @@ O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 4 de Novembro de 1981.**
+Promulgado em 4 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Tabela anexa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/11/26100/29983004.pdf))](https://files.diariodarepublica.pt/1s/1981/11/26100/29983004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/11/26100/29983004.pdf)
 
 Ao cargo de enfermeiro-director cabe o vencimento correspondente à letra D.

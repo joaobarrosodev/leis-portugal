@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1978-299063
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-08-23T00:00:00Z'
+  retrieved_at: '2026-10-22T23:13:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d9b99010e6498ee7ff913020fed19ea90e199fd0dea5bada71bc8dc249e557a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2699b68b1fc2a0c4caf7cff236bc2f2787b0df921e6c4c8fd278a8e994dd25b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:13:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Leite
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:13:07Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +100,26 @@ Ouvido o Governo Regional da Região Autónoma dos Açores:
 
 O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
 
-###### Artigo 1.º - 1 - É cedido à Região Autónoma dos Açores o direito à exploração do estabelecimento da central UHT sita em Ponta Delgada, integrado de todos os elementos que o constituem.
+Artigo 1.º - 1 - É cedido à Região Autónoma dos Açores o direito à exploração do estabelecimento da central UHT sita em Ponta Delgada, integrado de todos os elementos que o constituem.
 
 2 - A cessão prevista no n.º 1 efectiva-se por força do presente diploma, sem dependência de quaisquer formalidades.
 
-###### Art. 2.º A Região Autónoma dos Açores suportará todos os encargos inerentes à exploração do estabelecimento referido no artigo anterior, nomeadamente os correspondentes aos direitos e regalias do respectivo pessoal, enquanto este se mantiver no quadro da Junta Nacional dos Produtos Pecuários, bem como arrecadará as correspondentes receitas.
+Art. 2.º A Região Autónoma dos Açores suportará todos os encargos inerentes à exploração do estabelecimento referido no artigo anterior, nomeadamente os correspondentes aos direitos e regalias do respectivo pessoal, enquanto este se mantiver no quadro da Junta Nacional dos Produtos Pecuários, bem como arrecadará as correspondentes receitas.
 
-###### Art. 3.º O pessoal referido no artigo anterior será oportunamente integrado no correspondente quadro regional, sem perda de direitos e regalias, nos termos que vierem a ser legalmente estabelecidos.
+Art. 3.º O pessoal referido no artigo anterior será oportunamente integrado no correspondente quadro regional, sem perda de direitos e regalias, nos termos que vierem a ser legalmente estabelecidos.
 
-###### Art. 4.º - 1 - A cessão de exploração prevista no artigo 1.º vigorará até à efectiva transferência do próprio estabelecimento para a titularidade da Região Autónoma dos Açores, em termos a definir por lei, a qual deverá ocorrer dentro do prazo de três anos, a contar da entrada em vigor do presente diploma, sob pena de caducidade do direito agora transmitido.
+Art. 4.º - 1 - A cessão de exploração prevista no artigo 1.º vigorará até à efectiva transferência do próprio estabelecimento para a titularidade da Região Autónoma dos Açores, em termos a definir por lei, a qual deverá ocorrer dentro do prazo de três anos, a contar da entrada em vigor do presente diploma, sob pena de caducidade do direito agora transmitido.
 
 2 - O Governo da República vincula-se, no entanto, e desde já, a aceitar o pagamento do preço do equipamento pelo seu valor de aquisição inicial, e em forma prestacional a estabelecer, quanto ao prazo e ao número de prestações, em estudo económico-financeiro a efectuar pela Junta Nacional dos Produtos Pecuários em colaboração com a Secretaria Regional do Comércio e Indústria, por forma que salvaguarde a viabilidade económica da exploração.
 
-###### Art. 5.º As dúvidas que surgirem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
+Art. 5.º As dúvidas que surgirem na interpretação e aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas, ouvido o Governo Regional.
 
-###### Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 6.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Luís Silvério Gonçalves Saias.
 
-**Promulgado em 10 de Agosto de 1978.**
+Promulgado em 10 de Agosto de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

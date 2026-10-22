@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 233/1976, 1º Suplemento, Série I de 1976-10-04
   number: '233'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2254-(1) a 2254-(2)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/10/23301/00010002.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/709-a-1976-226996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1b830bca91ffe6fcc71917d7a6466af818938c7dcfb431b38335ed4402b41751
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a5e1de2510153bd495cc61726cdb2c4049ab51f6e70837898889ec93941481d7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ordem da Liberdade
 relationships:
 - type: amended_by
   target: pt:dre:324295:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:492470:por
+  label: "Prorrogado por quatro meses o prazo previsto no art. 5º pelo DEC LEI.15/77.12.01.1977.PCM, DR.IS [9] de 12.01.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/15-1977-492470
+  date: '1977-01-12'
+- type: cites
+  target: pt:dre:155469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681047:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:324295:por
+  label: "Revogado pelo DEC LEI.132/85.1985.04.30.PCM, DR.IS [99]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1985-324295
+  date: '1985-04-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:57:50Z'
   warnings: []
   errors: []
 ---
@@ -101,17 +121,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a ordem nacional denominada «Ordem da Liberdade», destinada a distinguir e galardoar serviços relevantes prestados à causa da democracia e da liberdade.
+Artigo 1.º É criada a ordem nacional denominada «Ordem da Liberdade», destinada a distinguir e galardoar serviços relevantes prestados à causa da democracia e da liberdade.
 
-###### Art. 2.º A Ordem da Liberdade rege-se, na parte aplicável, e não especialmente prevista neste diploma, pela Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 44721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44721-1962-155469), de 24 de Novembro de 1962, pelo respectivo regulamento aprovado pelo [Decreto n.º 45498](https://diariodarepublica.pt/dr/detalhe/decreto/45498-1963-681047), de 31 de Dezembro de 1963, e legislação complementar subsequente.
+Art. 2.º A Ordem da Liberdade rege-se, na parte aplicável, e não especialmente prevista neste diploma, pela Lei Orgânica das Ordens Honoríficas Portuguesas, aprovada pelo [Decreto-Lei n.º 44721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44721-1962-155469), de 24 de Novembro de 1962, pelo respectivo regulamento aprovado pelo [Decreto n.º 45498](https://diariodarepublica.pt/dr/detalhe/decreto/45498-1963-681047), de 31 de Dezembro de 1963, e legislação complementar subsequente.
 
-###### Art. 3.º - 1. A Ordem terá os seguintes graus: grã-cruz, grande-oficial, comendador, oficial e cavaleiro.
+Art. 3.º - 1. A Ordem terá os seguintes graus: grã-cruz, grande-oficial, comendador, oficial e cavaleiro.
 
 2. Além dos graus especificados no número antecedente, haverá um grande colar exclusivamente destinado a Chefes de Estado.
 
 3. Haverá ainda uma medalha de ouro e outra de prata para galardoar, sem limite numérico, serviços que não possam ser galardoados com qualquer dos graus mencionados nos números antecedentes.
 
-###### Art. 4.º O quadro da Ordem compreenderá:
+Art. 4.º O quadro da Ordem compreenderá:
 
 Grã-cruzes ... 50
 
@@ -121,16 +141,16 @@ Comendadores ... 300
 
 Oficiais ... 400
 
-###### Art. 5.º Os modelos do distintivo e das insígnias da Ordem serão definidos em regulamento aprovado por decreto, a publicar dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, sem prejuízo de o Presidente da República poder conceder desde já, por sua iniciativa ou sob proposta do Conselho de Ministros ou do Primeiro-Ministro, qualquer dos graus da Ordem da Liberdade, ultimando-se, oportunamente, o respectivo processo de agraciamento.
+Art. 5.º Os modelos do distintivo e das insígnias da Ordem serão definidos em regulamento aprovado por decreto, a publicar dentro do prazo de sessenta dias, a contar da entrada em vigor do presente diploma, sem prejuízo de o Presidente da República poder conceder desde já, por sua iniciativa ou sob proposta do Conselho de Ministros ou do Primeiro-Ministro, qualquer dos graus da Ordem da Liberdade, ultimando-se, oportunamente, o respectivo processo de agraciamento.
 
-###### Art. 6.º A Ordem da Liberdade deve figurar em primeiro lugar no grupo das ordens nacionais.
+Art. 6.º A Ordem da Liberdade deve figurar em primeiro lugar no grupo das ordens nacionais.
 
-###### Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 7.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares.
 
-**Promulgado em 4 de Outubro de 1976.**
+Promulgado em 4 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -46,36 +46,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47863-1967-315095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e80e4275b83d8cf2587e598d7674549593d8d4000fcda78d6db0b295fbccaa60
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eba3072f061b4790a32e4c2a23945c28d61cb1a88ea992aee6c99a70ed0dd911
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Brasil
+- Convenção
+- Cooperação Cultural
+- Política de Cooperação
+- Portugal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:07Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +89,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovado, para ratificação, o Acordo Cultural entre Portugal e o Brasil, assinado em Lisboa em 7 de Setembro de 1966, cujo texto vai anexo ao presente decreto-lei.
+Artigo único. É aprovado, para ratificação, o Acordo Cultural entre Portugal e o Brasil, assinado em Lisboa em 7 de Setembro de 1966, cujo texto vai anexo ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -104,17 +109,17 @@ Interessados na integração cada vez maior dos povos da língua portuguesa e na
 
 resolveram celebrar um acordo cultural e, para esse fim, nomearam seus plenipotenciários, a saber:
 
-**O Presidente da República de Portugal, o Sr. Alberto Franco Nogueira, Ministro dos Negócios Estrangeiros;**
+O Presidente da República de Portugal, o Sr. Alberto Franco Nogueira, Ministro dos Negócios Estrangeiros;
 
-**O Presidente da República dos Estados Unidos do Brasil, o Sr. Juracy Magalhães, Ministro de Estado das Relações Exteriores;**
+O Presidente da República dos Estados Unidos do Brasil, o Sr. Juracy Magalhães, Ministro de Estado das Relações Exteriores;
 
 os quais, após haverem trocado os seus plenos poderes, achados em boa e devida forma, acordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Cada Parte Contratante compromete-se a apoiar a obra que no respectivo território realizem as instituições consagradas ao estudo, à investigação ou pesquisa e á difusão da cultura da outra Parte Contratante, promovendo, com esse fim, o intercâmbio de pessoas, troca de informações e permuta de material.
 
-ARTIGO II
+###### ARTIGO II
 
 Cada Parte Contratante esforçar-se-á por promover no território da outra o conhecimento do seu património cultural, por meio de livros, periódicos e outras publicações, conferências, concertos, exposições, exibições cinematográficas e teatrais e manifestações artísticas semelhantes, actividades desportivas, programas radiofónicos e de televisão e demais meios apropriados.
 
@@ -122,7 +127,7 @@ Cada Parte Contratante esforçar-se-á por promover no território da outra o co
 
 3. A todo o material que fizer parte das referidas manifestações será concedida, para efeito de desembaraço alfandegário, isenção de direitos e demais taxas portuárias.
 
-ARTIGO III
+###### ARTIGO III
 
 Cada Parte Contratante promoverá, através de instituições públicas ou privadas, especialmente institutos científicos, sociedades de escritores e artistas, câmaras e institutos de livros, o envio regular de suas publicações com destino às bibliotecas a que se refere o artigo X, parágrafo segundo.
 
@@ -132,7 +137,7 @@ Cada Parte Contratante promoverá, através de instituições públicas ou priva
 
 4. As Partes Contratantes organizarão, através de seus serviços competentes, a distribuição coordenada das reedições de obras clássicas e das edições de obras originais feitas em seu território, em número suficiente para a divulgação regular da respectiva cultura entre instituições e pessoas interessadas da outra Parte.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Cada Parte Contratante, com o objectivo de desenvolver o intercâmbio entre os dois países no domínio da cinematografia, estimulará e favorecerá a co-produção de filmes nos termos do presente Acordo.
 
@@ -144,17 +149,17 @@ Cada Parte Contratante, com o objectivo de desenvolver o intercâmbio entre os d
 
 5. Os projectos de co-produção cinematográfica deverão ser submetidos à aprovação das autoridades competentes de ambos as Partes Contratantes, pelo menos 90 dias antes da data prevista para o início da filmagem. As mesmas autoridades, uma vez aprovados os projectos, fiscalizarão o cumprimento das suas disposições, examinarão e resolverão as dificuldades que se apresentem na aplicação das disposições sobre co-produção cinematográfica deste Acordo, fixando as regras de procedimento a que atenderão os co-produtores luso-brasileiros.
 
-ARTIGO V
+###### ARTIGO V
 
 Cada Parte Contratante protegerá em seu território os direitos de propriedade artística, intelectual e científica, originária da outra Parte, de harmonia com as convenções internacionais a que tenha aderido ou venha a aderir no futuro.
 
 2. Igualmente estudará a melhor forma para conceder aos autores da outra Parte o mesmo tratamento que o outorgado aos autores nacionais para o recebimento de seus direitos.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Cada Parte Contratante favorecerá e estimulará a cooperação entre as respectivas Universidades, instituições de ensino superior, museus, bibliotecas, instituições científicas e tecnológicas e demais entidades culturais.
 
-ARTIGO VII
+###### ARTIGO VII
 
 Com o fim de promover a realização de conferências, estágios, cursos, investigações ou pesquisas no território da outra Parte, cada Parte Contratante favorecerá e estimulará o intercâmbio de professores, artistas, cientistas, investigadores ou pesquisadores, técnicos e demais representantes de outras actividades culturais.
 
@@ -162,33 +167,33 @@ Com o fim de promover a realização de conferências, estágios, cursos, invest
 
 3. As Partes Contratantes procurarão fomentar as viagens de estudo de universitários da outra Parte ao seu território, quando devidamente credenciados pelo Ministério dos Negócios Estrangeiros de Portugal e pelo Ministério das Relações Exteriores do Brasil, assegurando-lhes todas as facilidades ao seu alcance.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 Cada Parte Contratante promoverá a criação, nas respectivas Universidades, de cátedras dedicadas ao estudo da história, literatura e demais aspectos culturais da Parte co-signatária.
 
 2. As Partes Contratantes procurarão coordenar as actividades dos leitorados de Portugal e do Brasil nos outros países.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As Partes Contratantes, proclamando a identificação do seu interesse comum na tarefa de fomentar a difusão da língua portuguesa e da cultura luso-brasileira, promoverão a criação de centros conjuntos para divulgação internacional da língua e da cultura de ambos os países e estimularão as iniciativas privadas no mesmo sentido.
 
-ARTIGO X
+###### ARTIGO X
 
 Cada Parte Contratante favorecerá a criação e a manutenção, em seu território, de centros e institutos para o estudo e a difusão da cultura da outra Parte.
 
 2. Os centros e institutos acima referidos compreenderão bibliotecas, núcleos de bibliografia e documentação, discotecas, cinematecas e outros serviços destinados à divulgação da cultura literária, artística e científica da Parte interessada e que estarão franqueados à consulta pública.
 
-ARTIGO XI
+###### ARTIGO XI
 
 Cada Parte Contratante promoverá a inclusão nos seus programas nacionais, nos vários graus e ramos de ensino, do estudo da literatura, da história, da geografia e dos demais aspectos culturais da outra Parte.
 
 2. Cada Parte Contratante empenhar-se-á no sentido de que os seus livros didácticos não contenham informações erróneas sobre a vida e os valores culturais da outra Parte.
 
-ARTIGO XII
+###### ARTIGO XII
 
 Cada Parte Contratante concederá anualmente bolsas de estudo a nacionais da outra Parte possuidores de diploma universitário, profissionais liberais, técnicos, cientistas, investigadores ou pesquisadores e artistas, a fim de aperfeiçoarem seus conhecimentos ou realizarem investigações ou pesquisas no campo de suas especialidades. As bolsas de estudo deverão ser usadas em território e instituições nacionais de cada Parte Contratante.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 Cada Parte Contratante concederá equivalência de estudos aos nacionais de qualquer dos dois países que tenham tido aproveitamento escolar em estabelecimentos de ensino da outra Parte, para o efeito de serem transferidos para os seus próprios estabelecimentos de ensino do mesmo grau ou admitidos nos de grau subsequente.
 
@@ -204,15 +209,15 @@ Cada Parte Contratante concederá equivalência de estudos aos nacionais de qual
 
 7. Para que os princípios do presente artigo possam receber nos dois países idêntica aplicação, as soluções que cada um adoptar serão imediatamente levadas ao conhecimento da comissão prevista no artigo XVI, a fim de que esta estude e promova a sua uniformização.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 Cada Parte Contratante reconhecerá, para efeito de exercício de profissão em seu território, os diplomas e títulos profissionais idóneos expedidos por institutos de ensino da outra Parte e desde que devidamente legalizados e emitidos em favor de nacionais de uma ou de outra Parte, favorecendo, em caso de inexistência ou diferença de curso, as necessárias adaptações para o mais próximo.
 
-ARTIGO XV
+###### ARTIGO XV
 
 Cada Parte Contratante reconhecerá a validade, para efeito de matrícula em curso de aperfeiçoamento e de especialização, dos diplomas e títulos profissionais idóneos expedidos por estabelecimentos de ensino congéneres da outra Parte, desde que os referidos documentos estejam devidamente legalizados e seus portadores sejam nacionais de uma ou de outra Parte.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 Para zelar pela aplicação do presente Acordo, será criada uma comissão mista, constituída por três representantes de cada Parte Contratante, a qual se reunirá quando necessário e alternadamente na capital dos respectivos países.
 
@@ -220,11 +225,11 @@ Para zelar pela aplicação do presente Acordo, será criada uma comissão mista
 
 3. Caberá à referida comissão estudar e propor as medidas adequadas à boa execução do presente Acordo.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 O presente Acordo substituirá, a partir da data da sua entrada em vigor, o Acordo de Cooperação Intelectual entre Portugal e o Brasil, assinado em Lisboa a 6 de Dezembro de 1948.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 O presente Acordo entrará em vigor 30 dias depois da troca dos instrumentos de ratificação, a efectuar-se na cidade de Brasília, e a sua vigência durará até seis meses após a data em que for denunciado por uma das Partes Contratantes.
 

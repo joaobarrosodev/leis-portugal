@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1979-381980
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-07-22T00:00:00Z'
+  retrieved_at: '2026-10-22T23:19:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e84a5e1c6d6fa31eccd2c36cf2a2bc7f1f88bafce6757c65ce81c4aeba787ee6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6e25c54950b80ec8b14e5567cf2ac6af4afedfd2245b7266da0437eda7e914cc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:19:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código de Justiça Militar
+- Forças Armadas
+- Justiça Militar
+- Militar
+- Regulamento
+- Regulamento de Disciplina Militar
 relationships:
 - type: amended_by
   target: pt:dre:493238:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:364904:por
+  label: "Alterada a al. a) do n.º 1 do art. 368.º na redacção dada pelo presente diploma, do Código de Justiça Militar, aprovado\
+    \ pelo Decreto-Lei n.º 141/77, de 9 de Abril, pelo DEC LEI.415/79.13.10.1979.CR, DR.IS [237] de 13.10.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/415-1979-364904
+  date: '1979-10-13'
+- type: repealed_by
+  target: pt:dre:446475:por
+  label: Revogado, a partir de 14 de Setembro de 2004, o Código de Justiça Militar, aprovado pelo Decreto-Lei n.º 141/77,
+    de 9 de abril, na redação do presente diploma, pela Lei n.º 100/2003, de 15 de novembro, Diário da República n.º 265/2003,
+    Série I-A de 2003-11-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/100-2003-446475
+  date: '2003-11-15'
+- type: repealed_by
+  target: pt:dre:493238:por
+  label: "Revogado, a partir de 21.08.2009, sem prejuízo do previsto no n.º 2 do art. 2.º, o Regulamento de Disciplina Militar,\
+    \ aprovado pelo Dec Lei 142/77, de 09-Abr, na redacção do presente diploma, pela LEI ORG.2/2009.22.07.2009.AR, DR.IS [140]\
+    \ de 22.07.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei-organica/2-2009-493238
+  date: '2009-07-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:19:15Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +122,9 @@ Mostram-se, assim, tais diplomas frequentemente omissos no que respeita a outros
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 323.º, 361.º, 362.º, 368.º, 380.º, 382.º e 383.º do Código de Justiça Militar passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 323.º, 361.º, 362.º, 368.º, 380.º, 382.º e 383.º do Código de Justiça Militar passam a ter a seguinte redacção:
 
-###### Art. 323.º - 1 - Para a instrução dos processos não há férias, sendo válidos os actos praticados em domingos ou dias feriados, quando as conveniências de serviço o exigirem.
+Art. 323.º - 1 - Para a instrução dos processos não há férias, sendo válidos os actos praticados em domingos ou dias feriados, quando as conveniências de serviço o exigirem.
 
 2 - Após a dedução do libelo, será observado o disposto no número anterior apenas nos processos em que haja réu preso e nos definidos pela lei como urgentes, sem prejuízo da validade dos actos praticados durante as férias, domingos e feriados.
 
@@ -108,13 +134,13 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 ...
 
-###### Art. 361.º - 1 - ...
+Art. 361.º - 1 - ...
 
 2 - O despacho a que se refere o número anterior deverá ser proferido no prazo de cinco dias se o arguido estiver em regime de prisão preventiva e nos restantes casos no prazo de quinze dias prorrogável por igual período de tempo, por motivo devidamente justificado.
 
 3 - O processo deverá ser expedido à entidade competente nos dois dias úteis seguintes.
 
-###### Art. 362.º - 1 - Se a entidade que receber o processo discordar da exposição do juiz de instrução, lançará nos autos, nos prazos referidos no n.º 2 do artigo anterior, despacho fundamentado justificando a discordância e, conforme entender, ordenará:
+Art. 362.º - 1 - Se a entidade que receber o processo discordar da exposição do juiz de instrução, lançará nos autos, nos prazos referidos no n.º 2 do artigo anterior, despacho fundamentado justificando a discordância e, conforme entender, ordenará:
 
 a) A subida dos autos ao Supremo Tribunal Militar;
 
@@ -132,7 +158,7 @@ b) A devolução dos autos ao juiz de instrução.
 
 ...
 
-###### Art. 368.º - 1 - A prisão preventiva não poderá exceder os seguintes prazos:
+Art. 368.º - 1 - A prisão preventiva não poderá exceder os seguintes prazos:
 
 a) Da captura até à abertura de vistas, quarenta dias, se à infracção couber pena superior à de presídio militar de seis meses a dois anos, e cento e vinte dias nos restantes casos;
 
@@ -150,63 +176,63 @@ b) Na hipótese da alínea b) do n.º 1, por três períodos únicos e sucessivo
 
 ...
 
-###### Art. 380.º - 1 - ...
+Art. 380.º - 1 - ...
 
 2 - A nota de culpa a que se refere o número anterior será entregue ao réu no prazo máximo de trinta dias, acrescido da dilação mínima para as ilhas adjacentes e para Macau.
 
-###### Art. 382.º Entregue ao réu a nota de culpa, o defensor será intimado para tomar conhecimento do processo, para o que este estará patente na secretaria durante cinco dias.
+Art. 382.º Entregue ao réu a nota de culpa, o defensor será intimado para tomar conhecimento do processo, para o que este estará patente na secretaria durante cinco dias.
 
-###### Art. 383.º Quando o réu, antes de designado o dia para o julgamento, escolher defensor, o processo estará patente na secretaria por novo prazo de cinco dias.
+Art. 383.º Quando o réu, antes de designado o dia para o julgamento, escolher defensor, o processo estará patente na secretaria por novo prazo de cinco dias.
 
-###### Art. 2.º Os artigos 92.º, 94.º, 104.º, 116.º, 119.º, 120.º, 125.º, 126.º, 128.º, 140.º, 144.º e 149.º do Regulamento de Disciplina Militar passam a ter a seguinte redacção:
+Art. 2.º Os artigos 92.º, 94.º, 104.º, 116.º, 119.º, 120.º, 125.º, 126.º, 128.º, 140.º, 144.º e 149.º do Regulamento de Disciplina Militar passam a ter a seguinte redacção:
 
-###### Art. 92.º - 1 - ...
+Art. 92.º - 1 - ...
 
 2 - Quando circunstâncias excepcionais não permitam concluir o processo no prazo determinado, o instrutor, findo ele, fará o auto presente ao chefe que o nomeou, com parecer justificativo da demora, podendo este prorrogar o referido prazo por dois períodos únicos e sucessivos não superiores a quinze dias.
 
 ...
 
-###### Art. 94.º - 1 - Se entender que a instrução do processo está completa, o chefe proferirá a sua decisão, dentro do prazo máximo de quinze dias, mediante despacho escrito e fundamentado.
+Art. 94.º - 1 - Se entender que a instrução do processo está completa, o chefe proferirá a sua decisão, dentro do prazo máximo de quinze dias, mediante despacho escrito e fundamentado.
 
 2 - ...
 
 ...
 
-###### Art. 104.º O prazo para a instrução dos processos de inquérito e sindicância será o prescrito no despacho que os ordenou, podendo no entanto o mesmo ser prorrogado sempre que as circunstâncias concretas assim o aconselhem.
+Art. 104.º O prazo para a instrução dos processos de inquérito e sindicância será o prescrito no despacho que os ordenou, podendo no entanto o mesmo ser prorrogado sempre que as circunstâncias concretas assim o aconselhem.
 
 ...
 
-###### Art. 116.º A autoridade recorrida, após receber o recurso, enviá-lo-á, dentro do prazo máximo de cinco dias, ao chefe imediato, acompanhado de todo o processo e de uma informação onde exporá as razões do indeferimento da reclamação.
+Art. 116.º A autoridade recorrida, após receber o recurso, enviá-lo-á, dentro do prazo máximo de cinco dias, ao chefe imediato, acompanhado de todo o processo e de uma informação onde exporá as razões do indeferimento da reclamação.
 
 ...
 
-###### Art. 119.º - 1 - ...
+Art. 119.º - 1 - ...
 
 2 - A decisão proferida nos termos do número anterior é definitiva e será emitida no prazo máximo de sessenta dias, a contar da data em que o recurso lhe for presente.
 
-###### Art. 120.º - 1 - Das decisões definitivas e executórias dos Chefes dos Estados-Maiores proferidas em matéria disciplinar cabe recurso contencioso para o Supremo Tribunal Militar, com fundamento em ilegalidade.
+Art. 120.º - 1 - Das decisões definitivas e executórias dos Chefes dos Estados-Maiores proferidas em matéria disciplinar cabe recurso contencioso para o Supremo Tribunal Militar, com fundamento em ilegalidade.
 
 2 - O recurso a que se refere o número anterior é de anulação.
 
 ...
 
-###### Art. 125.º - 1 - Os serviços onde a petição foi apresentada enviá-la-ão imediatamente, pelas vias competentes, à entidade recorrida, que poderá, querendo, responder o que tiver por conveniente, no prazo de trinta dias.
+Art. 125.º - 1 - Os serviços onde a petição foi apresentada enviá-la-ão imediatamente, pelas vias competentes, à entidade recorrida, que poderá, querendo, responder o que tiver por conveniente, no prazo de trinta dias.
 
 2 - A petição, depois de se lhe apensar o processo disciplinar e a resposta a que se refere o número anterior ou decorrido o prazo para esta, será imediatamente remetida ao Supremo Tribunal Militar, dentro do prazo a que se refere o mesmo número.
 
-###### Art. 126.º - 1 - O julgamento no Supremo Tribunal Militar obedecerá às normas de processo prescritas no Código de Justiça Militar, com exclusão da parte respeitante à discussão da causa em sessão.
+Art. 126.º - 1 - O julgamento no Supremo Tribunal Militar obedecerá às normas de processo prescritas no Código de Justiça Militar, com exclusão da parte respeitante à discussão da causa em sessão.
 
 2 - A decisão do tribunal será proferida no prazo de noventa dias, a contar da data da recepção da petição.
 
 ...
 
-###### Art. 128.º - 1 - Decidido o recurso, o processo baixará à entidade recorrida, para, no prazo de dez dias, dar cumprimento à decisão do tribunal, nos seus precisos termos.
+Art. 128.º - 1 - Decidido o recurso, o processo baixará à entidade recorrida, para, no prazo de dez dias, dar cumprimento à decisão do tribunal, nos seus precisos termos.
 
 2 - ...
 
 ...
 
-###### Art. 140.º - 1 - ...
+Art. 140.º - 1 - ...
 
 2 - As diligências instrutórias determinadas pelo relator, por sua iniciativa ou a requerimento do promotor ou da defesa, serão feitas no prazo de sessenta dias, salvo prorrogação por deliberação do conselho por igual período, quando circunstâncias excepcionais a tal obrigarem.
 
@@ -216,11 +242,11 @@ b) Na hipótese da alínea b) do n.º 1, por três períodos únicos e sucessivo
 
 ...
 
-###### Art. 144.º A deliberação do conselho será enviada, no prazo de cinco dias, ao respectivo Chefe do Estado-Maior, para efeitos de decisão, que deverá ser tomada no prazo de trinta dias.
+Art. 144.º A deliberação do conselho será enviada, no prazo de cinco dias, ao respectivo Chefe do Estado-Maior, para efeitos de decisão, que deverá ser tomada no prazo de trinta dias.
 
 ...
 
-###### Art. 149.º - 1 - No prazo máximo de noventa dias, os conselhos superiores de disciplina concluirão pela procedência ou improcedência do pedido de revisão.
+Art. 149.º - 1 - No prazo máximo de noventa dias, os conselhos superiores de disciplina concluirão pela procedência ou improcedência do pedido de revisão.
 
 2 - ...
 
@@ -228,18 +254,18 @@ b) Na hipótese da alínea b) do n.º 1, por três períodos únicos e sucessivo
 
 4 - A homologação ou denegação das conclusões do conselho será dada no prazo de quinze dias.
 
-###### Art. 3.º - 1 - Os Chefes de Estado-Maior poderão ordenar a suspensão das actividades dos conselhos superiores de disciplina durante os meses de Agosto e Setembro, por motivo de férias dos elementos que os compõem.
+Art. 3.º - 1 - Os Chefes de Estado-Maior poderão ordenar a suspensão das actividades dos conselhos superiores de disciplina durante os meses de Agosto e Setembro, por motivo de férias dos elementos que os compõem.
 
 2 - Durante o referido período interromper-se-ão os prazos relativos ao funcionamento dos conselhos superiores de disciplina.
 
-###### Art. 4.º É revogado o artigo 370.º do Código de Justiça Militar
+Art. 4.º É revogado o artigo 370.º do Código de Justiça Militar
 
-###### Art. 5.º Os prazos referidos nos artigos 1.º e 2.º contar-se-ão da data de entrada em vigor do presente diploma, neles não se incluindo os prazos já decorridos anteriormente.
+Art. 5.º Os prazos referidos nos artigos 1.º e 2.º contar-se-ão da data de entrada em vigor do presente diploma, neles não se incluindo os prazos já decorridos anteriormente.
 
 Visto e aprovado em Conselho da Revolução em 15 de Junho de 1979.
 
-**Promulgado em 15 de Junho de 1979.**
+Promulgado em 15 de Junho de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

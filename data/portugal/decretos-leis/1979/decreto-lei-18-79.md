@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/02/03400/02160216.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1979-393223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:18:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 13d7043f8952c1d82c45f37d85c252f00aee1eee456747b45f73986bd407591b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f872580f60bcb2840d592636abf079af23df0d175f3923c950bff6f38f7465b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:18:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contribuições e Impostos
+- Pagamento
+- Pagamento a Prestações
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:184478:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:235955:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446956:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470846:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:18:25Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +119,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único - 1 - Nos casos de liquidação, fora dos prazos normais, das contribuições industrial e predial, do imposto profissional, do imposto de capitais (secção A) e do imposto criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido nos anos de 1974 e 1975 pelo artigo 14.º, respectivamente, da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro, e do [Decreto-Lei n.º 809/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/809-1974-235955), de 31 de Dezembro, respeitantes a rendimentos dos anos anteriores ao de 1978, cuja notificação de pagamento, nos termos da legislação em vigor, tenha lugar no ano de 1979, deverão, tratando-se de cobrança virtual por falta de pagamento eventual no prazo notificado e no caso de o imposto ser de importância igual ou superior a 4000$00, os respectivos conhecimentos ser processados para pagamento até quatro prestações trimestrais, conforme o montante da dívida, vencendo-se a primeira no mês imediato ao do débito ao tesoureiro e cada uma das restantes no terceiro mês seguinte ao do vencimento da imediatamente anterior.
+Artigo único - 1 - Nos casos de liquidação, fora dos prazos normais, das contribuições industrial e predial, do imposto profissional, do imposto de capitais (secção A) e do imposto criado pelo artigo 8.º da [Lei n.º 2111](https://diariodarepublica.pt/dr/detalhe/lei/2111-1961-184478), de 21 de Dezembro de 1961, e mantido nos anos de 1974 e 1975 pelo artigo 14.º, respectivamente, da [Lei n.º 7/73](https://diariodarepublica.pt/dr/detalhe/lei/7-1973-470846), de 22 de Dezembro, e do [Decreto-Lei n.º 809/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/809-1974-235955), de 31 de Dezembro, respeitantes a rendimentos dos anos anteriores ao de 1978, cuja notificação de pagamento, nos termos da legislação em vigor, tenha lugar no ano de 1979, deverão, tratando-se de cobrança virtual por falta de pagamento eventual no prazo notificado e no caso de o imposto ser de importância igual ou superior a 4000$00, os respectivos conhecimentos ser processados para pagamento até quatro prestações trimestrais, conforme o montante da dívida, vencendo-se a primeira no mês imediato ao do débito ao tesoureiro e cada uma das restantes no terceiro mês seguinte ao do vencimento da imediatamente anterior.
 
 2 - As prestações serão todas iguais, excepto a primeira, à qual acrescem as fracções resultantes do arredondamento em escudos de todas elas, e nenhuma pode ser inferior a 2000$00.
 
@@ -104,8 +129,8 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.
 
-**Promulgado em 29 de Janeiro de 1979.**
+Promulgado em 29 de Janeiro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

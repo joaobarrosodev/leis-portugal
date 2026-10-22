@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,92 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1980-472943
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5913687216f90f313b9199b0315a96afcbfc18c949ed064f73f6cedd0e13c84e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4da3587fc2c28926e6c2fef65a246cbc28dce05e6d72a90d8de9d5e3beb54e47
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Apoio ao Investimento
+- Financiamento
+- Incentivos Fiscais
+- Indústria Mineira
+- Indústria Transformadora
+- Investimento
+- Pesca
+- Sistema Integrado de Incentivos ao Investimento
 relationships:
 - type: amended_by
   target: pt:dre:146039:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:389853:por
+  label: "Alterado o anexo III pela PORT.127/81.26.01.1981.MIE, DR.IS [21] de 26.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/127-1981-389853
+  date: '1981-01-26'
+- type: amended_by
+  target: pt:dre:394908:por
+  label: "Dada nova redacção à lista dos sectores de segunda prioridade ( P2=7), constante do anexo III do presente diploma,\
+    \ pela PORT.356/81.27.04.1981.MIE, DR.IS [96] de 27.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/356-1981-394908
+  date: '1981-04-27'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADA A REDACÇÃO DO NUM 2 DO ART 10 PELA PORT 777/81 09-SET DR.IS [207] \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1981-09-09'
+- type: amended_by
+  target: pt:dre:568566:por
+  label: "Alterado o anexo III do presente diploma, pela PORT.961/81.09.11.1981.MIEE, DR.IS [258] de 09.11.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/961-1981-568566
+  date: '1981-11-09'
+- type: cites
+  target: pt:dre:144586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:401695:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681856:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:462629:por
+  label: Rectificado pela DECL.DD6841.24.10.1980.PCM, DR.IS [247] de 24.10.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-462629
+  date: '1980-10-24'
+- type: repealed_by
+  target: pt:dre:310440:por
+  label: "Revogado pelo DEC LEI.132/83.18.03.1983.MFP, DR.IS [64] de 18.03.1983, sem prejuízo do disposto no seu art. 70º.\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/132-1983-310440
+  date: '1983-03-18'
 article_structure:
   article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:45Z'
   warnings: []
   errors: []
 ---
@@ -352,7 +404,7 @@ i) Isenção ou redução dos direitos aduaneiros devidos pela importação de b
 
 3 - A correspondência entre a pontuação final P e as classes de incentivos fiscais, constantes do mapa referido no número anterior, obedecerá à seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf)
 
 4 - Apenas será considerada para efeitos de atribuição dos incentivos fiscais previstos na alínea b) do n.º 1 a parte da matéria colectável imputável ao projecto de investimento da unidade produtiva.
 
@@ -714,12 +766,12 @@ O presente diploma produz efeitos a partir do dia 2 de Maio do ano em curso.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 6 de Junho de 1980.**
+Promulgado em 6 de Junho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Do ANEXO I ao ANEXO VIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf))](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/06/13900/14051424.pdf)

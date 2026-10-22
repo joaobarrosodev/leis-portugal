@@ -19,7 +19,7 @@ publication:
   reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
   number: '297'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 3366-(11) a 3366-(14)
   pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00110014.pdf
 entry_into_force_dates: []
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-x-1979-147384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2012-11-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 93054ccb2df494e704d66c3dc09ffca1b20468d3c3dab45f8d734c5eb5c40e8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ca49ccc2e00c87df12fe3db4b1069cc4739238396e007d094a6bcb0ef5e9953e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Casamento
+- Código do Processo Civil
+- Cônjuge
+- Deficiente Mental
+- Direito Civil
+- Direito de Família
+- Divórcio
+- Igualdade de Tratamento
+- Menoridade
+- Nome Civil
+- Obrigação Alimentar
+- Poder Paternal
+- Processo Civil
+- Residência
 relationships:
 - type: amended_by
   target: pt:dre:191994:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:226051:por
+  label: "Alterados os arts. 1022.º, 1414.º e 1426.º, do Código de Processo Civil, aprovado pelo Dec Lei 44129 de 28-Dez 1961,\
+    \ na redacção do presente diploma, pelo DEC LEI.329-A/95.12.12.1995.MJ, DR.IS-A [285-Supl] de 12.12.1995\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/329-a-1995-226051
+  date: '1995-12-12'
+- type: cites
+  target: pt:dre:300030:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:24:45Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +126,7 @@ Finalmente, insere-se, a seguir ao artigo 1507.º do Código de Processo Civil, 
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 13.º do Código de Processo Civil passa a ter a seguinte redacção:
+Artigo 1.º O artigo 13.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 13.º
 
@@ -110,7 +134,7 @@ Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 2
 
 2. A intervenção do inabilitado fica subordinada à orientação do curador, que prevalece no caso de divergência.
 
-###### Art. 2.º Em seguida ao artigo 13.º do Código de Processo Civil inserem-se as seguintes disposições:
+Art. 2.º Em seguida ao artigo 13.º do Código de Processo Civil inserem-se as seguintes disposições:
 
 ###### ARTIGO 13.º-A
 
@@ -152,19 +176,19 @@ Os menores, cujo poder paternal compete a ambos os progenitores, são por estes 
 
 2. O disposto no número anterior aplica-se a todas as formas de intervenção, compreendidos os embargos de terceiro.
 
-###### Art. 3.º O n.º 2 do artigo 553.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 3.º O n.º 2 do artigo 553.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 553.º
 
 2. Pode requerer-se o depoimento de inabilitados, assim como de representantes de incapazes, pessoas colectivas ou sociedades; porém, o depoimento só tem valor de confissão nos precisos termos em que aqueles possam obrigar-se e estes possam obrigar os seus representados.
 
-###### Art. 4.º O n.º 3 do artigo 1022.º do Código de Processo Civil passará a ter a seguinte redacção:
+Art. 4.º O n.º 3 do artigo 1022.º do Código de Processo Civil passará a ter a seguinte redacção:
 
 ###### ARTIGO 1022.º
 
 3. A impugnação será sempre deduzida no tribunal comum, sendo o processo de prestação requisitado ao tribunal onde decorreu.
 
-###### Art. 5.º A seguir ao artigo 1022.º do Código de Processo Civil insere-se o seguinte preceito:
+Art. 5.º A seguir ao artigo 1022.º do Código de Processo Civil insere-se o seguinte preceito:
 
 ###### ARTIGO 1022.º-A
 
@@ -176,7 +200,7 @@ b) Às contas do administrador de bens do menor;
 
 c) Às contas do adoptante.
 
-###### Art. 6.º O artigo 1412.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 6.º O artigo 1412.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1412.º
 
@@ -184,7 +208,7 @@ c) Às contas do adoptante.
 
 2. Tendo havido decisão sobre alimentos a menores ou estando a correr o respectivo processo, a maioridade ou a emancipação não impedem que o mesmo se conclua e que os incidentes de alteração ou de cessação dos alimentos corram por apenso.
 
-###### Art. 7.º O artigo 1414.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 7.º O artigo 1414.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 1. Na petição para que o cônjuge viúvo, divorciado ou separado judicialmente de pessoas e bens seja privado do direito ao uso dos apelidos do outro cônjuge, o requerente deve alegar as razões por que entende que esse uso lesa gravemente os interesses morais do outro cônjuge ou da família deste.
 
@@ -192,7 +216,7 @@ c) Às contas do adoptante.
 
 3. Havendo contestação, o juiz decidirá, depois de ouvir as testemunhas e de proceder às diligências necessárias.
 
-###### Art. 8.º A seguir ao artigo 1414.º do Código de Processo Civil insere-se o seguinte preceito:
+Art. 8.º A seguir ao artigo 1414.º do Código de Processo Civil insere-se o seguinte preceito:
 
 ###### ARTIGO 1414.º-A
 
@@ -202,7 +226,7 @@ Na petição de autorização judicial de uso dos apelidos do ex-cônjuge, deduz
 
 3. Havendo contestação, o juiz decidirá, depois de ouvir as testemunhas e de proceder às diligências necessárias.
 
-###### Art. 9.º O artigo 1415.º do Código de Processo Civil é restabelecido com a seguinte redacção:
+Art. 9.º O artigo 1415.º do Código de Processo Civil é restabelecido com a seguinte redacção:
 
 ###### ARTIGO 1415.º — (Desacordo entre os cônjuges)
 
@@ -214,13 +238,13 @@ Na petição de autorização judicial de uso dos apelidos do ex-cônjuge, deduz
 
 4. Da decisão cabe sempre recurso, com efeito suspensivo.
 
-###### Art. 10.º A seguir ao artigo 1417.º do Código de Processo Civil insere-se o seguinte preceito:
+Art. 10.º A seguir ao artigo 1417.º do Código de Processo Civil insere-se o seguinte preceito:
 
 ###### ARTIGO 1417.º-A
 
 No caso do n.º 3 do artigo 1795.º-D do Código Civil, se o requerido contestar, passam a seguir-se os termos do processo ordinário.
 
-###### Art. 11.º - 1 - O texto do artigo 1419.º do Código de Processo Civil é subordinado a um n.º 1.
+Art. 11.º - 1 - O texto do artigo 1419.º do Código de Processo Civil é subordinado a um n.º 1.
 
 2 - É revogada a alínea b) do artigo 1419.º do Código de Processo Civil.
 
@@ -230,19 +254,19 @@ No caso do n.º 3 do artigo 1795.º-D do Código Civil, se o requerido contestar
 
 f) Acordo sobre o destino da casa de morada da família.
 
-###### Art. 12.º Ao artigo 1419.º do Código de Processo Civil é acrescentado um n.º 2, com a seguinte redacção:
+Art. 12.º Ao artigo 1419.º do Código de Processo Civil é acrescentado um n.º 2, com a seguinte redacção:
 
 ###### ARTIGO 1419.º
 
 2. Caso outra coisa não resulte dos documentos apresentados, entende-se que os acordos se destinam tanto ao período da pendência do processo como ao período posterior.
 
-###### Art. 13.º O artigo 1420.º, n.º 1, do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 13.º O artigo 1420.º, n.º 1, do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1420.º
 
 1. Não havendo fundamento para indeferimento liminar, o juiz fixará o dia da conferência a que se refere o artigo 1776.º do Código Civil, podendo para ela convocar parentes ou afins dos cônjuges ou quaisquer pessoas em cuja presença veja utilidade.
 
-###### Art. 14.º O artigo 1421.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 14.º O artigo 1421.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1421.º
 
@@ -250,7 +274,7 @@ f) Acordo sobre o destino da casa de morada da família.
 
 2. No caso contrário, será exarado em acta o acordo dos cônjuges quanto à separação ou divórcio, bem como as decisões tomadas quanto aos acordos a que se refere o artigo 1775.º do Código Civil.
 
-###### Art. 15.º O artigo 1423.º, n.os 1, 2 e 4, do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 15.º O artigo 1423.º, n.os 1, 2 e 4, do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1423.º
 
@@ -262,9 +286,9 @@ Se ambos os cônjuges comparecerem ou se se fizerem representar nos casos e nos 
 
 4. É aplicável a esta conferência o disposto no n.º 1 do artigo 1422.º
 
-###### Art. 16.º É revogado o n.º 5 do artigo 1423.º do Código de Processo Civil.
+Art. 16.º É revogado o n.º 5 do artigo 1423.º do Código de Processo Civil.
 
-###### Art. 17.º A seguir ao artigo 1423.º do Código de Processo Civil insere-se o seguinte preceito:
+Art. 17.º A seguir ao artigo 1423.º do Código de Processo Civil insere-se o seguinte preceito:
 
 ###### ARTIGO 1423.º-A
 
@@ -272,21 +296,21 @@ Se ambos os cônjuges comparecerem ou se se fizerem representar nos casos e nos 
 
 2. O requerimento deverá ser feito dentro dos trinta dias subsequentes à data da conferência em que se tenha verificado o motivo para não decretar o divórcio ou separação por mútuo consentimento.
 
-###### Art. 18.º O artigo 1424.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 18.º O artigo 1424.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1424.º
 
 Não cabe recurso do convite à alteração dos acordos previstos nos artigos 1776.º e 1777.º do Código Civil.
 
-###### Art. 19.º O n.º 1 do artigo 1426.º do Código de Processo Civil passa a ter a seguinte redacção:
+Art. 19.º O n.º 1 do artigo 1426.º do Código de Processo Civil passa a ter a seguinte redacção:
 
 ###### ARTIGO 1426.º
 
 1. Se a causa do pedido for a incapacidade ou a ausência da pessoa, serão citados o representante do incapaz ou o procurador ou curador do ausente, o seu cônjuge ou parente mais próximo, o próprio incapaz, se for inabilitado, e o Ministério Público; havendo mais de um parente no mesmo grau, é citado o que for considerado mais idóneo.
 
-###### Art. 20.º A seguir ao artigo 1507.º do Código de Processo Civil insere-se uma nova secção, com a epígrafe e os preceitos seguintes:
+Art. 20.º A seguir ao artigo 1507.º do Código de Processo Civil insere-se uma nova secção, com a epígrafe e os preceitos seguintes:
 
-#### Secção XXI - Atribuição de bens de pessoa colectiva extinta
+Secção XXI - Atribuição de bens de pessoa colectiva extinta
 
 ###### ARTIGO 1507.º-A
 
@@ -324,8 +348,8 @@ d) O testamenteiro ou testamenteiro do autor da deixa testamentária, se existir
 
 Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Pedro de Lemos e Sousa Macedo.
 
-**Promulgado em 20 de Dezembro de 1979.**
+Promulgado em 20 de Dezembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

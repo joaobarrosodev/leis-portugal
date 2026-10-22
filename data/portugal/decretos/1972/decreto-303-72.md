@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 189/1972, 1º Suplemento, Série I de 1972-08-14
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1070-(15) a 1070-(16)
   pdf_url: https://files.diariodarepublica.pt/1s/1972/08/18901/00150016.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/303-1972-605808
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:23:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 653c2e6b3be9a2ae8e6ac41faf883062261a2e2b191d1514a38f6f70e0c1dfb9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2795e2b75b6cb1a210b9a9d4d082c4e07ef4a3db908ebf593d05f82db48a543
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:681840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:23:11Z'
   warnings: []
   errors: []
 ---
@@ -92,52 +96,52 @@ Assim considerando a necessidade de regulamentação da [Lei n.º 4/72](https://
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Sempre que as entidades referidas nas bases I e II da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) pretendam utilizar os serviços de indivíduos de nacionalidade estrangeira, deverão requerê-lo ao Ministro das Corporações e Previdência Social, indicando a sua denominação, sede e ramo de actividade económica, a função a preencher, a remuneração prevista, as qualificações profissionais do cidadão estrangeiro em causa e o período de ocupação pretendido.
+Artigo 1.º - 1. Sempre que as entidades referidas nas bases I e II da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) pretendam utilizar os serviços de indivíduos de nacionalidade estrangeira, deverão requerê-lo ao Ministro das Corporações e Previdência Social, indicando a sua denominação, sede e ramo de actividade económica, a função a preencher, a remuneração prevista, as qualificações profissionais do cidadão estrangeiro em causa e o período de ocupação pretendido.
 
 2. O requerimento deverá dar entrada no Instituto Nacional do Trabalho e Previdência até trinta dias antes da data prevista para o inicio da prestação de serviço.
 
 3. Nos distritos autónomos das ilhas adjacentes a autorização será requerida aos respectivos governadores, com a antecipação indicada no número anterior.
 
-###### Art. 2.º - 1. O despacho de autorização do emprego de trabalhadores estrangeiros, previsto na base I da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840), fixará o respectivo prazo de vigência.
+Art. 2.º - 1. O despacho de autorização do emprego de trabalhadores estrangeiros, previsto na base I da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840), fixará o respectivo prazo de vigência.
 
 2. A autorização poderá ser renovada, por período inferior ou igual ao estabelecido nos termos do número anterior, se a entidade interessada o requerer até trinta dias antes de findo o mesmo prazo.
 
 3. A autorização poderá ser retirada antes do termo estabelecido, por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 3.º O recurso previsto no n.º 2 da base III da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) deverá dar entrada na delegação do Instituto Nacional do Trabalho e Previdência no prazo de cinco dias, a contar da data em que seja recebida pela entidade interessada a comunicação do despacho de indeferimento.
+Art. 3.º O recurso previsto no n.º 2 da base III da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) deverá dar entrada na delegação do Instituto Nacional do Trabalho e Previdência no prazo de cinco dias, a contar da data em que seja recebida pela entidade interessada a comunicação do despacho de indeferimento.
 
-###### Art. 4.º - 1. A ocupação de estrangeiros, a título eventual, deve ser comunicada pelas entidades interessadas à Direcção- Geral do Trabalho e Corporações e à Direcção-Geral de Segurança, com a antecedência mínima de dez dias.
+Art. 4.º - 1. A ocupação de estrangeiros, a título eventual, deve ser comunicada pelas entidades interessadas à Direcção- Geral do Trabalho e Corporações e à Direcção-Geral de Segurança, com a antecedência mínima de dez dias.
 
 2. Quando circunstâncias objectivas impossibilitem a observância da antecipação referida no n.º 1, designadamente nos casos de visitas de surpresa a ou missões de emergência, as entidades interessadas devem comunicar a permanência dos citados estrangeiros até quarenta e oito horas após a sua chegada, apresentando circunstanciadamente os motivos determinantes de tal procedimento
 
-###### Art. 5.º - 1. O prolongamento da ocupação de estrangeiros para além do limite estabelecido no n.º 2 da base IV da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) implica autorização obtida nos termos dos artigos 1.º e 2.º deste decreto.
+Art. 5.º - 1. O prolongamento da ocupação de estrangeiros para além do limite estabelecido no n.º 2 da base IV da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) implica autorização obtida nos termos dos artigos 1.º e 2.º deste decreto.
 
 2. A autorização deverá, nestes casos, ser requerida até trinta dias após o inicio da prestação de serviços.
 
 3. Do requerimento deverão constar, além dos elementos indicados no n.º 1 do artigo 1.º as razões justificativas do prolongamento da prestação de serviços.
 
-###### Art. 6.º - 1. A Direcção-Geral de Segurança fornecerá à Direcção-Geral do Trabalho e Corporações uma relação das empresas abrangidas pelo n.º 1 da base V da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) e comunicar-lhe-á todas as alterações subsequentes.
+Art. 6.º - 1. A Direcção-Geral de Segurança fornecerá à Direcção-Geral do Trabalho e Corporações uma relação das empresas abrangidas pelo n.º 1 da base V da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) e comunicar-lhe-á todas as alterações subsequentes.
 
 2. A dispensa da obtenção antecipada da autorização de emprego de trabalhadores estrangeiros, nos casos de comprovada emergência, previstos no n.º 2 da base V da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840), implica que a mesma autorização seja requerida no prazo de cinco dias a contar da data do início da prestação de serviços.
 
-###### Art. 7.º - 1. No mês de Janeiro de cada ano as empresas enviarão à Direcção-Geral de Segurança uma relação, em triplicado, dos estrangeiros que tenham ao serviço, indicando as funções que desempenham, a remuneração auferida e a data da admissão ao serviço.
+Art. 7.º - 1. No mês de Janeiro de cada ano as empresas enviarão à Direcção-Geral de Segurança uma relação, em triplicado, dos estrangeiros que tenham ao serviço, indicando as funções que desempenham, a remuneração auferida e a data da admissão ao serviço.
 
 2. Um dos exemplares da relação mencionada no n.º 1 será remetido à Direcção-Geral do Trabalho e Corporações.
 
-###### Art. 8.º - 1. Compete à Direcção-Geral de Segurança a fiscalização do cumprimento do presente diploma.
+Art. 8.º - 1. Compete à Direcção-Geral de Segurança a fiscalização do cumprimento do presente diploma.
 
 2. Verificada qualquer transgressão punível das disposições da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840), a Direcção-Geral de Segurança levantará o respectivo auto, que fará fé até prova em contrário e do qual será dado conhecimento imediato à Direcção-Geral do Trabalho e Corporações.
 
 3. A aplicação das multas previstas na base VI da [Lei n.º 4/72](https://diariodarepublica.pt/dr/detalhe/lei/4-1972-681840) é da competência da Direcção-Geral de Segurança.
 
-###### Art. 9.º - 1. O transgressor poderá recorrer da aplicação da multa para o Ministro das Corporações e Previdência Social, entregando as suas alegações na Direcção-Geral de Segurança.
+Art. 9.º - 1. O transgressor poderá recorrer da aplicação da multa para o Ministro das Corporações e Previdência Social, entregando as suas alegações na Direcção-Geral de Segurança.
 
 2. Instruído o recurso, a Direcção-Geral de Segurança remeterá todo o processo à Direcção-Geral do Trabalho Corporações, que o fará presente ao Ministro das Corporações e Previdência Social.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.
 
-**Promulgado em 31 de Julho de 1972.**
+Promulgado em 31 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30100/31023113.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,104 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/531-1977-276643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a070d765cdc0433005b3e2f96566ec1cb271c0a24512b919f630bf26807802e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 223eb8d4069b5574d59427f5e0e2742feb03ff5e33574b3ea146b6de937d9376
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centralcer
+- Cerveja
+- Criação de Empresas
+- Empresa Pública
+- Estatuto
+- Indústria Cervejeira
+- Unicer
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446544:por
+  label: "Aditado o art. 10º ao presente diploma e alterado o nº1 do art. 2º dos Estatutos da Unicer- União Cervejeira, E.\
+    \ P., aprovados pelo referido diploma, pela LEI.6/78.22.02.1978.AR, DR.IS [44] de 22.02.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/6-1978-446544
+  date: '1978-02-22'
+- type: amended_by
+  target: pt:dre:294547:por
+  label: "Alterados o art. 6º dos Estatutos da Unicer - União de Cervejas, E.P., bem como o art. 6º dos Estatutos da Centralcer\
+    \ - Central de Cervejas, E.P, ambos aprovados no presente diploma, pelo DEC LEI.112/78.29.05.1978.MIT, DR.IS [122] de\
+    \ 29.05.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/112-1978-294547
+  date: '1978-05-29'
+- type: amended_by
+  target: pt:dre:382668:por
+  label: Determinado que voltam a ter a redação originária o n.º 1 do art. 6.º dos Estatutos da Unicer-União de Cervejas,
+    E. P., e o n.º 1 do art. 6.º dos Estatutos da Centralcer - Central de Cervejas, E. P., (ficando revogada a alteração constante
+    dos arts. 1.º e 2.º do Dec Lei 112/78 de 29-maio) pelo(a) Decreto-Lei n.º 95/79 - Diário da República n.º 92/1979, Série
+    I de 1979-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1979-382668
+  date: '1979-04-20'
+- type: amended_by
+  target: pt:dre:575515:por
+  label: Transformada a empresa pública CENTRALCER - Central de Cervejas, E. P., em sociedade anónima, com a denominação de
+    CENTRALCER - Central de Cervejas, S. A. pelo DEC LEI.300/90.24.09.1990.MF, DR.IS [221]SUPL de 24.09.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1990-575515
+  date: '1990-09-24'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:307637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:447946:por
+  label: Rectificado pela DECL.DD7518.16.01.1978.PCM, DR.IS [13] de 16.01.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-447946
+  date: '1978-01-16'
+- type: repealed_by
+  target: pt:dre:382668:por
+  label: Revogados os arts. 1.º e 2.º do Dec Lei 112/78 de 29-maio, na redação que conferiram ao n.º 1 do art. 6.º dos estatutos
+    da Unicer-União de Cervejas, E. P. e a n.º 1 do art. 6.º dos estatutos da Centralcer - Central de Cervejas, E. P., aprovados
+    pelo presente diploma, pelo(a) Decreto-Lei n.º 95/79 - Diário da República n.º 92/1979, Série I de 1979-04-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/95-1979-382668
+  date: '1979-04-20'
 article_structure:
-  article_count: 83
+  article_count: 82
   section_count: 22
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:01Z'
   warnings: []
   errors: []
 ---
@@ -97,37 +161,37 @@ Considerando o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 260/76](ht
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São constituídas as empresas públicas União Cervejeira, E. P., abreviadamente designada por Unicer, e Central de Cervejas, E. P., abreviadamente designada por Centralcer.
+Artigo 1.º São constituídas as empresas públicas União Cervejeira, E. P., abreviadamente designada por Unicer, e Central de Cervejas, E. P., abreviadamente designada por Centralcer.
 
-###### Art. 2.º São aprovados os estatutos da Unicer e da Centralcer, que se publicam em anexo ao presente diploma e dele fazem parte integrante.
+Art. 2.º São aprovados os estatutos da Unicer e da Centralcer, que se publicam em anexo ao presente diploma e dele fazem parte integrante.
 
-###### Art. 3.º - 1 - Salvo lei geral em contrário, são transferidas para a Unicer as universalidades de bens, direitos e obrigações das empresas nacionalizadas CUFP - Companhia União Fabril Portuense, Copeja - Companhia Portuguesa de Cervejas e Imperial - União Cervejeira de Portugal.
+Art. 3.º - 1 - Salvo lei geral em contrário, são transferidas para a Unicer as universalidades de bens, direitos e obrigações das empresas nacionalizadas CUFP - Companhia União Fabril Portuense, Copeja - Companhia Portuguesa de Cervejas e Imperial - União Cervejeira de Portugal.
 
 2 - Salvo lei geral em contrário, são transferidas para a Centralcer as universalidades de bens, direitos e obrigações das empresas nacionalizadas SCC - Sociedade Central de Cervejas e Cergal - Cervejas de Portugal.
 
-###### Art. 4.º As transmissões referidas nos n.os 1 e 2 do artigo anterior operam-se por força do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo. Em caso de dúvida, constitui título comprovativo a simples declaração feita pelos respectivos conselhos de gerência, confirmada pela Direcção-Geral do Património.
+Art. 4.º As transmissões referidas nos n.os 1 e 2 do artigo anterior operam-se por força do presente diploma, que servirá de título bastante para todos os efeitos legais, incluindo os de registo. Em caso de dúvida, constitui título comprovativo a simples declaração feita pelos respectivos conselhos de gerência, confirmada pela Direcção-Geral do Património.
 
-###### Art. 5.º Os capitais estatutários da Unicer e da Centralcer serão fixados nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
+Art. 5.º Os capitais estatutários da Unicer e da Centralcer serão fixados nos termos do [Decreto-Lei n.º 490/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1976-431065), de 23 de Junho.
 
-###### Art. 6.º - 1 - O Ministério da tutela é o Ministério da Indústria e Tecnologia.
+Art. 6.º - 1 - O Ministério da tutela é o Ministério da Indústria e Tecnologia.
 
 2 - Sempre que se torne necessária a autorização ou aprovação de outros Ministérios para actos das empresas, competirá ao Ministério da Indústria e Tecnologia providenciar no sentido da sua obtenção.
 
-###### Art. 7.º - 1 - Os trabalhadores das empresas referidas no artigo 3.º transitam, independentemente de quaisquer formalidades, para as empresas criadas por este diploma, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido nos respectivos estatutos de pessoal das empresas.
+Art. 7.º - 1 - Os trabalhadores das empresas referidas no artigo 3.º transitam, independentemente de quaisquer formalidades, para as empresas criadas por este diploma, com todos os seus direitos e obrigações, sem prejuízo do que vier a ser estabelecido nos respectivos estatutos de pessoal das empresas.
 
 2 - São garantidos aos trabalhadores todos os direitos resultantes da inscrição nas caixas de previdência e da antiguidade, contando-se também nesta todo o tempo de serviço nas empresas nacionalizadas.
 
-###### Art. 8.º São extintas na data de entrada em vigor deste diploma as empresas referidas no artigo 3.º
+Art. 8.º São extintas na data de entrada em vigor deste diploma as empresas referidas no artigo 3.º
 
-###### Art. 9.º A Unicer e a Centralcer têm o seu início na data de entrada em vigor do presente diploma.
+Art. 9.º A Unicer e a Centralcer têm o seu início na data de entrada em vigor do presente diploma.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira - Alfredo Jorge Nobre da Costa.
 
-**Promulgado em 20 de Dezembro de 1977.**
+Promulgado em 20 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 ESTATUTOS DA UNICER - UNIÃO CERVEJEIRA, E. P.
 
@@ -945,4 +1009,4 @@ Os trabalhadores da Centralcer exercerão, através dos seus órgãos representa
 
 A empresa fica sujeita à tributação directa e indirecta, nos termos gerais de direito fiscal.
 
-**O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.**
+O Primeiro-Ministro, Mário Soares. - O Ministro do Plano e Coordenação Económica, António Francisco Barroso de Sousa Gomes. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro da Indústria e Tecnologia, Alfredo Jorge Nobre da Costa.

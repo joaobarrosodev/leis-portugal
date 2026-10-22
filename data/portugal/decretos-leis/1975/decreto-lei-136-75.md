@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-17T00:00:00Z'
+  retrieved_at: '2026-10-22T22:38:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f1cdf2e5cad0854839fcaa36bbf61e216a55d84cf7a84a259f8ffd90c2b96106
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 98e1c6d11ca8b67e393046e9faaa5854840d18bb2d593e296ed06a8f97495ba3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:38:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Contribuições e Impostos
+- Transporte de Mercadorias
+- Transporte de Passageiros
+- Transporte Internacional
+- Transporte Rodoviário
+relationships:
+- type: cites
+  target: pt:dre:631384:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:38:42Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +106,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É alterada a redacção dos artigos a seguir indicados do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, nos seguintes termos:
+Artigo 1.º É alterada a redacção dos artigos a seguir indicados do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, nos seguintes termos:
 
-###### Art. 2.º - 1. O regime do presente diploma aplicar-se-á apenas:
+Art. 2.º - 1. O regime do presente diploma aplicar-se-á apenas:
 
 a) ...
 
@@ -111,13 +120,13 @@ c) ...
 
 3. Aplicar-se-á supletivamente aos transportes referidos no n.º 1 a regulamentação dos transportes internos em tudo o que se harmonize com o disposto no presente diploma e seus regulamentos.
 
-###### Art. 14.º - 1. Os veículos licenciados para a realização de transportes internos que efectuem transportes internacionais estão sujeitos apenas ao pagamento dos impostos fixados para os transportes internos.
+Art. 14.º - 1. Os veículos licenciados para a realização de transportes internos que efectuem transportes internacionais estão sujeitos apenas ao pagamento dos impostos fixados para os transportes internos.
 
 2. Os veículos exclusivamente licenciados para a realização de transportes internacionais, de passageiros ou mercadorias, estão sujeitos ao pagamento dos impostos estabelecidos para os veículos licenciados para a realização de transportes de aluguer, beneficiando, no entanto, de uma redução de 50%.
 
 3. Para efeitos da aplicação do número anterior, os veículos de mercadorias consideram-se como licenciados em regime normal, sem qualquer limite de raio de acção.
 
-###### Art. 15.º - 1. Os veículos de passageiros pertencentes a transportadores não residentes, matriculados em países em que os transportadores portugueses estejam submetidos ao pagamento de quaisquer encargos de idêntica natureza, ficarão sujeitos a um imposto diário sobre o veículo, no montante previsto na tabela seguinte:
+Art. 15.º - 1. Os veículos de passageiros pertencentes a transportadores não residentes, matriculados em países em que os transportadores portugueses estejam submetidos ao pagamento de quaisquer encargos de idêntica natureza, ficarão sujeitos a um imposto diário sobre o veículo, no montante previsto na tabela seguinte:
 
 Lotação superior a 9 e inferior ou igual a 20 lugares (incluindo o condutor) ... 50$00
 
@@ -127,7 +136,7 @@ Lotação superior a 40 lugares (incluindo o condutor) ... 100$00
 
 2. A Direcção-Geral de Transportes Terrestres mandará publicar e manterá actualizada a relação dos países cujos transportadores não estão sujeitos ao pagamento do imposto previsto no número anterior.
 
-###### Art. 16.º - 1. Pela exploração de transportes regulares não turísticos de passageiros por transportadores residentes ou não residentes será devido um imposto calculado do seguinte modo:
+Art. 16.º - 1. Pela exploração de transportes regulares não turísticos de passageiros por transportadores residentes ou não residentes será devido um imposto calculado do seguinte modo:
 
 a) Concorrentes:
 
@@ -151,7 +160,7 @@ n = número total de viagens simples por mês.
 
 3. Quando uma mesma linha seja explorada conjuntamente por diversos transportadores, residentes ou não, os impostos poderão ser liquidados globalmente, sendo todas as empresas que participam na exploração solidariamente responsáveis pelo seu pagamento.
 
-###### Art. 17.º - 1. Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
+Art. 17.º - 1. Os transportadores não residentes de mercadorias ficam sujeitos a um imposto diário sobre o veículo, calculado pela fórmula seguinte:
 
 I = p x 22$50
 
@@ -163,9 +172,9 @@ p = peso máximo autorizado do veículo, em toneladas, arredondado até às déc
 
 2. No caso de conjuntos de veículos de nacionalidades diferentes, este imposto será liquidado separadamente para o veículo tractor e para o reboque, de acordo com o regime fiscal aplicável aos veículos de cada um dos países, sendo, no entanto, o proprietário do veículo tractor responsável pelo pagamento do imposto relativo ao reboque.
 
-###### Art. 18.º Excepcionalmente, o Secretário de Estado dos Transportes e Comunicações poderá conceder reduções ou isenções do imposto estabelecido no artigo anterior quando ocorram fortes razões de interesse público na realização de determinados transportes.
+Art. 18.º Excepcionalmente, o Secretário de Estado dos Transportes e Comunicações poderá conceder reduções ou isenções do imposto estabelecido no artigo anterior quando ocorram fortes razões de interesse público na realização de determinados transportes.
 
-###### Art. 19.º - 1. ...
+Art. 19.º - 1. ...
 
 a) ...
 
@@ -177,7 +186,7 @@ Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada at
 
 2. ...
 
-###### Art. 20.º - 1. Os transportadores não residentes poderão pagar os impostos previstos nos artigos 17.º e 19.º por períodos de três meses, caso em que as respectivas importâncias serão as seguintes:
+Art. 20.º - 1. Os transportadores não residentes poderão pagar os impostos previstos nos artigos 17.º e 19.º por períodos de três meses, caso em que as respectivas importâncias serão as seguintes:
 
 I) Imposto sobre o veículo (artigo 17.º):
 
@@ -205,7 +214,7 @@ Superior a 7000 kg de peso máximo autorizado, por cada tonelada, arredondada at
 
 4. Quando um veículo pertencente a um transportador não residente exceder, no momento da saída, o limite do período de cobrança, o pagamento dos impostos relativos aos dias em excesso será efectuado com base nas taxas diárias estabelecidas neste diploma.
 
-###### Art. 21.º - 1. Os transportadores não residentes são isentos do pagamento dos impostos previstos nos artigos 15.º, 17.º e 19.º, nos seguintes casos:
+Art. 21.º - 1. Os transportadores não residentes são isentos do pagamento dos impostos previstos nos artigos 15.º, 17.º e 19.º, nos seguintes casos:
 
 a) Pelo período, além de dois dias completos, em que os veículos estejam ininterruptamente imobilizados para efeitos de desembaraço aduaneiro;
 
@@ -227,16 +236,16 @@ c) Em outros casos, mediante autorização da Direcção-Geral de Transportes Te
 
 5. A eventual concessão de reduções de impostos ao abrigo do disposto no número anterior não abrangerá os casos em que os interessados optem pelo seu pagamento nos termos do disposto no artigo 20.º
 
-###### Art. 23.º - 1. O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
+Art. 23.º - 1. O produto da cobrança dos impostos previstos neste diploma reverterá para as mesmas entidades e na mesma proporção que o proveniente dos impostos de camionagem, circulação e compensação que são devidos pelos transportes internos.
 
 2. Sobre todos os impostos previstos neste diploma não incidem quaisquer adicionais.
 
-###### Art. 2.º É revogado o artigo 7.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro.
+Art. 2.º É revogado o artigo 7.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
 
-**Promulgado em 5 de Março de 1975.**
+Promulgado em 5 de Março de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

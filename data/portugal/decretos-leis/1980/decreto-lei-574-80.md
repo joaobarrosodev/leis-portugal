@@ -21,12 +21,12 @@ publication:
   reference: Diário da República n.º 301/1980, 1º Suplemento, Série I de 1980-12-31
   number: '301'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 4244-(12) a 4244-(13)
   pdf_url: https://files.diariodarepublica.pt/1s/1980/12/30101/00120013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/574-1980-226599
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:35:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3229f7094e366ba202754f21e03ab95ba005519f957207f19f77397bee425bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3a241893e9cfcd62383d4c62efc60d89a4f84001956fdf7ad460b948ef20468d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:35:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Militar de Reabilitação e Assistência
+- Deficiente das Forças Armadas
+- Extinção de Serviços
+- Presidência do Conselho de Ministros
+- Reabilitação
+- Secretariado Nacional de Reabilitação
+- Transferência de Competências
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:256054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506790:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:374248:por
+  label: "Revogados os artigos 1.º e 2.º pelo DEC LEI.355/82.06.09.1982.PCM, DR.IS [206] de 06.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/355-1982-374248
+  date: '1982-09-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:35:04Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +132,9 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 01.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 8.º, 10.º, 11.º, 12.º, 13.º e 19.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 8.º, 10.º, 11.º, 12.º, 13.º e 19.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054), de 20 de Agosto, passam a ter a seguinte redacção:
 
-###### Art. 8.º São órgãos do Secretariado:
+Art. 8.º São órgãos do Secretariado:
 
 a) O secretário nacional;
 
@@ -114,7 +144,7 @@ c) O Conselho Nacional de Reabilitação;
 
 d) O conselho administrativo.
 
-###### Art. 10.º - 1 - Compete ao secretário nacional:
+Art. 10.º - 1 - Compete ao secretário nacional:
 
 a) Representar o Secretariado em juízo ou fora dele;
 
@@ -128,11 +158,11 @@ e) Submeter a despacho governamental os assuntos que requeiram a sua apreciaçã
 
 2 - O secretário nacional será coadjuvado por um secretário-adjunto, ao qual incumbirá substituir o secretário nacional nas suas ausências ou impedimentos e exercer as competências que lhe forem delegadas pelo secretário nacional.
 
-###### Art. 11.º - 1 - O conselho directivo é composto pelo secretário nacional, que presidirá, e por um representante de cada um dos Ministérios da Educação e Ciência, do Trabalho e dos Assuntos Sociais, designados pelos respectivos titulares e que funcionarão como vogais.
+Art. 11.º - 1 - O conselho directivo é composto pelo secretário nacional, que presidirá, e por um representante de cada um dos Ministérios da Educação e Ciência, do Trabalho e dos Assuntos Sociais, designados pelos respectivos titulares e que funcionarão como vogais.
 
 2 - Os membros do conselho directivo desempenharão as suas funções em regime de acumulação com as exercidas nos departamentos de origem e terão direito a uma gratificação, a estabelecer por despacho conjunto dos Ministros das Finanças e do Plano e dos Assuntos Sociais e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 12.º Compete ao conselho directivo:
+Art. 12.º Compete ao conselho directivo:
 
 a) Orientar a actividade do Secretariado, dirigir todos os serviços, assegurar a adopção das medidas necessárias à prossecução dos seus fins e, de um modo geral, garantir o desempenho das respectivas funções;
 
@@ -142,7 +172,7 @@ c) Submeter à apreciação do Conselho Nacional de Reabilitação os programas 
 
 d) Promover, de acordo com a natureza dos assuntos a estudar, a participação dos serviços, instituições e sectores profissionais interessados.
 
-###### Art. 13.º - 1 - ...
+Art. 13.º - 1 - ...
 
 2 - ...
 
@@ -150,11 +180,11 @@ d) Promover, de acordo com a natureza dos assuntos a estudar, a participação d
 
 4 - Um vogal em representação da Associação Nacional dos Deficientes Sinistrados do Trabalho.
 
-###### Art. 19.º O conselho administrativo é constituído pelo secretário nacional, que presidirá, por um dos vogais do conselho directivo coordenador, por um representante do Ministério das Finanças e do Plano e pelo chefe da repartição administrativa do Secretariado.
+Art. 19.º O conselho administrativo é constituído pelo secretário nacional, que presidirá, por um dos vogais do conselho directivo coordenador, por um representante do Ministério das Finanças e do Plano e pelo chefe da repartição administrativa do Secretariado.
 
-###### Art. 2.º O artigo 11.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054) passa a ser precedido da secção III, sob a epígrafe «Conselho directivo», e as secções III e IV do mesmo capítulo III do referido diploma passam a secções IV e V, respectivamente.
+Art. 2.º O artigo 11.º do [Decreto-Lei n.º 346/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1977-256054) passa a ser precedido da secção III, sob a epígrafe «Conselho directivo», e as secções III e IV do mesmo capítulo III do referido diploma passam a secções IV e V, respectivamente.
 
-###### Art. 3.º - 1 - É extinta a Comissão Militar de Reabilitação e Assistência (CMRA).
+Art. 3.º - 1 - É extinta a Comissão Militar de Reabilitação e Assistência (CMRA).
 
 2 - As competências atribuídas à CMRA pelo [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, e pela [Portaria n.º 73/76](https://diariodarepublica.pt/dr/detalhe/portaria/73-1976-506790), de 11 de Fevereiro, passam a constituir responsabilidade do Serviço Nacional de Reabilitação.
 
@@ -162,8 +192,8 @@ d) Promover, de acordo com a natureza dos assuntos a estudar, a participação d
 
 Visto e aprovado em Conselho de Ministros de 27 de Novembro de 1980. - Diogo Pinto de Freitas do Amaral.
 
-**Promulgado em 23 de Dezembro de 1980.**
+Promulgado em 23 de Dezembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

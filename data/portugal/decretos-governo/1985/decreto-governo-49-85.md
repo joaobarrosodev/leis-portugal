@@ -47,40 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/49-1985-170499
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1997-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 76a8c5dfc4c896fe994e1a054913a520ed3de00ed5cd07cb740f367b70356627
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a9804a439ff070188e1e8557113bbd74a91e1a14010ddb76c5599954f66063c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Educação Pré-escolar
+- Ensino Primário
+- Ensino Secundário
+- Escola Europeia
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:302296:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:302296:por
+  label: "Anulado e substituído o Estatuto da Escola Europeia e o Protocolo a ele anexo pelo DEC.1/97.1997.01.03.MNE DR.IS-A\
+    \ [2])\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/1-1997-302296
+  date: '1997-01-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:29Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +102,19 @@ de 27 de Novembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. É aprovado, para adesão, o texto do Estatuto da Escola Europeia, do regulamento do Bacharelato Europeu, do Protocolo Relativo à Criação de Escolas Europeias e do Protocolo Adicional ao Protocolo Relativo à Criação de Escolas Europeias.
+Artigo único. É aprovado, para adesão, o texto do Estatuto da Escola Europeia, do regulamento do Bacharelato Europeu, do Protocolo Relativo à Criação de Escolas Europeias e do Protocolo Adicional ao Protocolo Relativo à Criação de Escolas Europeias.
 
 Visto e aprovado em Conselho de Ministros de 2 de Outubro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 18 de Outubro de 1985.**
+Assinado em 18 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 21 de Outubro de 1985.**
+Referendado em 21 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 ESTATUTO DA ESCOLA EUROPEIA
 
@@ -391,7 +402,7 @@ Os instrumentos de ratificação serão depositados junto do Governo do Luxembur
 
 2 - O Estatuto entrará em vigor na data do depósito do quarto instrumento de ratificação.
 
-## ANEXO AO ESTATUTO DA ESCOLA EUROPEIA REGULAMENTANDO O BACHARELATO EUROPEU
+ANEXO AO ESTATUTO DA ESCOLA EUROPEIA REGULAMENTANDO O BACHARELATO EUROPEU
 
 ###### ARTIGO 1.º
 
@@ -449,7 +460,7 @@ Composição do júri
 
 1 - Fazem parte do júri:
 
-**O presidente, os vice-presidentes;**
+O presidente, os vice-presidentes;
 
 Os examinadores procedentes dos Estados membros designados pelo conselho superior;
 
@@ -481,7 +492,7 @@ Decurso do exame
 
 As disciplinas do exame escrito são escolhidas pelo presidente do júri de entre os assuntos propostos pelos membros do conselho de inspecção do ensino secundário.
 
-**O presidente do júri toma todas as medidas necessárias para assegurar o sigilo das provas.**
+O presidente do júri toma todas as medidas necessárias para assegurar o sigilo das provas.
 
 ###### ARTIGO 10.º
 
@@ -497,7 +508,7 @@ O exame escrito decorre sob a vigilância constante estabelecida pelo presidente
 
 ###### ARTIGO 13.º
 
-**O presidente do júri tem autoridade para tomar decisões nos casos litigiosos que possam surgir.**
+O presidente do júri tem autoridade para tomar decisões nos casos litigiosos que possam surgir.
 
 As deliberações de júri
 
@@ -509,7 +520,7 @@ O júri delibera de acordo com as normas reguladoras do processo adoptadas pelo 
 
 É elaborada uma acta das provas e das deliberações. Esta menciona a nota atribuída a cada disciplina e a percentagem de pontos atribuídos ao conjunto das provas. É assinada pelo presidente ou pelo vice-presidente.
 
-**O presidente do júri enviará às autoridades nacionais para esse efeito designadas uma cópia autenticada de acta.**
+O presidente do júri enviará às autoridades nacionais para esse efeito designadas uma cópia autenticada de acta.
 
 ###### ARTIGO 16.º
 

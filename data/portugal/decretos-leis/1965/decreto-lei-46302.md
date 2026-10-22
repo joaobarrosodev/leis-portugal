@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09200/04930494.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,78 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46302-1965-236711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb86b942d961ebd88a098cbef435892dcfbf47a855717b1c62b0e1f27ec55a3a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76220339fa5d23a701cf1e47acdb03daa153143982500bf815d86b00014fd12e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Bancária
+- Banca
+- Crédito Bancário
+- Instituições Parabancárias
 relationships:
 - type: amended_by
   target: pt:dre:448953:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:443689:por
+  label: "Reposto em vigor o art. 6º pelo DEC LEI.396/83.1983.10.29.MJ DR.IS [250]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/396-1983-443689
+  date: '1983-10-29'
+- type: amended_by
+  target: pt:dre:196762:por
+  label: "Alterados os arts. 2º e 3º, pelo DEC LEI.49/86.1986.03.14.MF, DR.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1986-196762
+  date: '1986-03-14'
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:240863:por
+  label: "Revogado o art. 3º pelo DEC LEI.353-S/77.29.08.1977.MF, DR.IS [199-2ºSupl] de 29.08.1977, nos termos do disposto\
+    \ no art. 11º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/353-s-1977-240863
+  date: '1977-08-29'
+- type: repealed_by
+  target: pt:dre:435623:por
+  label: "Revogado o art. 6º pelo DEC LEI.349-B/83.1983.07.30.MFP DR.IS [174]5º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-b-1983-435623
+  date: '1983-07-30'
+- type: repealed_by
+  target: pt:dre:448953:por
+  label: "Revogado pelo DEC LEI.298/92.31.12.1992.MF, DR.IS-A [301]6ºSupl de 31.12.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/298-1992-448953
+  date: '1992-12-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:59Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +133,7 @@ Considerando que para o efeito convém estabelecer, fundamentalmente, um quadro 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São instituições parabancárias as que, não compreendidas na enumeração dos artigos 3.º e 4.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, exerçam alguma função de crédito ou qualquer actividade que possa afectar de forma especial o funcionamento do mercado monetário ou do financeiro, tais como:
+Artigo 1.º São instituições parabancárias as que, não compreendidas na enumeração dos artigos 3.º e 4.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, exerçam alguma função de crédito ou qualquer actividade que possa afectar de forma especial o funcionamento do mercado monetário ou do financeiro, tais como:
 
 1.º As sociedades gestoras de fundos de investimentos mobiliários ou imobiliários;
 
@@ -107,18 +145,18 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § único. Os fundos de investimentos referidos no n.º 1.º são igualmente havidos, para efeitos legais, como instituições parabancárias.
 
-###### Art. 2.º A constituição e funcionamento das instituições parabancárias carece de prévia autorização do Ministro das Finanças, a conceder por meio de portaria.
+Art. 2.º A constituição e funcionamento das instituições parabancárias carece de prévia autorização do Ministro das Finanças, a conceder por meio de portaria.
 
-###### Art. 3.º Todas as instituições parabancárias deverão observar, com as convenientes adaptações, o preceituado no artigo 8.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, nos artigos 7.º, 8.º, 10.º, exceptuando o § 3.º, 13.º a 18.º, 27.º, 28.º, 31.º, 36.º a 39.º, 75.º a 77.º e 89.º a 98.º, e bem assim no § 2.º do artigo 6.º e no n.º 1.º do artigo 19.º, todos do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, devendo, para os efeitos dos artigos 8.º e 89.º a 98.º deste diploma, as instituições parabancárias ser equiparadas aos bancos comerciais.
+Art. 3.º Todas as instituições parabancárias deverão observar, com as convenientes adaptações, o preceituado no artigo 8.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, nos artigos 7.º, 8.º, 10.º, exceptuando o § 3.º, 13.º a 18.º, 27.º, 28.º, 31.º, 36.º a 39.º, 75.º a 77.º e 89.º a 98.º, e bem assim no § 2.º do artigo 6.º e no n.º 1.º do artigo 19.º, todos do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, devendo, para os efeitos dos artigos 8.º e 89.º a 98.º deste diploma, as instituições parabancárias ser equiparadas aos bancos comerciais.
 
 § único. Nos casos omissos são de observar, com as convenientes adaptações, os preceitos legais relativos às instituições de crédito e às auxiliares de crédito que não contrariem a natureza especial da instituição parabancária.
 
-###### Art. 4.º Sempre que isso se mostre aconselhável, em diploma regulamentar poderão ainda ser estabelecidas condições especiais a que deverão subordinar-se a constituição e o funcionamento da cada espécie de instituição parabancária.
+Art. 4.º Sempre que isso se mostre aconselhável, em diploma regulamentar poderão ainda ser estabelecidas condições especiais a que deverão subordinar-se a constituição e o funcionamento da cada espécie de instituição parabancária.
 
-###### Art. 5.º As instituições já em actividade que sejam abrangidas por este diploma terão o prazo de seis meses para se adaptarem às disposições nele contidas.
+Art. 5.º As instituições já em actividade que sejam abrangidas por este diploma terão o prazo de seis meses para se adaptarem às disposições nele contidas.
 
-###### Art. 6.º Em qualquer fase do processo de transgressão em que sejam arguidas instituições de crédito, auxiliares de crédito ou parabancárias, o Ministro das Finanças pode determinar, por despacho, a suspensão provisória da actividade dessas instituições, até decisão final, sempre que tal medida se revele necessária para a defesa dos superiores interesses da economia nacional ou do público em geral.
+Art. 6.º Em qualquer fase do processo de transgressão em que sejam arguidas instituições de crédito, auxiliares de crédito ou parabancárias, o Ministro das Finanças pode determinar, por despacho, a suspensão provisória da actividade dessas instituições, até decisão final, sempre que tal medida se revele necessária para a defesa dos superiores interesses da economia nacional ou do público em geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

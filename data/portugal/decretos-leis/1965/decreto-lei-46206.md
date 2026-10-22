@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46206-1965-238840
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:52:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8112f66c9c0670ef7d81b922d338365e335103fef81fdc7e4dab54ada2e83482
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da522a20ab487ef6538ff498e1ceb036868ab70a353787277339ecd15bc7ff70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:52:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Código de Justiça Militar
+- Justiça Militar
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:525025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:52:23Z'
   warnings: []
   errors: []
 ---
@@ -92,19 +99,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São revogadas as disposições do § único do artigo 23.º, do artigo 464.º, do § único do artigo 550.º, do n.º 9.º do artigo 560.º e do § único do artigo 561.º do Código de Justiça Militar.
+Artigo 1.º São revogadas as disposições do § único do artigo 23.º, do artigo 464.º, do § único do artigo 550.º, do n.º 9.º do artigo 560.º e do § único do artigo 561.º do Código de Justiça Militar.
 
 São aditados, com as redacções adiante insertas, os §§ 1.º e 2.º ao artigo 48.º e um n.º 3.º ao artigo 163.º do mesmo diploma.
 
 As disposições do artigo 23.º, circunstância 15.ª, do artigo 45.º do artigo 47.º, do n.º 4.º do artigo 57.º, do artigo 60.º, do artigo 164.º do artigo 186.º, do artigo 192.º, do artigo 196.º, do n.º 1.º do artigo 200.º, dos n.os 1.º e 2.º do § 2.º do artigo 374.º, do artigo 406.º, do artigo 529.º, do artigo 532.º, do artigo 535.º, do artigo 551.º, do artigo 560.º e do artigo 561.º, também do Código de Justiça Militar, passam a ter a seguinte redacção:
 
-###### Art. 23.º ...
+Art. 23.º ...
 
 15.ª A prisão preventiva em prisão fechada, na hipótese prevista no artigo 463.º, § único.
 
 ...
 
-###### Art. 45.º Poderão extraordinàriamente os juízes, considerando o especial valor das circunstâncias atenuantes e tendo em vista as escalas penais do artigo 28.º e a regra do respectivo § único, substituir as penas mais graves pelas menos graves.
+Art. 45.º Poderão extraordinàriamente os juízes, considerando o especial valor das circunstâncias atenuantes e tendo em vista as escalas penais do artigo 28.º e a regra do respectivo § único, substituir as penas mais graves pelas menos graves.
 
 § 1.º Para este efeito as penas 1.ª e 6.ª da escala 1.ª daquele artigo são equiparadas em gravidade, respectivamente, às penas 1.ª e 2.ª da escala 2.ª do mesmo artigo.
 
@@ -112,9 +119,9 @@ As disposições do artigo 23.º, circunstância 15.ª, do artigo 45.º do artig
 
 ...
 
-###### Art. 47.º A pena do crime cometido durante o cumprimento de uma pena será executada se o cumprimento de ambas as penas for compatível, ou simultânea ou sucessivamente e, no caso contrário, será agravada a pena mais grave.
+Art. 47.º A pena do crime cometido durante o cumprimento de uma pena será executada se o cumprimento de ambas as penas for compatível, ou simultânea ou sucessivamente e, no caso contrário, será agravada a pena mais grave.
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § 1.º Exceptuam-se do disposto neste artigo a pena ou as penas de multa, que serão sempre acumuladas com as outras penas.
 
@@ -122,13 +129,13 @@ As disposições do artigo 23.º, circunstância 15.ª, do artigo 45.º do artig
 
 ...
 
-###### Art. 57.º ...
+Art. 57.º ...
 
 4.º A pena de multa acumulada com qualquer outra pena correccional, por prisão militar para oficiais e por incorporação em depósito disciplinar, para praças de pré, na razão de um por dia por cada dia de multa. Quando a multa for de quantia fixada por lei, por prisão militar para oficiais é por incorporação em depósito disciplinar para praças de pré, na razão de um dia por 20$00 de multa.
 
 ...
 
-###### Art. 60.º Todas as penas começam a correr desde o dia em que passar em julgado a sentença condenatória, mas a prisão preventiva em prisão fechada, salvo no caso do § único do artigo 463.º, será levada em conta nos termos seguintes, seja qual for a autoridade que a tiver ordenado:
+Art. 60.º Todas as penas começam a correr desde o dia em que passar em julgado a sentença condenatória, mas a prisão preventiva em prisão fechada, salvo no caso do § único do artigo 463.º, será levada em conta nos termos seguintes, seja qual for a autoridade que a tiver ordenado:
 
 1.º No cumprimento das penas de presídio militar até dois anos, de prisão militar e de incorporação em depósito disciplinar, será descontada na sua totalidade;
 
@@ -140,35 +147,35 @@ As disposições do artigo 23.º, circunstância 15.ª, do artigo 45.º do artig
 
 ...
 
-###### Art. 163.º ...
+Art. 163.º ...
 
 3.º Fugir à escolta que o acompanhe ou do local em que esteja preso ou a cumprir qualquer pena, uma vez se não apresente ou não seja capturado no prazo de oito dias a contar da fuga.
 
 ...
 
-###### Art. 164.º Em caso de guerra, declarada ou iminente, durante o estado de sítio ou de grave emergência, legalmente declarados, os prazos para a deserção estabelecidos no artigo anterior são reduzidos a quatro dias na hipótese do n.º 2.º e a três dias nos restantes.
+Art. 164.º Em caso de guerra, declarada ou iminente, durante o estado de sítio ou de grave emergência, legalmente declarados, os prazos para a deserção estabelecidos no artigo anterior são reduzidos a quatro dias na hipótese do n.º 2.º e a três dias nos restantes.
 
 ...
 
-###### Art. 186.º O militar que, pela primeira vez e sem motivo justificado, deixar de apresentar qualquer dos objectos a que se referem o § 2.º do artigo 183.º e o artigo 184.º, será punido disciplinarmente se os objectos extraviados tinham ao tempo em que lhe foram confiados ou distribuídos valor inferior a 100$00.
+Art. 186.º O militar que, pela primeira vez e sem motivo justificado, deixar de apresentar qualquer dos objectos a que se referem o § 2.º do artigo 183.º e o artigo 184.º, será punido disciplinarmente se os objectos extraviados tinham ao tempo em que lhe foram confiados ou distribuídos valor inferior a 100$00.
 
 ...
 
-###### Art. 192.º As penas estabelecidas no § único do artigo 190.º e no artigo 191.º poderão ser substituídas pelas imediatamente inferiores quando o prejuízo realizado ou o valor dos objectos destruídos ou inutilizados for inferior a 5000$00.
+Art. 192.º As penas estabelecidas no § único do artigo 190.º e no artigo 191.º poderão ser substituídas pelas imediatamente inferiores quando o prejuízo realizado ou o valor dos objectos destruídos ou inutilizados for inferior a 5000$00.
 
 ...
 
-###### Art. 196.º O militar que por negligência causar ou não evitar incêndio em navio, aparelho de aviação, viatura automóvel, arsenal, armazém ou estabelecimento do Estado será condenado:
+Art. 196.º O militar que por negligência causar ou não evitar incêndio em navio, aparelho de aviação, viatura automóvel, arsenal, armazém ou estabelecimento do Estado será condenado:
 
 ...
 
-###### Art. 200.º ...
+Art. 200.º ...
 
 1.º Com presídio militar de seis anos e um dia a oito anos, se incendiar casa ou edifício habitado ou causar prejuízo superior a 5000$00;
 
 ...
 
-###### Art. 374.º ...
+Art. 374.º ...
 
 § 2.º ...
 
@@ -178,7 +185,7 @@ As disposições do artigo 23.º, circunstância 15.ª, do artigo 45.º do artig
 
 ...
 
-###### Art. 406.º Os actos de julgamento não poderão ser praticados em domingos ou dias feriados nem durante as férias, salvo quando circunstâncias excepcionais o impuserem, porque então deverá concluir-se ou até iniciar-se a audiência de julgamento.
+Art. 406.º Os actos de julgamento não poderão ser praticados em domingos ou dias feriados nem durante as férias, salvo quando circunstâncias excepcionais o impuserem, porque então deverá concluir-se ou até iniciar-se a audiência de julgamento.
 
 A audiência de julgamento prosseguirá até final durante as férias de verão se não ocorrer razão justificativa da sua interrupção.
 
@@ -188,7 +195,7 @@ A audiência de julgamento prosseguirá até final durante as férias de verão 
 
 ...
 
-###### Art. 529.º É obrigatória a interposição de recurso por parte do promotor:
+Art. 529.º É obrigatória a interposição de recurso por parte do promotor:
 
 1.º Da decisão de que os factos imputados não são incriminados na lei;
 
@@ -200,21 +207,21 @@ A audiência de julgamento prosseguirá até final durante as férias de verão 
 
 ...
 
-###### Art. 532.º Ainda que o recurso seja sòmente interposto pelo condenado, a pena poderá ser-lhe agravada.
+Art. 532.º Ainda que o recurso seja sòmente interposto pelo condenado, a pena poderá ser-lhe agravada.
 
 ...
 
-###### Art. 535.º O promotor ou o advogado da parte queixosa e o defensor constituído pelo réu especificarão concisamente os fundamentos do recurso. A falta desta fundamentação implica o não conhecimento do recurso.
+Art. 535.º O promotor ou o advogado da parte queixosa e o defensor constituído pelo réu especificarão concisamente os fundamentos do recurso. A falta desta fundamentação implica o não conhecimento do recurso.
 
 § único. O disposto na segunda parte do artigo não é aplicável aos recursos interpostos pelo promotor de justiça quando recorra por imposição da lei.
 
 ...
 
-###### Art. 551.º A discussão da causa será precedida de um relatório verbal ou escrito, feito pelo relator do processo, no qual exporá os factos sobre que versaram a acusação e a defesa e as circunstâncias que os acompanharam, indicando a lei ofendida, os factos que o tribunal considerou provados, a decisão recorrida e os seus fundamentos e, bem assim, os fundamentos do recurso. Referir-se-á ainda aos incidentes que porventura tenham sido levantados durante discussão no tribunal recorrido e à decisão proferida a respeito de cada um.
+Art. 551.º A discussão da causa será precedida de um relatório verbal ou escrito, feito pelo relator do processo, no qual exporá os factos sobre que versaram a acusação e a defesa e as circunstâncias que os acompanharam, indicando a lei ofendida, os factos que o tribunal considerou provados, a decisão recorrida e os seus fundamentos e, bem assim, os fundamentos do recurso. Referir-se-á ainda aos incidentes que porventura tenham sido levantados durante discussão no tribunal recorrido e à decisão proferida a respeito de cada um.
 
 ...
 
-###### Art. 560.º ...
+Art. 560.º ...
 
 1.º Ilegal composição do tribunal militar;
 
@@ -232,27 +239,27 @@ A audiência de julgamento prosseguirá até final durante as férias de verão 
 
 8.º Acusação referente a factos não especificados no despacho que a ordenou.
 
-###### Art. 561.º Quando a decisão for nula por alguns dos fundamentos dos n.os 6.º e 7.º do artigo anterior, tribunal decidirá definitivamente conforme o regime jurídico que julgue adequado aos factos materiais fixados pelo tribunal recorrido.
+Art. 561.º Quando a decisão for nula por alguns dos fundamentos dos n.os 6.º e 7.º do artigo anterior, tribunal decidirá definitivamente conforme o regime jurídico que julgue adequado aos factos materiais fixados pelo tribunal recorrido.
 
 Neste caso intervirão no julgamento todos os juízes que não estiverem impedidos.
 
-###### Art. 2.º As disposições do § único do artigo 16.º, do artigo 17.º e § 1.º e do artigo 18.º do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 15 de Junho de 1931, passam a ter a seguinte redacção:
+Art. 2.º As disposições do § único do artigo 16.º, do artigo 17.º e § 1.º e do artigo 18.º do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 15 de Junho de 1931, passam a ter a seguinte redacção:
 
-###### Art. 16.º ...
+Art. 16.º ...
 
 § único. Nos tribunais militares territoriais de Lisboa servirá também um juiz adjunto igualmente togado. O juiz adjunto tem, em igualdade de classificação, preferência na nomeação para o cargo de juiz auditor.
 
-###### Art. 17.º Os auditores dos tribunais militares territoriais, o adjunto referido no § único do artigo anterior e o auditor do Tribunal Militar da Marinha são nomeados por portarias dos Ministérios do Exército ou da Marinha, segundo o caso, escolhidos de entre os juízes de direito com classificação não inferior à de Bom, de 1.ª ou 2.ª classe, que o requererem, designados em lista tríplice, que será solicitada, para esse fim, ao Ministério da Justiça. Terão o vencimento correspondente a juiz de 1.ª classe e serão considerados, para todos os efeitos legais, como continuando a servir no quadro da magistratura judicial.
+Art. 17.º Os auditores dos tribunais militares territoriais, o adjunto referido no § único do artigo anterior e o auditor do Tribunal Militar da Marinha são nomeados por portarias dos Ministérios do Exército ou da Marinha, segundo o caso, escolhidos de entre os juízes de direito com classificação não inferior à de Bom, de 1.ª ou 2.ª classe, que o requererem, designados em lista tríplice, que será solicitada, para esse fim, ao Ministério da Justiça. Terão o vencimento correspondente a juiz de 1.ª classe e serão considerados, para todos os efeitos legais, como continuando a servir no quadro da magistratura judicial.
 
 § 1.º Os auditores e o adjunto servirão por um triénio, podendo ser reconduzidos por iguais períodos de tempo. Antes de findo cada período não podem ser transferidos nem mandados regressar à magistratura judicial senão a requerimento seu ou no caso de lhes ser imposta pena que implique transferência.
 
 ...
 
-###### Art. 18.º Os auditores dos tribunais militares territoriais desempenharão também as funções de consultor do Ministério do Exército e da Secretaria de Estado da Aeronáutica, cumprindo-lhes dar parecer fundamentado acerca de problemas ou questões de direito, excepto em assuntos relativos a processos de justiça militar.
+Art. 18.º Os auditores dos tribunais militares territoriais desempenharão também as funções de consultor do Ministério do Exército e da Secretaria de Estado da Aeronáutica, cumprindo-lhes dar parecer fundamentado acerca de problemas ou questões de direito, excepto em assuntos relativos a processos de justiça militar.
 
 As mesmas funções de consultor do Ministério da Marinha desempenhará o auditor do Tribunal Militar da Marinha.
 
-###### Art. 3.º Os valores limites estabelecidos nos artigos 218.º, 226.º, 227.º, 228.º e 229.º do Código de Justiça Militar são elevados, nos termos seguintes:
+Art. 3.º Os valores limites estabelecidos nos artigos 218.º, 226.º, 227.º, 228.º e 229.º do Código de Justiça Militar são elevados, nos termos seguintes:
 
 a) Para 20000$00 os de 5000$00;
 
@@ -260,15 +267,15 @@ b) Para 5000$00 os de 2000$00;
 
 c) Para 1000$00 os de 500$00.
 
-###### Art. 4.º O crime previsto e punido pelo artigo 218.º em seu n.º 4.º passará a ser punido:
+Art. 4.º O crime previsto e punido pelo artigo 218.º em seu n.º 4.º passará a ser punido:
 
 a) Com prisão maior de dois a oito anos se o valor, não excedendo 5000$00, for superior a 1000$00;
 
 b) Com presídio militar de dois anos e um dia a quatro anos se o valor não exceder 1000$00.
 
-###### Art. 5.º É elevado para 25$00 o subsídio diário a que se refere o artigo 203.º do Regulamento para a Execução do Código de Justiça Militar.
+Art. 5.º É elevado para 25$00 o subsídio diário a que se refere o artigo 203.º do Regulamento para a Execução do Código de Justiça Militar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
 

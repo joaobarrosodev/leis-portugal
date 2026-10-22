@@ -47,36 +47,82 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/424-1971-633130
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-10-02T00:00:00Z'
+  retrieved_at: '2026-10-22T22:20:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fa17380e5277e95524ba10262123a850e9e518ca44f8670f2e8aa40a6db2b83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cadbbcd54b3f0f4ebf317bf56d2fc90703b4e21e8479020e5dd1eb0402f04e17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:20:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Banco Nacional Ultramarino
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:201659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215961:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216289:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:216291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:296232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516270:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:20:09Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +135,19 @@ Tendo-se reconhecido a conveniência de introduzir alterações aos estatutos qu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovada a alteração dos Estatutos do Banco Nacional Ultramarino, que vai assinada pelo Ministro do Ultramar e é parte integrante do presente decreto-lei.
+Artigo 1.º É aprovada a alteração dos Estatutos do Banco Nacional Ultramarino, que vai assinada pelo Ministro do Ultramar e é parte integrante do presente decreto-lei.
 
-###### Art. 2.º É autorizado o Ministro do Ultramar a realizar, em representação do Estado, um contrato com o Banco Nacional Ultramarino, nos termos das cláusulas anexas a este diploma e que dele são igualmente parte integrante.
+Art. 2.º É autorizado o Ministro do Ultramar a realizar, em representação do Estado, um contrato com o Banco Nacional Ultramarino, nos termos das cláusulas anexas a este diploma e que dele são igualmente parte integrante.
 
-###### Art. 3.º Este decreto-lei entra imediatamente em vigor.
+Art. 3.º Este decreto-lei entra imediatamente em vigor.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 22 de Setembro de 1971.**
+Promulgado em 22 de Setembro de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas, com excepção do de Angola. - J. da Silva Cunha.
 
@@ -581,7 +627,7 @@ No caso de o governo do Banco, ou o conselho-geral, entender que o Estado ou as 
 
 ###### ARTIGO 108.º — (Eliminado.)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 Cláusulas do contrato entre o Estado e o Banco Nacional Ultramarino, a que se refere o artigo 2.º do Decreto-Lei n.º 424/71, de 2 de Outubro.
 
@@ -905,4 +951,4 @@ CLÁUSULA 40.ª
 
 As estipulações vigentes dos contratos anteriores entre o Estado e o Banco subsistem em tudo o que não é alterado por este contrato.
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

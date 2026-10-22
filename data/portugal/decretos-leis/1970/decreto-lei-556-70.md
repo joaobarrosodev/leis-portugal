@@ -48,36 +48,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/556-1970-147195
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-13T00:00:00Z'
+  retrieved_at: '2026-10-22T22:16:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17737f8c4af68a4038c5516160806f29be92a126054dee44fcf97dfd6997c76e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0a7f138a92710dd4fbe901d0ae301f39451c6b5dedc02a5691c33b663624357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:16:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acumulação de Empregos
+- Conselho Administrativo
+- Fundo de Fomento do Desporto
+- Gratificação
+- Horário de Trabalho
+- Pessoal Técnico
+- Regime de Pessoal
+- Senha de Presença
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291967:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:16:21Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +104,13 @@ de 13 de Novembro
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 9.º do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, passa a ter a seguinte redacção:
 
 1. Os membros do conselho administrativo e as entidades referidas no artigo 7.º perceberão gratificações mensais fixadas pelo Ministro da Educação Nacional, de acordo com o Ministro das Finanças, eu senhas de presença.
 
 2. As gratificações são acumuláveis com as remunerações que os nomeados percebam pelo exercício de funções noutros serviços do Estado ou dos corpos administrativos ou em organismos de coordenação económica, com observância do disposto no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### Art. 2.º - 1. O pessoal técnico a que se refere o n.º 2 do artigo 17.º do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, pode prestar serviço no regime de tempo completo ou no de tempo parcial.
+Art. 2.º - 1. O pessoal técnico a que se refere o n.º 2 do artigo 17.º do [Decreto-Lei n.º 46449](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46449-1965-291967), de 23 de Julho de 1965, pode prestar serviço no regime de tempo completo ou no de tempo parcial.
 
 2. O regime de tempo parcial corresponderá à prestação de um mínimo de quatro horas diárias de serviço e será retribuído proporcionalmente ao horário cumprido e à remuneração correspondente ao lugar ocupado.
 
@@ -102,8 +118,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 29 de Outubro de 1970.**
+Promulgado em 29 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

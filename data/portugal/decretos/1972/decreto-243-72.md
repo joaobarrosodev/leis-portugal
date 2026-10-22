@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/243-1972-674804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d955ef537de2bba1ee73453056fb30b3ae19b4fb4419bf22413fb7fb33c963df
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3557ebbd10a3e15f6d68c19e2697467cb76e0750bb9f439460e907147862d93d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:22:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:142690:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:186908:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:22:36Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +104,23 @@ Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por mot
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-###### Artigo 1.º - 1. O pessoal militar da Armada dos quadros dos Serviços de Marinha de Moçambique é incluído, para efeitos hierárquicos, disciplinares e de vencimentos, nas categorias do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino constantes do mapa I anexo a este diploma.
+Artigo 1.º - 1. O pessoal militar da Armada dos quadros dos Serviços de Marinha de Moçambique é incluído, para efeitos hierárquicos, disciplinares e de vencimentos, nas categorias do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino constantes do mapa I anexo a este diploma.
 
 2. O pessoal militar a que se refere o n.º 1 passa a ter direito às gratificações mensais fixadas no mapa II anexo a este diploma.
 
-###### Art. 2.º O actual cargo de subdirector dos Serviços passa a designar-se director-adjunto, mantendo as mesmas atribuições estabelecidas na legislação em vigor.
+Art. 2.º O actual cargo de subdirector dos Serviços passa a designar-se director-adjunto, mantendo as mesmas atribuições estabelecidas na legislação em vigor.
 
-###### Art. 3.º - 1. Os vencimentos fixados no mapa I substituem o soldo ou pré, o ordenado, o exercício, a gratificação ultramarina e o suplemento de vencimentos devidos pela legislação vigente.
+Art. 3.º - 1. Os vencimentos fixados no mapa I substituem o soldo ou pré, o ordenado, o exercício, a gratificação ultramarina e o suplemento de vencimentos devidos pela legislação vigente.
 
 2. Deixam de ser abonadas as gratificações actualmente atribuídas ao pessoal a que se refere o artigo 1.º
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Julho de 1972.**
+Promulgado em 10 de Julho de 1972.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
@@ -120,12 +128,12 @@ MAPA I
 
 Designações, postos e letras a que se refere o n.º 1 do artigo 1.º do Decreto n.º 243/72, de 2 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf))](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf)
 
 MAPA II
 
 Gratificações a que se refere o n.º 2 do artigo 1.º do Decreto n.º 243/72, de 2 de Julho
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf))](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/07/16800/09210922.pdf)
 
-**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

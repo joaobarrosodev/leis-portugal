@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/10/23900/15461547.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48620-1968-264351
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T22:06:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f74aa2877d200040cfaa423d495b1d84f60fa872573b45cf81d047971b51dcb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f025573effb1e82ed7dab9a32401c227f085f9d7c3fc2e4ee9ddc0166ba113
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:06:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Diário do Governo
+- Diploma Legal
+- Formulário dos Diplomas
+- Publicação
 relationships:
 - type: amended_by
   target: pt:dre:408675:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138840:por
+  label: "Dada nova redacção ao nº 1 do art. 2º pelo DEC LEI.413/70.27.08.1970.PC, DG.IS [198] de 27.08.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/413-1970-138840
+  date: '1970-08-27'
+- type: amended_by
+  target: pt:dre:674445:por
+  label: "Dada nova redacção ao nº 4 do art. 1º e ao nº 1 do art. 2º pelo DEC LEI.223/72.30.06.1972.PC, DG.IS [151] de 30.06.1972\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1972-674445
+  date: '1972-06-30'
+- type: repealed_by
+  target: pt:dre:408675:por
+  label: "Revogado pela LEI.3/76.1976.09.10.AR DR.IS [213]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/3-1976-408675
+  date: '1976-09-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:06:50Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +122,7 @@ Procura-se também simplificar o exercício da competência do Conselho de Minis
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os diplomas que nos termos da Constituição devam ser promulgados ou assinados pelo Presidente da República serão submetidas ao Chefe de Estado depois de referendados pelo Presidente do Conselho e pelo Ministro ou Ministros competentes.
+Artigo 1.º - 1. Os diplomas que nos termos da Constituição devam ser promulgados ou assinados pelo Presidente da República serão submetidas ao Chefe de Estado depois de referendados pelo Presidente do Conselho e pelo Ministro ou Ministros competentes.
 
 2. As leis e resoluções da Assembleia Nacional serão referendadas unicamente pelo Presidente do Conselho.
 
@@ -110,11 +130,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 4. Na fórmula dos decretos-leis mencionar-se-á, quando se verificar, a aprovação em Conselho de Ministros.
 
-###### Art. 2.º - 1. Na publicação dos diplomas seguir-se-ão ao texto do seu dispositivo as assinaturas do Governo, a menção da data da promulgação ou assinatura do Chefe do Estado e a ordem e data da publicação, com a assinatura do Presidente da República.
+Art. 2.º - 1. Na publicação dos diplomas seguir-se-ão ao texto do seu dispositivo as assinaturas do Governo, a menção da data da promulgação ou assinatura do Chefe do Estado e a ordem e data da publicação, com a assinatura do Presidente da República.
 
 2. A data dos diplomas é, para todos os efeitos, a da publicação.
 
-###### Art. 3.º - 1. A competência atribuída por lei ao Conselho de Ministros em assuntos correntes de administração pública passa a ser exercida pelo Presidente do Conselho, que a poderá delegar em qualquer dos Ministros.
+Art. 3.º - 1. A competência atribuída por lei ao Conselho de Ministros em assuntos correntes de administração pública passa a ser exercida pelo Presidente do Conselho, que a poderá delegar em qualquer dos Ministros.
 
 2. Compete ao Conselho de Ministros: a nomeação do presidente do Supremo Tribunal de Justiça, do procurador-geral da República, dos governadores das províncias ultramarinas e dos vogais do Conselho Ultramarino que lhe pertença designar.
 
@@ -126,8 +146,8 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 6. O Presidente do Conselho poderá, quando julgue conveniente, submeter à resolução de um Conselho restrito, convocado ad hoc, qualquer das matérias que nos termos do n.º 1 passam a ser da sua competência.
 
-###### Art. 4.º O formulário dos diplomas será regulamentado em portaria do Presidente do Conselho.
+Art. 4.º O formulário dos diplomas será regulamentado em portaria do Presidente do Conselho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Alfredo do Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottamayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.

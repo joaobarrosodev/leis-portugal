@@ -47,36 +47,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47226-1966-480107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:58:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da5edfa805f3db8b50e8905994b2d0821c93a881d1780a928c85902066a7aecf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d25cdeb4c1952a0399b1a6c56657ac43ddbfdd4b5e316476908529b018ba49a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:58:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- CAÇA
+- Contravenção
+- Fiscalização
+- Licença de Caça
+- Multa
+- Regime Jurídico
+relationships:
+- type: cites
+  target: pt:dre:675390:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:488113:por
+  label: "Rectificado o art. 4º pela RECT.DD554.29.12.1966.PC, DG.IS [301] de 29.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1966-488113
+  date: '1966-12-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:58:31Z'
   warnings: []
   errors: []
 ---
@@ -105,7 +120,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. A licença de caça revestirá as seguintes modalidades:
+Artigo 1.º - 1. A licença de caça revestirá as seguintes modalidades:
 
 a) Licença geral de caça;
 
@@ -123,7 +138,7 @@ e) Licença de caça sem espingarda.
 
 4. A licença de caça sem espingarda apenas permite caçar com a ajuda de cães (a corricão), com ou sem pau, na área do concelho para que for emitida e na dos concelhos limítrofes.
 
-###### Art. 2.º - 1. Pela concessão das licenças previstas no artigo anterior serão devidas as seguintes taxas:
+Art. 2.º - 1. Pela concessão das licenças previstas no artigo anterior serão devidas as seguintes taxas:
 
 a) Licença geral de caça ... 300$00
 
@@ -137,29 +152,29 @@ e) Licença de caça sem espingarda ... 40$00
 
 2. O produto das taxas constitui receita da Direcção-Geral dos Serviços Florestais e Aquícolas, depois de deduzidas, por cada licença, as seguintes quantias: 20$00 para a câmara municipal; 13$50 para a comissão venatória regional; e 6$50 para a comissão venatória concelhia.
 
-###### Art. 3.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas pelo n.º 2 do artigo anterior serão aplicadas nas despesas necessárias ao exercício da polícia e fiscalização da caça e ao fomento das espécies cinegéticas, através dos seus próprios serviços ou de subsídios às comissões venatórias regionais.
+Art. 3.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas pelo n.º 2 do artigo anterior serão aplicadas nas despesas necessárias ao exercício da polícia e fiscalização da caça e ao fomento das espécies cinegéticas, através dos seus próprios serviços ou de subsídios às comissões venatórias regionais.
 
-###### Art. 4.º - 1. Os cartões das licenças de caça continuam a ser selados com estampilhas fiscais no valor de 5$00, mantendo-se o custo de cada um em 1$00.
+Art. 4.º - 1. Os cartões das licenças de caça continuam a ser selados com estampilhas fiscais no valor de 5$00, mantendo-se o custo de cada um em 1$00.
 
 2. Os modelos dos cartões das diversas licenças serão aprovados mediante portaria do Secretário de Estado da Agricultura.
 
-###### Art. 5.º - 1. A caça em época de defeso ou com o emprego de meios proibidos constitui crime punível com prisão de um a seis meses e multa de 500$00 a 10000$00 e acarreta sempre a interdição do direito de caçar, bem como a perda dos instrumentos da infracção.
+Art. 5.º - 1. A caça em época de defeso ou com o emprego de meios proibidos constitui crime punível com prisão de um a seis meses e multa de 500$00 a 10000$00 e acarreta sempre a interdição do direito de caçar, bem como a perda dos instrumentos da infracção.
 
 2. Decretar-se-á a interdição definitiva quando ao infractor hajam sido impostas duas interdições temporárias, nos termos do número anterior, e volte a cometer uma das infracções nele previstas.
 
 3. A pena de prisão respeitante às infracções previstas no n.º 1 não poderá ser substituída por multa quando o infractor tenha sido já condenado por uma dessas infracções, salvo se entre a nova condenação e a anterior decorrerem mais de cinco anos.
 
-###### Art. 6.º - 1. A caça em locais proibidos constitui contravenção punível com a multa de 500$00 a 5000$00, sem prejuízo da aplicação de pena mais grave correspondente ao crime de dano, que no caso concorra, e da obrigação de indemnizar pelos prejuízos causados.
+Art. 6.º - 1. A caça em locais proibidos constitui contravenção punível com a multa de 500$00 a 5000$00, sem prejuízo da aplicação de pena mais grave correspondente ao crime de dano, que no caso concorra, e da obrigação de indemnizar pelos prejuízos causados.
 
 2. O tribunal poderá decretar, de harmonia com a gravidade da infracção, a interdição do direito de caçar.
 
-###### Art. 7.º - 1. A interdição temporária do direito de caçar pode ser de um a cinco anos.
+Art. 7.º - 1. A interdição temporária do direito de caçar pode ser de um a cinco anos.
 
 2. O não acatamento da interdição, temporária ou definitiva, é punível com a pena de prisão até seis meses.
 
-###### Art. 8.º A perda dos instrumentos da infracção envolve a perda da espingarda, bem como do veículo que serviu à prática daquela, salvo se pertenciam a terceiro e foram utilizados para esse fim contra sua vontade ou com seu desconhecimento e sem que da infracção haja tirado vantagens.
+Art. 8.º A perda dos instrumentos da infracção envolve a perda da espingarda, bem como do veículo que serviu à prática daquela, salvo se pertenciam a terceiro e foram utilizados para esse fim contra sua vontade ou com seu desconhecimento e sem que da infracção haja tirado vantagens.
 
-###### Art. 9.º - 1. O quantitativo das multas por infracções relativas a disposições sobre a caça terá o seguinte destino:
+Art. 9.º - 1. O quantitativo das multas por infracções relativas a disposições sobre a caça terá o seguinte destino:
 
 a) 1/5 para a comissão venatória concelhia;
 
@@ -171,14 +186,14 @@ d) Os restantes 2/5 para a Direcção-Geral dos Serviços Florestais e Aquícola
 
 2. A consignação estabelecida no número anterior não prejudica a atribuição ao Cofre Geral dos Tribunais da parte que lhe cabe no produto das multas, nos termos do Código Penal.
 
-###### Art. 10.º Os quantitativos atribuídos à Direcção-Geral dos Serviços Florestais e Aquícolas, ao abrigo do artigo anterior, serão reservados, em partes iguais, para fomento cinegético e atribuição de prémios a autuantes e participantes que sejam agentes de fiscalização e se tenham revelado especialmente diligentes no desempenho das suas funções.
+Art. 10.º Os quantitativos atribuídos à Direcção-Geral dos Serviços Florestais e Aquícolas, ao abrigo do artigo anterior, serão reservados, em partes iguais, para fomento cinegético e atribuição de prémios a autuantes e participantes que sejam agentes de fiscalização e se tenham revelado especialmente diligentes no desempenho das suas funções.
 
-###### Art. 11.º É atribuída competência para a fiscalização do cumprimento das disposições relativas a caça aos guardas florestais da Direcção-Geral dos Serviços Florestais e Aquícolas, fazendo os respectivos autos fé em juízo, até prova em contrário, nos termos do artigo 58.º do [Decreto n.º 23461](https://diariodarepublica.pt/dr/detalhe/decreto/23461-1934-675390), de 17 de Janeiro de 1934.
+Art. 11.º É atribuída competência para a fiscalização do cumprimento das disposições relativas a caça aos guardas florestais da Direcção-Geral dos Serviços Florestais e Aquícolas, fazendo os respectivos autos fé em juízo, até prova em contrário, nos termos do artigo 58.º do [Decreto n.º 23461](https://diariodarepublica.pt/dr/detalhe/decreto/23461-1934-675390), de 17 de Janeiro de 1934.
 
-###### Art. 12.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas serão depositadas mensalmente na Caixa Geral de Depósitos, Crédito e Previdência, pelas câmaras municipais que as cobrarem.
+Art. 12.º As quantias atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas serão depositadas mensalmente na Caixa Geral de Depósitos, Crédito e Previdência, pelas câmaras municipais que as cobrarem.
 
-###### Art. 13.º O regime de licenças fixado no presente diploma entrará em vigor no dia 1 de Janeiro de 1967, mantendo a sua validade, até 31 de Dezembro de 1966, as licenças que tenham sido ou venham a ser concedidas ao abrigo da legislação vigente.
+Art. 13.º O regime de licenças fixado no presente diploma entrará em vigor no dia 1 de Janeiro de 1967, mantendo a sua validade, até 31 de Dezembro de 1966, as licenças que tenham sido ou venham a ser concedidas ao abrigo da legislação vigente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.

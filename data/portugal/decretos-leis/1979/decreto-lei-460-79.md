@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/27100/30263026.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1979-367048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f45630f5d32213ee5f45beb3147c8268f6aa705489ebc7939c24e6dba9f3e210
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af7fcc8a1ac094d4a43451a3ec592b8d0026c3afa5ad1ffe3f285670b4445a42
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:23:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho de Administração
+- Definição de Competências
+- Empresa Pública
+- Estatuto
+- Presidente
+- TAP
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253440:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283305:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:23:08Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +116,15 @@ Aproveitou-se, ao mesmo tempo, não só a vantagem de clarificar a atribuição 
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 1.º, n.º 1, 12.º, n.º 1, alínea a), na redacção dada pelo [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), de 30 de Setembro, e 30.º, n.º 3, do estatuto anexo ao [Decreto-Lei n.º 471-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-a-1976-283305), de 14 de Junho, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º, n.º 1, 12.º, n.º 1, alínea a), na redacção dada pelo [Decreto-Lei n.º 414-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-a-1977-253440), de 30 de Setembro, e 30.º, n.º 3, do estatuto anexo ao [Decreto-Lei n.º 471-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-a-1976-283305), de 14 de Junho, passam a ter a seguinte redacção:
 
-###### Artigo 1.º - 1 - Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, TAP - Air Portugal, ou apenas Air Portugal, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.
+Artigo 1.º - 1 - Transportes Aéreos Portugueses, E. P., que pode designar-se abreviadamente por TAP, TAP - Air Portugal, ou apenas Air Portugal, é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa e financeira e património próprio, com sede em Lisboa, a qual se rege pelo disposto nos presentes estatutos e pelas normas complementares de execução, observando-se nos casos omissos as normas aplicáveis às empresas públicas em geral e, subsidiariamente, as normas por que se regem as empresas privadas.
 
 2 - ...
 
 ...
 
-###### Art. 12.º - 1 - Compete ao presidente do conselho de gerência:
+Art. 12.º - 1 - Compete ao presidente do conselho de gerência:
 
 a) Coordenar e dirigir as actividades do conselho de gerência;
 
@@ -123,7 +142,7 @@ g) ...
 
 ...
 
-###### Art. 30.º - 1 - ...
+Art. 30.º - 1 - ...
 
 2 - ...
 
@@ -131,8 +150,8 @@ g) ...
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Frederico Alberto Monteiro da Silva.
 
-**Promulgado em 8 de Novembro de 1979.**
+Promulgado em 8 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47988-1967-387845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T22:02:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e34eb99370dd14c65104e35194b61a64d1a8ae91b820753156b88f51a7d61a67
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8534b0a436094980a0b64fc4dfa9980c445fb477b45f1bf87de1f0270262e8ad
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acidente Nuclear
+- Armador
+- Bruxelas
+- Convenção
+- Embarcação
+- Energia Nuclear
+- Portugal
+- Resíduo Radioactivo
+- Responsabilidade Civil
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:02:54Z'
   warnings: []
   errors: []
 ---
@@ -85,9 +94,9 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para ratificação, a Convenção sobre a Responsabilidade dos Armadores de Navios Nucleares, concluída em Bruxelas em 25 de Maio de 1962, cujo texto em língua francesa e respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para ratificação, a Convenção sobre a Responsabilidade dos Armadores de Navios Nucleares, concluída em Bruxelas em 25 de Maio de 1962, cujo texto em língua francesa e respectiva tradução para português vão anexos ao presente decreto-lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -101,7 +110,7 @@ Tendo reconhecido a utilidade de fixar de comum acordo certas regras uniformes r
 
 Decidiram estabelecer uma Convenção para este fim e, em consequência, concordaram no seguinte:
 
-ARTIGO I
+###### ARTIGO I
 
 Segundo a presente Convenção:
 
@@ -129,7 +138,7 @@ Segundo a presente Convenção:
 
 12. «Direito interno aplicável» significa o direito do tribunal que tem a competência jurisdicional nos termos da presente Convenção, incluindo as regras relativas aos conflitos de leis.
 
-ARTIGO II
+###### ARTIGO II
 
 1. O armador de um navio nuclear é objectivamente responsável por todo o dano nuclear que se prove ter sido motivado por um acidente nuclear no qual estejam implicados o combustível nuclear ou os produtos ou resíduos radioactivos daquele navio.
 
@@ -149,7 +158,7 @@ b) Se o acidente nuclear for consequência de trabalhos de levantamento de objec
 
 c) Se o direito de regresso for expressamente previsto por contrato.
 
-ARTIGO III
+###### ARTIGO III
 
 1. O montante da responsabilidade do armador respeitante a cada navio é limitado a um milhão e meio de francos para cada acidente nuclear, mesmo se este tiver sido originado por uma falta pessoal do armador; esta importância não compreende nem os juros nem as despesas atribuídas por um tribunal numa acção de indemnização intentada em virtude da presente Convenção.
 
@@ -159,11 +168,11 @@ ARTIGO III
 
 4. O franco mencionado no parágrafo 1 do presente artigo é uma unidade de conta constituída por 65,5 mm de ouro com o título de 900 milésimos de ouro fino. A soma atribuída pode ser convertida em números redondos em cada moeda nacional. A conversão em moedas nacionais diferentes da moeda-ouro efectuar-se-á segundo o valor destas moedas à data do pagamento.
 
-ARTIGO IV
+###### ARTIGO IV
 
 Quando um dano nuclear e um dano não nuclear forem causados por um acidente nuclear ou, conjuntamente, por um acidente nuclear e uma ou mais outras causas, sem que seja possível determinar com exactidão o dano nuclear e o não nuclear, a totalidade do dano é considerada, para os fins da presente Convenção, como um dano nuclear causado por um acidente nuclear. Todavia, logo que um dano for causado conjuntamente por um acidente nuclear previsto pela presente Convenção e por uma emissão de radiações ionizantes ou por uma emissão de radiações ionizantes em combinação com propriedades tóxicas, explosivas e outras propriedades perigosas originadas por uma fonte de radiações não prevista por ela, nenhuma das disposições da presente Convenção limita ou afecta de outra forma a responsabilidade para com as vítimas, quer por via de acção de regresso, quer da comparticipação no encargo da indemnização de toda a pessoa que possa ser considerada responsável pelo facto da emissão de radiações ionizantes ou das propriedades tóxicas, explosivas e outras propriedades perigosas provenientes de outra fonte de radiações não prevista na presente Convenção.
 
-ARTIGO V
+###### ARTIGO V
 
 1. O direito à reparação em virtude da presente Convenção extingue-se se uma acção não for intentada nos dez anos seguintes, a contar da data do acidente nuclear. Todavia, se, em conformidade com o direito do Estado que concede a licença, a responsabilidade do armador estiver coberta por um seguro ou qualquer outra garantia financeira ou por uma indemnização do Estado durante um período superior a dez anos, o direito interno aplicável pode prever que o direito à reparação contra o armador não se extinguirá senão depois de expirar o período durante o qual a responsabilidade do armador está assim coberta em conformidade com o direito do Estado que concede a licença. Porém, este prolongamento do prazo de extinção não afecta em qualquer caso o direito à reparação nos termos da presente Convenção das pessoas que tenham intentado contra o armador acção com fundamento em homicídio ou ofensas corporais antes de expirado o referido prazo de dez anos.
 
@@ -173,11 +182,11 @@ ARTIGO V
 
 4. Toda a pessoa que declare ter sofrido um dano nuclear e que tenha intentado uma acção de reparação, no prazo aplicável nos termos do presente artigo pode modificar o seu pedido com fundamento no agravamento do dano, mesmo depois de decorrido aquele prazo, enquanto não for proferido um julgamento definitivo.
 
-ARTIGO VI
+###### ARTIGO VI
 
 Se as disposições de um regime nacional de seguro na doença, seguro social, seguro de acidentes de trabalho ou de doenças profissionais comportarem indemnizações por danos nucleares, os direitos dos beneficiários a título destes regimes e os direitos de sub-rogação ou de regresso contra o armador em virtude destes regimes são determinados pelo direito do Estado contratante que os estabeleceu. Todavia, se o direito deste Estado contratante permitir que as acções dos beneficiários destes regimes sejam intentadas e que os direitos de sub-rogação e de regresso sejam exercidos contra o armador conforme as disposições da presente Convenção, não pode resultar daí que a responsabilidade do armador ultrapasse o montante fixado no parágrafo 1 do artigo III.
 
-ARTIGO VII
+###### ARTIGO VII
 
 1. Quando um dano nuclear implique a responsabilidade de vários armadores sem que seja possível determinar com exactidão qual o dano imputável a cada um deles, estes armadores são solidàriamente responsáveis. Todavia, a responsabilidade de cada um deles não poderá ser, em nenhum caso, superior ao limite fixado no artigo III.
 
@@ -189,15 +198,15 @@ a) Cada armador pode pedir aos outros uma contribuição proporcional à gravida
 
 b) Se as circunstâncias forem tais que não seja possível determinar a parte imputável a cada um deles na falta cometida, a responsabilidade total é assumida em partes iguais.
 
-ARTIGO VIII
+###### ARTIGO VIII
 
 O armador não é responsável, em virtude da presente Convenção, por um dano nuclear causado por um acidente nuclear resultante directamente de um acto de guerra, de hostilidade, de uma guerra civil ou de uma insurreição.
 
-ARTIGO IX
+###### ARTIGO IX
 
 As somas provenientes de um seguro, de qualquer outra garantia financeira ou das indemnizações prestadas pelo Estado, conforme o parágrafo 2 do artigo III, são exclusivamente reservadas à reparação devida em aplicação da presente Convenção.
 
-ARTIGO X
+###### ARTIGO X
 
 1. As acções de reparação podem ser intentadas, à escolha do autor, quer perante os tribunais do Estado que concede a licença, quer perante os tribunais do Estado contratante ou Estados contratantes sobre o território do qual ou dos quais o dano nuclear foi sofrido.
 
@@ -205,7 +214,7 @@ ARTIGO X
 
 3. As imunidades de procedimento judicial instituídas pelo direito interno ou internacional não podem ser evocadas no que diz respeito às obrigações derivadas da presente Convenção ou assumidas para os fins da sua aplicação. Nenhuma disposição da presente Convenção torna os navios de guerra ou outros navios utilizados para fins não comerciais e que são propriedade de um Estado ou explorados por ele susceptíveis de apresamento, arresto, ou de penhora, nem confere a competência judicial, quando se trate de navios de guerra, a quaisquer tribunais estrangeiros.
 
-ARTIGO XI
+###### ARTIGO XI
 
 1. Quando um tribunal do Estado que concede a licença certifica, a pedido do armador, de um queixoso ou do Estado que concede a licença, que o montante dos pedidos de reparação relativos a um acidente nuclear excede verosìmilmente o montante indicado no artigo III da presente Convenção, o armador ou o Estado que concede a licença deve colocar este montante à disposição daquele tribunal para que ele seja afectado ao pagamento das indemnizações; esse montante é então considerado como constituindo o fundo de responsabilidade limitada para aquele acidente.
 
@@ -239,7 +248,7 @@ d) Neste parágrafo, a expressão «nacional de um Estado contratante» engloba 
 
 7. Quando o fundo de responsabilidade limitada tiver sido constituído conforme o parágrafo 1 do presente artigo ou, no caso de esse fundo não ter sido constituído, quando as somas fornecidas pelo Estado ou provenientes de seguro ou de qualquer outra garantia financeira estiverem disponíveis consoante o parágrafo 6 para cobrir um pedido de reparação, o reclamante não pode exercer qualquer direito a título do seu pedido de reparação sobre os outros bens do armador e qualquer caução ou outra garantia (à excepção da caução para as despesas) prestadas por este armador ou em seu nome no território de qualquer Estado contratante considera-se desobrigada.
 
-ARTIGO XII
+###### ARTIGO XII
 
 1. Os Estados contratantes comprometem-se a tomar as medidas necessárias para assegurar a aplicação das disposições da presente Convenção e especialmente todas as medidas apropriadas para assegurar uma distribuição pronta e equitativa das somas disponíveis para a reparação dos danos nucleares.
 
@@ -247,15 +256,15 @@ ARTIGO XII
 
 3. A presente Convenção é aplicada sem discriminação fundada em nacionalidade, domicílio ou residência.
 
-ARTIGO XIII
+###### ARTIGO XIII
 
 A presente Convenção aplica-se a todo o dano nuclear causado por um acidente nuclear no qual estejam implicados o combustível nuclear, os produtos ou os resíduos radioactivos de um navio nuclear arvorando a bandeira de um Estado contratante, qualquer que seja o lugar onde o prejuízo for sofrido.
 
-ARTIGO XIV
+###### ARTIGO XIV
 
 A presente Convenção prevalece sobre as convenções internacionais que à data em que é aberta à assinatura estejam em vigor ou abertas à assinatura, à ratificação ou à adesão, mas só na medida em que essas convenções estiverem em desacordo com ela; todavia, a presente disposição não afecta as obrigações que os Estados contratantes têm para com os Estados não contratantes em virtude dessas convenções.
 
-ARTIGO XV
+###### ARTIGO XV
 
 1. Os Estados contratantes comprometem-se a tomar as medidas necessárias a fim de impedir que um navio nuclear arvorando a sua bandeira seja explorado sem uma licença ou autorização concedida por eles.
 
@@ -265,47 +274,47 @@ ARTIGO XV
 
 4. Cada Estado contratante compromete-se a não conceder licença ou outra autorização de exploração de um navio nuclear que arvore uma bandeira de outro Estado; todavia, a presente disposição não impede um Estado contratante de aplicar as regras do seu direito interno respeitante à exploração de um navio nuclear nas suas águas interiores e no seu mar territorial.
 
-ARTIGO XVI
+###### ARTIGO XVI
 
 A presente Convenção aplica-se ao navio nuclear a partir do seu lançamento ao mar. Entre a data deste lançamento e aquela em que o navio é autorizado a arvorar a bandeira, o navio é considerado como sendo explorado pelo seu proprietário e arvorando a bandeira do Estado onde foi construído.
 
-ARTIGO XVII
+###### ARTIGO XVII
 
 Nada na presente Convenção afecta o direito que pode ter um Estado contratante, em virtude do direito internacional, de recusar o acesso às suas águas e portos a navios nucleares cuja exploração tenha sido autorizada por certo Estado contratante, mesmo se este estiver formalmente de acordo com todas as disposições da presente Convenção.
 
-ARTIGO XVIII
+###### ARTIGO XVIII
 
 A acção de reparação de um dano é exercida contra o armador; pode sê-lo igualmente contra o segurador ou qualquer outra pessoa que não seja o Estado que concede a licença, que tenha prestado uma garantia financeira ao armador conforme o parágrafo 2 do artigo III, se uma tal acção for prevista pelo direito interno aplicável.
 
-ARTIGO XIX
+###### ARTIGO XIX
 
 Mesmo depois de cessada a vigência da presente Convenção ou da sua denúncia por um Estado contratante nos termos do artigo XXVII, as suas disposições permanecerão aplicáveis a todo o dano nuclear causado por um acidente nuclear no qual estejam implicados o combustível nuclear ou os produtos ou resíduos radioactivos de um navio nuclear cuja exploração tenha sido autorizada, por uma licença ou de qualquer outro modo, por um Estado contratante durante o tempo em que a Convenção estava ainda, quanto a ele, em vigor, contanto que o acidente nuclear tenha ocorrido antes da data da cessação da vigência ou da denúncia da Convenção, ou, se ele ocorrer depois desta data, num período máximo de 25 anos depois da data em que tiver sido dada a autorização de exploração.
 
-ARTIGO XX
+###### ARTIGO XX
 
 Sem prejuízo das disposições do artigo X, todo o diferendo entre as Partes contratantes respeitante à interpretação e aplicação da presente Convenção que não possa ser regulado por negociações é submetido à arbitragem, a pedido de uma delas. Se nos seis meses seguintes à data do pedido de arbitragem as Partes não estiverem de acordo sobre a organização da arbitragem, qualquer delas pode submeter o diferendo ao Tribunal Internacional de Justiça, depositando um requerimento conforme o estatuto do Tribunal.
 
-ARTIGO XXI
+###### ARTIGO XXI
 
 1. Cada Parte contratante poderá, no momento em que assinar ou ratificar a presente Convenção ou aderir a ela, declarar que não se considera ligada pelo artigo XX. As outras Partes contratantes não estarão ligadas por este artigo à Parte contratante que tenha formulado tal reserva.
 
 2. Toda a Parte contratante que tiver formulado uma reserva conforme o parágrafo precedente poderá a todo o momento levantar essa reserva por meio de uma notificação dirigida ao Governo Belga.
 
-ARTIGO XXII
+###### ARTIGO XXII
 
 A presente Convenção será aberta à assinatura dos Estados representados na décima primeira sessão (1961-1962) da Conferência Diplomática do Direito Marítimo.
 
-ARTIGO XXIII
+###### ARTIGO XXIII
 
 A presente Convenção será ratificada e os instrumentos de ratificação serão depositados junto do Governo Belga.
 
-ARTIGO XXIV
+###### ARTIGO XXIV
 
 1. A presente Convenção entrará em vigor três meses depois da data do depósito dos instrumentos de ratificação por dois Estados, sendo, pelo menos, um desses um «Estado que concede a licença».
 
 2. Para cada Estado signatário que ratifique a Convenção depois da sua entrada em vigor, tal como é previsto no parágrafo 1 do presente artigo, a presente Convenção entrará em vigor três meses depois da data do depósito do seu instrumento de ratificação.
 
-ARTIGO XXV
+###### ARTIGO XXV
 
 Os Estados membros da Organização das Nações Unidas, das instituições especializadas ou da Agência Internacional de Energia Atómica não representados na décima primeira sessão da Conferência Diplomática de Direito Marítimo poderão aderir à presente Convenção.
 
@@ -313,17 +322,17 @@ Os instrumentos de adesão serão depositados junto do Governo Belga.
 
 A Convenção entrará em vigor para o Estado que a ela aderir três meses depois da data do depósito do seu instrumento de adesão, mas nunca antes da data da entrada em vigor da Convenção, tal como está fixado no artigo XXIV, 1.
 
-ARTIGO XXVI
+###### ARTIGO XXVI
 
 O Governo Belga e a Agência Internacional de Energia Atómica convocarão uma conferência para a revisão da presente Convenção cinco anos depois da sua entrada em vigor.
 
-ARTIGO XXVII
+###### ARTIGO XXVII
 
 1. Cada um dos Estados contratantes pode denunciar a presente Convenção por notificação ao Governo Belga em qualquer altura depois da primeira conferência de revisão havida em conformidade com as disposições do artigo XXVI.
 
 2. Esta denúncia terá efeito um ano depois da data da recepção da notificação pelo Governo Belga.
 
-ARTIGO XXVIII
+###### ARTIGO XXVIII
 
 O Governo Belga notificará os Estados representados na décima primeira sessão da Conferência Diplomática de Direito Marítimo, assim como os Estados que aderiram à presente Convenção:
 

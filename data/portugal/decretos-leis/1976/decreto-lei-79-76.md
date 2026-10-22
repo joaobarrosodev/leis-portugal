@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 22/1976, 1º Suplemento, Série I de 1976-01-27
   number: '22'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 196-(1) a 196-(5)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1976-321543
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-09-24T00:00:00Z'
+  retrieved_at: '2026-10-22T22:59:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7c69995e49c16abe9a37db17c87d3f1579f3e0c2634eca535dfef44ddfd1e3e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: de148c718a080557e99e8cfd76d63528420f9176d532b1f762c9a0f7f2e91f6c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão Reguladora do Comércio do Bacalhau
+- Definição de Competências
+- Peixe Congelado
+- Preço de Intervenção
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:278229:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138080:por
+  label: Alterada a tabela do art. 5.º, os anexos I, II e III do presente diploma, pelo(a) Portaria n.º 15/77 - Diário da
+    República n.º 11/1977, Série I de 1977-01-14
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-1977-138080
+  date: '1977-01-14'
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:507470:por
+  label: Rectificado pela DECL.DD8543.18.02.1976.PCM, DG.IS [41] de 18.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-507470
+  date: '1976-02-18'
+- type: repealed_by
+  target: pt:dre:278229:por
+  label: "Revogado pelo DEC LEI.402/77.24.09.1977.MAP, DR.IS [221] de 24.09.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/402-1977-278229
+  date: '1977-09-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:59:06Z'
   warnings: []
   errors: []
 ---
@@ -112,56 +138,56 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Enquanto não for completada a reestruturação dos circuitos de comercialização dos produtos do mar fica a Comissão Reguladora do Comércio do Bacalhau autorizada a adquirir aos armadores nacionais as espécies de peixe e moluscos congelados constantes do anexo I a este diploma e a praticar os preços de intervenção constantes do mesmo anexo.
+Artigo 1.º Enquanto não for completada a reestruturação dos circuitos de comercialização dos produtos do mar fica a Comissão Reguladora do Comércio do Bacalhau autorizada a adquirir aos armadores nacionais as espécies de peixe e moluscos congelados constantes do anexo I a este diploma e a praticar os preços de intervenção constantes do mesmo anexo.
 
-###### Art. 2.º A venda ao público dos produtos referidos no artigo anterior fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+Art. 2.º A venda ao público dos produtos referidos no artigo anterior fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
 
-###### Art. 3.º - 1. Os preços máximos de venda ao público de peixe e moluscos não preparados comercialmente, inteiros ou semitransformados, congelados, das espécies mencionadas no artigo anterior, são os constantes do anexo II a este decreto-lei.
+Art. 3.º - 1. Os preços máximos de venda ao público de peixe e moluscos não preparados comercialmente, inteiros ou semitransformados, congelados, das espécies mencionadas no artigo anterior, são os constantes do anexo II a este decreto-lei.
 
 2. Entende-se por peixe ou moluscos preparados comercialmente os que se apresentarem acondicionados em embalagens próprias para venda ao público.
 
 3. Entende-se por peixe semitransformado o peixe sem vísceras e ou sem cabeça.
 
-###### Art. 4.º - 1. Os preços máximos de venda ao público de peixe e moluscos preparados comercialmente, inteiros ou semitransformados, congelados, das espécies mencionadas no artigo 1.º, são os constantes do anexo III a este decreto-lei.
+Art. 4.º - 1. Os preços máximos de venda ao público de peixe e moluscos preparados comercialmente, inteiros ou semitransformados, congelados, das espécies mencionadas no artigo 1.º, são os constantes do anexo III a este decreto-lei.
 
 2. Sem prejuízo da inclusão de outras indicações exigidas por lei ou especial, estas embalagens devem mencionar obrigatoriamente a espécie que contêm, o peso líquido, o preço máximo por quilograma, o preço de venda ao público e a data de embalagem.
 
-###### Art. 5.º Ao retalhista são asseguradas as seguintes margens de comercialização para as espécies de peixe ou moluscos referidas neste decreto-lei preparadas ou não comercialmente relativas a escalões do preço de venda ao público (anexo II).
+Art. 5.º Ao retalhista são asseguradas as seguintes margens de comercialização para as espécies de peixe ou moluscos referidas neste decreto-lei preparadas ou não comercialmente relativas a escalões do preço de venda ao público (anexo II).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
 
-###### Art. 6.º Nos postos de venda ao público é obrigatória a afixação em lugar bem visível de um quadro diário onde conste a indicação dos preços máximos por quilograma das espécies de peixe ou moluscos contemplados neste diploma que se encontrem à venda.
+Art. 6.º Nos postos de venda ao público é obrigatória a afixação em lugar bem visível de um quadro diário onde conste a indicação dos preços máximos por quilograma das espécies de peixe ou moluscos contemplados neste diploma que se encontrem à venda.
 
-###### Art. 7.º Constitui contravenção punível com a multa de 1000$00 a 10000$00 a falta de um quadro com a indicação dos preços máximos nos termos estabelecidos no artigo 6.º deste diploma.
+Art. 7.º Constitui contravenção punível com a multa de 1000$00 a 10000$00 a falta de um quadro com a indicação dos preços máximos nos termos estabelecidos no artigo 6.º deste diploma.
 
-###### Art. 8.º Não são abrangidos pelo presente diploma os preços dos peixes e moluscos destinados à indústria.
+Art. 8.º Não são abrangidos pelo presente diploma os preços dos peixes e moluscos destinados à indústria.
 
-###### Art. 9.º Os anexos a este decreto-lei deverão ser revistos, de acordo com o comportamento do mercado, dentro de um prazo de seis meses a partir da sua entrada em vigor.
+Art. 9.º Os anexos a este decreto-lei deverão ser revistos, de acordo com o comportamento do mercado, dentro de um prazo de seis meses a partir da sua entrada em vigor.
 
-###### Art. 10.º O disposto no presente diploma aplica-se ao território do continente.
+Art. 10.º O disposto no presente diploma aplica-se ao território do continente.
 
-###### Art. 11.º Este decreto-lei entra em vigor na data da sua publicação.
+Art. 11.º Este decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Joaquim Jorge Magalhães Mota - Joaquim Jorge de Pinho Campinos.
 
-**Promulgado em 22 de Janeiro de 1976.**
+Promulgado em 22 de Janeiro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 ## ANEXO I — Preços de intervenção pela Comissão Reguladora do Comércio do Bacalhau
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
 
 Nota. - Quando não se defina o tamanho ou o peso entende-se que o peixe não está classificado.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
 
-## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf))](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
+## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1976/01/02201/00010005.pdf)
 
 Preços máximos de venda ao público de peixe e moluscos preparados comercialmente
 
 Os preços máximos de venda ao público das espécies de peixe e moluscos congelados constantes do anexo II serão agravados, sempre que os produtos sejam embalados, respectivamente com os valores de 4$50 e 2$50 por quilograma, conforme se trate de embalagens comerciais ou industriais.
 
-**O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso. - O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

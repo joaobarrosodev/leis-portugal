@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1970-228385
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-03-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:17:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 117fd74b8af049dd9f25ffb92b1e954c9714eabfaadc58d6168f11823f6c1d8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00c9a398bc64a53494a83445f4bf171973b40f96188605400f16e328777d2bf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:17:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Equipamento
+- Aviação Civil
+- Capital Social
+- Contrato
+- Contrato de Concessão
+- Empresa
+- Empréstimo Obrigacionista
+- Ministro das Comunicações
+- Serviço Público
+- TAP
+- Títulos de Crédito
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Correio
+- Transporte de Mercadorias
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:17:48Z'
   warnings: []
   errors: []
 ---
@@ -87,14 +107,14 @@ Convindo tornar mais flexíveis as regras estabelecidas para a composição do c
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. O corpo do artigo 3.º do [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, passa a ter a seguinte redacção:
+Artigo único. O corpo do artigo 3.º do [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953, passa a ter a seguinte redacção:
 
-###### Art. 3.º Serão reservados a pessoas singulares ou colectivas de nacionalidade portuguesa e representados por títulos nominativos pelo menos 51 por cento do capital da concessionária.
+Art. 3.º Serão reservados a pessoas singulares ou colectivas de nacionalidade portuguesa e representados por títulos nominativos pelo menos 51 por cento do capital da concessionária.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 
-**Promulgado em 5 de Março de 1970.**
+Promulgado em 5 de Março de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.

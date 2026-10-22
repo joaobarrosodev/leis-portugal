@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/11/26300/29262927.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1979-367792
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:22:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 065d51826997ce0d06f0eced92279cb17122e32293d02bc9b1b4a973566d1e26
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cace767da2df01c07967a4f0aaa0345dd37565b6b01f3226636f575fae5e26a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:22:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catástrofe
+- Crédito Bonificado
+- Dotação Orçamental
+- Empresa
+- JURO Bonificado
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:314012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:325760:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592973:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:22:58Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +123,9 @@ Aproveita-se para dispor ainda sobre o destino a dar aos donativos feitos para s
 
 Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Às empresas industriais, agrícolas e agro-alimentares, comerciais e afins serão concedidos financiamentos de investimento, sob a forma de créditos reembolsáveis, a médio prazo, a taxas de juros bonificadas pelo Estado, utilizando os mecanismos bancários correntes, com os objectivos de recuperação das suas actividades, prejudicadas pelos efeitos dos temporais calamitosos que assolaram o País em Janeiro e Fevereiro de 1979.
+Artigo 1.º Às empresas industriais, agrícolas e agro-alimentares, comerciais e afins serão concedidos financiamentos de investimento, sob a forma de créditos reembolsáveis, a médio prazo, a taxas de juros bonificadas pelo Estado, utilizando os mecanismos bancários correntes, com os objectivos de recuperação das suas actividades, prejudicadas pelos efeitos dos temporais calamitosos que assolaram o País em Janeiro e Fevereiro de 1979.
 
-###### Art. 2.º - 1 - As empresas prejudicadas deverão apresentar os seus pedidos de financiamentos devidamente justificados, consoante os ramos da respectiva actividade, ao Instituto de Apoio às Pequenas e Médias Empresas Industriais, à Secretaria de Estado do Comércio Interno e à Secretaria de Estado da Estruturação Agrária ou a organismos por esta indicados.
+Art. 2.º - 1 - As empresas prejudicadas deverão apresentar os seus pedidos de financiamentos devidamente justificados, consoante os ramos da respectiva actividade, ao Instituto de Apoio às Pequenas e Médias Empresas Industriais, à Secretaria de Estado do Comércio Interno e à Secretaria de Estado da Estruturação Agrária ou a organismos por esta indicados.
 
 2 - Os processos, depois de devidamente instruídos e apreciados, serão submetidos à Comissão de Coordenação das Acções de Reparação dos Prejuízos Ocasionados pelos Temporais - Corepre pelas entidades referidas no n.º 1 deste artigo, acompanhados das respectivas propostas de fundamentação com despacho ministerial para efeitos da concessão dos créditos programados nos termos deste diploma.
 
@@ -110,7 +133,7 @@ Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da
 
 4 - As competências atribuídas à Corepre transitarão automaticamente para os serviços competentes aquando da sua extinção em 31 de Dezembro de 1979.
 
-###### Art. 3.º - 1 - Os financiamentos previstos no presente decreto-lei serão reembolsáveis no prazo máximo de cinco anos e sujeitos à aplicação de uma taxa de juro bonificada de 12%, a cobrar do mutuário.
+Art. 3.º - 1 - Os financiamentos previstos no presente decreto-lei serão reembolsáveis no prazo máximo de cinco anos e sujeitos à aplicação de uma taxa de juro bonificada de 12%, a cobrar do mutuário.
 
 2 - O diferencial entre a taxa referida no número anterior e a taxa normal a aplicar aos financiamentos concedidos pelo sistema bancário corresponde às bonificações a suportar:
 
@@ -124,32 +147,32 @@ Pelo Estado, na parte restante.
 
 5 - Em caso de mora do mutuário, deixará de aplicar-se a taxa de juro bonificada, passando a seguir-se o regime previsto no [Decreto-Lei n.º 344/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1978-325760), de 17 de Novembro.
 
-###### Art. 4.º - 1 - As amortizações e os recebimentos dos juros correspondentes aos financiamentos concedidos cabem inteiramente ao banco mutuante, o qual dará conhecimento à Direcção-Geral do Tesouro do serviço da dívida para efeitos de cobrança das respectivas bonificações.
+Art. 4.º - 1 - As amortizações e os recebimentos dos juros correspondentes aos financiamentos concedidos cabem inteiramente ao banco mutuante, o qual dará conhecimento à Direcção-Geral do Tesouro do serviço da dívida para efeitos de cobrança das respectivas bonificações.
 
 2 - O plano de utilização do financiamento aprovado pelo banco mutuante ficará dependente da comprovação da efectiva e correcta aplicação das verbas postas à disposição do mutuário, quer por exibição da documentação adequada, quer por informação de cumprimento do programa técnico de execução por parte da entidade sectorial indicada no n.º 1 do artigo 2.º deste diploma.
 
 3 - Ao banco mutuante compete o contrôle financeiro dos créditos concedidos.
 
-###### Art. 5.º Para a realização do programa de reconstrução das habitações destruídas pelos temporais, fica o Fundo de Fomento de Habitação autorizado a contrair um empréstimo na Caixa Geral de Depósitos até ao montante de 500000 contos, beneficiando da bonificação do Estado prevista no n.º 2 do artigo 3.º deste decreto-lei, em condições de reembolso a aprovar por despacho conjunto do Ministro das Finanças e do Ministro da Habitação e Obras Públicas.
+Art. 5.º Para a realização do programa de reconstrução das habitações destruídas pelos temporais, fica o Fundo de Fomento de Habitação autorizado a contrair um empréstimo na Caixa Geral de Depósitos até ao montante de 500000 contos, beneficiando da bonificação do Estado prevista no n.º 2 do artigo 3.º deste decreto-lei, em condições de reembolso a aprovar por despacho conjunto do Ministro das Finanças e do Ministro da Habitação e Obras Públicas.
 
-###### Art. 6.º Para efeito dos financiamentos previstos no presente decreto-lei, o Banco de Portugal emitirá as instruções técnicas julgadas convenientes.
+Art. 6.º Para efeito dos financiamentos previstos no presente decreto-lei, o Banco de Portugal emitirá as instruções técnicas julgadas convenientes.
 
-###### Art. 7.º - 1 - Para a execução das disposições financeiras de bonificação das taxas de juro do presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever nos Orçamentos Gerais do Estado de 1980 a 1984 as verbas necessárias para aquele fim, até ao limite de 600000 contos.
+Art. 7.º - 1 - Para a execução das disposições financeiras de bonificação das taxas de juro do presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever nos Orçamentos Gerais do Estado de 1980 a 1984 as verbas necessárias para aquele fim, até ao limite de 600000 contos.
 
 2 - Para o Orçamento Geral do Estado de 1980 fixa-se, desde já, a verba de 150000 contos.
 
-###### Art. 8.º Os financiamentos concedidos ao abrigo do presente diploma não poderão ultrapassar o montante de 1600000 contos.
+Art. 8.º Os financiamentos concedidos ao abrigo do presente diploma não poderão ultrapassar o montante de 1600000 contos.
 
-###### Art. 9.º - 1 - Como testemunho vivo dos valores da solidariedade social, serão todos os donativos destinados aos sinistrados dos temporais de Janeiro e Fevereiro de 1979 consignados à construção de habitações sociais nos locais mais afectados.
+Art. 9.º - 1 - Como testemunho vivo dos valores da solidariedade social, serão todos os donativos destinados aos sinistrados dos temporais de Janeiro e Fevereiro de 1979 consignados à construção de habitações sociais nos locais mais afectados.
 
 2 - De acordo com o disposto no número anterior, a Corepre apresentará ao Governo, com urgência, um programa para adequada aplicação dos referidos donativos.
 
-###### Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 10.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
 
-**Promulgado em 8 de Novembro de 1979.**
+Promulgado em 8 de Novembro de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

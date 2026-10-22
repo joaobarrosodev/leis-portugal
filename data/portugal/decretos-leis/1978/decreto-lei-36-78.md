@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/02/04100/03810381.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-1978-446530
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:14:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80fd53f535867d4278ca055ed52516de8d44bc66449c52e2685631b195a765ba
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c682a1c2a8a0ed217e2443c50c240cd15b881bc96f269941fc1200ebce8be1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Formas de Provimento
+- Quadro de Pessoal
+- Secretaria de Estado do Ambiente
+- Serviço de Estudos do Ambiente
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:312191:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:14:48Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +107,9 @@ Sendo indispensável dotar o Serviço de Estudos do Ambiente dos meios necessár
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O quadro de pessoal do Serviço de Estudos do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, é acrescido dos lugares incluídos no mapa anexo ao presente diploma, dele fazendo parte integrante.
+Artigo 1.º O quadro de pessoal do Serviço de Estudos do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro, é acrescido dos lugares incluídos no mapa anexo ao presente diploma, dele fazendo parte integrante.
 
-###### Art. 2.º - 1 - O provimento dos lugares agora criados poderá ser feito de entre o pessoal que à data da entrada em vigor deste diploma se encontre, a qualquer título, a exercer funções no Serviço de Estudos do Ambiente.
+Art. 2.º - 1 - O provimento dos lugares agora criados poderá ser feito de entre o pessoal que à data da entrada em vigor deste diploma se encontre, a qualquer título, a exercer funções no Serviço de Estudos do Ambiente.
 
 2 - O provimento previsto no número anterior resultará de lista ou listas aprovadas pelo Secretário de Estado do Ambiente e publicadas no Diário da República, donde conste o lugar em que cada funcionário será provido.
 
@@ -104,22 +119,22 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - O primeiro provimento do quadro de pessoal criado pelo presente decreto-lei que não for preenchido nos termos do disposto nos números anteriores poderá, sem prejuízo do legalmente disposto quanto a excedentes de pessoal, ser feito por escolha de entre pessoas de reconhecida competência que satisfaçam as condições de habilitações exigíveis para os lugares a prover.
 
-###### Art. 3.º Fica revogado o n.º 7 do artigo 32.º do [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro.
+Art. 3.º Fica revogado o n.º 7 do artigo 32.º do [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro.
 
-###### Art. 4.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Serviço de Estudos do Ambiente para o ano corrente, com os necessários ajustamentos indispensáveis à cobertura das despesas previstas.
+Art. 4.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Serviço de Estudos do Ambiente para o ano corrente, com os necessários ajustamentos indispensáveis à cobertura das despesas previstas.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 
-**Promulgado em 2 de Fevereiro de 1978.**
+Promulgado em 2 de Fevereiro de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 MAPA
 
 Lugares a acrescentar ao quadro de pessoal do Serviço de Estudos do Ambiente, aprovado pelo [Decreto-Lei n.º 550/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1975-312191), de 30 de Setembro.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1978/02/04100/03810381.pdf))](https://files.diariodarepublica.pt/1s/1978/02/04100/03810381.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04100/03810381.pdf)
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

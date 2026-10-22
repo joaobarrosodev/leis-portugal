@@ -46,36 +46,49 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43595-1961-558432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 21b886a0b6185108f6806477e8a37330264cae38cadef7047af1071de56644fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 514e9b634ba8fc707692a28c54505c316fd1e6146d562ec95f73bef329e44e63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:36:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- EPSM
+- Exército
+- Gestão Administrativa
+- Ministério do Exército
+relationships:
+- type: cites
+  target: pt:dre:298638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:36:20Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ Considerando as exigências inerentes ao cumprimento, pela Direcção do Serviç
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criada a Escola Prática do Serviço de Material (E. P. S. M.), com a missão de:
+Artigo 1.º É criada a Escola Prática do Serviço de Material (E. P. S. M.), com a missão de:
 
 a) Ministrar os conhecimentos necessárias à preparação e formação de todos os especialistas do serviço de material, com excepção dos que pertencem ao ramo eléctrico, radioeléctrico e electrónico, que continuam a ser preparados e formados na Escola Militar de Electromecânica;
 
@@ -104,19 +117,19 @@ e) Colaborar em estudos e experiências, bem como na preparação de regulamento
 
 f) Cooperar na instrução das armas e outros serviços, quando for determinado.
 
-###### Art. 2.º A Escola Prática do Serviço de Material fica aquartelada em Sacavém, nas actuais instalações do regimento de artilharia pesada n.º 1.
+Art. 2.º A Escola Prática do Serviço de Material fica aquartelada em Sacavém, nas actuais instalações do regimento de artilharia pesada n.º 1.
 
 § único. Durante a fase de organização da Escola Prática do Serviço de Material, esta funcionará adstrita ao regimento de artilharia pesada n.º 1 e dependente dele apenas para efeitos administrativos.
 
-###### Art. 3.º Para efeitos de instrução, a Escola Prática do Serviço de Material dependerá da Direcção do Serviço de Material.
+Art. 3.º Para efeitos de instrução, a Escola Prática do Serviço de Material dependerá da Direcção do Serviço de Material.
 
-###### Art. 4.º Os oficiais e sargentos da Escola Prática do Serviço de Material terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal que presta serviço em escolas práticas no desempenho de idênticas funções.
+Art. 4.º Os oficiais e sargentos da Escola Prática do Serviço de Material terão, quanto a alimentação, gratificações e alojamento, as mesmas regalias consideradas nas disposições em vigor para o pessoal que presta serviço em escolas práticas no desempenho de idênticas funções.
 
-###### Art. 5.º O regulamento e o quadro orgânico da Escola Prática do Serviço de Material constarão de portaria assinada pelo Ministro do Exército, respeitando-se para o efeito os quantitativos fixados na lei de quadras e efectivos.
+Art. 5.º O regulamento e o quadro orgânico da Escola Prática do Serviço de Material constarão de portaria assinada pelo Ministro do Exército, respeitando-se para o efeito os quantitativos fixados na lei de quadras e efectivos.
 
 § único. Enquanto não for publicada aquela portaria, a Escola Prática do Serviço de Material regular-se-á pelas disposições legais e regulamentares por que se regem as respectivas escolas práticas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 

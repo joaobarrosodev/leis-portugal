@@ -49,40 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47339-1966-477365
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T21:59:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58c4e00d6562295203798c676e8c1b65c32c59a8d35c241dfe623186fb430704
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eedf0db4718bc8d4e2d0697e0377997d94f999f45a1c946fcbcd085b1ba9b988
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:59:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Caixa Geral de Depósitos Crédito e Previdência
+- Financiamento
+- Ministério do Exército
 relationships:
 - type: amended_by
   target: pt:dre:405344:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:405344:por
+  label: "Autorizada a alteração do regime do empréstimo a que se refere o presente diploma, pelo DEC LEI.48184.30.12.1967.MF,\
+    \ DG.IS [302-Supl] de 30.12.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48184-1967-405344
+  date: '1967-12-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:59:15Z'
   warnings: []
   errors: []
 ---
@@ -95,16 +106,16 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É autorizado o Ministério do Exército a contratar com a Caixa Geral de Depósitos, Crédito e Previdência um empréstimo sob a forma de abertura de crédito até ao montante de 250000000$00, destinado a reforço do fundo de maneio dos seus estabelecimentos fabris e a movimentar pelo conselho administrativo da Agência Militar.
+Artigo 1.º É autorizado o Ministério do Exército a contratar com a Caixa Geral de Depósitos, Crédito e Previdência um empréstimo sob a forma de abertura de crédito até ao montante de 250000000$00, destinado a reforço do fundo de maneio dos seus estabelecimentos fabris e a movimentar pelo conselho administrativo da Agência Militar.
 
-###### Art. 2.º O empréstimo a que se refere o artigo anterior deverá ser utilizado até 31 de Dezembro do corrente ano e será amortizado em cinco anuidades a vencer em 31 de Dezembro dos anos de 1967, 1968, 1969, 1970 e 1971.
+Art. 2.º O empréstimo a que se refere o artigo anterior deverá ser utilizado até 31 de Dezembro do corrente ano e será amortizado em cinco anuidades a vencer em 31 de Dezembro dos anos de 1967, 1968, 1969, 1970 e 1971.
 
 § único. A taxa de juro a estipular no contrato será de 4 por cento ao ano.
 
-###### Art. 3.º As importâncias que forem utilizadas de acordo com o estabelecido no artigo 1.º, bem como as de juros devidos, serão liquidadas por força das verbas da despesa extraordinária inscrita e a inscrever no Orçamento Geral do Estado em Encargos Gerais da Nação, sob a rubrica «Forças militares extraordinárias do ultramar», do capítulo da «Defesa Nacional».
+Art. 3.º As importâncias que forem utilizadas de acordo com o estabelecido no artigo 1.º, bem como as de juros devidos, serão liquidadas por força das verbas da despesa extraordinária inscrita e a inscrever no Orçamento Geral do Estado em Encargos Gerais da Nação, sob a rubrica «Forças militares extraordinárias do ultramar», do capítulo da «Defesa Nacional».
 
-###### Art. 4.º É ainda autorizada o Ministério do Exército a contratar com a Caixa Geral de Depósitos, Crédito e Previdência a alteração do processo de liquidação das operações a que se referem os Decretos-Leis n.os 45715 e 46749, de modo que o saldo devedor de cada uma dessas duas operações, apurado em 31 de Dezembro do corrente ano, seja amortizado em cinco anuidades a vencer em 31 de Dezembro dos anos de 1967, 1968, 1969, 1970 e 1971.
+Art. 4.º É ainda autorizada o Ministério do Exército a contratar com a Caixa Geral de Depósitos, Crédito e Previdência a alteração do processo de liquidação das operações a que se referem os Decretos-Leis n.os 45715 e 46749, de modo que o saldo devedor de cada uma dessas duas operações, apurado em 31 de Dezembro do corrente ano, seja amortizado em cinco anuidades a vencer em 31 de Dezembro dos anos de 1967, 1968, 1969, 1970 e 1971.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

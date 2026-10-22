@@ -47,36 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1979-370610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T23:21:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2b98fbf7a14a17addee4266e234fe700da0a043b1ec5cfcdc957a322d569050d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39b8a7f60dcb7c19b5859d834fd235cdaf93fb29095205ce0e2ad3332169e918
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:21:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Estabelecimento de Ensino
+- Nomeação
+- Pessoal Administrativo
+- Pessoal Auxiliar
+relationships:
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:335766:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:21:27Z'
   warnings: []
   errors: []
 ---
@@ -93,20 +111,20 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Consideram-se, para todos os efeitos legais, regularizadas as nomeações e provimentos de pessoal auxiliar dos estabelecimentos dos ensinos primário, preparatório, secundário e médio efectuados ao abrigo do Despacho n.º 333/76, de 9 de Novembro, do Ministro da Educação e Investigação Científica.
+Artigo 1.º Consideram-se, para todos os efeitos legais, regularizadas as nomeações e provimentos de pessoal auxiliar dos estabelecimentos dos ensinos primário, preparatório, secundário e médio efectuados ao abrigo do Despacho n.º 333/76, de 9 de Novembro, do Ministro da Educação e Investigação Científica.
 
-###### Art. 2.º As formas de recrutamento para o quadro criado pelo [Decreto-Lei n.º 291/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1975-335766), de 14 de Junho, serão as que vierem a ser estabelecidas por portaria do Ministro da Educação e Investigação Científica e do Secretário de Estado da Administração Pública, a qual respeitará as regras estabelecidas no presente diploma e ainda as constantes do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
+Art. 2.º As formas de recrutamento para o quadro criado pelo [Decreto-Lei n.º 291/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1975-335766), de 14 de Junho, serão as que vierem a ser estabelecidas por portaria do Ministro da Educação e Investigação Científica e do Secretário de Estado da Administração Pública, a qual respeitará as regras estabelecidas no presente diploma e ainda as constantes do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
-###### Art. 3.º Até à realização do primeiro concurso para o pessoal referido no artigo 1.º do presente diploma, a efectuar na vigência da portaria mencionada no artigo anterior, consideram-se em vigor o Despacho n.º 333/76, de 9 de Novembro, do Ministro da Educação e Investigação Científica e o Despacho n.º 22/77, de 15 de Fevereiro, do Secretário de Estado da Administração e Equipamento Escolar.
+Art. 3.º Até à realização do primeiro concurso para o pessoal referido no artigo 1.º do presente diploma, a efectuar na vigência da portaria mencionada no artigo anterior, consideram-se em vigor o Despacho n.º 333/76, de 9 de Novembro, do Ministro da Educação e Investigação Científica e o Despacho n.º 22/77, de 15 de Fevereiro, do Secretário de Estado da Administração e Equipamento Escolar.
 
-###### Art. 4.º Considera-se revogada, quanto à admissão de serventes, a cláusula inserta no n.º 2 do artigo 39.º do Decreto-Lei n.º 513/73, de 10 de Outubro, pelo artigo 1.º do [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), de 23 de Agosto.
+Art. 4.º Considera-se revogada, quanto à admissão de serventes, a cláusula inserta no n.º 2 do artigo 39.º do Decreto-Lei n.º 513/73, de 10 de Outubro, pelo artigo 1.º do [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), de 23 de Agosto.
 
-###### Art. 5.º É revogado, quanto ao pessoal auxiliar, o disposto no artigo 52.º do Decreto-Lei n.º 513/73, de 10 de Outubro.
+Art. 5.º É revogado, quanto ao pessoal auxiliar, o disposto no artigo 52.º do Decreto-Lei n.º 513/73, de 10 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.
 
-**Promulgado em 9 de Agosto de 1979.**
+Promulgado em 9 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15800/16191620.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1980-471933
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:29:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 64b8e45bacc0dbf090b7b53dd3f953430add82b078552afc052ce500b5618810
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5254afffa0e6731c08b898b5f35153883fd69e612e611c02de1591541005284a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:29:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- GNR
+- Guarda Fiscal
+- Promoção Profissional
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:365764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413987:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:177446:por
+  label: Revogado, no que respeita à Guarda Fiscal, pelo DEC LEI.374/85.20.09.1985.MFP, DR.IS [217] de 20.09.1985
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-1985-177446
+  date: '1985-09-20'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:29:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +119,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo único. Os artigos 16.º e 17.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, passam a ter a seguinte redacção:
+Artigo único. Os artigos 16.º e 17.º do [Decreto-Lei n.º 439/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-1973-413987), de 3 de Setembro, passam a ter a seguinte redacção:
 
 Art.16.º - 1 - Transitam para a situação de reserva os oficiais abrangidos por qualquer das condições indicadas nas alíneas seguintes:
 
@@ -145,7 +167,7 @@ d) Requeiram a passagem à reserva depois de completarem trinta e seis anos de s
 
 4 - A data da passagem à reserva é a data em que, nos termos legais, o militar for considerado abrangido pela condição que a motivou.
 
-###### Art. 17.º - 1 - Transitam para a situação de reforma os oficiais que deixem de estar no activo ou na reserva por serem abrangidos por qualquer das seguintes condições:
+Art. 17.º - 1 - Transitam para a situação de reforma os oficiais que deixem de estar no activo ou na reserva por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado cinco ou mais anos de serviço:
 
@@ -171,8 +193,8 @@ c) Reúnam as condições estabelecidas na lei para reforma extraordinária.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 2 de Julho de 1980.**
+Promulgado em 2 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

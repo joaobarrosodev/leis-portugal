@@ -49,36 +49,46 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44818-1962-154829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-12-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:43:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c374e5b156ed025541f0cf717a6c364e3d0b2c63e4f0f368c5eb6ef200d31c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fb5d37b9866a97fc3583d9e3e2e3fc0315c87d19c782e4a91d035cfa0dd69be
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:43:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Catástrofe
+- Cheias
+- Cobrança de Impostos
+- Contribuição Industrial
+- Contribuições e Impostos
+- Ministro das Finanças
+- Pessoa Coletiva
+- Pessoa Singular
+- RIO Douro
+- RIO Tâmega
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:43:42Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +105,13 @@ Na publicação do presente diploma põe, assim, o Governo toda a sua preocupaç
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Às pessoas singulares ou colectivas que por virtude das cheias dos rios Douro e Tâmega ocorridas no último Inverno sofreram prejuízos que sensìvelmente afectaram a sua economia ou o desenvolvimento da sua actividade comercial ou industrial poderá o Ministro das Finanças, por proposta do director-geral das Contribuições e Impostos, conceder a anulação, total ou parcial, da contribuição industrial lançada para o corrente ano.
+Artigo 1.º Às pessoas singulares ou colectivas que por virtude das cheias dos rios Douro e Tâmega ocorridas no último Inverno sofreram prejuízos que sensìvelmente afectaram a sua economia ou o desenvolvimento da sua actividade comercial ou industrial poderá o Ministro das Finanças, por proposta do director-geral das Contribuições e Impostos, conceder a anulação, total ou parcial, da contribuição industrial lançada para o corrente ano.
 
-###### Art. 2.º Para obter essa anulação devem os contribuintes, no prazo de quinze dias, contados da publicação deste diploma, apresentar para o efeito, na secção de finanças onde se encontrem colectados, o respectivo requerimento, onde indicarão a natureza dos prejuízos sofridos, seu valor e reflexo no desenvolvimento da sua actividade.
+Art. 2.º Para obter essa anulação devem os contribuintes, no prazo de quinze dias, contados da publicação deste diploma, apresentar para o efeito, na secção de finanças onde se encontrem colectados, o respectivo requerimento, onde indicarão a natureza dos prejuízos sofridos, seu valor e reflexo no desenvolvimento da sua actividade.
 
 § único. O requerimento será acompanhado de todos os elementos de que o interessado disponha para comprovação dos factos alegados e, bem assim, de documento passado pelo respectivo organismo corporativo e pela câmara municipal, do qual conste o montante dos prejuízos, se eles estavam ou não cobertos pelo seguro e quais os seus efeitos na vida económica do contribuinte.
 
-###### Art. 3.º Apresentado o pedido, o chefe da secção de finanças promoverá imediatamente as diligências necessárias ao reconhecimento dos prejuízos efectivos e da perturbação que deles resultaram na actividade de cada um dos contribuintes, elaborando e remetendo à Direcção-Geral das Contribuições e Impostos, com os documentos oferecidos, um relatório sucinto em que se evidenciem os seguintes factos:
+Art. 3.º Apresentado o pedido, o chefe da secção de finanças promoverá imediatamente as diligências necessárias ao reconhecimento dos prejuízos efectivos e da perturbação que deles resultaram na actividade de cada um dos contribuintes, elaborando e remetendo à Direcção-Geral das Contribuições e Impostos, com os documentos oferecidos, um relatório sucinto em que se evidenciem os seguintes factos:
 
 a) Actividade exercida e rendimento tributável fixado para o corrente ano a cada contribuinte;
 
@@ -113,9 +123,9 @@ d) Situação económica do contribuinte.
 
 § único. Sempre que um elevado número de pedidos o justifique e seja comum a natureza dos danos causados, poderá o mesmo relatório abranger todos os pedidos apresentados na secção de finanças, embora nele se refira pormenorizadamente o que interesse e respeite a cada contribuinte.
 
-###### Art. 4.º Em face dos elementos coligidos e na medida em que através deles se revelem os prejuízos sofridos e a quebra de rendimento na actividade atingida, a Direcção-Geral dos Contribuições e Impostos emitirá o seu parecer sobre o quantitativo da anulação da contribuição industrial e do imposto complementar a conceder a cada contribuinte.
+Art. 4.º Em face dos elementos coligidos e na medida em que através deles se revelem os prejuízos sofridos e a quebra de rendimento na actividade atingida, a Direcção-Geral dos Contribuições e Impostos emitirá o seu parecer sobre o quantitativo da anulação da contribuição industrial e do imposto complementar a conceder a cada contribuinte.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
 

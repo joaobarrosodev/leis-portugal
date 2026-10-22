@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19100/20052005.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,66 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1979-378947
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T23:20:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08da75c4fa4e97ecb3cd07170bd7b1292108e8ed705e68d5aa7c152beb7dbee5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1c6095b5c79235a33b59a7dae748c5d95e93d006a84ea572371565847c7c4b24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:20:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Amortização
+- Expropriação
+- Fundo de Regularização da Dívida Pública
+- Indemnização
+- Junta de Crédito Público
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:382181:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497870:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:20:31Z'
   warnings: []
   errors: []
 ---
@@ -99,16 +125,16 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - As obrigações emitidas, nos termos da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e do [Decreto-Lei n.º 213/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1979-382181), de 14 de Julho, para pagamento da indemnização a que se refere o [Decreto-Lei n.º 195/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1979-381158), de 29 de Junho, serão amortizadas pelo seu valor nominal, por sorteio e por compra efectuada pelo Fundo de Regularização da Dívida Pública.
+Artigo 1.º - 1 - As obrigações emitidas, nos termos da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, e do [Decreto-Lei n.º 213/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1979-382181), de 14 de Julho, para pagamento da indemnização a que se refere o [Decreto-Lei n.º 195/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1979-381158), de 29 de Junho, serão amortizadas pelo seu valor nominal, por sorteio e por compra efectuada pelo Fundo de Regularização da Dívida Pública.
 
 2 - As compras a que se refere o número anterior deverão assegurar que a quantidade anual de obrigações amortizadas durante as seis anuidades previstas para completar a amortização total seja sempre igual em cada um dos respectivos anos.
 
-###### Art. 2.º A Junta do Crédito Público providenciará no sentido de que nas dotações do seu orçamento anual e durante os anos em que haja lugar às amortizações referidas no artigo anterior sejam inscritas as verbas necessárias para ocorrer a essas compras.
+Art. 2.º A Junta do Crédito Público providenciará no sentido de que nas dotações do seu orçamento anual e durante os anos em que haja lugar às amortizações referidas no artigo anterior sejam inscritas as verbas necessárias para ocorrer a essas compras.
 
 Visto e aprovado em Conselho de Ministros de 25 de Julho de 1979. - Carlos Alberto da Mota Pinto - João Pinto Ribeiro.
 
-**Promulgado em 1 de Agosto de 1979.**
+Promulgado em 1 de Agosto de 1979.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

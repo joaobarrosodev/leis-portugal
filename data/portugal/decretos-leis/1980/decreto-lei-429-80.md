@@ -47,36 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/429-1980-461625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T23:32:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28d45b7bf90cf85ba2ceca977131057bc10326dc9c3bc63ef1515827a270f85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e0516eb21b2a33c0220f7b0a0f0c76898d19c7f40998490ba47042c73c6284c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Laboratório Nacional de Engenharia e Tecnologia Industrial
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:233963:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279626:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:32:34Z'
   warnings: []
   errors: []
 ---
@@ -99,9 +134,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º O artigo 79.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 79.º do [Decreto-Lei n.º 361/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1979-370663), de 1 de Setembro, passa a ter a seguinte redacção:
 
-###### Artigo 79.º - 1 - A transição para os lugares do quadro anexo ao presente diploma, com excepção dos grupos de pessoal administrativo e auxiliar, do pessoal que presta serviço a qualquer título no LNETI ou nos serviços nele integrados, será feita após anotação pelo Tribunal de Contas quando se verifiquem as condições previstas no artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, com a redacção dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto.
+Artigo 79.º - 1 - A transição para os lugares do quadro anexo ao presente diploma, com excepção dos grupos de pessoal administrativo e auxiliar, do pessoal que presta serviço a qualquer título no LNETI ou nos serviços nele integrados, será feita após anotação pelo Tribunal de Contas quando se verifiquem as condições previstas no artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, com a redacção dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto.
 
 2 - A transição a que se refere o número anterior obedecerá aos critérios previstos no artigo 1.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho.
 
@@ -111,14 +146,14 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A transição referida no número anterior far-se-á nas categorias actuais daquele pessoal, sem perda de quaisquer direitos adquiridos, designadamente os de contagem de tempo para efeitos de acesso nas respectivas carreiras.
 
-###### Art. 2.º As dotações orçamentais atribuídas à Secretaria-Geral do Ministério da Indústria e Energia no orçamento de despesa para o corrente ano económico para pagamento de vencimento e outros abonos ao pessoal que transitar para o LNETI, nos termos do presente diploma são transferidos para as rubricas correspondentes do orçamento privativo do LNETI.
+Art. 2.º As dotações orçamentais atribuídas à Secretaria-Geral do Ministério da Indústria e Energia no orçamento de despesa para o corrente ano económico para pagamento de vencimento e outros abonos ao pessoal que transitar para o LNETI, nos termos do presente diploma são transferidos para as rubricas correspondentes do orçamento privativo do LNETI.
 
-###### Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 3.º Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 13 de Agosto de 1980. - Francisco Sá Carneiro - Álvaro Roque de Pinho Bissaia Barreto.
 
-**Promulgado em 19 de Setembro de 1980.**
+Promulgado em 19 de Setembro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

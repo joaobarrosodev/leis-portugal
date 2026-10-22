@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/12/30100/18411845.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49463-1969-212871
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:11:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d08da122500c2d4f78afe3b0e24843471c03c43314f8dbafd1a1a93e00116a30
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c196f9edc0d6f36423a58501fd6e06a7c616720a29e858adc6691707c4ecefce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:11:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Adjudicação
+- Algarve
+- Benfeitoria
+- Caixa Geral de Depósitos Crédito e Previdência
+- Câmara Municipal
+- Concurso Público
+- Conselho de Inspecção de Jogos
+- Conselho de Ministros
+- Construção Civil
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral do Turismo
+- Estabelecimento de Jogos
+- Estabelecimento Hoteleiro
+- Garantia
+- Garantia Bancária
+- Interesse para o Turismo
+- Jogos de Fortuna e Azar
+- Ministro das Obras Públicas
+- Ministro do Interior
+- Obras de Conservação e Restauro
+- Parecer
+- Plano de Urbanização
+- Prazo
+- Repartição de Finanças
+- Secretário de Estado da Informação e Turismo
+- Sede
+- Tesouraria da Fazenda Pública
+- Turismo
+- Urbanização
+- ZONA de JOGO
 relationships:
 - type: amended_by
   target: pt:dre:145228:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:145228:por
+  label: "Revogado pelo DR.1/95.1995.01.19.MCT, DR.IS-B [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/1-1995-145228
+  date: '1995-01-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:11:02Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +130,19 @@ Tendo em vista o disposto no [Decreto-Lei n.º 48912](https://diariodarepublica.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A zona de jogo permanente do Algarve será adjudicada a uma única empresa, podendo, porém, a respectiva exploração exercer-se em dois casinos situados em concelhos diferentes.
+Artigo 1.º - 1. A zona de jogo permanente do Algarve será adjudicada a uma única empresa, podendo, porém, a respectiva exploração exercer-se em dois casinos situados em concelhos diferentes.
 
 2. A sede da zona será proposta pelos concorrentes, quer na hipótese de pretenderem construir um casino, quer pretendam explorar dois casinos.
 
 3. A localização do casino ou dos casinos deverá, de preferência, ser feita em terreno junto ao mar, de fácil integração na estrutura arterial do plano de urbanização do local ou locais previstos, inserir-se em plano de utilização dos terrenos envolventes que defina organização lógica dos espaços e distribuição possível das instalações próprias, dos respectivos anexos e instalações complementares.
 
-###### Art. 2.º - 1. As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo do Algarve deverão dirigir os seus requerimentos ao Ministro do Interior, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinarem ao concurso, dentro do prazo de sessenta dias a contar da data da publicação do respectivo anúncio no Diário do Governo.
+Art. 2.º - 1. As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, pretendam concorrer à concessão da exploração de jogos de fortuna ou azar na zona de jogo do Algarve deverão dirigir os seus requerimentos ao Ministro do Interior, em carta fechada, registada e lacrada, endereçada ao Conselho de Inspecção de Jogos e com indicação exterior de se destinarem ao concurso, dentro do prazo de sessenta dias a contar da data da publicação do respectivo anúncio no Diário do Governo.
 
 2. A concessão, que se inicia com a assinatura do contrato, terminará em 31 de Dezembro do 25.º ano posterior ao do início da exploração dos jogos.
 
 3. As empresas com acções atribuídas ao Estado, nos termos do Decreto com força de lei n.º 14643, de 3 de Dezembro de 1927, podem concorrer desde que apresentem compromisso, caucionado, de aquisição dessas acções, nos termos da alínea b) do artigo 64.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), por importância não inferior à correspondente quota-parte resultante da avaliação actual dos bens imóveis propriedade das empresas em 31 de Dezembro de 1957.
 
-###### Art. 3.º - 1. A concessionária tem de levar a efeito e de cumprir as seguintes realizações e obrigações mínimas, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo:
+Art. 3.º - 1. A concessionária tem de levar a efeito e de cumprir as seguintes realizações e obrigações mínimas, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo:
 
 a) Construção, na sede da zona, segundo programa estabelecido pelo Conselho de Inspecção de Jogos e pela Direcção-Geral do Turismo, de um casino, luxuoso e confortável, reversível para o Estado, com todo o seu recheio, pertenças e anexos, no termo da concessão, de custo não inferior a 50000 contos - excluído o encargo da aquisição dos terrenos e qualquer outro que não seja respeitante à construção e apetrechamento -, dotado de cine-teatro, jardins, campos de ténis, logradouros, auditório e outras instalações de ar livre e acessórias que se reconheça serem necessárias, parque de estacionamento e respectivos acessos, incluindo redes de água, esgotos e iluminação pública do conjunto;
 
@@ -174,7 +214,7 @@ f) Três anos para o hotel ou hotéis.
 
 10. São admitidas propostas com alterações dos prazos fixados nos n.os 3 e 9 do presente artigo.
 
-###### Art. 4.º - 1. Poderá consentir-se que a exploração dos jogos se efectue, transitòriamente, em edifício ou edifícios situados nas localidades em que há-de efectuar-se a construção do casino ou casinos, desde que satisfaçam ao mínimo de condições exigíveis no que respeita ao isolamento do jogo e ao respectivo condicionamento legal, e os concorrentes se obriguem:
+Art. 4.º - 1. Poderá consentir-se que a exploração dos jogos se efectue, transitòriamente, em edifício ou edifícios situados nas localidades em que há-de efectuar-se a construção do casino ou casinos, desde que satisfaçam ao mínimo de condições exigíveis no que respeita ao isolamento do jogo e ao respectivo condicionamento legal, e os concorrentes se obriguem:
 
 a) A apresentar projecto de adaptação, e a realizar as obras projectadas e o respectivo plano de equipamento, com as alterações que o Governo entenda dever introduzir-lhes, no prazo de um ano contado da data da aprovação do projecto, sem prejuízo de qualquer das obrigações antes referidas;
 
@@ -204,7 +244,7 @@ c) Indicação pormenorizada, escrita e desenhada em esboceto, com especificaç�
 
 d) Documentação comprovativa da propriedade dos imóveis que pretendem utilizar ou de que os proprietários consentem nas modificações pretendidas.
 
-###### Art. 5.º - 1. Os requerimentos a que se refere o n.º 1 do artigo 2.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 5.º - 1. Os requerimentos a que se refere o n.º 1 do artigo 2.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 a) Documentos comprovativos da constituição da sociedade, obedecendo aos requisitos fixados no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969,
 
@@ -248,17 +288,17 @@ p) Declaração respeitante ao planeamento anual da totalidade dos investimentos
 
 3. O depósito a que se refere a alínea d) do n.º 1 deste artigo poderá ser substituído por garantia bancária e fica à ordem do presidente do Conselho de Inspecção de Jogos, sendo perdido a favor do Estado se, feita a adjudicação, o contrato não vier a ser assinado por culpa do concorrente escolhido.
 
-###### Art. 6.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos ou que condicionem, por qualquer forma, as realizações ou obrigações a assumir, quer quanto às enunciadas no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, no presente diploma ou demais legislação aplicável à generalidade das zonas de jogo, quer quanto às oferecidas nos termos das alíneas j) a m) do n.º 1 do artigo anterior, ou em termos que possam dificultar o confronto com as demais propostas.
+Art. 6.º Não serão consideradas propostas cujos elementos contenham expressões vagas, com programas ou planos imprecisos ou que condicionem, por qualquer forma, as realizações ou obrigações a assumir, quer quanto às enunciadas no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), de 18 de Março de 1969, no presente diploma ou demais legislação aplicável à generalidade das zonas de jogo, quer quanto às oferecidas nos termos das alíneas j) a m) do n.º 1 do artigo anterior, ou em termos que possam dificultar o confronto com as demais propostas.
 
-###### Art. 7.º - 1. No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Ministério do Interior, devendo o Conselho de Inspecção de Jogos emitir parecer sobre elas, a fim de que o Governo, em Conselho de Ministros, decida sobre a adjudicação.
+Art. 7.º - 1. No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Ministério do Interior, devendo o Conselho de Inspecção de Jogos emitir parecer sobre elas, a fim de que o Governo, em Conselho de Ministros, decida sobre a adjudicação.
 
 2. O Conselho de Inspecção de Jogos poderá solicitar aos concorrentes os esclarecimentos que julgue necessários.
 
 3. O Governo reserva-se o direito de não aceitar as propostas apresentadas, se assim o considerar conveniente para os interesses do Estado.
 
-###### Art. 8.º Se, aberto concurso, não houver concorrentes, ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com o condicionamento que então se justificar.
+Art. 8.º Se, aberto concurso, não houver concorrentes, ou, havendo-os, não lhes seja feita a adjudicação, o Governo poderá extinguir a zona ou abrir novo concurso na oportunidade que escolher e com o condicionamento que então se justificar.
 
-###### Art. 9.º A restituição das importâncias dos depósitos previstos nas alíneas b) e d) do n.º 1 do artigo 5.º do presente diploma ou o cancelamento das cauções que os substituem efectuar-se-á:
+Art. 9.º A restituição das importâncias dos depósitos previstos nas alíneas b) e d) do n.º 1 do artigo 5.º do presente diploma ou o cancelamento das cauções que os substituem efectuar-se-á:
 
 No prazo de quinze dias após a celebração do contrato, relativamente ao concorrente a que for adjudicada a zona;
 
@@ -266,8 +306,8 @@ No prazo de quinze dias após a notificação relativa à adjudicação da zona,
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - César Henrique Moreira Baptista.
 
-**Promulgado em 15 de Dezembro de 1969.**
+Promulgado em 15 de Dezembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

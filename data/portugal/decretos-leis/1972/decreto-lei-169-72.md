@@ -47,40 +47,72 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1972-681391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2005-02-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:22:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bef7b42a7fa02f2739975c36de892481fbd77d95299b2fab82787b603c2d3c02
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 61dfbe62e609d5544c3347f40d2a6cc7d90751585b01576851f777a307f98a98
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:22:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria
+- Comunicação por Satélite
+- Comunicações
+- Conflito de LEIS
+- Convenção
+- Cooperação Técnica
+- Financiamento
+- Intelsat
+- Investimento
+- Portugal
 relationships:
 - type: amended_by
   target: pt:dre:604186:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469044:por
+  label: "Alteradas as als d), i) e h) do artº 6º e eliminada a al f) do artº 22º do presente Acordo, pelas alterações aprovadas\
+    \ para ratificação pelo DEC.17/97.1997.04.12.MNE, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-1997-469044
+  date: '1997-04-12'
+- type: amended_by
+  target: pt:dre:641996:por
+  label: "Alterado o parág. do artº 6º do presente acordo, pela alteração aprovada para ratificação pelo DEC.43/97.1997.08.30.MNE,\
+    \ DR.IS-A [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/43-1997-641996
+  date: '1997-08-30'
+- type: amended_by
+  target: pt:dre:604186:por
+  label: "Ratificadas as Emendas ao presente Acordo de Exploração (aprovadas para ratificação pela Res 7/2005 de 15-Fev da\
+    \ AR) pelo DEC.11/2005.15.02.2005.PR, DR.IS-A [32] de 15.02.2005\005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/11-2005-604186
+  date: '2005-02-15'
+- type: cites
+  target: pt:dre:459182:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:22:38Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +125,13 @@ Em complemento do disposto no [Decreto-Lei n.º 124/72](https://diariodarepublic
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. São aprovados o Acordo de Exploração Relativo à Organização Internacional de Telecomunicações por Satélites (Intelsat), bem como o seu Anexo, cujos textos em inglês e português seguem em anexo ao presente diploma.
+Artigo único. São aprovados o Acordo de Exploração Relativo à Organização Internacional de Telecomunicações por Satélites (Intelsat), bem como o seu Anexo, cujos textos em inglês e português seguem em anexo ao presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - Rui Alves da Silva Sanches.
 
-**Promulgado em 4 de Maio de 1972, nos termos do § 2.º ao artigo 80.º da Constituição.**
+Promulgado em 4 de Maio de 1972, nos termos do § 2.º ao artigo 80.º da Constituição.
 
-**Publique-se.**
+Publique-se.
 
 Pelo Presidente da República, MARCELLO CAETANO.
 

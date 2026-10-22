@@ -46,36 +46,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44096-1961-184685
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1961-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T21:39:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e39d1b8fe5bc429880e78e769b1604d233e87344dd9ef1e35629a2e33eafb375
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ff4da5234f98ef2823ab3ebbf53e904976f40b9c2aba63c8642b6aeb328fc656
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:39:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gestão Administrativa
+- Gestão Financeira
+- Hospital de São João
+- Orgânica
+- Pessoal de Chefia
+- Pessoal Dirigente
+- Porto
+- Quadro de Pessoal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:247415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339424:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352075:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:39:16Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +121,13 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O Hospital Escolar de S. João reger-se-á pelo presente diploma e pelo disposto nas leis e regulamentos aplicáveis.
+Artigo 1.º O Hospital Escolar de S. João reger-se-á pelo presente diploma e pelo disposto nas leis e regulamentos aplicáveis.
 
-###### Art. 2.º Em conjunto com o Hospital Geral de Santo António, a cargo da Santa Casa da Misericórdia do Porto, competem ao Hospital Escolar de S. João as funções atribuídas aos hospitais centrais da zona norte pela [Lei n.º 2011](https://diariodarepublica.pt/dr/detalhe/lei/2011-1946-339424), de 2 de Abril de 1946. Igualmente lhe incumbe exercer a actividade que for necessária para assegurar o ensino da Faculdade de Medicina do Porto e o de outras escolas destinadas à formação de profissionais de saúde e assistência que sejam autorizadas a utilizar os serviços hospitalares como campo de prática e demonstração. Sem prejuízo das suas funções universitárias, o Hospital poderá ainda colaborar na formação e treino pós-escolar dos médicos e outros profissionais de saúde e assistência, nos termos do artigo 42.º e seu § único do presente decreto-lei.
+Art. 2.º Em conjunto com o Hospital Geral de Santo António, a cargo da Santa Casa da Misericórdia do Porto, competem ao Hospital Escolar de S. João as funções atribuídas aos hospitais centrais da zona norte pela [Lei n.º 2011](https://diariodarepublica.pt/dr/detalhe/lei/2011-1946-339424), de 2 de Abril de 1946. Igualmente lhe incumbe exercer a actividade que for necessária para assegurar o ensino da Faculdade de Medicina do Porto e o de outras escolas destinadas à formação de profissionais de saúde e assistência que sejam autorizadas a utilizar os serviços hospitalares como campo de prática e demonstração. Sem prejuízo das suas funções universitárias, o Hospital poderá ainda colaborar na formação e treino pós-escolar dos médicos e outros profissionais de saúde e assistência, nos termos do artigo 42.º e seu § único do presente decreto-lei.
 
-###### Art. 3.º O Hospital goza de autonomia técnica e administrativa e das regalias concedidas aos mais estabelecimentos oficiais de assistência, sem prejuízo da orientação e coordenação da Direcção-Geral dos Hospitais e da fiscalização da Inspecção da Assistência Social. Pode receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
+Art. 3.º O Hospital goza de autonomia técnica e administrativa e das regalias concedidas aos mais estabelecimentos oficiais de assistência, sem prejuízo da orientação e coordenação da Direcção-Geral dos Hospitais e da fiscalização da Inspecção da Assistência Social. Pode receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
 
-###### Art. 4.º O Hospital Escolar de S. João tem como receitas próprias:
+Art. 4.º O Hospital Escolar de S. João tem como receitas próprias:
 
 a) Os subsídios do Estado;
 
@@ -118,19 +143,19 @@ f) As heranças, doações, legados e donativos instituídos ou efectuados a seu
 
 g) Os espólios dos doentes, os objectos perdidos ou as amostras não reclamadas no prazo de seis meses.
 
-###### Art. 5.º São despesas do Hospital Escolar de S. João as que resultarem da execução do presente diploma.
+Art. 5.º São despesas do Hospital Escolar de S. João as que resultarem da execução do presente diploma.
 
 § único. A administração, mediante autorização dos Ministérios da Saúde e Assistência e das Finanças, e ainda do Ministério da Educação Nacional, tratando-se de pessoal docente, pode estabelecer prémios e conceder bolsas de estudo ou outras facilidades, no País ou no estrangeiro, aos seus funcionários que considere em condições de contribuírem para o aperfeiçoamento dos serviços.
 
-###### Art. 6.º A comparticipação da Faculdade de Medicina do Porto nas despesas do Hospital Escolar de S. João será estabelecida por acordo entre a administração do Hospital e a direcção da Faculdade, aprovado pelos Ministros da Saúde e Assistência, da Educação Nacional e das Finanças.
+Art. 6.º A comparticipação da Faculdade de Medicina do Porto nas despesas do Hospital Escolar de S. João será estabelecida por acordo entre a administração do Hospital e a direcção da Faculdade, aprovado pelos Ministros da Saúde e Assistência, da Educação Nacional e das Finanças.
 
 ### CAPÍTULO II — Da administração e da direcção técnica
 
-###### Art. 7.º A administração do Hospital Escolar de S. João incumbe a um provedor, coadjuvado por um adjunto.
+Art. 7.º A administração do Hospital Escolar de S. João incumbe a um provedor, coadjuvado por um adjunto.
 
-###### Art. 8.º A direcção clínica incumbe ao director dos serviços clínicos e a direcção administrativa ao director dos serviços administrativos, podendo um e outro ser coadjuvados por um adjunto, no exercício das suas respectivas funções.
+Art. 8.º A direcção clínica incumbe ao director dos serviços clínicos e a direcção administrativa ao director dos serviços administrativos, podendo um e outro ser coadjuvados por um adjunto, no exercício das suas respectivas funções.
 
-###### Art. 9.º Presidido pelo provedor, funciona o conselho administrativo, de que fazem parte:
+Art. 9.º Presidido pelo provedor, funciona o conselho administrativo, de que fazem parte:
 
 a) Um representante da Faculdade de Medicina do Porto;
 
@@ -146,7 +171,7 @@ e) A enfermeira superintendente.
 
 § 2.º O representante da Faculdade de Medicina será designado de três em três anos pelo conselho escolar.
 
-###### Art. 10.º Compete ao conselho administrativo:
+Art. 10.º Compete ao conselho administrativo:
 
 1.º Definir os planos gerais da actividade hospitalar e vigiar o rendimento e eficiência de todos os serviços;
 
@@ -164,7 +189,7 @@ e) A enfermeira superintendente.
 
 § único. Podem ser convocados para assistir às reuniões do conselho, embora sem direito a voto, os funcionários cujos pareceres ou informações sejam considerados necessários ou convenientes para as decisões a tomar.
 
-###### Art. 11.º Presidido pelo director dos serviços clínicos, funciona o conselho técnico, de que fazem parte:
+Art. 11.º Presidido pelo director dos serviços clínicos, funciona o conselho técnico, de que fazem parte:
 
 a) Um representante da Faculdade de Medicina do Porto;
 
@@ -190,7 +215,7 @@ i) A chefe do serviço social;
 
 § 3.º Os vogais referidos nas alíneas e) e f) serão designados, de três em três anos, pelos directores ou chefes dos serviços que representarem, sendo permitida a reeleição.
 
-###### Art. 12.º Ao conselho técnico compete:
+Art. 12.º Ao conselho técnico compete:
 
 1.º Dar parecer sobre os assuntos de natureza técnica sobre os quais for consultado;
 
@@ -200,7 +225,7 @@ i) A chefe do serviço social;
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 13.º O Hospital Escolar de S. João terá os seguintes serviços:
+Art. 13.º O Hospital Escolar de S. João terá os seguintes serviços:
 
 a) Serviços clínicos;
 
@@ -212,19 +237,19 @@ d) Serviço social;
 
 e) Serviços administrativos.
 
-###### Art. 14.º A assistência religiosa é assegurada nos termos da Concordata com a Santa Sé.
+Art. 14.º A assistência religiosa é assegurada nos termos da Concordata com a Santa Sé.
 
-###### Art. 15.º O provedor, ouvido o conselho técnico ou por sugestão deste, poderá propor que sejam criados novos serviços ou reorganizados os existentes, quando as exigências do ensino ou da assistência hospitalar o mostrem aconselhável. Deverá também propor a distribuição de todos os serviços pelas instalações do hospital, tendo sempre em vista o seu melhor grau de eficiência e rendimento, tanto assistencial como escolar.
+Art. 15.º O provedor, ouvido o conselho técnico ou por sugestão deste, poderá propor que sejam criados novos serviços ou reorganizados os existentes, quando as exigências do ensino ou da assistência hospitalar o mostrem aconselhável. Deverá também propor a distribuição de todos os serviços pelas instalações do hospital, tendo sempre em vista o seu melhor grau de eficiência e rendimento, tanto assistencial como escolar.
 
 A decisão pertence ao Ministro da Saúde e Assistência, ouvido o Ministério da Educação Nacional.
 
-###### Art. 16.º As atribuições e competência dos diferentes serviços, o regime e a forma de recrutamento do pessoal serão definidos em regulamento.
+Art. 16.º As atribuições e competência dos diferentes serviços, o regime e a forma de recrutamento do pessoal serão definidos em regulamento.
 
 § único. Sem prejuízo da autonomia e da responsabilidade técnica atribuída a cada serviço, todos ficam sujeitos à orientação geral que superiormente for definida e determinada através da administração.
 
 #### SECÇÃO II — Dos serviços clínicos
 
-###### Art. 17.º Os serviços clínicos compreendem:
+Art. 17.º Os serviços clínicos compreendem:
 
 a) O serviço de admissão;
 
@@ -236,9 +261,9 @@ d) Os serviços de especialidades;
 
 e) Os serviços de diagnóstico e terapêutica.
 
-###### Art. 18.º O serviço de admissão funcionará em estreita ligação com o serviço social e os serviços administrativos, os quais terão a seu cargo todo o expediente relativo à entrada, saída e movimento geral dos doentes, e bem assim o serviço de arquivo correspondente.
+Art. 18.º O serviço de admissão funcionará em estreita ligação com o serviço social e os serviços administrativos, os quais terão a seu cargo todo o expediente relativo à entrada, saída e movimento geral dos doentes, e bem assim o serviço de arquivo correspondente.
 
-###### Art. 19.º Os serviços de especialidades são os seguintes:
+Art. 19.º Os serviços de especialidades são os seguintes:
 
 a) Dermatovenereologia;
 
@@ -266,7 +291,7 @@ l) Psiquiatria;
 
 m) Urologia;
 
-###### Art. 20.º Os serviços de diagnóstico e terapêutica são comuns a todo o Hospital e abrangem os serviços de:
+Art. 20.º Os serviços de diagnóstico e terapêutica são comuns a todo o Hospital e abrangem os serviços de:
 
 a) Análises clínicas;
 
@@ -284,21 +309,21 @@ g) Fisioterapia;
 
 h) Radiologia.
 
-###### Art. 21.º À secção clínica dos serviços de arquivo e estatística previstos no artigo 28.º incumbe a guarda, catalogação e conservação dos processos individuais dos doentes e da documentação clínica a eles respeitantes, assim como o aproveitamento, para fins estatísticos, dos elementos que constem dos mesmos arquivos.
+Art. 21.º À secção clínica dos serviços de arquivo e estatística previstos no artigo 28.º incumbe a guarda, catalogação e conservação dos processos individuais dos doentes e da documentação clínica a eles respeitantes, assim como o aproveitamento, para fins estatísticos, dos elementos que constem dos mesmos arquivos.
 
 #### SECÇÃO III — Dos serviços farmacêuticos
 
-###### Art. 22.º Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem e fornecimento dos medicamentos.
+Art. 22.º Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem e fornecimento dos medicamentos.
 
-###### Art. 23.º Quanto à produção, estes serviços serão organizados em regime de exploração industrial, com apuramento anual dos resultados económicos da sua actividade.
+Art. 23.º Quanto à produção, estes serviços serão organizados em regime de exploração industrial, com apuramento anual dos resultados económicos da sua actividade.
 
 #### SECÇÃO IV — Dos serviços de enfermagem
 
-###### Art. 24.º Os serviços de enfermagem exercem a sua acção junto dos serviços clínicos e dos outros que lhes forem designados.
+Art. 24.º Os serviços de enfermagem exercem a sua acção junto dos serviços clínicos e dos outros que lhes forem designados.
 
 § único. A enfermagem do Hospital Escolar de S. João será geral e especializada.
 
-###### Art. 25.º Compete a estes serviços:
+Art. 25.º Compete a estes serviços:
 
 a) Cuidar dos doentes, de harmonia com os conhecimentos técnicos da profissão e os princípios da caridade cristã;
 
@@ -310,13 +335,13 @@ d) Dirigir os serventes e criadas destacados nos serviços a seu cargo.
 
 #### SECÇÃO V — Do serviço social
 
-###### Art. 26.º O serviço social funcionará em estreita ligação com a administração. Compete-lhe prestar assistência social aos doentes e respectivas famílias e ao pessoal hospitalar, e bem assim proceder aos inquéritos que lhe forem determinados.
+Art. 26.º O serviço social funcionará em estreita ligação com a administração. Compete-lhe prestar assistência social aos doentes e respectivas famílias e ao pessoal hospitalar, e bem assim proceder aos inquéritos que lhe forem determinados.
 
-###### Art. 27.º O serviço social prestará a sua colaboração técnica às iniciativas particulares que se proponham completar ou ampliar a sua acção.
+Art. 27.º O serviço social prestará a sua colaboração técnica às iniciativas particulares que se proponham completar ou ampliar a sua acção.
 
 #### SECÇÃO VI — Dos serviços administrativos
 
-###### Art. 28.º Os serviços administrativos compreendem:
+Art. 28.º Os serviços administrativos compreendem:
 
 a) A secretaria;
 
@@ -340,7 +365,7 @@ i) Os serviços auxiliares.
 
 ### CAPÍTULO IV — Do pessoal
 
-###### Art. 29.º O quadro do pessoal de direcção e chefia do Hospital Escolar de S. João e as respectivas categorias e remunerações são os constantes do mapa anexo ao presente decreto-lei.
+Art. 29.º O quadro do pessoal de direcção e chefia do Hospital Escolar de S. João e as respectivas categorias e remunerações são os constantes do mapa anexo ao presente decreto-lei.
 
 § 1.º O quadro do pessoal não compreendido no de direcção e chefia será fixado pelo Ministro da Saúde e Assistência, de acordo com o Ministro das Finanças e de harmonia com as necessidades dos serviços.
 
@@ -350,7 +375,7 @@ i) Os serviços auxiliares.
 
 § 4.º Os funcionários que já estiveram ao serviço do Hospital perceberão durante o estágio a remuneração que competir à sua categoria definitiva.
 
-###### Art. 30.º O provedor, os directores e os chefes de serviço serão nomeados pelo Ministro da Saúde e Assistência, de entre os indivíduos de reconhecido mérito e capacidade para o exercício das respectivas funções, nos termos indicados nos parágrafos seguintes:
+Art. 30.º O provedor, os directores e os chefes de serviço serão nomeados pelo Ministro da Saúde e Assistência, de entre os indivíduos de reconhecido mérito e capacidade para o exercício das respectivas funções, nos termos indicados nos parágrafos seguintes:
 
 § 1.º O provedor será escolhido entre os professores da Faculdade de Medicina ou outros diplomados por cursos superiores. Nesta última hipótese terão preferência os diplomados com o curso de administração hospitalar. Em ambos os casos, porém, o cargo de provedor não é acumulável com o exercício de qualquer outro no Hospital ou na Faculdade ou com o exercício de profissão liberal.
 
@@ -362,61 +387,61 @@ Se o provedor for professor da Faculdade, a sua escolha carece de prévia concor
 
 § 4.º Os restantes lugares de direcção de serviços clínicos serão providos pelo Ministro da Saúde e Assistência, ouvido o Ministro da Educação Nacional, de entre os indivíduos devidamente habilitados para o seu desempenho, de preferência com o grau académico de doutor em Medicina.
 
-###### Art. 31.º O provimento dos restantes lugares será feito pelo Ministro da Saúde e Assistência, de harmonia com o disposto no [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238) e na mais legislação aplicável.
+Art. 31.º O provimento dos restantes lugares será feito pelo Ministro da Saúde e Assistência, de harmonia com o disposto no [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238) e na mais legislação aplicável.
 
-###### Art. 32.º Os funcionários terão direito a vencimento sempre que o período normal de trabalho seja de seis ou mais horas diárias, e a gratificação, fixada de harmonia com a natureza e duração do serviço prestado, quando aquele período seja inferior ou acumulem estas funções com outras, de carácter docente ou hospitalar.
+Art. 32.º Os funcionários terão direito a vencimento sempre que o período normal de trabalho seja de seis ou mais horas diárias, e a gratificação, fixada de harmonia com a natureza e duração do serviço prestado, quando aquele período seja inferior ou acumulem estas funções com outras, de carácter docente ou hospitalar.
 
-###### Art. 33.º O pessoal que preste serviço de urgência ou de vela e o pessoal dos serviços de alimentação e dietética têm direito a refeições gratuitas, durante o período efectivo daquelas funções.
+Art. 33.º O pessoal que preste serviço de urgência ou de vela e o pessoal dos serviços de alimentação e dietética têm direito a refeições gratuitas, durante o período efectivo daquelas funções.
 
-###### Art. 34.º Ao pessoal que não estiver nas condições do artigo anterior poderá ser fornecida alimentação, mediante pagamento a fixar pelo Ministério da Saúde e Assistência, sob proposta da administração, de harmonia com o respectivo custo, a categoria profissional do funcionário e a conveniência que haja para o serviço em que tome as refeições no Hospital.
+Art. 34.º Ao pessoal que não estiver nas condições do artigo anterior poderá ser fornecida alimentação, mediante pagamento a fixar pelo Ministério da Saúde e Assistência, sob proposta da administração, de harmonia com o respectivo custo, a categoria profissional do funcionário e a conveniência que haja para o serviço em que tome as refeições no Hospital.
 
 § único. O pessoal a que forem fornecidas refeições avulsas pagará a importância fixada pela administração.
 
-###### Art. 35.º Terá alojamento obrigatório no Hospital o pessoal cuja presença seja indispensável ao regular funcionamento dos serviços.
+Art. 35.º Terá alojamento obrigatório no Hospital o pessoal cuja presença seja indispensável ao regular funcionamento dos serviços.
 
-###### Art. 36.º O pessoal do Hospital, incluindo os médicos voluntários que hajam prestado mais de três meses de serviço, poderá ser autorizado a utilizar os serviços de radiologia, de agentes físicos, de análises clínicas e de consultas externas e, nas mesmas condições, ser internado, com o desconto sobre o preço normal que for estabelecido por despacho ministerial.
+Art. 36.º O pessoal do Hospital, incluindo os médicos voluntários que hajam prestado mais de três meses de serviço, poderá ser autorizado a utilizar os serviços de radiologia, de agentes físicos, de análises clínicas e de consultas externas e, nas mesmas condições, ser internado, com o desconto sobre o preço normal que for estabelecido por despacho ministerial.
 
-###### Art. 37.º O pessoal do Hospital Escolar de S. João fica sujeito ao regime legal em vigor para os mais funcionários do Estado, competindo ao Ministério da Saúde e Assistência fixar o período de trabalho a prestar por cada categoria.
+Art. 37.º O pessoal do Hospital Escolar de S. João fica sujeito ao regime legal em vigor para os mais funcionários do Estado, competindo ao Ministério da Saúde e Assistência fixar o período de trabalho a prestar por cada categoria.
 
-###### Art. 38.º Ao pessoal hospitalar será fornecido uniforme, de harmonia com o estabelecido no regulamento respectivo.
+Art. 38.º Ao pessoal hospitalar será fornecido uniforme, de harmonia com o estabelecido no regulamento respectivo.
 
-###### Art. 39.º Os funcionários e outros serventuários do Hospital Escolar de S. João não podem intervir, por si ou por interposta pessoa, em contratos de fornecimento ou quaisquer outros com o Hospital, nem ser sócios, prestar serviço ou estar de qualquer forma interessados em casas de saúde, laboratórios, farmácias, consultórios e agências funerárias.
+Art. 39.º Os funcionários e outros serventuários do Hospital Escolar de S. João não podem intervir, por si ou por interposta pessoa, em contratos de fornecimento ou quaisquer outros com o Hospital, nem ser sócios, prestar serviço ou estar de qualquer forma interessados em casas de saúde, laboratórios, farmácias, consultórios e agências funerárias.
 
 § único. A proibição constante deste artigo não se aplica aos médicos relativamente aos seus consultórios ou laboratórios, ou a outros estabelecimentos hospitalares, desde que não haja incompatibilidade de horários ou prejuízo para o serviço do Hospital, sendo-lhes permitido prestar serviços em casas de saúde, enquanto o Hospital não lhes facultar a possibilidade de nele poderem exercer toda a sua actividade clínica.
 
-###### Art. 40.º Para preparação do pessoal hospitalar funcionarão no Hospital Escolar de S. João os internatos médico, farmacêutico e outros.
+Art. 40.º Para preparação do pessoal hospitalar funcionarão no Hospital Escolar de S. João os internatos médico, farmacêutico e outros.
 
 § único. O Ministro da Saúde e Assistência, tendo em atenção as necessidades dos serviços, poderá autorizar o funcionamento de cursos e estágios para preparação de pessoal técnico, administrativo, de enfermagem e social.
 
-###### Art. 41.º Serão definidas em regulamento as condições de admissão aos internatos, cursos e estágios a duração destes, os deveres e os direitos dos que os frequentarem.
+Art. 41.º Serão definidas em regulamento as condições de admissão aos internatos, cursos e estágios a duração destes, os deveres e os direitos dos que os frequentarem.
 
-###### Art. 42.º A administração poderá autorizar que os médicos ou outros candidatos frequentem os serviços hospitalares em regime de voluntariado ou de tirocínio para especialistas.
+Art. 42.º A administração poderá autorizar que os médicos ou outros candidatos frequentem os serviços hospitalares em regime de voluntariado ou de tirocínio para especialistas.
 
 § único. A autorização para frequentar serviços clínicos será concedida mediante parecer favorável da Faculdade de Medicina, quando os serviços correspondam a disciplinas do seu plano de estudos. Nos outros casos depende do parecer favorável do director dos serviços clínicos, ouvido o chefe respectivo.
 
-###### Art. 43.º O pessoal admitido nos termos do artigo anterior fica sujeito à disciplina e aos regulamentos hospitalares, podendo o Ministério da Saúde e Assistência fixar anualmente o máximo da frequência de voluntários ou tirocinantes em cada um dos serviços.
+Art. 43.º O pessoal admitido nos termos do artigo anterior fica sujeito à disciplina e aos regulamentos hospitalares, podendo o Ministério da Saúde e Assistência fixar anualmente o máximo da frequência de voluntários ou tirocinantes em cada um dos serviços.
 
-###### Art. 44.º Em casos especiais, e com prévia autorização do Ministério da Saúde e Assistência, poderá a execução de determinados serviços hospitalares ser confiada, mediante retribuição global, a pessoas ou entidades públicas ou particulares que assumam o encargo dessa execução.
+Art. 44.º Em casos especiais, e com prévia autorização do Ministério da Saúde e Assistência, poderá a execução de determinados serviços hospitalares ser confiada, mediante retribuição global, a pessoas ou entidades públicas ou particulares que assumam o encargo dessa execução.
 
 ### CAPÍTULO V — Da prestação da assistência
 
-###### Art. 45.º O Hospital Escolar de S. João assegura a assistência curativa a doentes, tanto em casos de urgência como em regime de internamento, de consulta externa e de tratamento no domicílio. Colabora também na execução de providências de carácter preventivo e de reabilitação.
+Art. 45.º O Hospital Escolar de S. João assegura a assistência curativa a doentes, tanto em casos de urgência como em regime de internamento, de consulta externa e de tratamento no domicílio. Colabora também na execução de providências de carácter preventivo e de reabilitação.
 
-###### Art. 46.º A assistência de urgência pode ser prestada no banco, nos locais em que se verifiquem sinistros ou no próprio domicílio e destina-se a assegurar o tratamento dos doentes que dele careçam, por motivo da particular gravidade do seu estado.
+Art. 46.º A assistência de urgência pode ser prestada no banco, nos locais em que se verifiquem sinistros ou no próprio domicílio e destina-se a assegurar o tratamento dos doentes que dele careçam, por motivo da particular gravidade do seu estado.
 
-###### Art. 47.º O internamento será restrito aos doentes que não possam ser assistidos em regime ambulatório ou no domicílio.
+Art. 47.º O internamento será restrito aos doentes que não possam ser assistidos em regime ambulatório ou no domicílio.
 
-###### Art. 48.º Nas consultas externas será prestada assistência aos doentes que, podendo sair do domicílio, não careçam de ser internados.
+Art. 48.º Nas consultas externas será prestada assistência aos doentes que, podendo sair do domicílio, não careçam de ser internados.
 
-###### Art. 49.º A assistência domiciliária destina-se a prestar cuidados anteriores ou posteriores ao internamento, quando o estado do doente e as condições do meio o permitam.
+Art. 49.º A assistência domiciliária destina-se a prestar cuidados anteriores ou posteriores ao internamento, quando o estado do doente e as condições do meio o permitam.
 
-###### Art. 50.º A administração do Hospital solicitará da Direcção-Geral dos Hospitais o internamento, em estabelecimentos adequados, dos doentes crónicos, inválidos ou incuráveis que não tenham família para os receber.
+Art. 50.º A administração do Hospital solicitará da Direcção-Geral dos Hospitais o internamento, em estabelecimentos adequados, dos doentes crónicos, inválidos ou incuráveis que não tenham família para os receber.
 
-###### Art. 51.º Serão fixadas em regulamento as normas aplicáveis à utilização dos quartos particulares e definido o regime a que ficam sujeitos.
+Art. 51.º Serão fixadas em regulamento as normas aplicáveis à utilização dos quartos particulares e definido o regime a que ficam sujeitos.
 
-###### Art. 52.º O presente decreto-lei entra imediatamente em vigor e revoga o [Decreto-Lei n.º 41811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41811-1958-352075), de 9 de Agosto de 1958.
+Art. 52.º O presente decreto-lei entra imediatamente em vigor e revoga o [Decreto-Lei n.º 41811](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41811-1958-352075), de 9 de Agosto de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -424,7 +449,7 @@ Para ser presente à Assembleia Nacional.
 
 Quadro do pessoal de direcção e chefia do Hospital Escolar de S. João
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1961/12/29000/16331638.pdf))](https://files.diariodarepublica.pt/1s/1961/12/29000/16331638.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/12/29000/16331638.pdf)
 
 Notas
 

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12300/12161217.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1980-474708
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1996-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:28:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b15fe7a6373db4906ca2d9c4038489c2beb01e12ec6c10a654aad10629c6af68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5225e661e1d1d1cd1db659499b5c418e7550014730aef2052b0d9d458379e888
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:28:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Auditoria Jurídica
+- Criação de Serviços
+- Ministério das Finanças e do Plano
 relationships:
 - type: amended_by
   target: pt:dre:241227:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:182849:por
+  label: "Substituído o quadro de pessoal da Auditoria Jurídica do Ministério das Finanças e do Plano criado pelo presente\
+    \ diploma, pela PORT.417/85.03.07.1985.PCM, DR.IS [150] de 03.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/417-1985-182849
+  date: '1985-07-03'
+- type: amended_by
+  target: pt:dre:241227:por
+  label: "Extinta a Auditoria Jurídica do Ministério das Finanças, criada pelo presente diploma, pelo DEC LEI.158/96.1996.09.03.MF\
+    \ DR.IS-A [204]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/158-1996-241227
+  date: '1996-09-03'
+- type: cites
+  target: pt:dre:231145:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278707:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692986:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:28:00Z'
   warnings: []
   errors: []
 ---
@@ -98,9 +125,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º É criada a Auditoria Jurídica do Ministério das Finanças e do Plano, órgão de consulta jurídica e de apoio legislativo do respectivo membro do Governo.
+Artigo 1.º É criada a Auditoria Jurídica do Ministério das Finanças e do Plano, órgão de consulta jurídica e de apoio legislativo do respectivo membro do Governo.
 
-###### Art. 2.º A Auditoria Jurídica ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos por despacho ministerial, competindo-lhe, designadamente:
+Art. 2.º A Auditoria Jurídica ocupar-se-á dos assuntos de natureza jurídica que lhe sejam submetidos por despacho ministerial, competindo-lhe, designadamente:
 
 a) Emitir pareceres, responder a consultas e elaborar estudos sobre matérias de natureza jurídica;
 
@@ -116,17 +143,17 @@ f) Promover a recolha de informação e documentação jurídica respeitante às
 
 g) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matérias de interesse para os vários serviços e organismos do Ministério.
 
-###### Art. 3.º A Auditoria Jurídica é coordenada pelo procurador-geral-adjunto que, no Ministério das Finanças e do Plano, exerce as funções de auditor jurídico.
+Art. 3.º A Auditoria Jurídica é coordenada pelo procurador-geral-adjunto que, no Ministério das Finanças e do Plano, exerce as funções de auditor jurídico.
 
-###### Art. 4.º - 1 - O auditor jurídico poderá corresponder-se directamente com quaisquer oganismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
+Art. 4.º - 1 - O auditor jurídico poderá corresponder-se directamente com quaisquer oganismos ou autoridades, solicitando destes as diligências e informações que forem julgadas necessárias ao desenvolvimento da sua actividade.
 
 2 - O auditor jurídico é responsável por todos os trabalhos produzidos na Auditoria, devendo assinar os mesmos conjuntamente com o seu autor.
 
 3 - No exercício das funções de coordenação, o auditor jurídico será substituído, durante as faltas e impedimentos, pelo funcionário de mais elevada categoria profissional que para o efeito designar.
 
-###### Art. 5.º A Auditoria Jurídica dispõe do quadro privativo constante do mapa anexo a este diploma.
+Art. 5.º A Auditoria Jurídica dispõe do quadro privativo constante do mapa anexo a este diploma.
 
-###### Art. 6.º - 1 - A admissão no quadro privativo da Auditoria Jurídica efectuar-se-á sempre por nomeação ministerial na categoria de consultor jurídico de 2.ª classe de entre licenciados em Direito de reconhecida competência e após prestação de provas de selecção.
+Art. 6.º - 1 - A admissão no quadro privativo da Auditoria Jurídica efectuar-se-á sempre por nomeação ministerial na categoria de consultor jurídico de 2.ª classe de entre licenciados em Direito de reconhecida competência e após prestação de provas de selecção.
 
 2 - A nomeação a que se refere o número anterior terá carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
@@ -134,22 +161,22 @@ g) Organizar e manter actualizados ficheiros de legislação, jurisprudência e 
 
 4 - Para todas as categorias, as promoções terão lugar de entre os consultores jurídicos de categoria imediatamente inferior com o mínimo de três anos de serviço efectivo na categoria, classificação de serviço não inferior a Bom e após prestação de provas de qualificação.
 
-###### Art. 7.º - 1 - O pessoal pertencente aos quadros da Auditoria Jurídica do Ministério do Plano e Coordenação Económica constante do anexo III ao [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro, transita de imediato para idêntica categoria no quadro, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República.
+Art. 7.º - 1 - O pessoal pertencente aos quadros da Auditoria Jurídica do Ministério do Plano e Coordenação Económica constante do anexo III ao [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro, transita de imediato para idêntica categoria no quadro, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República.
 
 2 - O primeiro provimento dos restantes lugares a que se refere o artigo 5.º far-se-á nos termos da lei geral, ouvido o auditor jurídico, por despacho do Ministro das Finanças e do Plano.
 
-###### Art. 8.º O quadro anexo ao presente diploma poderá ser alterado por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
+Art. 8.º O quadro anexo ao presente diploma poderá ser alterado por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 9.º Até ulterior reestruturação, a Secretaria-Geral do extinto Ministério da Coordenação Económica e do Plano assegurará o apoio administrativo de que a Auditoria Jurídica careça, com vista à prossecução das respectivas atribuições.
+Art. 9.º Até ulterior reestruturação, a Secretaria-Geral do extinto Ministério da Coordenação Económica e do Plano assegurará o apoio administrativo de que a Auditoria Jurídica careça, com vista à prossecução das respectivas atribuições.
 
-###### Art. 10.º São revogados os artigos 8.º, 9.º e 10.º e o anexo III ao artigo 11.º do [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro, e o [Decreto-Lei n.º 529/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1979-231145), de 31 de Dezembro.
+Art. 10.º São revogados os artigos 8.º, 9.º e 10.º e o anexo III ao artigo 11.º do [Decreto Regulamentar n.º 66/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1977-278707), de 29 de Setembro, e o [Decreto-Lei n.º 529/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1979-231145), de 31 de Dezembro.
 
 Visto e aprovado em Conselho de Ministros de 17 de Abril de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 19 de Maio de 1980.**
+Promulgado em 19 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1980/05/12300/12161217.pdf))](https://files.diariodarepublica.pt/1s/1980/05/12300/12161217.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/05/12300/12161217.pdf)

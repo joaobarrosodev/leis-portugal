@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01600/01040105.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1976-506032
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-05-18T00:00:00Z'
+  retrieved_at: '2026-10-22T22:54:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c49f31ca950001baf9b5d23d4b9d674a814e232217d9e63f775848f4d2fb6267
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: efc739bd01c52392097148745aca33022431f5f92ac3f1a52b5ee29456f0ac7e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:54:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Pública
+- Aposentação
+- Caixa Geral de Aposentações
+- Funcionário Público
+- Limite de Idade
+- Segurança Social
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:382609:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236477:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:353565:por
+  label: Rectificado pela DECL.DD8475.03.02.1976.PCM, DG.IS [28]3ºSupl de 03.02.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-353565
+  date: '1976-02-03'
+- type: repealed_by
+  target: pt:dre:382609:por
+  label: "Revogado pelo DEC LEI.134/79.1979.05.18.PCM DR.IS [114]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1979-382609
+  date: '1979-05-18'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:54:16Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +128,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os trabalhadores civis do Estado, serviços públicos e administração local e regional com, pelo menos, 70 anos de idade que não sejam subscritores da Caixa Geral de Aposentações, mas tenham prestado um mínimo de cinco anos de serviço contínuo, têm direito a um subsídio vitalício, pago mensalmente.
+Artigo 1.º - 1. Os trabalhadores civis do Estado, serviços públicos e administração local e regional com, pelo menos, 70 anos de idade que não sejam subscritores da Caixa Geral de Aposentações, mas tenham prestado um mínimo de cinco anos de serviço contínuo, têm direito a um subsídio vitalício, pago mensalmente.
 
 2. Para efeitos do presente artigo, entende-se por serviço contínuo todo o tempo de serviço efectivo ou situações ao mesmo equiparadas e ainda o tempo de serviço prestado antes ou depois da interrupção de funções que não implique quebra de vínculo com a Administração.
 
@@ -107,13 +136,13 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Const
 
 4. No caso referido no número anterior, os trabalhadores poderão optar pelo subsídio previsto no n.º 1 deste artigo.
 
-###### Art. 2.º O subsídio vitalício será também pago:
+Art. 2.º O subsídio vitalício será também pago:
 
 a) A todos os trabalhadores que, não estando actualmente em exercício de funções, preencham os demais requisitos enumerados no n.º 1 do artigo 1.º;
 
 b) A todos os trabalhadores que, tendo descontado para a Caixa Geral de Aposentações, ao completarem os 70 anos de idade não tivessem reunido as condições legais mínimas para a atribuição da pensão.
 
-###### Art. 3.º - 1. O subsídio vitalício será fixado, para cada caso, em valor correspondente à pensão que, de acordo com o número de anos de serviço, competiria ao trabalhador se fosse aposentado.
+Art. 3.º - 1. O subsídio vitalício será fixado, para cada caso, em valor correspondente à pensão que, de acordo com o número de anos de serviço, competiria ao trabalhador se fosse aposentado.
 
 2. O quantitativo do subsídio, fixado nos termos do número anterior, nunca poderá ser inferior ao maior dos seguintes valores:
 
@@ -121,28 +150,28 @@ a) A 75% da pensão a que o trabalhador teria direito se reunisse as condições
 
 b) A 50% do salário mínimo fixado pelo artigo 1.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho.
 
-###### Art. 4.º Os trabalhadores abrangidos pelo disposto no artigo 1.º deixarão de exercer funções na data da publicação deste diploma, continuando, porém, a ser abonados dos respectivos vencimentos até lhes serem pagos os correspondentes subsídios vitalícios.
+Art. 4.º Os trabalhadores abrangidos pelo disposto no artigo 1.º deixarão de exercer funções na data da publicação deste diploma, continuando, porém, a ser abonados dos respectivos vencimentos até lhes serem pagos os correspondentes subsídios vitalícios.
 
-###### Art. 5.º Os beneficiários do subsídio vitalício não poderão exercer funções remuneradas ao serviço do Estado, serviços públicos, autarquias locais, empresas públicas e outras pessoas colectivas de direito público.
+Art. 5.º Os beneficiários do subsídio vitalício não poderão exercer funções remuneradas ao serviço do Estado, serviços públicos, autarquias locais, empresas públicas e outras pessoas colectivas de direito público.
 
-###### Art. 6.º Os subsídios vitalícios serão actualizados sempre que o forem as pensões de igual montante atribuídas aos funcionários do Estado e autarquias locais nas situações de reserva, aposentados e reformados.
+Art. 6.º Os subsídios vitalícios serão actualizados sempre que o forem as pensões de igual montante atribuídas aos funcionários do Estado e autarquias locais nas situações de reserva, aposentados e reformados.
 
-###### Art. 7.º Os beneficiários do subsídio vitalício e membros do seu agregado familiar poderão inscrever-se na Assistência na Doença aos Servidores Civis do Estado (ADSE).
+Art. 7.º Os beneficiários do subsídio vitalício e membros do seu agregado familiar poderão inscrever-se na Assistência na Doença aos Servidores Civis do Estado (ADSE).
 
-###### Art. 8.º As pessoas de família a cargo dos beneficiários do subsídio vitalício terão direito a receber um subsídio por morte correspondente a três vezes o montante do subsídio vitalício mensal, aplicando-se-lhes, com as devidas adaptações, o regime definido no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+Art. 8.º As pessoas de família a cargo dos beneficiários do subsídio vitalício terão direito a receber um subsídio por morte correspondente a três vezes o montante do subsídio vitalício mensal, aplicando-se-lhes, com as devidas adaptações, o regime definido no artigo 83.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-###### Art. 9.º Aos herdeiros hábeis dos beneficiários do subsídio vitalício será atribuída uma pensão de sobrevivência, aplicando-se-lhes, com as devidas adaptações, o disposto no [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março.
+Art. 9.º Aos herdeiros hábeis dos beneficiários do subsídio vitalício será atribuída uma pensão de sobrevivência, aplicando-se-lhes, com as devidas adaptações, o disposto no [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março.
 
-###### Art. 10.º Cada Ministério ou entidade a que se aplique este diploma inscreverá no seu orçamento ordinário a verba consignada, especialmente, à concessão dos subsídios a que se refere o presente diploma.
+Art. 10.º Cada Ministério ou entidade a que se aplique este diploma inscreverá no seu orçamento ordinário a verba consignada, especialmente, à concessão dos subsídios a que se refere o presente diploma.
 
-###### Art. 11.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial, sob parecer das Direcções-Gerais da Função Pública e da Previdência, de harmonia com a respectiva competência.
+Art. 11.º As dúvidas e casos não previstos serão resolvidos por despacho ministerial, sob parecer das Direcções-Gerais da Função Pública e da Previdência, de harmonia com a respectiva competência.
 
-###### Art. 12.º Este diploma entra em vigor na data da publicação.
+Art. 12.º Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
 
-**Promulgado em 31 de Dezembro de 1975.**
+Promulgado em 31 de Dezembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

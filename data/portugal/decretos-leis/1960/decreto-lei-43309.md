@@ -46,36 +46,110 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43309-1960-514260
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T21:34:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c70b2573c0a0c0ced05b86a20b309c14a6d6a7a3edf810aac2153fb9e0d38b6a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3f085ffd1ad0657561c9509019ff88f89695876f40e16641ffe26b16f3a2f8e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:34:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Amnistia
+- Crime
+relationships:
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:163593:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217154:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224619:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:271583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306223:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:364499:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:368834:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370188:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541015:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:645711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687261:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:34:20Z'
   warnings: []
   errors: []
 ---
@@ -122,7 +196,7 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São amnistiados os crimes contra a segurança interior e exterior do Estado.
+Artigo 1.º - 1. São amnistiados os crimes contra a segurança interior e exterior do Estado.
 
 2. Não aproveitam, porém, do benefício da amnistia:
 
@@ -132,7 +206,7 @@ b) Os que tiverem exercido as actividades a que se referem os n.os 1.º e 2.º d
 
 c) Os agentes dos crimes previstos nos artigos 141.º 145.º, 167.º a 170.º e 173.º do Código Penal.
 
-###### Art. 2.º - 1. São ainda amnistiados:
+Art. 2.º - 1. São ainda amnistiados:
 
 a) Os crimes eleitorais;
 
@@ -176,17 +250,17 @@ j) Às simples contravenções a que se referem os artigos 27.º e seguintes do 
 
 k) Às infracções, relativas à produção, venda ou trânsito de vinhos ou seus derivados, previstas no artigo 9.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210), de 18 de Janeiro de 1955, no artigo 27.º do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946, no artigo 37.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277), de 23 de Março de 1935, e no § 4.º do artigo 8.º do [Decreto-Lei n.º 27002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27002-1936-363709), de 12 de Setembro de 1936, na [Portaria n.º 15348](https://diariodarepublica.pt/dr/detalhe/portaria/15348-1955-541015), de 19 de Abril de 1955, e nos artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 31565](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31565-1941-370188), de 10 de Outubro de 1941.
 
-###### Art. 3.º - 1. É perdoado um terço das penas correccionais de prisão, de multa ou de trabalho prisional que tenham sido aplicadas em decisões já proferidas à data da publicação deste diploma, ainda que não transitadas em julgado, por crimes contra a propriedade.
+Art. 3.º - 1. É perdoado um terço das penas correccionais de prisão, de multa ou de trabalho prisional que tenham sido aplicadas em decisões já proferidas à data da publicação deste diploma, ainda que não transitadas em julgado, por crimes contra a propriedade.
 
 2. São perdoadas aos empreiteiros de obras públicas no ultramar as multas em que, por mora no cumprimento dos contratos, se achem incursos à data da publicação deste decreto-lei, previstas nos cadernos de encargos, a que se refere o artigo 1.º das cláusulas e condições gerais de empreitadas de obras públicas e de fornecimento de materiais para as províncias ultramarinas, aprovadas pela Portaria de 20 de Outubro de 1900.
 
-###### Art. 4.º Os benefícios constantes deste diploma não aproveitam aos reincidentes, aos delinquentes de difícil correcção nem aos vadios ou equiparados.
+Art. 4.º Os benefícios constantes deste diploma não aproveitam aos reincidentes, aos delinquentes de difícil correcção nem aos vadios ou equiparados.
 
-###### Art. 5.º A amnistia não extingue a responsabilidade civil emergente dos factos praticados.
+Art. 5.º A amnistia não extingue a responsabilidade civil emergente dos factos praticados.
 
-###### Art. 6.º O presente decreto-lei entra imediatamente em vigor.
+Art. 6.º O presente decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.
 

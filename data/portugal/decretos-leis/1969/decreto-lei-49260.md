@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/22500/12921292.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49260-1969-214274
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7bbfdad15067a58ae59fd1fc7f298e441b8219791e92300605107d5bb39e82e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 18bf4a178c19be87f5e80d0e3b29f00ea347699e20453110591bccedda3b280a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Circulação de Mercadorias
+- Definição de Competências
+- Direitos de Importação
+- Importação
+- Isenção de Taxas e Emolumentos
+- Ministro das Finanças
 relationships:
 - type: amended_by
   target: pt:dre:361110:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:361110:por
+  label: "Revogado pelo DEC LEI.472/88.22.12.1988.MF, DR.IS [294] de 22.12.1988, sem prejuízo da aplicação do regime, estabelecido\
+    \ neste diploma, aos processos pendentes à data de entrada em vigor daquele diploma.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/472-1988-361110
+  date: '1988-12-22'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:52Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +107,14 @@ Convindo assegurar nas melhores condições o abastecimento público de produtos
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Poderá o Ministro das Finanças reduzir ou isentar de direitos e isentar dos emolumentos do artigo 11.º da tabela II da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, a importação de produtos destinados ao abastecimento público.
+Artigo único. Poderá o Ministro das Finanças reduzir ou isentar de direitos e isentar dos emolumentos do artigo 11.º da tabela II da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, a importação de produtos destinados ao abastecimento público.
 
 § único. Tal benefício poderá ser aplicado aos produtos importados cujos direitos se encontrem garantidos.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 17 de Setembro de 1969.**
+Promulgado em 17 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/339-1970-141587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:13:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6c6d149026e0e2bdaacc3b02270f4fcf7d49267f8c4d0510d3d7e41e2c6d355c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8211bc9e8bba068d1d29d1d7cf8416f897c0206cab37f5a9d8b721bc2e78fb51
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:13:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:446900:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:446900:por
+  label: "Alterados os arts. 1º e 2º pelo DEC LEI.50/71.23.02.1971.MU, DG.IS [45] de 23.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/50-1971-446900
+  date: '1971-02-23'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:13:22Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +106,7 @@ Ouvido o Governo-Geral de Angola e o Conselho Ultramarino em sessão plenária, 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É criado na província de Angola o distrito do Cunene, com sede em Pereira de Eça.
+Artigo 1.º - 1. É criado na província de Angola o distrito do Cunene, com sede em Pereira de Eça.
 
 2. O distrito do Cunene compreenderá os concelhos do Cuamato e do Cuanhama e as circunscrições do Curoca, do Cuvelai e dos Gambos.
 
@@ -109,7 +114,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 A linha quebrada que une a confluência do rio Osse no rio Cunene com o marco geodésico principal Muncolo (1267,41) e a nascente do rio Onquenha; o curso deste rio até à confluência do rio Eúla; a recta que une este ponto à nascente do rio Calembera; o curso deste rio até à confluência do rio Calonga (ou Colui); o curso deste rio até à confluência do rio Camene; o curso deste rio até à confluência com o rio Calucuve (ou Ondejiracalucuve); o curso deste rio até à sua nascente; a linha quebrada que une a nascente do rio Calucuve (ou Ondejiracalucuve) às nascentes dos rios Matote, Catanga, Vinhate e Catechipulo; o curso deste último rio até à sua confluência no rio Cuvelai; o curso do rio Cuvelai até à confluência do rio Patiângulo; o curso deste rio até à sua nascente; a linha que une as nascentes dos rios Patiângulo e Londaviula; o curso deste último rio até à confluência do rio Bale; o curso do rio Bale até à sua confluência no rio Cubango; o curso do rio Cubango compreendido entre as confluências dos rios Bale e Lele; o curso do rio Lele até à sua confluência no rio Tembo; o curso do rio Tembo desde a confluência do rio Lele até à sua nascente; a linha que une as nascentes dos rios Tembo e Mingomba; o curso do rio Mingomba até à sua confluência no rio Cutato dos Ganguelas; o curso do rio Cutato dos Ganguelas, para sul, desde a confluência do rio Mingomba até à sua confluência no rio Cubango; o curso do rio Cubango, para jusante, até à confluência do seu afluente da margem esquerda Techimaquela; a linha quebrada que une esta confluência às nascentes dos rios Samabimbe e Cubati; o curso do rio (mulola) Cubati (que também se designa por Camunda, Camuandeje e Lupangue) até à confluência com a mulola Nambuda; desta confluência a linha que brada que a une ao vértice geodésico secundário Namunhango (cota 1155,5) e ao marco n.º 34 da fronteira com o Sudoeste Africano; a linha de fronteira desde o marco n.º 34 até ao marco n.º 1, junto às cataratas do Ruacaná; a linha média do curso do rio Cunene desde as cataratas do Ruacaná até à confluência do rio Ouriamuquende; o curso do rio Ouriamuquende até à sua nascente; a linha quebrada que une esta nascente, o vértice geodésico principal Chifiué, o vértice geodésico secundário Ovipaca e a nascente do rio Mucuelo (ou Tucalavire); o curso do rio Mucuelo (ou Tucalavire), desde a nascente até à confluência do rio Riaua (ou Nondegira); o curso do rio Riaua (ou Nondegira) entre esta confluência e a do rio Curoca; o curso do rio Curoca, desde a confluência do rio Riaua (ou Nondegira) até à confluência do rio Nompinda; o curso do rio Nompinda até à confluência do rio Capalala; o curso do rio Capalala entre as confluências dos rios Nompinda e Techovilute; o curso do rio Techovilute até à sua nascente; a linha quebrada que une a nascente do rio Techovilute, cota 1427 (no Comicanda), cota 1412 (no Tengué), vértice geodésico secundário Ufo, cota 1312 (no pico Gongovala), cota 1336 (na serra Palanga) e cota 1264 (na mesma serra); a linha quebrada que une esta última cota com a confluência do rio Chipeio (ou Fimo) no rio Cubal; a linha de alturas unindo esta confluência ao pico Ampereleco (cota 1112), ao pico Pacas (cota 1235) e ao ponto mais alto de Nongunge (cota 1203); a linha que une os pontos de Nongunge (cota 1203) e ponto Mueque (cota 1399) até ser interceptada pelo curso do rio Gomungongo; a linha que, partindo do ponto em que o curso do rio Gomungongo intercepta a linha que liga os pontos de Nongunge e Mueque, une as confluências dos rios Chainde (ou Chicocote ou Guéri) e Chiochomcombe; a linha quebrada que une esta confluência à confluência dos rios Mucangabécua (ou Ocanhande) e Machete (ou Manchete) e à nascente do rio Chila; o curso do rio Chila até à sua confluência no rio Canamba; o curso deste rio até à confluência do rio Umpaca (ou Bitete); o curso deste rio até à confluência do rio Janja (ou Lindloi); o curso deste rio até à sua nascente; a linha que une as nascente dos rios Janja (ou Lindloi) e Canjanja; o curso do rio Canjanja até à confluência do rio Nonchanja; o curso deste rio até à confluência do rio Chimongua; o curso deste rio até à confluência do rio Liancopo; o curso deste rio até à confluência do rio Guingúi; o curso deste rio até à sua nascente; a linha que une as nascentes dos rios Guingúi e Valela; o curso deste rio até à sua confluência no rio Dingue; o curso deste rio até à sua confluência no rio Ianga; o curso deste rio até à sua confluência no rio Caculuvar; o curso deste rio até à confluência do rio Vala; a linha quebrada que une a confluência dos rios Caculuvar e Vala ao vértice geodésico principal Mevaiela à nascente do rio Chite (ou Chinjangue) e à confluência dos rios Dongue e Banguangunde (ou Mucuiumbua); o curso deste último rio até à sua nascente; a linha que une as nascentes dos rios Banguangunde (ou Mucuiumbua) e Vimbo; o curso deste rio até à sua confluência no rio (mulola) Capanda; o curso deste rio (mulola), que também se designa por Muana-Oangunje, Tumborio-Nonchite, Matala, Tepa e Chimbolele, até à etala Ungange (no limite sul do Parque Nacional do Bicuar); a estrada que liga Chibemba ao Mulondo, desde a etala Ungange, até ser interceptada pelo curso da mulola Buangana (esta estrada constitui também o limite sul do Parque Nacional do Bicuar); o curso da mulola Buangana até ao ponto em que é interceptada pelo paralelo que passa pela jangada do Onquenha, no rio Cunene, junto da Fazenda K (Onquenha); este paralelo desde a mulola Buangana até interceptar o curso do rio Cunene; o curso deste rio até à confluência do rio Osse.
 
-###### Art. 2.º Os restantes distritos de Angola terão, na carta, os seguintes limites:
+Art. 2.º Os restantes distritos de Angola terão, na carta, os seguintes limites:
 
 1. Distrito de Cabinda, com sede em Cabinda e compreendendo os concelhos de Cabinda e de Cacongo e as circunscrições de Buco Zau e do Belize:
 
@@ -169,13 +174,13 @@ O curso do rio Coporolo desde a confluência do rio Andambangue até à confluê
 
 O curso do rio Catunda desde a confluência no rio Cutato dos Ganguelas até à sua nascente; a linha que une as nascentes dos rios Catunda e China; o curso deste rio até à sua confluência no rio Liapeca; o curso do rio Liapeca até à sua confluência no rio Cuchi; o curso do rio Cuchi, para jusante, entre as confluências dos rios Liapeca e Vuzongolo; o curso do rio Vuzongolo até à sua nascente; a linha que une as nascentes dos rios Vuzongolo e Cangungo (braço norte); o curso do rio Cangungo até à sua confluência no rio Cacuchi; o curso do rio Cacuchi, para montante, entre as confluências dos rios Cangungo e Dala Cuchi; o curso deste rio até à sua nascente; a linha que une as nascentes dos rios Dala Cuchi e Sassala; o curso deste rio até à sua confluência no rio Julungo; o curso deste rio entre as confluências dos rios Sassala e Pondi; o curso do rio Pondi até à sua nascente; a linha que une as nascentes dos rios Pondi e Missongo; o curso do rio Missongo até à sua confluência no rio Cuceque; o curso do rio Cuceque até à sua confluência no rio Cuelei; o curso do rio Cuelei desde a confluência do rio Cuceque até ao ponto onde o seu curso inflecte para leste (junto da nascente do rio Luâmbua); a linha que une essa curva do rio Cuelei à nascente do rio Luâmbua; o curso deste rio até à confluência do rio Issanda; o curso do rio Issanda até à sua nascente; a linha que une a nascente do rio Issanda à do rio Cassongo; o curso do rio Cassongo até à sua confluência no Cuvelai (ou Techivulai); o curso deste rio, para leste, desde a confluência do rio Cassongo até à sua confluência no rio Cuito; o curso do rio Cuito desde a confluência do rio Cuvelai, para jusante, até à confluência do rio Cuvuco; o curso do rio Cuvuco até à sua nascente; a linha que une as nascentes dos rios Cuvuco e Chibué; o curso do rio Chibué até à sua confluência no rio Cuanavale; o curso do rio Cuanavale, para montante, até à confluência do rio Vunuandumba; o curso do rio Vunuandumba até à sua nascente; a linha que une as nascentes dos rios Vunuandumba e Cutupo; o curso do rio Cutupo até à sua confluência no rio Quembo; o curso do rio Quembo desde a confluência do rio Cutupo até à sua confluência no rio Cuando; o curso do rio Cuando desde a confluência do rio Quembo até ao marco n.º 37 da fronteira com a Zâmbia (antiga Rodésia); a linha de fronteira com a Zâmbia (antiga Rodésia) desde o marco n.º 37 até ao marco n.º 9 (triune point); a linha de fronteira com o Sudoeste Africano, desde o marco n.º 9 (triune point) até à intercepção com o rio Cubango; o curso do rio Cubango até ao paralelo que passa pelo marco de fronteira n.º 47; a linha de fronteira com o Sudoeste Africano, desde o marco n.º 47 até ao marco n.º 34; a linha quebrada que une o marco de fronteira com o Sudoeste Africano, n.º 34, ao vértice geodésico secundário Namunhango e à confluência da mulola (rio) Nambuda na mulola Lupangue (que também se designa por Camuandeje, Canunda e Cubati); o curso desta mulola (rio) até à sua nascente; a linha quebrada que une esta nascente à nascente do rio Samabimbe e à confluência do rio Techimaquela na margem esquerda do rio Cubango; o curso do rio Cubango, para montante, até à confluência do rio Cutato dos Ganguelas; o curso do rio Cutato dos Ganguelas desde a sua confluência no rio Cubango até à confluência do rio Catunda.
 
-###### Art. 3º O presente diploma entrará em vigor em 1 de Janeiro de 1971, devendo, entretanto, o Governo-Geral de Angola tomar as providências de ordem financeira e as demais necessárias para dar execução ao que nele se estabelece.
+Art. 3º O presente diploma entrará em vigor em 1 de Janeiro de 1971, devendo, entretanto, o Governo-Geral de Angola tomar as providências de ordem financeira e as demais necessárias para dar execução ao que nele se estabelece.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 29 de Junho de 1970.**
+Promulgado em 29 de Junho de 1970.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Julho de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

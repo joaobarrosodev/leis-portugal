@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/539-1970-147201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:15:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 951e07f0b5c3e0ad67e77aff6d4c3f3da5b2fba9d0ca2f93496603cb65df1777
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0d7f5fccbd42bcf4e0fc13badb476b67e903796b0f8436525161aaf54ac204b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:15:04Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:147580:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:15:04Z'
   warnings: []
   errors: []
 ---
@@ -90,45 +102,45 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Justiça, créditos especiais no montante de 113200$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do seguindo dos mencionados Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças, a favor do Ministério da Justiça, créditos especiais no montante de 113200$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do seguindo dos mencionados Ministérios:
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Tribunais de 2.ª instância
 
 Relação de Lisboa
 
-###### Artigo 65.º «Remunerações certas ao pessoal em exercício»:
+Artigo 65.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf))](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
 
 Relação do Porto
 
-###### Artigo 73.º «Remunerações certas ao pessoal em exercício»:
+Artigo 73.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf))](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
 
 Juízos de 1.ª instância
 
-###### Artigo 86.º «Remunerações certas ao pessoal em exercício»:
+Artigo 86.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante dois meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf))](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/11/26100/16801681.pdf)
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior é adicionada igual importância à verba descrita sob o capítulo 7.º, artigo 205.º «Reembolsos diversos», do vigente orçamento das receitas do Estado.
+Art. 2.º Para compensação dos créditos designados no artigo anterior é adicionada igual importância à verba descrita sob o capítulo 7.º, artigo 205.º «Reembolsos diversos», do vigente orçamento das receitas do Estado.
 
-###### Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
 
 No desenvolvimento do quadro do pessoal afecto à dotação inscrita no capítulo 3.º, artigo 86.º, n.º 1), onde se lê: «110 juízes de 1.ª classe», deve ler-se: «111 juízes de 1.ª classe.»
 
@@ -136,8 +148,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas.
 
-**Promulgado em 3 de Novembro de 1970.**
+Promulgado em 3 de Novembro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

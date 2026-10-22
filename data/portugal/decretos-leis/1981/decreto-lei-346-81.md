@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/29200/33213326.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,95 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/346-1981-567176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T23:40:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ec8e56a232fc4731f9c93fb9d8433f0e1dd2009f26941c8d6d2dbd973523f4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75a4f3e7ed2149fdb2cb2a9e99c40a36fbd812891b6c4dd89513e696ffe3cda7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Investigação Científica e Tecnológica
+- Investigador
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:123666144:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397917:por
+  label: Alterado o n.º 4 do art. 26.º pelo(a) Decreto-Lei n.º 326/82 - Diário da República n.º 186/1982, Série I de 1982-08-13
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-1982-397917
+  date: '1982-08-13'
+- type: amended_by
+  target: pt:dre:385021:por
+  label: "Alterados os artigos 108.º, 111.º e 112.º do Decreto-Lei n.º 519-D1/79, de 29 de Dezembro, na redacção do presente\
+    \ diploma, pelo DEC LEI.142/84.08.05.1984.PCM, DR.IS [106] de 08.05.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/142-1984-385021
+  date: '1984-05-08'
+- type: amended_by
+  target: pt:dre:123666144:por
+  label: Determinada a não vigência, a partir de 10.08.2019, pelo(a) Lei n.º 56/2019 - Diário da República n.º 148/2019, Série
+    I de 2019-08-05, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/56-2019-123666144
+  date: '2019-08-05'
+- type: cites
+  target: pt:dre:157053:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215148:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461651:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674814:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686602:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:287589:por
+  label: "Revogado, com excepção do n.º 3 do artigo 16.º, os n.ºs 4, 5 e 6 do artigo 17.º, o n.º 5 do artigo 18.º e o artigo\
+    \ 30.º, pelo DEC LEI.68/88.03.03.1988.MPLAT, DR.IS [52] de 03.03.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/68-1988-287589
+  date: '1988-03-03'
+- type: repealed_by
+  target: pt:dre:226629:por
+  label: "Revogado, com excepção do n.º 3 do artigo 16.º, os n.ºs 4, 5 e 6 do artigo 17.º, o n.º 5 do artigo 18.º e o artigo\
+    \ 30.º, pelo DEC LEI.219/92.15.10.1992.MPLAT, DR.IS-A [238] de 15.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1992-226629
+  date: '1992-10-15'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:40:02Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +155,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
 O presente diploma aplica-se ao pessoal da carreira de investigação do Laboratório Nacional de Engenharia Civil.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Carreira de investigação científica do LNEC)
 
@@ -122,7 +177,7 @@ d) Investigador principal;
 
 e) Investigador-coordenador.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Conteúdo funcional das categorias da carreira de investigação científica do LNEC)
 
@@ -168,19 +223,19 @@ e) Contribuir para a definição da política científica do LNEC;
 
 f) Assegurar a execução da política científica definida.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Formação de estagiários e assistentes de investigação)
 
 A actividade de formação dos estagiários de investigação e dos assistentes de investigação e, bem assim, o seu acesso a investigador auxiliar serão regidos por regulamento aprovado por decreto do Ministro da Habitação, Obras Públicas e Transportes, sujeitando-se ao preceituado no presente diploma.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Preparação dos investigadores auxiliares e principais)
 
 A actividade de preparação e o acesso às categorias de investigador principal e de investigador-coordenador serão regidos por regulamento aprovado por decreto do Ministro da Habitação, Obras Públicas e Transportes, sujeitando-se ao preceituado no presente diploma.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Recrutamento de estagiários de investigação)
 
@@ -188,19 +243,19 @@ A actividade de preparação e o acesso às categorias de investigador principal
 
 2 - Os candidatos escolhidos serão ordenados segundo os domínios de actividade do respectivo concurso.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Acesso à categoria de assistente de investigação)
 
 Têm acesso à categoria de assistente de investigação os estagiários de investigação que, com um mínimo de 2 anos de efectivo serviço na categoria e no organismo, satisfaçam as condições requeridas no regulamento referido no artigo 4.º e obtenham aprovação nas provas referidas no artigo 15.º
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Acesso à categoria de investigador auxiliar)
 
 Têm acesso à categoria de investigador auxiliar os assistentes de investigação que, com um mínimo de 3 anos de efectivo serviço na categoria e no organismo, satisfaçam as condições requeridas no regulamento referido no artigo 4.º e obtenham aprovação nas provas referidas no n.º 1 do artigo 16.º
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Acesso à categoria do investigador principal)
 
@@ -208,13 +263,13 @@ Têm acesso à categoria de investigador auxiliar os assistentes de investigaç�
 
 2 - Os candidatos ao concurso documental deverão entregar um relatório das actividades desenvolvidas enquanto investigadores auxiliares, um exemplar de cada uma das obras publicadas a título individual ou colectivo e satisfazer os demais requisitos constantes do edital de abertura do concurso, publicado no Diário da República.
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Acesso à categoria de investigador-coordenador)
 
 Têm acesso à categoria de investigador-coordenador os investigadores principais com um mínimo de 3 anos de efectivo serviço na categoria e no organismo, que satisfaçam as condições requeridas no regulamento referido no artigo 5.º e que obtenham aprovação nas provas do concurso a que se refere o artigo 17.º do presente diploma.
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Provimento dos estagiários de investigação)
 
@@ -226,7 +281,7 @@ Têm acesso à categoria de investigador-coordenador os investigadores principai
 
 4 - Obtida a aprovação nas provas mencionadas no n.º 2, os estagiários de investigação serão providos por contrato na categoria de assistente de investigação, nos termos do artigo seguinte.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Provimento dos assistentes de investigação)
 
@@ -248,25 +303,25 @@ Têm acesso à categoria de investigador-coordenador os investigadores principai
 
 9 - Caso o interessado não requeira a sua integração até ao termo dos prazos estabelecidos no n.º 7, considerar-se-á, para todos os efeitos e a partir dessa data, desvinculado da função pública.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Provimento dos investigadores-coordenadores, investigadores principais e investigadores auxiliares)
 
 Os investigadores-coordenadores, investigadores principais e investigadores auxiliares são providos por nomeação a título definitivo.
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Progressão na carreira)
 
 A progressão na carreira de investigação está condicionada à realização de provas, nos termos dos artigos seguintes.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Provas de acesso à categoria de assistente de investigação)
 
 As provas de acesso à categoria de assistente de investigação consistem na apresentação e discussão de um relatório circunstanciado das actividades realizadas no período de aprendizagem, acompanhado de parecer escrito dos orientadores, nomeados nos termos do regulamento referido no artigo 4.º
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Provas de acesso à categoria de investigador auxiliar)
 
@@ -276,7 +331,7 @@ As provas de acesso à categoria de assistente de investigação consistem na ap
 
 3 - A aprovação na prova de acesso à categoria de investigador auxiliar confere o grau de especialista pelo LNEC. No documento de atribuição do referido grau constará a designação da especialidade, conforme o domínio em que decorreu a actividade do assistente de investigação.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Provas de acesso à categoria de investigador-coordenador)
 
@@ -296,7 +351,7 @@ b) Apresentação e discussão de um programa de investigação da área cientí
 
 6 - A aprovação nas provas de acesso à categoria de investigador-coordenador, realizadas nos termos do n.º 4, confere o grau de investigador pelo LNEC.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Dos júris)
 
@@ -340,19 +395,19 @@ a) Pelo director, que preside;
 
 b) Por 5 ou mais vogais, de entre investigadores-coordenadores ou professores catedráticos ou individualidades de reconhecida competência, nacionais ou estrangeiros, da área científica do candidato, pertencentes ou não ao LNEC.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Júri dos concursos públicos a que se referem os n.os 2, 4 e 5 do artigo 18.º)
 
 Quando na constituição dos júris referidos nos n.os 2, 4 e 5 não seja possível recorrer à colaboração dos investigadores aí previstos, poderão ser propostas individualidades, nacionais ou estrangeiras, de reconhecida competência nas áreas científicas do candidato.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Nomeação dos júris)
 
 A nomeação dos júris previstos neste diploma será feita por despacho ministerial, sob proposta do director do Laboratório.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Apreciação das provas)
 
@@ -372,7 +427,7 @@ A nomeação dos júris previstos neste diploma será feita por despacho ministe
 
 8 - A apreciação das provas será efectuada nos termos do regulamento das actividades de formação e de assistentes de investigação e do seu acesso a investigador auxiliar e do regulamento da preparação dos investigadores auxiliares e principais, respectivamente, referidos nos artigos 4.º e 5.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Quadro do pessoal de investigação)
 
@@ -380,7 +435,7 @@ A nomeação dos júris previstos neste diploma será feita por despacho ministe
 
 2 - O quadro referido no número anterior poderá ser revisto bienalmente, tendo em conta os objectivos e necessidades do Laboratório.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Serviço prestado em outras funções públicas)
 
@@ -400,7 +455,7 @@ f) Desempenho de outras funções dentro ou fora do País, desde que, por despac
 
 2 - O tempo de serviço prestado nas situações constantes do número anterior suspende, a requerimento dos interessados, a contagem dos prazos previstos neste diploma para a apresentação de relatórios ou prestação de provas nele previstos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Vencimentos e remunerações)
 
@@ -428,7 +483,7 @@ e) Despesas de deslocação.
 
 7 - A prestação de serviço docente a que se refere o n.º 2 não poderá exceder 6 horas semanais.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Horário de trabalho)
 
@@ -436,7 +491,7 @@ O pessoal da carreira de investigação está sujeito a um horário de trabalho 
 
 Disposições transitórias
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Reclassificação do pessoal da actual carreira de investigação)
 
@@ -458,19 +513,19 @@ a) Ao valor da diuturnidade a ser abonada aos investigadores principais ou auxil
 
 b) Ao vínculo dos actuais assistentes de investigação, não sendo no entanto a sua forma de provimento impeditiva da transferência de carreira prevista no artigo 12.º
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Acesso a investigador-coordenador dos candidatos autorizados a prepararem-se para obtenção do grau de investigador)
 
 Os candidatos à obtenção do grau de investigador que, à data da publicação do presente diploma, já tenham obtido autorização para se prepararem para a obtenção do referido grau, nos termos do artigo 43.º do [Decreto n.º 49354](https://diariodarepublica.pt/dr/detalhe/decreto/49354-1969-215148), de 4 de Novembro de 1969, na redacção que lhe foi dada pelo [Decreto n.º 128/73](https://diariodarepublica.pt/dr/detalhe/decreto/128-1973-674814), de 26 de Março, poderão optar pela realização de provas nos termos do Regulamento a que se reterem os decretos mencionados, em substituição das provas previstas no artigo 17.º do presente diploma.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Vencimentos dos estagiários para assistente de investigação)
 
 Os actuais estagiários para assistente de investigação continuarão a ter direito ao vencimento da letra F.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Encargos com a execução do diploma)
 
@@ -478,13 +533,13 @@ Os actuais estagiários para assistente de investigação continuarão a ter dir
 
 2 - Os encargos com a retroacção de abonos previstos no n.º 4 do artigo 26.º serão suportados pelas receitas próprias do Laboratório.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Alterações a disposições do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro)
 
 A alínea e) do artigo 13.º, a alínea e) do artigo 20.º, os n.os 1, 2 e 3 do artigo 108.º, os artigos 110.º, 111.º, 112.º e 113.º do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro, passam a ter a seguinte redacção:
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 ...
 
@@ -498,7 +553,7 @@ d) ...
 
 e) Investigadores-coordenadores.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 ...
 
@@ -512,7 +567,7 @@ d) ...
 
 e) Investigadores-coordenadores.
 
-###### ARTIGO 108.º
+ARTIGO 108.º
 
 1 - O recrutamento do director far-se-á de entre os investigadores-coordenadores do LNEC ou de entre engenheiros que tenham revelado excepcional competência, sendo o cargo provido por despacho conjunto do Primeiro-Ministro e do Ministro da Habitação, Obras Públicas e Transportes.
 
@@ -522,23 +577,23 @@ e) Investigadores-coordenadores.
 
 4 - ...
 
-###### ARTIGO 110.º
+ARTIGO 110.º
 
 Os subdirectores têm o vencimento correspondente a investigador-coordenador.
 
-###### ARTIGO 111.º
+ARTIGO 111.º
 
 Os chefes de departamento têm o vencimento correspondente a investigador-coordenador.
 
-###### ARTIGO 112.º
+ARTIGO 112.º
 
 Os chefes de centro têm os vencimentos correspondentes aos das categorias de investigador-coordenador, investigador principal ou investigador auxiliar a que pertençam.
 
-###### ARTIGO 113.º
+ARTIGO 113.º
 
 Os chefes de núcleo têm vencimentos correspondentes aos das categorias de investigador-coordenador, investigador principal ou investigador auxiliar a que pertençam.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Transições)
 
@@ -546,13 +601,13 @@ As transições para os lugares correspondentes às novas categorias processar-s
 
 Disposições finais
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Revogações)
 
 São revogados os artigos 116.º, 118.º e 119.º do [Decreto-Lei n.º 519-D1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-d1-1979-157053), de 29 de Dezembro, e bem assim o n.º 8 do artigo 117.º do mesmo decreto-lei na sua aplicação aos estagiários de investigação.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Dúvidas)
 
@@ -560,14 +615,14 @@ As dúvidas que ocorram na interpretação e aplicação do presente diploma ser
 
 Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
 
-**Promulgado em 7 de Dezembro de 1981.**
+Promulgado em 7 de Dezembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro do pessoal de investigação do Laboratório Nacional de Engenharia Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1981/12/29200/33213326.pdf))](https://files.diariodarepublica.pt/1s/1981/12/29200/33213326.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/12/29200/33213326.pdf)
 
-**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

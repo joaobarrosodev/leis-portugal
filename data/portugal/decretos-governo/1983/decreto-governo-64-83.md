@@ -46,40 +46,148 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1983-453809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2008-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:27:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aceb1bcc8db678880d20c02a8b4266b0024a82b63d8ea704694eb0071560ba85
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3dd50d472287bd3fb8d4e243f805a331a178b08701134e2616016bf9278e53b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:27:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Instituto de Higiene e Medicina Tropical
+- Orgânica
 relationships:
 - type: amended_by
   target: pt:dre:456799:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355373:por
+  label: "Determinado que o quadro de pessoal do Instituto de Higiene e Medicina Tropical, aprovado pelo presente diploma\
+    \ passe a ser o constante do mapa anexo à PORT.647/88.23.09.1988.MF, DR.IS [221] de 23.09.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/647-1988-355373
+  date: '1988-09-23'
+- type: amended_by
+  target: pt:dre:554137:por
+  label: "Alterado o quadro de pessoal, criado no presente diploma, pela PORT.1247/93.07.12.1993.MF, DR.IS-B [285] de 07.12.1993\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1247-1993-554137
+  date: '1993-12-07'
+- type: amended_by
+  target: pt:dre:146774:por
+  label: "Alterado o quadro de pessoal pela Port.747/96.1996.12.19.PCM, DR.IS-B [293]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/747-1996-146774
+  date: '1996-12-19'
+- type: amended_by
+  target: pt:dre:456799:por
+  label: "Transferidas as competências, posição jurídica e equipamentos amovíveis detidos pela Unidade de Tecnologias de Proteínas\
+    \ de Anticorpos Monoclonais (UTPAM) do INETI, I.P. para o Instituto de Higiene de Medicina Tropical da Universidade Nova\
+    \ de Lisboa, cuja orgânica consta do presente diploma, pelo DEC LEI.139/2008.21.07.2008.MCTES, DR.IS [139] de 21.07.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-2008-456799
+  date: '2008-07-21'
+- type: cites
+  target: pt:dre:164638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224630:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:372873:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:377699:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:381487:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471325:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:182637:por
+  label: "Revogado o n.º 5 do artigo 15.º pelo DEC LEI.244/85.11.07.1985.ME, DR.IS [157] de 11.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/244-1985-182637
+  date: '1985-07-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:27:14Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +212,17 @@ I - Natureza e atribuições
 
 1 - Natureza
 
-###### Artigo 1.º O Instituto de Higiene e Medicina Tropical, adiante designado por Instituto, é um estabelecimento da Universidade Nova de Lisboa e rege-se pelas normas próprias das instituições universitárias em tudo o que não for contrário ao disposto no presente diploma.
+Artigo 1.º O Instituto de Higiene e Medicina Tropical, adiante designado por Instituto, é um estabelecimento da Universidade Nova de Lisboa e rege-se pelas normas próprias das instituições universitárias em tudo o que não for contrário ao disposto no presente diploma.
 
-###### Art. 2.º - 1 - O Instituto é uma pessoa colectiva de direito público dotada de autonomia administrativa.
+Art. 2.º - 1 - O Instituto é uma pessoa colectiva de direito público dotada de autonomia administrativa.
 
 2 - O Instituto goza de autonomia técnica, científica e pedagógica, sem prejuízo das orientações gerais fixadas pelo Ministério da Educação no que respeita ao regime de estudos e de programas e à coordenação das suas actividades.
 
 2 - Atribuições
 
-###### Art. 3.º São atribuições do Instituto ministrar o ensino, promover a investigação científica e estimular e desenvolver acções de assistência técnica e de cooperação nos domínios da saúde pública e da medicina tropicais.
+Art. 3.º São atribuições do Instituto ministrar o ensino, promover a investigação científica e estimular e desenvolver acções de assistência técnica e de cooperação nos domínios da saúde pública e da medicina tropicais.
 
-###### Art. 4.º - 1 - Para efeitos do disposto no artigo anterior, incumbe ao Instituto:
+Art. 4.º - 1 - Para efeitos do disposto no artigo anterior, incumbe ao Instituto:
 
 a) Assegurar a realização de cursos de nível superior;
 
@@ -140,11 +248,11 @@ i) Promover a publicação de trabalhos de carácter científico, preparados no 
 
 4 - A realização das acções, programas e projectos a que se refere o número anterior poderá ser suportada pelas verbas atribuídas no Orçamento do Estado à cooperação.
 
-###### Art. 5.º - 1 - Os cursos de carácter regular professados no Instituto podem revestir a natureza de cursos de pós-graduação ou de formação profissional complementar.
+Art. 5.º - 1 - Os cursos de carácter regular professados no Instituto podem revestir a natureza de cursos de pós-graduação ou de formação profissional complementar.
 
 2 - Através da Universidade serão concedidos diplomas pela frequência e aprovação nos cursos regulares de pós-graduação
 
-###### Art. 6.º - 1 - A criação, modificação ou extinção dos cursos de pós-graduação bem como a definição das condições de ingresso nesses cursos e do seu funcionamento, serão objecto de portaria do Ministro da Educação, ouvido o conselho da Universidade.
+Art. 6.º - 1 - A criação, modificação ou extinção dos cursos de pós-graduação bem como a definição das condições de ingresso nesses cursos e do seu funcionamento, serão objecto de portaria do Ministro da Educação, ouvido o conselho da Universidade.
 
 2 - Sem prejuízo do disposto no número anterior, consideram-se criados no Instituto os seguintes cursos regulares de pós-graduação:
 
@@ -152,17 +260,17 @@ a) Curso de Saúde Pública e Medicina Tropical;
 
 b) Curso de Clínica das Doenças Tropicais.
 
-###### Art. 7.º - 1 - Para além dos cursos regulares, poderão ser ministrados no Instituto cursos eventuais de actualização ou de aperfeiçoamento e de divulgação, destinados a satisfazer necessidades ocasionais.
+Art. 7.º - 1 - Para além dos cursos regulares, poderão ser ministrados no Instituto cursos eventuais de actualização ou de aperfeiçoamento e de divulgação, destinados a satisfazer necessidades ocasionais.
 
 2 - Compete ao reitor, ouvido o conselho da Universidade e mediante parecer favorável do conselho científico-pedagógico do Instituto, a criação, modificação ou extinção dos cursos eventuais.
 
 3 - Serão definidas pelo reitor as condições de inscrição e de frequência dos cursos eventuais.
 
-###### Art. 8.º É aplicável ao Instituto o regulamento da prestação de serviços à comunidade aprovado para a Universidade Nova de Lisboa.
+Art. 8.º É aplicável ao Instituto o regulamento da prestação de serviços à comunidade aprovado para a Universidade Nova de Lisboa.
 
-###### Art. 9.º Será assegurada ao Instituto a colaboração das universidades portuguesas e dos organismos nacionais de investigação, tendo em vista o aproveitamento dos recursos disponíveis, nomeadamente em pessoal docente e de investigação.
+Art. 9.º Será assegurada ao Instituto a colaboração das universidades portuguesas e dos organismos nacionais de investigação, tendo em vista o aproveitamento dos recursos disponíveis, nomeadamente em pessoal docente e de investigação.
 
-###### Art. 10.º - 1 - O Instituto e a Faculdade de Ciências Médicas da Universidade Nova de Lisboa estabelecerão planos anuais de articulação das suas actividades, tendo em vista a possibilidade de aproveitamento do pessoal e do funcionamento nas instalações de uma instituição, de departamentos ou serviços da outra instituição.
+Art. 10.º - 1 - O Instituto e a Faculdade de Ciências Médicas da Universidade Nova de Lisboa estabelecerão planos anuais de articulação das suas actividades, tendo em vista a possibilidade de aproveitamento do pessoal e do funcionamento nas instalações de uma instituição, de departamentos ou serviços da outra instituição.
 
 2 - Compete a uma comissão mista permanente a preparação dos planos de articulação a que se refere o número anterior e o acompanhamento da sua execução.
 
@@ -174,7 +282,7 @@ II - Órgãos e serviços
 
 1 - Órgãos
 
-###### Art. 11.º São órgãos do Instituto:
+Art. 11.º São órgãos do Instituto:
 
 a) O conselho do Instituto;
 
@@ -186,7 +294,7 @@ d) O conselho científico-pedagógico;
 
 e) O conselho administrativo.
 
-###### Art. 12.º - 1 - A composição do conselho do Instituto é a seguinte:
+Art. 12.º - 1 - A composição do conselho do Instituto é a seguinte:
 
 a) Todos os professores catedráticos e associados em funções no Instituto;
 
@@ -210,7 +318,7 @@ f) Um número de estudantes igual a 20% do número total dos professores catedr�
 
 6 - Presidirá ao conselho, com voto de qualidade, o director do Instituto ou o subdirector, nas faltas ou impedimentos daquele.
 
-###### Art. 13.º Incumbe ao conselho do Instituto:
+Art. 13.º Incumbe ao conselho do Instituto:
 
 a) Eleger 3 professores catedráticos de entre os quais será nomeado, por despacho do Ministro da Educação, o director do Instituto;
 
@@ -218,7 +326,7 @@ b) Apreciar os planos anuais e plurianuais de actividades do Instituto e os rela
 
 c) Dar parecer sobre qualquer assunto que lhe seja proposto pelo director.
 
-###### Art. 14.º - 1 - O conselho do Instituto reúne ordinariamente duas vezes por ano e extraordinariamente sempre que for convocado pelo seu presidente, por sua iniciativa ou a pedido de um terço dos seus membros.
+Art. 14.º - 1 - O conselho do Instituto reúne ordinariamente duas vezes por ano e extraordinariamente sempre que for convocado pelo seu presidente, por sua iniciativa ou a pedido de um terço dos seus membros.
 
 2 - As condições de funcionamento do conselho serão definidas em regulamento a aprovar pelo reitor, sob proposta do conselho directivo do Instituto.
 
@@ -226,7 +334,7 @@ c) Dar parecer sobre qualquer assunto que lhe seja proposto pelo director.
 
 4 - Incumbe ao secretário do conselho a redacção das actas, que, depois de lidas e aprovadas, serão assinadas pelo presidente e pelo secretário.
 
-###### Art. 15.º - 1 - O conselho directivo é composto:
+Art. 15.º - 1 - O conselho directivo é composto:
 
 a) Pelo director, a nomear pelo Ministro da Educação nas condições previstas na alínea a) do artigo 13.º do presente diploma;
 
@@ -246,7 +354,7 @@ c) Por um vogal, a nomear pelo Ministro, sob proposta do reitor, de entre licenc
 
 7 - As funções de vogal do conselho directivo podem ser exercidas em regime de acumulação a tempo parcial, sendo remuneradas, neste caso, por gratificação de montante a fixar nos termos do disposto na alínea a) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.
 
-###### Art. 16.º Compete ao conselho directivo:
+Art. 16.º Compete ao conselho directivo:
 
 a) Administrar e gerir o Instituto em todos os assuntos que não sejam da expressa competência de outros órgãos, assegurando o seu regular funcionamento;
 
@@ -260,9 +368,9 @@ e) Elaborar os planos de actividades do Instituto e os relatórios da sua execu�
 
 f) Garantir a realização das eleições para os restantes órgãos do Instituto nos prazos fixados no presente diploma.
 
-###### Art. 17.º O conselho directivo reunirá ordinariamente uma vez por semana e extraordinariamente quando for convocado pelo presidente, por sua iniciativa ou a pedido expresso de qualquer dos seus membros.
+Art. 17.º O conselho directivo reunirá ordinariamente uma vez por semana e extraordinariamente quando for convocado pelo presidente, por sua iniciativa ou a pedido expresso de qualquer dos seus membros.
 
-###### Art. 18.º - 1 - Compete ao director:
+Art. 18.º - 1 - Compete ao director:
 
 a) Cumprir e fazer cumprir as disposições regulamentares aplicáveis;
 
@@ -280,7 +388,7 @@ g) Emitir as directivas que se mostrem necessárias à execução da legislaçã
 
 2 - O director pode delegar no subdirector ou no vogal do conselho directivo toda ou parte da sua competência e subdelegar, mediante autorização do delegante, a competência delegada.
 
-###### Art. 19.º - 1 - O conselho científico-pedagógico é constituído pelos professores catedráticos, associados e auxiliares, bem como pelos professores convidados e pelos investigadores habilitados com o grau de doutor ou equivalente, em exercício de funções no Instituto.
+Art. 19.º - 1 - O conselho científico-pedagógico é constituído pelos professores catedráticos, associados e auxiliares, bem como pelos professores convidados e pelos investigadores habilitados com o grau de doutor ou equivalente, em exercício de funções no Instituto.
 
 2 - O conselho pode funcionar em plenário ou por secções, segundo regulamento a aprovar pelo reitor, sob proposta do conselho directivo.
 
@@ -288,17 +396,17 @@ g) Emitir as directivas que se mostrem necessárias à execução da legislaçã
 
 4 - Os membros do conselho elegerão anualmente, de entre si, um presidente, a quem incumbe a direcção das reuniões e a responsabilidade pelo acompanhamento e pela execução das suas deliberações.
 
-###### Art. 20.º - 1 - O conselho administrativo é composto pelo director ou pelo subdirector, nas faltas ou impedimentos daquele, pelo vogal do conselho directivo e pelo chefe da Repartição de Administração Geral.
+Art. 20.º - 1 - O conselho administrativo é composto pelo director ou pelo subdirector, nas faltas ou impedimentos daquele, pelo vogal do conselho directivo e pelo chefe da Repartição de Administração Geral.
 
 2 - Servirá de secretário do conselho, sem direito a voto, o chefe da Secção de Património e Contabilidade.
 
-###### Art. 21.º Compete ao conselho administrativo superintender na administração financeira e patrimonial do Instituto, assegurando a cobrança da receitas e o pagamento das despesas, observadas às orientações gerais fixadas na matéria pelo conselho administrativo da Universidade
+Art. 21.º Compete ao conselho administrativo superintender na administração financeira e patrimonial do Instituto, assegurando a cobrança da receitas e o pagamento das despesas, observadas às orientações gerais fixadas na matéria pelo conselho administrativo da Universidade
 
-###### Art. 22.º Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito declaração expressa de discordância com a decisão.
+Art. 22.º Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito declaração expressa de discordância com a decisão.
 
 2 - Serviços
 
-###### Art. 23.º O Instituto dispõe dos seguintes serviços:
+Art. 23.º O Instituto dispõe dos seguintes serviços:
 
 a) A Repartição de Administração Geral;
 
@@ -306,7 +414,7 @@ b) O Biotério;
 
 c) O Serviço de Documentação e Informação Científica.
 
-###### Art. 24.º - 1 - O departamento é a estrutura básica do Instituto para o exercício continuado e sistemático das suas atribuições em matéria de ensino e investigação.
+Art. 24.º - 1 - O departamento é a estrutura básica do Instituto para o exercício continuado e sistemático das suas atribuições em matéria de ensino e investigação.
 
 2 - Para efeitos do disposto no número anterior, o Instituto disporá dos seguintes departamentos:
 
@@ -318,7 +426,7 @@ c) Departamento de Saúde Pública Tropical.
 
 3 - A direcção dos departamentos incumbe a um docente da mais elevada categoria em efectividade de funções nas respectivas áreas, a designar pelo conselho cientítico-pedagógico.
 
-###### Art. 25.º - 1 - Ao Departamento de Clínica das Doenças Tropicais incumbe o ensino das disciplinas de Doenças Parasitárias e de Doenças Infecto-Contagiosas, e compreende:
+Art. 25.º - 1 - Ao Departamento de Clínica das Doenças Tropicais incumbe o ensino das disciplinas de Doenças Parasitárias e de Doenças Infecto-Contagiosas, e compreende:
 
 a) O Laboratório de Análises Clínicas;
 
@@ -334,7 +442,7 @@ b) O Laboratório de Leptospiras.
 
 3 - Ao Departamento de Saúde Pública Tropical incumbe o ensino das disciplinas de Epidemiologia, de Bioestatística e de Higiene e Medicina Preventiva, e compreende a Secção de Nutrição.
 
-###### Art. 26.º - 1 - A Repartição de Administração Geral é dirigida por um chefe de repartição e exerce as suas atribuições nos domínios da administração financeira e patrimonial, do expediente e pessoal e do sector pedagógico.
+Art. 26.º - 1 - A Repartição de Administração Geral é dirigida por um chefe de repartição e exerce as suas atribuições nos domínios da administração financeira e patrimonial, do expediente e pessoal e do sector pedagógico.
 
 2 - A Repartição de Administração Geral compreende os seguintes serviços:
 
@@ -354,7 +462,7 @@ d) Redigir as actas das reuniões do conselho directivo e assiná-las conjuntame
 
 4 - O chefe da Repartição é substituído nas suas faltas ou impedimentos pelo chefe de secção designado para o efeito por despacho do director.
 
-###### Art. 27.º À Secção de Património e Contabilidade compete:
+Art. 27.º À Secção de Património e Contabilidade compete:
 
 a) Assegurar o apetrechamento dos serviços, centralizando os processos de aquisição de material nos termos das disposições legais vigentes;
 
@@ -370,7 +478,7 @@ f) Processar as folhas de vencimentos, salários, gratificações e outros abono
 
 g) Organizar a conta de gerência a submeter a julgamento do Tribunal de Contas.
 
-###### Art. 28.º - 1 - Adstrita à Secção de Património e Contabilidade funciona uma tesouraria, dirigida por um tesoureiro com a categoria e vencimentos previstos no mapa anexo ao presente diploma.
+Art. 28.º - 1 - Adstrita à Secção de Património e Contabilidade funciona uma tesouraria, dirigida por um tesoureiro com a categoria e vencimentos previstos no mapa anexo ao presente diploma.
 
 2 - Compete ao tesoureiro:
 
@@ -388,7 +496,7 @@ e) Organizar e apresentar mensalmente ao conselho administrativo o balancete ref
 
 4 - O tesoureiro tem direito ao abono para falhas previsto na lei geral.
 
-###### Art. 29.º À Secção de Expediente e Pessoal compete:
+Art. 29.º À Secção de Expediente e Pessoal compete:
 
 a) Assegurar a recepção, distribuição e arquivo da correspondência do Instituto;
 
@@ -402,13 +510,13 @@ e) Organizar e manter actualizados os processos individuais dos alunos;
 
 f) Passar os diplomas e as certidões de matrícula, inscrição e frequência no Instituto.
 
-###### Art. 30.º - 1 - O Biotério é dirigido por um dos funcionários de maior categoria nele colocados, a designar por despacho do director.
+Art. 30.º - 1 - O Biotério é dirigido por um dos funcionários de maior categoria nele colocados, a designar por despacho do director.
 
 2 - Compete ao Biotério a criação e conservação de animais de laboratório destinados a satisfazer as necessidades do Instituto em matéria de ensino e investigação.
 
 3 - A orientação geral das actividades do Biotério e a sua articulação com os órgãos e serviços de ensino e investigação incumbem a um professor ou investigador, a designar por despacho do director, sob proposta do conselho científico-pedagógico.
 
-###### Art. 31.º - 1 - O Centro de Documentação e Informação Científica desenvolve as suas actividades no domínio da recolha, catalogação e divulgação da bibliografia e nos da reprodução de documentos com interesse para as tarefas de ensino e investigação do Instituto.
+Art. 31.º - 1 - O Centro de Documentação e Informação Científica desenvolve as suas actividades no domínio da recolha, catalogação e divulgação da bibliografia e nos da reprodução de documentos com interesse para as tarefas de ensino e investigação do Instituto.
 
 2 - O Centro de Documentação e Informação Científica estabelecerá com o conselho editorial da Universidade as condições de edição e distribuição dos anais e das publicações dos docentes e dos investigadores do Instituto.
 
@@ -418,7 +526,7 @@ a) A Biblioteca;
 
 b) O Serviço de Reprodução de Documentos.
 
-###### Art. 32.º - 1 - A Biblioteca é dirigida por um técnico superior de bibliotecas, arquivo e documentação, designado por despacho do director, sob proposta do conselho científico-pedagógico do Instituto.
+Art. 32.º - 1 - A Biblioteca é dirigida por um técnico superior de bibliotecas, arquivo e documentação, designado por despacho do director, sob proposta do conselho científico-pedagógico do Instituto.
 
 2 - Compete à Biblioteca a recolha, tratamento e difusão da documentação e informação com interesse para o Instituto.
 
@@ -428,13 +536,13 @@ b) O Serviço de Reprodução de Documentos.
 
 III - Gestão financeira e patrimonial
 
-###### Art. 33.º - 1 - A organização dos orçamentos e a gestão financeira e patrimonial do Instituto obedecerão às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa, e às normas especiais constantes do presente diploma.
+Art. 33.º - 1 - A organização dos orçamentos e a gestão financeira e patrimonial do Instituto obedecerão às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa, e às normas especiais constantes do presente diploma.
 
 2 - A gestão financeira e patrimonial do Instituto será orientada por planos de actividades anuais e plurianuais e pelo orçamento privativo e suas actualizações.
 
 3 - O orçamento privativo será elaborado com base no programa de actividades a realizar no decurso do ano pelas diversas unidades do Instituto.
 
-###### Art. 34.º - 1 - O Instituto arrecadará e administrará as suas receitas de modo a satisfazer, por meio delas, os encargos resultantes do seu funcionamento.
+Art. 34.º - 1 - O Instituto arrecadará e administrará as suas receitas de modo a satisfazer, por meio delas, os encargos resultantes do seu funcionamento.
 
 2 - São receitas do Instituto:
 
@@ -450,7 +558,7 @@ d) As quantias cobradas por serviços prestados a entidades públicas ou privada
 
 IV - Pessoal
 
-###### Art. 35.º - 1 - O pessoal do Instituto é o constante do mapa anexo ao presente diploma.
+Art. 35.º - 1 - O pessoal do Instituto é o constante do mapa anexo ao presente diploma.
 
 2 - O pessoal a que se refere o número anterior distribui-se pelos seguintes grupos profissionais:
 
@@ -466,15 +574,15 @@ e) Pessoal técnico-profissional e administrativo;
 
 f) Pessoal operário e auxiliar.
 
-###### Art. 36.º O pessoal docente e de investigação do Instituto constituirá um quadro único para efeitos de ingresso e promoção com o pessoal do quadro que vier a ser fixado para a Faculdade de Ciências Médicas da Universidade Nova de Lisboa.
+Art. 36.º O pessoal docente e de investigação do Instituto constituirá um quadro único para efeitos de ingresso e promoção com o pessoal do quadro que vier a ser fixado para a Faculdade de Ciências Médicas da Universidade Nova de Lisboa.
 
-###### Art. 37.º Por despacho do Ministro da Educação pode ser autorizada a admissão, nos termos da lei geral, em regime de contrato além do quadro, de pessoal destinado a satisfazer necessidades ocasionais e transitórias de serviço.
+Art. 37.º Por despacho do Ministro da Educação pode ser autorizada a admissão, nos termos da lei geral, em regime de contrato além do quadro, de pessoal destinado a satisfazer necessidades ocasionais e transitórias de serviço.
 
-###### Art. 38.º A realização de estudos bem como a elaboração de pareceres ou outros trabalhos de carácter eventual poderão ser confiadas, mediante contrato e precedendo autorização do reitor da Universidade, a entidades nacionais ou estrangeiras, singulares ou colectivas.
+Art. 38.º A realização de estudos bem como a elaboração de pareceres ou outros trabalhos de carácter eventual poderão ser confiadas, mediante contrato e precedendo autorização do reitor da Universidade, a entidades nacionais ou estrangeiras, singulares ou colectivas.
 
-###### Art. 39.º É aplicável ao pessoal docente e de investigação do Instituto o disposto nos Decretos-Leis n.os 448/79, de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, 172/81, de 24 de Junho, e 415/80, de 27 Setembro.
+Art. 39.º É aplicável ao pessoal docente e de investigação do Instituto o disposto nos Decretos-Leis n.os 448/79, de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, 172/81, de 24 de Junho, e 415/80, de 27 Setembro.
 
-###### Art. 40.º As formas de recrutamento do pessoal do Instituto são as seguintes:
+Art. 40.º As formas de recrutamento do pessoal do Instituto são as seguintes:
 
 a) O lugar de chefe de repartição é provido por despacho do Ministro da Educação, sob proposta do director, de entre licenciados com curso superior adequado, ou de entre chefes de secção do Instituto com, pelo menos, 3 anos de bom e efectivo serviço na categoria;
 
@@ -516,7 +624,7 @@ t) A mudança de categoria nas carreiras de operador de lavadaria e de roupeira 
 
 u) Os lugares de pessoal operário e auxiliar são providos por despacho do Ministro, de acordo com as disposições aplicáveis do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e da [Portaria n.º 739/79](https://diariodarepublica.pt/dr/detalhe/portaria/739-1979-231330), de 31 de Dezembro.
 
-###### Art. 41.º - 1 - Os lugares do quadro não pertencentes a pessoal docente e de investigação serão providos por nomeação provisória ou em comissão de serviço pelo período de 1 ano, findo o qual o funcionário será provido definitivamente se tiver revelado aptidão para o lugar; no caso contrário, será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço.
+Art. 41.º - 1 - Os lugares do quadro não pertencentes a pessoal docente e de investigação serão providos por nomeação provisória ou em comissão de serviço pelo período de 1 ano, findo o qual o funcionário será provido definitivamente se tiver revelado aptidão para o lugar; no caso contrário, será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço.
 
 2 - O tempo de serviço em regime de comissão conta, para todos os efeitos legais, como sendo prestado:
 
@@ -526,7 +634,7 @@ b) No lugar do quadro do Instituto em que vier a ser provido definitivamente fin
 
 V - Disposições gerais e transitórias
 
-###### Art. 42.º - 1 - A transição do pessoal ao serviço do Instituto para os lugares do mapa anexo ao presente diploma será feita com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
+Art. 42.º - 1 - A transição do pessoal ao serviço do Instituto para os lugares do mapa anexo ao presente diploma será feita com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -542,56 +650,56 @@ c) Para categoria que integre as funções que o funcionário ou agente desempen
 
 5 - O pessoal em funções no Instituto que não puder ser provido em lugares do quadro anexo ao presente diploma por falta de habilitações será mantido na situação em que se encontra, extinguindo-se os respectivos cargos à medida que vagarem.
 
-###### Art. 43.º São aplicáveis aos actuais docentes do Instituto as regras de transição para os lugares do mapa anexo ao presente diploma, previstas nos artigos 87.º a 98.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho.
+Art. 43.º São aplicáveis aos actuais docentes do Instituto as regras de transição para os lugares do mapa anexo ao presente diploma, previstas nos artigos 87.º a 98.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, ratificado, com alterações, pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho.
 
-###### Art. 44.º - 1 - Os actuais assistentes para a investigação deverão optar, no prazo de 30 dias a contar da data da publicação do presente diploma, pela carreira docente ou de investigação, sendo providos, conforme os casos, como assistentes estagiários ou como estagiários de investigação, salvo tendo 2 anos de bom e efectivo serviço na categoria, caso em que passarão a assistentes.
+Art. 44.º - 1 - Os actuais assistentes para a investigação deverão optar, no prazo de 30 dias a contar da data da publicação do presente diploma, pela carreira docente ou de investigação, sendo providos, conforme os casos, como assistentes estagiários ou como estagiários de investigação, salvo tendo 2 anos de bom e efectivo serviço na categoria, caso em que passarão a assistentes.
 
 2 - A opção dos actuais assistentes para a investigação pela carreira docente é possível unicamente aos licenciados com a informação final mínima de Bom que se encontrem habilitados com um dos cursos professados no Instiutto ou que tenham frequentado, com aproveitamento mínimo de Bom, disciplinas do departamento a que se destinam.
 
-###### Art. 45.º Os actuais chefes do serviço de vacinação e chefes de laboratório e os adjuntos do chefe do serviço de vacinação transitam para a carreira de técnico superior de saúde, criada pelo [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho, de acordo com as regras de transição previstas no referido diploma.
+Art. 45.º Os actuais chefes do serviço de vacinação e chefes de laboratório e os adjuntos do chefe do serviço de vacinação transitam para a carreira de técnico superior de saúde, criada pelo [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho, de acordo com as regras de transição previstas no referido diploma.
 
-###### Art. 46.º É integrado no Ministério dos Assuntos Sociais, em condições a definir por despacho conjunto dos Ministros da Educação e dos Assuntos Sociais, o serviço de vacinação do Instituto.
+Art. 46.º É integrado no Ministério dos Assuntos Sociais, em condições a definir por despacho conjunto dos Ministros da Educação e dos Assuntos Sociais, o serviço de vacinação do Instituto.
 
-###### Art. 47.º - 1 - Transitam para a Faculdade de Ciências Médicas, com a estrutura, designação e condições de funcionamento a definir pela Faculdade, as disciplinas de Bacteriologia, Virologia, Imunologia, Dermatologia, Venereologia e Micologia.
+Art. 47.º - 1 - Transitam para a Faculdade de Ciências Médicas, com a estrutura, designação e condições de funcionamento a definir pela Faculdade, as disciplinas de Bacteriologia, Virologia, Imunologia, Dermatologia, Venereologia e Micologia.
 
 2 - Até à transição para a Faculdade de Ciências Médicas, as disciplinas a que se refere o número anterior manterão a estrutura e condições de funcionamento actuais.
 
 3 - O pessoal actualmente afectado às disciplinas que transitam para a Faculdade de Ciências Médicas será integrado no quadro da Faculdade, salvo se, entretanto e no prazo de 30 dias a contar da data da publicação do presente diploma, optar pela permanência no Instituto, que promoverá a sua colocação de acordo com a respectiva formação e especialidade.
 
-###### Art. 48.º O pessoal do Instituto continuará a beneficiar da assistência do Hospital de Egas Moniz e da assistência prevista no artigo 305.º do Estatuto aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1965, nas condições em que vinha usufruindo desse direito, até à transferência do Instituto para a dependência do Ministério da Educação.
+Art. 48.º O pessoal do Instituto continuará a beneficiar da assistência do Hospital de Egas Moniz e da assistência prevista no artigo 305.º do Estatuto aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1965, nas condições em que vinha usufruindo desse direito, até à transferência do Instituto para a dependência do Ministério da Educação.
 
-###### Art. 49.º É mantido no Hospital de Egas Moniz o serviço hospitalar do Departamento de Clínica das Doenças Tropicais do Instituto.
+Art. 49.º É mantido no Hospital de Egas Moniz o serviço hospitalar do Departamento de Clínica das Doenças Tropicais do Instituto.
 
-###### Art. 50.º O pessoal docente e discente da Faculdade de Ciências Médicas, sempre que participe em cursos ou actividades de qualquer natureza desenvolvidos no Instituto, ao abrigo do disposto no artigo 10.º do presente diploma, fica sujeito aos princípios de disciplina e de responsabilidade pela conservação e preservação do seu património.
+Art. 50.º O pessoal docente e discente da Faculdade de Ciências Médicas, sempre que participe em cursos ou actividades de qualquer natureza desenvolvidos no Instituto, ao abrigo do disposto no artigo 10.º do presente diploma, fica sujeito aos princípios de disciplina e de responsabilidade pela conservação e preservação do seu património.
 
-###### Art. 51.º - 1 - O director e o presidente do conselho científico-pedagógico do Instituto passam a fazer parte do conselho da Universidade, a que se refere o artigo 17.º do [Decreto-Lei n.º 463-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-a-1977-164638), de 10 de Novembro.
+Art. 51.º - 1 - O director e o presidente do conselho científico-pedagógico do Instituto passam a fazer parte do conselho da Universidade, a que se refere o artigo 17.º do [Decreto-Lei n.º 463-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-a-1977-164638), de 10 de Novembro.
 
 2 - Passa a fazer parte do conselho editorial das actividades editoriais da Universidade, a que se refere o [Decreto n.º 88/78](https://diariodarepublica.pt/dr/detalhe/decreto/88-1978-330184), de 31 de Agosto, um representante do Instituto a designar por despacho do director.
 
-###### Art. 52.º - 1 - O montante das propinas e dos emolumentos a pagar no Instituto serão fixados nos termos aplicáveis à Universidade Nova de Lisboa.
+Art. 52.º - 1 - O montante das propinas e dos emolumentos a pagar no Instituto serão fixados nos termos aplicáveis à Universidade Nova de Lisboa.
 
 2 - As taxas devidas pelos serviços prestados pelo Instituto a entidades oficiais ou particulares serão fixadas de acordo com o regulamento da prestação de serviços à comunidade da Universidade Nova de Lisboa.
 
-###### Art. 53.º - 1 - É reconhecida ao Instituto a posse dos edifícios, bens móveis e terrenos do Estado em que presentemente se encontram instalados os seus serviços privativos, nos termos e para efeitos do disposto nos artigos 21.º e 22.º do [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 2 de Agosto de 1930.
+Art. 53.º - 1 - É reconhecida ao Instituto a posse dos edifícios, bens móveis e terrenos do Estado em que presentemente se encontram instalados os seus serviços privativos, nos termos e para efeitos do disposto nos artigos 21.º e 22.º do [Decreto n.º 18717](https://diariodarepublica.pt/dr/detalhe/decreto/18717-1930-224630), de 2 de Agosto de 1930.
 
 2 - Será atribuída residência no Instituto ao elemento do pessoal auxiliar que for designado, por despacho do director, para assegurar a vigilância permanente dos edifícios, dos terrenos e das instalações a que se refere o número anterior.
 
-###### Art. 54.º As portarias previstas no artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e no artigo 8.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, consideram-se substituídas, para todos os efeitos legais, pelo mapa anexo ao presente diploma.
+Art. 54.º As portarias previstas no artigo 20.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e no artigo 8.º do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto, consideram-se substituídas, para todos os efeitos legais, pelo mapa anexo ao presente diploma.
 
-###### Art. 55.º A competência e atribuições dos órgãos previstos no presente diploma serão exercidas, até à sua instituição, pela comissão de gestão a que se refere o artigo 3.º do [Decreto-Lei n.º 164/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1980-474704), de 28 de Maio.
+Art. 55.º A competência e atribuições dos órgãos previstos no presente diploma serão exercidas, até à sua instituição, pela comissão de gestão a que se refere o artigo 3.º do [Decreto-Lei n.º 164/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1980-474704), de 28 de Maio.
 
 Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - Vasco Luís Caldeira Coelho Futscher Pereira - João José Fraústo da Silva - Adalberto Paulo da Fonseca Mendo - António Jorge de Figueiredo Lopes.
 
-**Assinado em 8 de Junho de 1983.**
+Assinado em 8 de Junho de 1983.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 23 de Junho de 1983.**
+Referendado em 23 de Junho de 1983.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 Mapa do pessoal do Instituto de Higiene e Medicina Tropical, a que se refere o artigo 35.º do Decreto do Governo n.º 64/83
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1983/07/16700/27112719.pdf))](https://files.diariodarepublica.pt/1s/1983/07/16700/27112719.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/07/16700/27112719.pdf)

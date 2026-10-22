@@ -22,7 +22,7 @@ publication:
   reference: Diário do Governo n.º 207/1969, 1º Suplemento, Série I de 1969-09-04
   number: '207'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1195 - 1220
   pdf_url: https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf
 entry_into_force_dates: []
@@ -49,36 +49,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49225-1969-380347
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2c84160e9b4b5763317e8f9fd45e40b76f8941afed7910785214f152b0b28fd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d849607eece410003b133657d1b8967587d9b4678f335936590531e3cbbebe0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aproveitamento Hidroeléctrico
+- Cabora Bassa
+- Contrato
+- Definição de Competências
+- Financiamento
+- Hidroeléctrica de Cabora Bassa
+- Ministro das Finanças
+- Moçambique.Colónia Portuguesa
+relationships:
+- type: cites
+  target: pt:dre:401694:por
+  label: null
+  source: null
 article_structure:
-  article_count: 67
+  article_count: 4
   section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:40Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +109,17 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Fica autorizado o Ministro do Ultramar a outorgar em nome do Estado no contrato a celebrar com a firma adjudicatária Zamco - Zambeze Consórcio Hidroeléctrico, Lda., para a execução do empreendimento de Cabora Bassa, em Moçambique, em conformidade com a minuta anexa, que se considera parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar, ficando dispensadas quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
+Artigo 1.º Fica autorizado o Ministro do Ultramar a outorgar em nome do Estado no contrato a celebrar com a firma adjudicatária Zamco - Zambeze Consórcio Hidroeléctrico, Lda., para a execução do empreendimento de Cabora Bassa, em Moçambique, em conformidade com a minuta anexa, que se considera parte integrante deste diploma e baixa assinada pelo Ministro do Ultramar, ficando dispensadas quaisquer outras formalidades, incluindo o visto do Tribunal de Contas.
 
-###### Art. 2.º Fica autorizado o Ministro das Finanças, tendo em atenção o disposto na base VIII da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967, a celebrar os acordos financeiros necessários à execução do empreendimento nos termos do contrato a que se refere o artigo 1.º, de harmonia com as minutas a aprovar em Conselho de Ministros, e a providenciar para satisfação dos encargos imputáveis ao Estado nos termos do mesmo contrato.
+Art. 2.º Fica autorizado o Ministro das Finanças, tendo em atenção o disposto na base VIII da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967, a celebrar os acordos financeiros necessários à execução do empreendimento nos termos do contrato a que se refere o artigo 1.º, de harmonia com as minutas a aprovar em Conselho de Ministros, e a providenciar para satisfação dos encargos imputáveis ao Estado nos termos do mesmo contrato.
 
-###### Art. 3.º O presente diploma entra imediatamente em vigor.
+Art. 3.º O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 3 de Setembro de 1969.**
+Promulgado em 3 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -121,149 +133,149 @@ SUMÁRIO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º - Definições.
+Artigo 1.º - Definições.
 
-###### Artigo 2.º - Objecto do contrato.
+Artigo 2.º - Objecto do contrato.
 
-###### Artigo 3.º - Localização e descrição dos trabalhos.
+Artigo 3.º - Localização e descrição dos trabalhos.
 
-###### Artigo 4.º - Preço do contrato.
+Artigo 4.º - Preço do contrato.
 
-###### Artigo 5.º - Garantias bancárias.
+Artigo 5.º - Garantias bancárias.
 
-###### Artigo 6.º - Condições locais.
+Artigo 6.º - Condições locais.
 
-###### Artigo 7.º - Fiscalização.
+Artigo 7.º - Fiscalização.
 
-###### Artigo 8.º - Acompanhamento de projectos.
+Artigo 8.º - Acompanhamento de projectos.
 
-###### Artigo 9.º - Encargos do adjudicatário.
+Artigo 9.º - Encargos do adjudicatário.
 
 ###### Artigo 10.º - Achados.
 
-###### Artigo 11.º - Alterações e adicionais.
+Artigo 11.º - Alterações e adicionais.
 
-###### Artigo 12.º - Elementos de consulta nos locais de trabalho.
+Artigo 12.º - Elementos de consulta nos locais de trabalho.
 
-###### Artigo 13.º - Erros e omissões.
+Artigo 13.º - Erros e omissões.
 
-###### Artigo 14.º - Prejuízos causados a terceiros.
+Artigo 14.º - Prejuízos causados a terceiros.
 
-###### Artigo 15.º - Prejuízos causados em bens do Estado.
+Artigo 15.º - Prejuízos causados em bens do Estado.
 
-###### Artigo 16.º - Patentes.
+Artigo 16.º - Patentes.
 
 ###### Artigo 17.º - Risco.
 
-###### Artigo 18.º - Subempreiteiros e tarefeiros.
+Artigo 18.º - Subempreiteiros e tarefeiros.
 
-###### Artigo 19.º - Empreitadas ou trabalhos simultâneos.
+Artigo 19.º - Empreitadas ou trabalhos simultâneos.
 
-###### Artigo 20.º - Locais de implantação das obras.
+Artigo 20.º - Locais de implantação das obras.
 
-###### Artigo 21.º - Isenção de direitos de importação.
+Artigo 21.º - Isenção de direitos de importação.
 
-###### Artigo 22.º - Isenção de taxas e impostos.
+Artigo 22.º - Isenção de taxas e impostos.
 
-###### Artigo 23.º - Concessão de vistos.
+Artigo 23.º - Concessão de vistos.
 
-###### Artigo 24.º - Casos de força maior.
+Artigo 24.º - Casos de força maior.
 
-###### Artigo 25.º - Alteração de leis.
+Artigo 25.º - Alteração de leis.
 
 ###### Artigo 26.º - Idiomas.
 
-###### Artigo 27.º - Substituição do Estado por institutos públicos ou empresas.
+Artigo 27.º - Substituição do Estado por institutos públicos ou empresas.
 
-###### Artigo 28.º - Participação portuguesa.
+Artigo 28.º - Participação portuguesa.
 
 ### CAPÍTULO II — Do adjudicatário e do seu pessoal
 
-###### Artigo 29.º - Representantes do adjudicatário.
+Artigo 29.º - Representantes do adjudicatário.
 
-###### Artigo 30.º - Delegado técnico.
+Artigo 30.º - Delegado técnico.
 
-###### Artigo 31.º - Admissão de pessoal.
+Artigo 31.º - Admissão de pessoal.
 
-###### Artigo 32.º - Horário de trabalho.
+Artigo 32.º - Horário de trabalho.
 
-###### Artigo 33.º - Obrigações relativas ao pessoal.
+Artigo 33.º - Obrigações relativas ao pessoal.
 
-###### Artigo 34.º - Assistência médica.
+Artigo 34.º - Assistência médica.
 
-###### Artigo 35.º - Prevenção contra acidentes.
+Artigo 35.º - Prevenção contra acidentes.
 
-###### Artigo 36.º - Acidentes de trabalho e seguro do pessoal.
+Artigo 36.º - Acidentes de trabalho e seguro do pessoal.
 
-###### Artigo 37.º - Centros sociais e de recreio.
+Artigo 37.º - Centros sociais e de recreio.
 
 ### CAPÍTULO III — Materiais
 
-###### Artigo 38.º - Materiais a empregar.
+Artigo 38.º - Materiais a empregar.
 
-###### Artigo 39.º - Ensaios e amostras de materiais.
+Artigo 39.º - Ensaios e amostras de materiais.
 
-###### Artigo 40.º - Materiais não aprovados.
+Artigo 40.º - Materiais não aprovados.
 
 ### CAPÍTULO IV — Execução dos trabalhos
 
-###### Artigo 41.º - Implantação das obras.
+Artigo 41.º - Implantação das obras.
 
-###### Artigo 42.º - Instalações.
+Artigo 42.º - Instalações.
 
-###### Artigo 43.º - Acessos e caminhos de circulação na área do estaleiro.
+Artigo 43.º - Acessos e caminhos de circulação na área do estaleiro.
 
-###### Artigo 44.º - Desenhos e elementos de projecto.
+Artigo 44.º - Desenhos e elementos de projecto.
 
 ### CAPÍTULO V — Valorização, pagamentos e financiamentos
 
-###### Artigo 45.º - Condições de avaliação da empreitada.
+Artigo 45.º - Condições de avaliação da empreitada.
 
-###### Artigo 46.º - Valorização da empreitada na parte de construção civil.
+Artigo 46.º - Valorização da empreitada na parte de construção civil.
 
-###### Artigo 47.º - Condições de financiamento e de pagamento.
+Artigo 47.º - Condições de financiamento e de pagamento.
 
-###### Artigo 48.º - Revisão de preços.
+Artigo 48.º - Revisão de preços.
 
 ### CAPÍTULO VI — Prazos, recepções e penalidades
 
-###### Artigo 49.º - Entrada em vigor do contrato e início dos trabalhos.
+Artigo 49.º - Entrada em vigor do contrato e início dos trabalhos.
 
-###### Artigo 50.º - Prazos de execução dos trabalhos.
+Artigo 50.º - Prazos de execução dos trabalhos.
 
 ###### Artigo 51.º - Prémio.
 
-###### Artigo 52.º - Programa de trabalhos.
+Artigo 52.º - Programa de trabalhos.
 
-###### Artigo 53.º - Utilização antes da conclusão da empreitada.
+Artigo 53.º - Utilização antes da conclusão da empreitada.
 
-###### Artigo 54.º - Recepção provisória.
+Artigo 54.º - Recepção provisória.
 
-###### Artigo 55.º - Recepção definitiva.
+Artigo 55.º - Recepção definitiva.
 
-###### Artigo 56.º - Penalidades.
+Artigo 56.º - Penalidades.
 
-###### Artigo 57.º - Rescisão do contrato.
+Artigo 57.º - Rescisão do contrato.
 
-###### Artigo 58.º - Indemnizações.
+Artigo 58.º - Indemnizações.
 
 ### CAPÍTULO VII — Reclamações, jurisdição e garantias
 
-###### Artigo 59.º - Reclamações.
+Artigo 59.º - Reclamações.
 
-###### Artigo 60.º - Arbitragem.
+Artigo 60.º - Arbitragem.
 
-###### Artigo 61.º - Coordenação técnica do empreendimento.
+Artigo 61.º - Coordenação técnica do empreendimento.
 
-###### Artigo 62.º - Fabricantes e garantias dos fabricos.
+Artigo 62.º - Fabricantes e garantias dos fabricos.
 
-###### Artigo 63.º - Conservação, funcionamento e manutenção.
+Artigo 63.º - Conservação, funcionamento e manutenção.
 
-###### Artigo 64.º - Garantia para o equipamento.
+Artigo 64.º - Garantia para o equipamento.
 
-###### Artigo 65.º - Compromisso global de potência.
+Artigo 65.º - Compromisso global de potência.
 
-###### Artigo 66.º - Garantia das obrigações contratuais.
+Artigo 66.º - Garantia das obrigações contratuais.
 
 ### CAPÍTULO I — Disposições gerais
 
@@ -279,17 +291,17 @@ Quando usadas neste contrato, as palavras ou expressões a seguir indicadas sign
 
 4. Anexos. - Os documentos a seguir indicados, que do contrato ficam a fazer parte integrante:
 
-## Anexo 1 - Construção civil - Especificações.
+Anexo 1 - Construção civil - Especificações.
 
-## Anexo 2 - Sistema de produção de energia - Especificações.
+Anexo 2 - Sistema de produção de energia - Especificações.
 
-## Anexo 3 - Sistema de transporte de energia - Especificações.
+Anexo 3 - Sistema de transporte de energia - Especificações.
 
-## Anexo 4 - Condições de financiamento e pagamento.
+Anexo 4 - Condições de financiamento e pagamento.
 
-## Anexo 5 - Regras para revisão de preços.
+Anexo 5 - Regras para revisão de preços.
 
-## Anexo 6 - Normas de segurança do pessoal e higiene no trabalho.
+Anexo 6 - Normas de segurança do pessoal e higiene no trabalho.
 
 5. Especificações. - Os anexos 1, 2 e 3.
 
@@ -889,7 +901,7 @@ O delegado técnico e o seu adjunto deverão estar presentes nos estaleiros e lo
 
 a) Para os trabalhos de construção civil a admissão de pessoal especializado estrangeiro será autorizada pela fiscalização até às seguintes percentagens:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
 
 Estas percentagens estão condicionadas a que o número total do pessoal estrangeiro empregado nos referidos trabalhos não seja superior a:
 
@@ -1375,7 +1387,7 @@ Se não for atingida a potência de 415 MW com a queda útil de 103,5 m: 400000$
 
 b) Rendimento de cada turbina
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
 
 A penalidade para valores intermédios ou inferiores a 1 por cento será calculada proporcionalmente.
 
@@ -1531,7 +1543,7 @@ b) Que não tenham a nacionalidade portuguesa ou de qualquer das empresas garant
 
 c) Que não estejam de maneira alguma relacionadas com o adjudicatário ou os seus associados, ou com o Estado ou o Governo de Portugal.
 
-**O presidente do Supremo Tribunal Administrativo de Portugal nomeará uma dessas três pessoas para terceiro árbitro.**
+O presidente do Supremo Tribunal Administrativo de Portugal nomeará uma dessas três pessoas para terceiro árbitro.
 
 4. A parte que recorrer à arbitragem adiantará os fundos necessários para o pagamento das despesas com o funcionamento da comissão de arbitragem, conforme pedido pela própria comissão. O total dessas despesas, que incluirá o pagamento dos honorários dos árbitros, será suportado pelas partes de harmonia com o que vier a ser estabelecido na decisão final dos árbitros.
 
@@ -1707,11 +1719,11 @@ a) Para efeito desta garantia, o contrato considera-se dividido em três partes:
 
 b) Para o mesmo efeito, as firmas a seguir indicadas repartem entre si a sua responsabilidade pela forma seguinte:
 
-# Parte A: Allgemeine Elektricitäts - Gesell-schaft AEG - Telefunken (AEG); Brown, Boveri & Cie Aktiengesellschaft (BBC); Compagnie de Constructions Internationales (CCI); Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex); Compagnie Industrielle de Travaux; Entreprises Campenon - Bernard; Entreprise Fougerolle-Limousin; Hochtief Aktiengesellschaft (Hochtief); J. M. Voith GmbH (Voith); LTA, Ltd.; Siemens Aktiengesellschaft (Siemens); Shaft Sinkers (PTY), Ltd.; Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L.; Società Anonima Elettrificazione, S. p. A. (SAE); Société des Grands Travaux de Marseille; Société Française d'Entreprises de Dragages et Travaux Publics; Société Générale de Constructions Électriques et Mécaniques Alsthom (Alsthom); Société Générale d'Entreprises.
+Parte A: Allgemeine Elektricitäts - Gesell-schaft AEG - Telefunken (AEG); Brown, Boveri & Cie Aktiengesellschaft (BBC); Compagnie de Constructions Internationales (CCI); Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex); Compagnie Industrielle de Travaux; Entreprises Campenon - Bernard; Entreprise Fougerolle-Limousin; Hochtief Aktiengesellschaft (Hochtief); J. M. Voith GmbH (Voith); LTA, Ltd.; Siemens Aktiengesellschaft (Siemens); Shaft Sinkers (PTY), Ltd.; Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L.; Società Anonima Elettrificazione, S. p. A. (SAE); Société des Grands Travaux de Marseille; Société Française d'Entreprises de Dragages et Travaux Publics; Société Générale de Constructions Électriques et Mécaniques Alsthom (Alsthom); Société Générale d'Entreprises.
 
-# Parte B: Compagnie de Constructions Internationales (CCI); Compagnie Industrielle de Travaux; Entreprises Campenon-Bernard; Entreprise Fougerolle-Limousin; Hochtief Aktiengesellschaft (Hochtief); LTA, Ltd.; Shaft Sinkers (PTY), Ltd.; Société des Grands Travaux de Marseille; Société Française d'Entreprises de Dragages et Travaux Publics; Société Générale d'Entreprises.
+Parte B: Compagnie de Constructions Internationales (CCI); Compagnie Industrielle de Travaux; Entreprises Campenon-Bernard; Entreprise Fougerolle-Limousin; Hochtief Aktiengesellschaft (Hochtief); LTA, Ltd.; Shaft Sinkers (PTY), Ltd.; Société des Grands Travaux de Marseille; Société Française d'Entreprises de Dragages et Travaux Publics; Société Générale d'Entreprises.
 
-# Parte C: Allgemeine Elektricitäts - Gesellschaft AEG - Telefunken (AEG); Brown, Boveri & Cie Aktiengesellschaft (BBC); Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex); J. M. Voith GmbH (Voith); Siemens Aktiengesellschaft (Siemens); Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L.; Società Anonima Elettrificazione, S. p. A. (SAE); Société Générále de Constructions Électriques et Mécaniques Alsthom (Alsthom);
+Parte C: Allgemeine Elektricitäts - Gesellschaft AEG - Telefunken (AEG); Brown, Boveri & Cie Aktiengesellschaft (BBC); Compagnie Générale d'Entreprises Électriques (C. G. E. E. - Cogelex); J. M. Voith GmbH (Voith); Siemens Aktiengesellschaft (Siemens); Sociedades Reunidas de Fabricações Metálicas - Sorefame, S. A. R. L.; Società Anonima Elettrificazione, S. p. A. (SAE); Société Générále de Constructions Électriques et Mécaniques Alsthom (Alsthom);
 
 c) Pelo que diz respeito à parte A, se o segundo outorgante, a Zamco, faltar ao cumprimento das obrigações pelas quais é responsável, todas as firmas que intervêm como terceiros outorgantes obrigam-se a garantir o cumprimento daquelas obrigações, assumindo todas, solidàriamente, a responsabilidade que, por força da lei ou deste contrato, impende sobre a Zamco;
 
@@ -1725,7 +1737,7 @@ f) Salvo pelo que respeita à parte A, as firmas que garantem a parte B do contr
 
 4. Para efeito de delimitação das partes A, B e C, fica entendido que os diferentes artigos e anexos do contrato se distribuem pela forma indicada no mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20701/11951220.pdf)
 
 Quando um artigo ou um anexo estiver distribuído por mais do que uma parte, entende-se que é aplicável a cada uma das partes no que lhe respeita.
 

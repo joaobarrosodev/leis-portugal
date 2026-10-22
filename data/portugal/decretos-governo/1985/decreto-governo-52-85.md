@@ -49,36 +49,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/52-1985-171078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-12-13T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fcbd92be15a80c50a38c9fd395da9c1f831c2ff0ef02f4a3903f40c21c738cd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b61e458e8354046bac8c830de4a4e8356bee4cbfc7ace56c5dddf7be5b2ee088
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CEE
+- Convenção
+- Direitos Aduaneiros
+- Importação de Veículos
+- Pauta Aduaneira
+- Portugal
+- Veículo
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:32Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +96,19 @@ de 13 de Dezembro
 
 O Governo decreta, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 200.º da Constituição, o seguinte:
 
-###### Artigo único. São aprovados o Protocolo de Pré-Adesão ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia de 22 de Julho de 1972 e o Protocolo entre a República Portuguesa e a Comunidade Económica Europeia relativo ao regime de liberalização progressiva das importações em Portugal de veículos automóveis provenientes da Comunidade, assinados em 5 de Junho de 1985, em Bruxelas, cujos textos em língua portuguesa acompanham o presente decreto.
+Artigo único. São aprovados o Protocolo de Pré-Adesão ao Acordo entre a República Portuguesa e a Comunidade Económica Europeia de 22 de Julho de 1972 e o Protocolo entre a República Portuguesa e a Comunidade Económica Europeia relativo ao regime de liberalização progressiva das importações em Portugal de veículos automóveis provenientes da Comunidade, assinados em 5 de Junho de 1985, em Bruxelas, cujos textos em língua portuguesa acompanham o presente decreto.
 
 Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Jaime José Matos da Gama - Alípio Barrosa Pereira Dias - Joaquim Martins Ferreira do Amaral.
 
-**Assinado em 28 de Outubro de 1985.**
+Assinado em 28 de Outubro de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 30 de Outubro de 1985.**
+Referendado em 30 de Outubro de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.
 
 PROTOCOLO DE PRÉ-ADESÃO AO ACORDO ENTRE A REPÚBLICA PORTUGUESA E A COMUNIDADE ECONÓMICA EUROPEIA
 
@@ -177,27 +184,27 @@ Inger Nielsen.
 
 LISTA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 LISTA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 LISTA III
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 LISTA IV
 
 Produtos sujeitos a um aumento de direitos para o nível de 65%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 LISTA V
 
 Produtos sujeitos a um aumento de direitos para o nível de 15%
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 Troca de cartas relativa ao artigo 3.º, parágrafo 1, do Protocolo de Pré-Adesão
 
@@ -343,7 +350,7 @@ Portugal é autorizado a manter, até 31 de Dezembro de 1987, o regime definido 
 
 3 - A partir de 1 de Janeiro de 1985, Portugal abrirá anualmente um contingente para a importação de veículos automóveis de peso bruto inferior a 3500 kg (CBU), originários da Comunidade, que não sejam os mencionados na lista que figura no anexo I, em conformidade com as modalidades seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 No interior deste contingente, não poderá ser atribuído a cada marca mais de um quarto do volume fixado para o referido contingente.
 
@@ -353,7 +360,7 @@ Cada marca mantém, todavia, o direito de beneficiar de um contingente mínimo d
 
 Portugal abrirá anualmente contingentes para a importação de veículos automóveis de peso bruto superior a 3500 kg (CBU), originários da Comunidade, em conformidade com as modalidades seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 ###### ARTIGO 4.º
 
@@ -403,12 +410,12 @@ Pietro Calamia - Inger Nielsen.
 
 ## ANEXO I — Lista dos contingente referido no parágrafo 1 do artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 ## ANEXO II — Quotas de base por marcas concedidas em 1984 previstas no parágrafo 1 do artigo 4.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
 
 ## ANEXO III — Ponderação dos coeficientes de exportação previstos no parágrafo 1 do artigo 5.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf))](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/12/28700/41294156.pdf)

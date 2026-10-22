@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30000/30753078.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1977-276657
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-06-27T00:00:00Z'
+  retrieved_at: '2026-10-22T23:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aeb53c13da46c9b8c1d1f4e9d0a69570a359cab02a2f25737c4a35bf7908c0ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e359b1caa9685a9e820d247f527f02b453f9ebe02f4ac224e2437b1444b2ac1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Admissão de Pessoal
+- Estabelecimentos Fabris das Forças Armadas
+- Forças Armadas
+- Pessoal Civil
+- Pessoal de Informática
+- Promoção Profissional
 relationships:
 - type: amended_by
   target: pt:dre:182040:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600139:por
+  label: "Declarada a inconstitucionalidade do nº 7 do art. 3º, pela RES.32/82.1982.02.03.CR, DR.IS[42] de 19/Fev/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/32-1982-600139
+  date: '1982-02-03'
+- type: cites
+  target: pt:dre:416411:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:448519:por
+  label: Rectificado pela DECL.DD7570.11.02.1978.CR, DR.IS [35] de 11.02.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-448519
+  date: '1978-02-11'
+- type: repealed_by
+  target: pt:dre:182040:por
+  label: "Revogado pelo DEC LEI.211/85.1985.06.27.MDN, DR.IS [145]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/211-1985-182040
+  date: '1985-06-27'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:08:51Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +128,11 @@ O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 
 
 A - Funções
 
-###### Artigo 1.º As funções a desempenhar em cada uma das categorias do pessoal civil de informática das forças armadas, constantes do quadro anexo I ao [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), são discriminadas no anexo ao presente diploma.
+Artigo 1.º As funções a desempenhar em cada uma das categorias do pessoal civil de informática das forças armadas, constantes do quadro anexo I ao [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), são discriminadas no anexo ao presente diploma.
 
 B - Categorias
 
-###### Art. 2.º - 1 - De acordo com o estabelecido no artigo 1.º do [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro, os quadros do pessoal civil de informática das forças armadas podem compreender as seguintes categorias:
+Art. 2.º - 1 - De acordo com o estabelecido no artigo 1.º do [Decreto-Lei n.º 875/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/875-1976-416411), de 29 de Dezembro, os quadros do pessoal civil de informática das forças armadas podem compreender as seguintes categorias:
 
 Analista de sistemas;
 
@@ -145,7 +170,7 @@ Operador de registo estagiário.
 
 C - Admissão
 
-###### Art. 3.º - 1 - A admissão nas categorias indicadas no n.º 2 do artigo 2.º é feita por concurso público de provas práticas anunciadas no Diário da República, fixando-se para apresentação do requerimento de admissão ao concurso o prazo de trinta dias, a contar da data da publicação do anúncio.
+Art. 3.º - 1 - A admissão nas categorias indicadas no n.º 2 do artigo 2.º é feita por concurso público de provas práticas anunciadas no Diário da República, fixando-se para apresentação do requerimento de admissão ao concurso o prazo de trinta dias, a contar da data da publicação do anúncio.
 
 2 - Os candidatos que sejam aprovados no concurso, e que já prestem serviço nos respectivos centros mecanográficos há mais de três anos, terão preferência, em condições de igualdade de classificação, no provimento das vacaturas existentes.
 
@@ -177,7 +202,7 @@ f) Terem obtido aprovação nos testes psicotécnicos apropriados à sua categor
 
 D - Promoção
 
-###### Art. 4.º - 1 - O acesso às categorias de promoção far-se-á por concurso de provas práticas e documentais para todas as categorias.
+Art. 4.º - 1 - O acesso às categorias de promoção far-se-á por concurso de provas práticas e documentais para todas as categorias.
 
 2 - Só podem ser admitidos a concurso de promoção os candidatos com, pelo menos, três anos de efectivo serviço na categoria que ocupem e que disponham de boa notação profissional, que inclui: competência, zelo, disciplina, assiduidade, senso e interesse pelo serviço. Exceptuam-se, no que diz respeito ao efectivo serviço, as categorias de estagiário, que apenas obrigam ao mínimo de um ano de permanência na categoria.
 
@@ -219,23 +244,23 @@ k) Para operador de registo A, os operadores de registo B que possuam o curso ge
 
 l) Para operador de registo B, os operadores de registo estagiários.
 
-###### Art. 5.º - 1 - Em qualquer concurso de promoção o júri nomeado deverá avaliar o mérito dos candidatos, tendo em atenção a notação profissional e a prestação de provas, factores que têm, entre si, a relação de peso de 2/3.
+Art. 5.º - 1 - Em qualquer concurso de promoção o júri nomeado deverá avaliar o mérito dos candidatos, tendo em atenção a notação profissional e a prestação de provas, factores que têm, entre si, a relação de peso de 2/3.
 
 2 - Se os concursos ficarem desertos, ou resultarem nulos, poderá o Chefe do Estado-Maior do ramo autorizar a abertura de novo concurso entre os funcionários que reúnam as condições constantes do artigo 4.º, independentemente do tempo de serviço na categoria e das habilitações literárias que possuam.
 
-###### Art. 6.º O pessoal eliminado em dois concursos de promoção a uma categoria não poderá voltar a candidatar-se a essa categoria.
+Art. 6.º O pessoal eliminado em dois concursos de promoção a uma categoria não poderá voltar a candidatar-se a essa categoria.
 
 E - Aplicação
 
-###### Art. 7.º Todas as disposições constantes do presente diploma aplicam-se ao pessoal civil de informática das forças armadas, incluindo o dos estabelecimentos fabris dos seus ramos.
+Art. 7.º Todas as disposições constantes do presente diploma aplicam-se ao pessoal civil de informática das forças armadas, incluindo o dos estabelecimentos fabris dos seus ramos.
 
 Visto e aprovado em Conselho da Revolução em 30 de Novembro de 1977.
 
-**Promulgado em 30 de Novembro de 1977.**
+Promulgado em 30 de Novembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Definição das funções do pessoal civil de informática das forças armadas
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17100/16561657.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1976-430638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-25T00:00:00Z'
+  retrieved_at: '2026-10-22T22:56:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0cbde07b902df6ccd8799610a4a28fcc96bc25c4041cdd3b5972791053895862
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68b2abc495b03faddc2ee744232c1b4242d61072f1c0e8211f32a2e1c5a9780c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:56:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ação Social
+- Comissão Interministerial da Acção Social Complementar
+- Criação de Serviços
+- Secretaria de Estado da Administração Pública
 relationships:
 - type: amended_by
   target: pt:dre:631203:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:431184:por
+  label: Extinta, a partir de 02.06.1976, a Comissão Interministerial para a Animação Sócio-Cultural (CIASC), pelo(a) Resolução
+    do Conselho de Ministros - Diário da República n.º 143/1976, Série I de 1976-06-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/1976-431184
+  date: '1976-06-21'
+- type: repealed_by
+  target: pt:dre:631203:por
+  label: "Revogado pelo DEC LEI.194/91.25.05.1991.MF, DR.IS-A [[120]] de 25.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1991-631203
+  date: '1991-05-25'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:56:30Z'
   warnings: []
   errors: []
 ---
@@ -103,11 +118,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 5), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. É criada na Secretaria de Estado da Administração Pública a Comissão Interministerial da Acção Social Complementar, adiante designada CIASC.
+Artigo 1.º - 1. É criada na Secretaria de Estado da Administração Pública a Comissão Interministerial da Acção Social Complementar, adiante designada CIASC.
 
 2. A CIASC funcionará junto da Direcção-Geral da Função Pública e tem por missão planificar e propor a execução de acções que visem prioritariamente a uniformização e a ampliação dos benefícios concedidos e a conceder pelos Serviços Sociais, bem como garantir uma efectiva coordenação orgânica e financeira em ordem a estabelecer uma gestão racional dos mesmos Serviços.
 
-###### Art. 2.º Incumbe à CIASC, designadamente:
+Art. 2.º Incumbe à CIASC, designadamente:
 
 a) Promover os estudos indispensáveis à inventariação dos benefícios concedidos e dos equipamentos sociais existentes, tendo em vista determinar as principais carências e propor as providências a adoptar;
 
@@ -125,9 +140,9 @@ g) Promover formas de colaboração entre os Serviços Sociais e estabelecer aco
 
 h) Estudar e definir um esquema de financiamento conjunto, tendo em atenção a uniformização dos benefícios atribuídos e a atribuir, bem como o número de utentes, e antecedentes a respeitar.
 
-###### Art. 3.º A competência da CIASC entende-se referida à acção social complementar prosseguida pelos diversos Ministérios civis, abrangendo os organismos dependentes dos referidos departamentos ministeriais dotados de autonomia administrativa e financeira e, bem assim, os da administração local, regional e institucional.
+Art. 3.º A competência da CIASC entende-se referida à acção social complementar prosseguida pelos diversos Ministérios civis, abrangendo os organismos dependentes dos referidos departamentos ministeriais dotados de autonomia administrativa e financeira e, bem assim, os da administração local, regional e institucional.
 
-###### Art. 4.º - 1. A CIASC terá a seguinte composição:
+Art. 4.º - 1. A CIASC terá a seguinte composição:
 
 a) O director-geral da Função Pública, que presidirá;
 
@@ -153,28 +168,28 @@ g) Dois representantes da Direcção-Geral da Função Pública, a nomear pelo S
 
 6. A constituição da CIASC poderá ser, a todo o tempo, alterada por portaria dos Ministros competentes.
 
-###### Art. 5.º - 1. A Comissão Interministerial da Acção Social Complementar reunirá em secções plenárias, restritas ou em grupos de trabalho, conforme a natureza ou o âmbito dos assuntos a tratar.
+Art. 5.º - 1. A Comissão Interministerial da Acção Social Complementar reunirá em secções plenárias, restritas ou em grupos de trabalho, conforme a natureza ou o âmbito dos assuntos a tratar.
 
 2. O plenário reunirá ordinariamente uma vez por mês e extraordinariamente sempre que o presidente julgue necessário ou lho seja solicitado por um terço dos seus membros.
 
 3. As conclusões e relatórios sobre os assuntos tratados em sessões restritas, ou em grupos de trabalho, deverão ser objecto de apreciação e aprovação pelo plenário.
 
-###### Art. 6.º Os encargos resultantes do funcionamento da Comissão Interministerial da Acção Social Complementar serão satisfeitos pelas dotações orçamentais atribuídas à Direcção-Geral da Função Pública (Secretariado da Administração Pública).
+Art. 6.º Os encargos resultantes do funcionamento da Comissão Interministerial da Acção Social Complementar serão satisfeitos pelas dotações orçamentais atribuídas à Direcção-Geral da Função Pública (Secretariado da Administração Pública).
 
-###### Art. 7.º - 1. A partir da entrada em vigor do presente decreto-lei e até decisão do Governo sobre a matéria, a tomar sob proposta da CIASC, fica proibida a criação de novos benefícios no âmbito da acção social complementar.
+Art. 7.º - 1. A partir da entrada em vigor do presente decreto-lei e até decisão do Governo sobre a matéria, a tomar sob proposta da CIASC, fica proibida a criação de novos benefícios no âmbito da acção social complementar.
 
 2. As actuações já em curso poderão prosseguir, devendo, no entanto, ser comunicadas à CIASC no prazo de trinta dias a partir da entrada em vigor do presente diploma.
 
 3. As dúvidas suscitadas pela aplicação do disposto no n.º 1 serão comunicadas à CIASC através da Direcção-Geral da Função Pública, para parecer e elaboração de projecto de despacho interpretativo, se for caso disso, nos termos do artigo 9.º
 
-###### Art. 8.º A aprovação de esquemas de acção social complementar e da regulamentação aplicável aos Serviços Sociais será feita por decreto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais e do Ministro ou Ministros interessados.
+Art. 8.º A aprovação de esquemas de acção social complementar e da regulamentação aplicável aos Serviços Sociais será feita por decreto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais e do Ministro ou Ministros interessados.
 
-###### Art. 9.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais.
+Art. 9.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna, das Finanças e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Rui Manuel Parente Chancerelle de Machete.
 
-**Promulgado em 10 de Julho de 1976.**
+Promulgado em 10 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

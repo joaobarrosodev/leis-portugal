@@ -47,36 +47,42 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44426-1962-164588
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T21:41:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a135381ae4816dbcbdbc1536b21642b107067a1445468360fdabaf980948ad90
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24aa93e05178fd10c1de3657f102a32908334da78d662ee20cb38c4e36c80098
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Criação de Lugares
+- Governo Civil
+- Lisboa
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Quadro de Pessoal
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:41:18Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +95,10 @@ Considerando que, pertencendo ao Estado o saldo do cofre privativo do Governo Ci
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São criados mais um lugar de aspirante e cinco lugares de escriturário no quadro do pessoal maior da Secretaria do Governo Civil do distrito de Lisboa.
+Artigo 1.º São criados mais um lugar de aspirante e cinco lugares de escriturário no quadro do pessoal maior da Secretaria do Governo Civil do distrito de Lisboa.
 
-###### Art. 2.º Os encargos a que este diploma dará lugar serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do orçamento do Ministério do Interior.
+Art. 2.º Os encargos a que este diploma dará lugar serão satisfeitos, no ano corrente, pelas sobras da verba do n.º 1) do artigo 43.º do orçamento do Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique de Miranda Vasconcelos Martins de Carvalho.

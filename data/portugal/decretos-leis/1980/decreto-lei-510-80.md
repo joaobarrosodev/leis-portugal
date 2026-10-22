@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24800/36033614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,103 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/510-1980-462408
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6bf2ade435fb7e2a887e73ab142bf6185fb0d4b4db0d938d3c3b3bc28c2dc412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 256c315205f64e76a8bf10462900cb95a0d868599a54451fa90db9c32ffb6e89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Orgânica
+- Proteção Civil
+- Serviço Nacional de Protecção Civil
 relationships:
 - type: amended_by
   target: pt:dre:257591:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:600317:por
+  label: "Alterado o quadro de pessoal, pela PORT.243/82.1982.03.01.MDN, DR.IS [49]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/243-1982-600317
+  date: '1982-03-01'
+- type: amended_by
+  target: pt:dre:399869:por
+  label: "Alterado o quadro de pessoal, pela PORT.774/84.1984.10.03.PCM, DR.IS [230]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/774-1984-399869
+  date: '1984-10-03'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, com as alterações introduzidas pelas Port 243/82, de 01-Mar, e 774/84, de 03-Out,\
+    \ pelo anexo XII à PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: amended_by
+  target: pt:dre:616666:por
+  label: "Alterado o quadro de pessoal aprovado pelo art. 36º, com as alterações introduzidas pelo anexo XII à Port 461/87,\
+    \ de 02-Jun, pela PORT.1155/92.1992.12.16.MAI, DR.IS-B [289]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1155-1992-616666
+  date: '1992-12-16'
+- type: cites
+  target: pt:dre:160138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231330:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:389798:por
+  label: Rectificado pela DECL.DD6285.02.02.1981.PCM, DR.IS [27] de 02.02.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-389798
+  date: '1981-02-02'
+- type: repealed_by
+  target: pt:dre:257591:por
+  label: "Revogado pelo DEC LEI.203/93.1993.06.03.MAI, DR.IS [129]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/203-1993-257591
+  date: '1993-06-03'
 article_structure:
   article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:58Z'
   warnings: []
   errors: []
 ---
@@ -118,13 +181,13 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Princípios fundamentais
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Definição)
 
 A protecção civil compreende o conjunto de medidas destinadas a proteger o cidadão como pessoa humana e a população no seu conjunto de tudo o que represente perigo para a sua vida, saúde, recursos, bens culturais e materiais, limitando os riscos e minimizando os prejuízos quando ocorram sinistros, catástrofes ou calamidades, incluindo os imputáveis à guerra.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Objectivos e missões próprias)
 
@@ -140,7 +203,7 @@ d) Destinadas a salvaguardar os recursos naturais e outros;
 
 e) De defesa passiva, em cooperação com as forças armadas.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Campos de acção da protecção civil)
 
@@ -160,7 +223,7 @@ f) Saúde e protecção do ambiente;
 
 g) Protecção de edifícios, monumentos e outros bens culturais ou materiais.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Responsabilidade do Governo)
 
@@ -168,7 +231,7 @@ g) Protecção de edifícios, monumentos e outros bens culturais ou materiais.
 
 2 - Para o cumprimento do disposto no número anterior o Ministro é directamente coadjuvado pelo Conselho Superior de Protecção Civil (CSPC) dispondo, como órgão executivo, do Serviço Nacional de Protecção Civil (SNPC).
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Competência do SNPC)
 
@@ -176,7 +239,7 @@ g) Protecção de edifícios, monumentos e outros bens culturais ou materiais.
 
 2 - As relações internacionais a que se refere o número anterior serão processadas com salvaguarda das responsabilidades e competências próprias do Ministério dos Negócios Estrangeiros.
 
-###### ARTIGO 6.º
+ARTIGO 6.º
 
 (Colaboração de outros Ministérios e departamentos do Estado)
 
@@ -184,13 +247,13 @@ g) Protecção de edifícios, monumentos e outros bens culturais ou materiais.
 
 2 - Os planos e programas referidos no número anterior são da responsabilidade do SNPC, carecendo de parecer do Conselho Superior de Protecção Civil e da aprovação do Ministro.
 
-###### ARTIGO 7.º
+ARTIGO 7.º
 
 (Organização da protecção civil nas Regiões Autónomas)
 
 Nas Regiões Autónomas dos Açores e da Madeira existirão Serviços Regionais de Protecção Civil (SRPC), criados através de diploma específico.
 
-###### ARTIGO 8.º
+ARTIGO 8.º
 
 (Organização local e regional de protecção civil no continente)
 
@@ -204,7 +267,7 @@ Nas Regiões Autónomas dos Açores e da Madeira existirão Serviços Regionais 
 
 5 - As ligações entre o SNPC e as estruturas locais e regionais de protecção civil serão definidas em diploma posterior.
 
-###### ARTIGO 9.º
+ARTIGO 9.º
 
 (Cooperação SNPC - Forças armadas, bombeiros, GNR, GF, PSP e departamentos e organismos de saúde)
 
@@ -212,7 +275,7 @@ A definição das responsabilidades e competências relativas à cooperação, e
 
 ### CAPÍTULO II — Órgão consultivo
 
-###### ARTIGO 10.º
+ARTIGO 10.º
 
 (Conselho Superior de Protecção Civil)
 
@@ -264,13 +327,13 @@ g) O Ministro pode ainda convocar outras pessoas ou entidades para o integrarem.
 
 ### CAPÍTULO III — Natureza e atribuições do SNPC
 
-###### ARTIGO 11.º
+ARTIGO 11.º
 
 (Personalidade jurídica do SNPC)
 
 O SNPC é um organismo de personalidade jurídica e de autonomia administrativa e financeira, dispondo de património próprio.
 
-###### ARTIGO 12.º
+ARTIGO 12.º
 
 (Atribuições do SNPC)
 
@@ -308,7 +371,7 @@ missão que lhe incumbe;
 
 11) Prever a organização, instalação e guarnição, com pessoal e meios, de centros operacionais de emergência de protecção civil, para a conduta do combate às catástrofes ou calamidades, tendo em vista uma acção conjugada das várias organizações intervenientes.
 
-###### ARTIGO 13.º
+ARTIGO 13.º
 
 (Desencadeamento de acções de protecção civil em caso de catástrofe)
 
@@ -320,7 +383,7 @@ missão que lhe incumbe;
 
 ### CAPÍTULO IV — Órgãos e serviços do SNPC
 
-###### ARTIGO 14.º
+ARTIGO 14.º
 
 (Órgãos do SNPC)
 
@@ -332,7 +395,7 @@ b) Conselho administrativo;
 
 c) Comissão técnica consultiva.
 
-###### ARTIGO 15.º
+ARTIGO 15.º
 
 (Presidente)
 
@@ -348,7 +411,7 @@ c) Presidir ao conselho administrativo;
 
 d) Desempenhar as demais funções que por lei lhe sejam cometidas.
 
-###### ARTIGO 16.º
+ARTIGO 16.º
 
 (Conselho administrativo)
 
@@ -376,7 +439,7 @@ h) Pronunciar-se sobre qualquer assunto da sua competência que lhe seja submeti
 
 4 - O conselho administrativo estabelecerá as normas do seu funcionamento.
 
-###### ARTIGO 17.º
+ARTIGO 17.º
 
 (Comissão técnica consultiva)
 
@@ -412,7 +475,7 @@ g) Direcção-Geral do Ordenamento e Gestão Florestal.
 
 6 - As despesas de deslocação e outras legalmente devidas aos membros da CTC serão asseguradas pelo SNPC.
 
-###### ARTIGO 18.º
+ARTIGO 18.º
 
 (Serviços do SNPC)
 
@@ -430,7 +493,7 @@ e) Inspecção de Protecção Civil;
 
 f) Repartição dos Serviços Administrativos e Financeiros.
 
-###### ARTIGO 19.º
+ARTIGO 19.º
 
 (Direcção dos Serviços de Planeamento e Operações de Protecção Civil)
 
@@ -470,7 +533,7 @@ b) Planeamento de prevenção e socorro;
 
 c) Levantamento de meios e recursos.
 
-###### ARTIGO 20.º
+ARTIGO 20.º
 
 (Direcção dos Serviços de Telecomunicações, Aviso e Alerta de Protecção Civil)
 
@@ -496,7 +559,7 @@ a) Telecomunicações;
 
 b) Aviso e alerta.
 
-###### ARTIGO 21.º
+ARTIGO 21.º
 
 (Direcção dos Serviços de Formação e Ensino de Protecção Civil)
 
@@ -516,7 +579,7 @@ e) Promover a divulgação dos conhecimentos e normas de procedimento de preven�
 
 3 - Os estabelecimentos oficiais que, no País, se dedicam ao ensino das várias especialidades da protecção civil integrar-se-ão, quanto a este ensino, nas directivas do Plano Geral de Instrução de Protecção Civil.
 
-###### ARTIGO 22.º
+ARTIGO 22.º
 
 (Direcção dos Serviços de Estudos e Investigação de Protecção Civil)
 
@@ -544,7 +607,7 @@ b) Divisão de Legislação, Segurança e Prevenção;
 
 c) Divisão de Avaliação de Riscos.
 
-###### ARTIGO 23.º
+ARTIGO 23.º
 
 (Divisão de Documentação e Estatística)
 
@@ -560,7 +623,7 @@ d) Dar conhecimento periódico do índice da documentação recebida;
 
 e) Dar o tratamento conveniente aos dados estatísticos recebidos, divulgando os resultados obtidos.
 
-###### ARTIGO 24.º
+ARTIGO 24.º
 
 (Divisão de Legislação, Segurança e Prevenção)
 
@@ -576,7 +639,7 @@ d) Proceder aos estudos e análises comparativas que lhe forem determinados;
 
 e) Manter-se permanentemente informada sobre a legislação de segurança e prevenção de outros países e os estudos e recomendações que, nesses domínios, sejam produzidos pelas organizações internacionais.
 
-###### ARTIGO 25.º
+ARTIGO 25.º
 
 (Divisão de Avaliação de Riscos)
 
@@ -592,7 +655,7 @@ d) Dar parecer sobre projectos referentes a grandes empreendimentos, quando lhe 
 
 e) Representar o SNPC em grupos ou comissões que tenham como missão o estudo e avaliação dos riscos e colaborar com outros organismos que se dediquem a tal problemática.
 
-###### ARTIGO 26.º
+ARTIGO 26.º
 
 (Inspecção de Protecção Civil)
 
@@ -616,7 +679,7 @@ h) Credenciar as entidades que julgar convenientes para, como seus colaboradores
 
 2 - A IPC funcionará na dependência directa do presidente do SNPC.
 
-###### ARTIGO 27.º
+ARTIGO 27.º
 
 (Repartição dos Serviços Administrativos e Financeiros)
 
@@ -646,7 +709,7 @@ b) Secção de Contabilidade e Tesouraria;
 
 c) Secção de Aprovisionamento.
 
-###### ARTIGO 28.º
+ARTIGO 28.º
 
 (Secção de Pessoal)
 
@@ -662,7 +725,7 @@ d) Prestar o apoio administrativo-logístico necessário aos restantes órgãos 
 
 e) Exercer outras atribuições relacionadas com o sector que visem a melhoria dos serviços.
 
-###### ARTIGO 29.º
+ARTIGO 29.º
 
 (Secção de Contabilidade e Tesouraria)
 
@@ -678,7 +741,7 @@ d) Prestar o apoio administrativo-logístico necessário aos restantes órgãos 
 
 e) Exercer outras atribuições relacionadas com o sector que visem a melhoria dos serviços.
 
-###### ARTIGO 30.º
+ARTIGO 30.º
 
 (Secção de Aprovisionamento)
 
@@ -696,7 +759,7 @@ e) Prestar o apoio administrativo-logístico necessário aos restantes órgãos 
 
 f) Exercer outras atribuições relacionadas com o sector que visem a melhoria dos serviços.
 
-###### ARTIGO 31.º
+ARTIGO 31.º
 
 (Posto de «contrôle» de documentação da OTAN)
 
@@ -704,13 +767,13 @@ No SNPC funcionará um posto de contrôle de documentação da Organização do 
 
 ### CAPÍTULO V — Gestão financeira e patrimonial
 
-###### ARTIGO 32.º
+ARTIGO 32.º
 
 (Gestão financeira e patrimonial)
 
 A gestão financeira e patrimonial do SNPC obedecerá aos princípios gerais da administração financeira dos serviços do Estado dotados de autonomia administrativa e financeira.
 
-###### ARTIGO 33.º
+ARTIGO 33.º
 
 (Receitas do SNPC)
 
@@ -726,7 +789,7 @@ d) Rendimento de bens próprios;
 
 e) Outras receitas, nomeadamente as provenientes de publicações técnicas, vistorias, pareceres e prestação de outros serviços de ordem técnica.
 
-###### ARTIGO 34.º
+ARTIGO 34.º
 
 (Encargos do SNPC)
 
@@ -734,7 +797,7 @@ Constituem encargos do SNPC todas as despesas decorrentes do funcionamento dos s
 
 ### CAPÍTULO VI — Pessoal do SNPC
 
-###### ARTIGO 35.º
+ARTIGO 35.º
 
 (Classificação do pessoal)
 
@@ -752,7 +815,7 @@ e) Pessoal técnico-profissional e administrativo;
 
 f) Pessoal operário e auxiliar.
 
-###### ARTIGO 36.º
+ARTIGO 36.º
 
 (Pessoal do quadro)
 
@@ -760,7 +823,7 @@ f) Pessoal operário e auxiliar.
 
 2 - Sempre que as necessidades do SNPC o justifiquem, a dotação do pessoal constante no anexo referido poderá ser revista por portaria conjunta do Ministro, do Ministro das Finanças e do Plano e do membro do Governo que tenha a seu cargo a função pública.
 
-###### ARTIGO 37.º
+ARTIGO 37.º
 
 (Provimento)
 
@@ -782,13 +845,13 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro do SNPC em que vier a ser provido definitivamente, finda a comissão.
 
-###### ARTIGO 38.º
+ARTIGO 38.º
 
 (Pessoal dirigente)
 
 O recrutamento, selecção e provimento dos cargos de presidente, vice-presidente, director de serviços e chefe de divisão serão efectuados nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
 
-###### ARTIGO 39.º
+ARTIGO 39.º
 
 (Pessoal de inspecção)
 
@@ -804,7 +867,7 @@ c) Inspector de 1.ª classe - por concurso documental e avaliação curricular d
 
 d) Inspector de 2.ª classe - por concurso documental e avaliação curricular, constituindo motivo de preferência possuirem os interessados estágios com aproveitamento ou especializações nas funções a que se destinam.
 
-###### ARTIGO 40.º
+ARTIGO 40.º
 
 (Pessoal técnico superior)
 
@@ -812,7 +875,7 @@ d) Inspector de 2.ª classe - por concurso documental e avaliação curricular, 
 
 2 - Os técnicos superiores serão recrutados de entre os indivíduos detentores de licenciatura adequada, regendo-se o seu ingresso e acesso na carreira pelo disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 41.º
+ARTIGO 41.º
 
 (Pessoal técnico)
 
@@ -820,13 +883,13 @@ d) Inspector de 2.ª classe - por concurso documental e avaliação curricular, 
 
 2 - O pessoal técnico será recrutado de entre os indivíduos habilitados com curso superior adequado às funções que irão desempenhar, regendo-se o seu ingresso e acesso na carreira pelo disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 42.º
+ARTIGO 42.º
 
 (Habilitações literárias)
 
 O recrutamento e ingresso do pessoal referido nos artigos 39.º e 40.º poderá ainda fazer-se de entre os indivíduos habilitados com os cursos da Academia Militar, da Escola Naval ou da Academia da Força Aérea.
 
-###### ARTIGO 43.º
+ARTIGO 43.º
 
 (Pessoal técnico-profissional)
 
@@ -862,7 +925,7 @@ a) O recrutamento para ingresso na carreira de operador de meios áudio-visuais 
 
 b) O acesso na carreira de operador de meios áudio-visuais verificar-se-á após a permanência de três anos na classe anterior, com classificação de serviço não inferior a Bom.
 
-###### ARTIGO 44.º
+ARTIGO 44.º
 
 (Pessoal administrativo)
 
@@ -878,7 +941,7 @@ b) O acesso na carreira de operador de meios áudio-visuais verificar-se-á apó
 
 6 - Os escriturários-dactilógrafos terão as categorias de principal, de 1.ª classe e de 2.ª classe, regendo-se o seu recrutamento, ingresso e acesso na carreira pelo disposto no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 45.º
+ARTIGO 45.º
 
 (Pessoal operário e auxiliar)
 
@@ -898,7 +961,7 @@ b) O acesso à categoria imediatamente superior desta carreira verificar-se-á a
 
 6 - O recrutamento de contínuos far-se-á, mediante concurso de provas, de entre os indivíduos com a escolaridade obrigatória, segundo a idade do candidato, e a carreira rege-se pelo preceituado no artigo 17.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
 
-###### ARTIGO 46.º
+ARTIGO 46.º
 
 (Pessoal para apoio externo)
 
@@ -908,7 +971,7 @@ b) O acesso à categoria imediatamente superior desta carreira verificar-se-á a
 
 3 - Os funcionários referidos nos números anteriores considerar-se-ão destacados por períodos renováveis de três anos.
 
-###### ARTIGO 47.º
+ARTIGO 47.º
 
 (Admissão por conta das vagas existentes)
 
@@ -916,13 +979,13 @@ b) O acesso à categoria imediatamente superior desta carreira verificar-se-á a
 
 2 - A admissão prevista no número anterior processar-se-á com total observância das regras de recrutamento e forma de provimento estabelecidas neste diploma para a categoria de ingresso na respectiva carreira.
 
-###### ARTIGO 48.º
+ARTIGO 48.º
 
 (Colaboração de pessoal das forças armadas)
 
 Para a realização de tarefas específicas que melhor possam ser desempenhadas por elementos das forças armadas poderá o SNPC obter a sua colaboração, em regime de comissão de serviço ou de diligência, com o acordo prévio do próprio e a anuência do titular do ramo respectivo.
 
-###### ARTIGO 49.º
+ARTIGO 49.º
 
 (Pessoal requisitado)
 
@@ -936,7 +999,7 @@ Para a realização de tarefas específicas que melhor possam ser desempenhadas 
 
 5 - O pessoal do quadro do SNPC poderá, nas condições previstas nos números anteriores, ser requisitado para outros departamentos da Administração Pública.
 
-###### ARTIGO 50.º
+ARTIGO 50.º
 
 (Destacamento)
 
@@ -946,7 +1009,7 @@ Para a realização de tarefas específicas que melhor possam ser desempenhadas 
 
 3 - Os destacamentos carecem de autorização do membro do Governo de que dependa o funcionário, obtido o parecer favorável dos dirigentes dos serviços ou organismos competentes, cabendo a estes acordar quanto ao programa e duração da colaboração ou dos trabalhos a efectuar em comum pelos respectivos funcionários.
 
-###### ARTIGO 51.º
+ARTIGO 51.º
 
 (Contrato além do quadro)
 
@@ -954,7 +1017,7 @@ Para a realização de tarefas específicas que melhor possam ser desempenhadas 
 
 2 - O regime de pessoal contratado será o que estiver estabelecido nas disposições legais aplicáveis, nomeadamente naquelas em que se contém o regime do pessoal nomeado e que não sejam incompatíveis com a natureza do vínculo contratual.
 
-###### ARTIGO 52.º
+ARTIGO 52.º
 
 (Contrato de mera prestação de serviços)
 
@@ -964,13 +1027,13 @@ Para a realização de tarefas específicas que melhor possam ser desempenhadas 
 
 3 - O exercício da actividade prevista no n.º 1 não confere por si a qualidade de agente administrativo.
 
-###### ARTIGO 53.º
+ARTIGO 53.º
 
 (Senhas de presença)
 
 Os membros dos conselhos e comissões constantes deste diploma que não pertençam ao quadro do SNPC terão direito a senhas de presença a abonar nos termos da lei geral.
 
-###### ARTIGO 54.º
+ARTIGO 54.º
 
 (Trabalho por turnos)
 
@@ -980,7 +1043,7 @@ Os membros dos conselhos e comissões constantes deste diploma que não pertenç
 
 ### CAPÍTULO VII — Disposições gerais e transitórias
 
-###### ARTIGO 55.º
+ARTIGO 55.º
 
 (Integração no quadro de pessoal)
 
@@ -998,19 +1061,19 @@ d) Para categoria correspondente às funções que o funcionário ou agente dese
 
 3 - O preenchimento de cargos ou lugares deve ser operado por diploma individual de provimento ou listas nominativas, nos termos do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, com dispensa de quaisquer formalidades, salvo visto ou anotação pelo Tribunal de Contas e publicação no Diário da República.
 
-###### ARTIGO 56.º
+ARTIGO 56.º
 
 (Vigência de normas de transição)
 
 As normas estabelecidas no artigo anterior aplicam-se aos funcionários e agentes que prestam serviço no SNPC à data da publicação deste diploma, considerando-se para este efeito dilatado o prazo previsto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho.
 
-###### ARTIGO 57.º
+ARTIGO 57.º
 
 (Resolução de dúvidas)
 
 As dúvidas que se suscitarem na aplicação deste decreto serão resolvidas por despacho conjunto do Ministro e do membro do Governo que tenha a seu cargo a função pública e, quando se tratar de matéria da sua competência, do Ministro das Finanças e do Plano.
 
-###### ARTIGO 58.º
+ARTIGO 58.º
 
 (Entrada em vigor)
 
@@ -1018,12 +1081,12 @@ Este diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro - Adelino Manuel Lopes Amaro da Costa.
 
-**Promulgado em 15 de Outubro de 1980.**
+Promulgado em 15 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
 Quadro a que se refere o n.º 1 do artigo 36.º do Decreto-Lei n.º 510/80, de 25 de Outubro
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24800/36033614.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24800/36033614.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/10/24800/36033614.pdf)

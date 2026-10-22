@@ -47,40 +47,105 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48359-1968-274641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2009-04-07T00:00:00Z'
+  retrieved_at: '2026-10-22T22:05:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f539788458cf1078de433524a35514d3028c3d9215ae06f8d5c3c47c965aceb1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 91671efe08734e6b56b8d156251af1402080157edf6ca9e8cac6330b4088cc9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central
+- Administração Local
+- Administração Pública
+- Aposentado
+- Assistência a Familiares
+- Assistência Médica
+- Assistência na Tuberculose aos Funcionários Civis e seus Familiares
+- Atestado Médico
+- Autarquia Local
+- Caixa Geral de Aposentações
+- Certificado de Robustez Física
+- Concurso
+- Consulta Médica
+- Controlo Médico
+- Definição de Competências
+- Delegado de Saúde
+- Doença
+- Estabelecimento de Ensino
+- Faltas
+- Financiamento
+- Fiscalização
+- Função Pública
+- Funcionário Público
+- GNR
+- Guarda Fiscal
+- Infracção Disciplinar
+- Instituto de Assistência Nacional aos Tuberculosos
+- Insuficiência Económica
+- Internamento Hospitalar
+- Junta Médica
+- Lisboa
+- Pagamento
+- Pensão de Aposentação
+- Pessoal Civil
+- Pobreza
+- Polícia de Viação e Trânsito
+- PSP
+- Recrutamento de Pessoal
+- Regime Jurídico
+- Remuneração
+- Sanção Disciplinar
+- Santa Casa da Misericórdia
+- Saúde
+- Saúde Pública
+- Tempo de Serviço
+- Tuberculose
+- Vacinação
 relationships:
 - type: amended_by
   target: pt:dre:1822041:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:178851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281454:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:138777:por
+  label: "Revogada a 2ª parte do art. 16º, pelo DEC LEI.100/99.1999.03.31.PCM DR.IS-A [76]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/100-1999-138777
+  date: '1999-03-31'
+- type: repealed_by
+  target: pt:dre:423056:por
+  label: "Revogados os arts. 3.º, 4.º e 5.º pelo DEC LEI.319/99.1999.08.11.MS DR.IS-A [186]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/319-1999-423056
+  date: '1999-08-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:05:10Z'
   warnings: []
   errors: []
 ---
@@ -133,11 +198,11 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Denominação e fins
 
-###### Artigo 1.º A Assistência na Tuberculose aos Funcionários Civis e seus familiares, com a abreviatura A. F. C. T., destina-se a efectuar o tratamento e recuperação dos funcionários civis e seus equiparados para efeitos do presente decreto-lei, e respectivos familiares, que sofram de tuberculose em qualquer grau, modalidade ou localização, nos termos estabelecidos por este diploma, bem como a promover a profilaxia da doença entre os seus beneficiários e respectivos agregados familiares, através do radiorrastreio, provas tuberculínicas, vacinação B. C. G. e outros meios julgados convenientes.
+Artigo 1.º A Assistência na Tuberculose aos Funcionários Civis e seus familiares, com a abreviatura A. F. C. T., destina-se a efectuar o tratamento e recuperação dos funcionários civis e seus equiparados para efeitos do presente decreto-lei, e respectivos familiares, que sofram de tuberculose em qualquer grau, modalidade ou localização, nos termos estabelecidos por este diploma, bem como a promover a profilaxia da doença entre os seus beneficiários e respectivos agregados familiares, através do radiorrastreio, provas tuberculínicas, vacinação B. C. G. e outros meios julgados convenientes.
 
 ### CAPÍTULO II — Dos beneficiários
 
-###### Art. 2.º Consideram-se beneficiários da A. F. C. T., desde que sejam subscritores da Caixa Geral de Aposentações ou de outra caixa legalmente equiparada:
+Art. 2.º Consideram-se beneficiários da A. F. C. T., desde que sejam subscritores da Caixa Geral de Aposentações ou de outra caixa legalmente equiparada:
 
 a) Os servidores civis do Estado e das autarquias locais;
 
@@ -155,13 +220,13 @@ c) Os empregados da Santa Casa da Misericórdia de Lisboa e das outras pessoas c
 
 ### CAPÍTULO III — Das condições de admissão
 
-###### Art. 3.º Nenhum indivíduo poderá ser admitido em cargo a que corresponda, nos termos deste diploma, direito a beneficiar da assistência, sem que demonstre possuir a robustez necessária para o exercício do cargo, não sofrer de doença contagiosa, designadamente de tuberculose evolutiva, e reagir positivamente à prova tuberculínica ou ter sido submetido à vacinação B. C. G.
+Art. 3.º Nenhum indivíduo poderá ser admitido em cargo a que corresponda, nos termos deste diploma, direito a beneficiar da assistência, sem que demonstre possuir a robustez necessária para o exercício do cargo, não sofrer de doença contagiosa, designadamente de tuberculose evolutiva, e reagir positivamente à prova tuberculínica ou ter sido submetido à vacinação B. C. G.
 
 § 1.º Aos serventuários que não façam parte do pessoal permanente com ocupação regular, a que se refere o § 1.º do artigo 2.º, devem também ser exigidos os requisitos indicados no corpo deste artigo, antes da sua admissão ao serviço.
 
 § 2.º Na admissão dos serventuários por conveniência urgente do serviço, a prova prescrita neste artigo pode ser feita depois de o interessado iniciar o exercício das suas funções, devendo os respectivos serviços promovê-la oficiosamente dentro do prazo de um mês. Do resultado favorável dessa diligência dependerá para o interessado a continuação ao serviço e o direito de auferir as regalias previstas neste diploma.
 
-###### Art. 4.º A prova de robustez e sanidade prevista no artigo anterior será feita por meio de atestado do delegado ou subdelegado de saúde da área da residência do interessado, salvo no que respeita à ausência de tuberculose evolutiva e resultado da prova tuberculínica ou vacinação B. C. G., que deverão ser certificadas por serviço dispensarial do Instituto de Assistência Nacional aos Tuberculosos ou dele tècnicamente dependente.
+Art. 4.º A prova de robustez e sanidade prevista no artigo anterior será feita por meio de atestado do delegado ou subdelegado de saúde da área da residência do interessado, salvo no que respeita à ausência de tuberculose evolutiva e resultado da prova tuberculínica ou vacinação B. C. G., que deverão ser certificadas por serviço dispensarial do Instituto de Assistência Nacional aos Tuberculosos ou dele tècnicamente dependente.
 
 § 1.º O prazo de validade dos documentos a que alude este artigo é de três meses.
 
@@ -171,11 +236,11 @@ c) Os empregados da Santa Casa da Misericórdia de Lisboa e das outras pessoas c
 
 § 4.º Os exames indispensáveis ao esclarecimento do diagnóstico, de cujo resultado dependa a passagem do certificado antituberculoso, constituirão encargo do Instituto de Assistência Nacional aos Tuberculosos, quando realizados nos seus estabelecimentos, se o candidato demonstrar não ter condições económicas para os suportar.
 
-###### Art. 5.º Nos concelhos onde não houver serviço dispensarial do Instituto de Assistência Nacional aos Tuberculosos ou dele tècnicamente dependente, a passagem do certificado comprovativo da ausência de tuberculose evolutiva referido no artigo anterior compete ao serviço dispensarial do concelho mais próximo ou ao delegado ou subdelegado de saúde da área onde o interessado reside.
+Art. 5.º Nos concelhos onde não houver serviço dispensarial do Instituto de Assistência Nacional aos Tuberculosos ou dele tècnicamente dependente, a passagem do certificado comprovativo da ausência de tuberculose evolutiva referido no artigo anterior compete ao serviço dispensarial do concelho mais próximo ou ao delegado ou subdelegado de saúde da área onde o interessado reside.
 
 ### CAPÍTULO IV — Da contribuição dos beneficiários
 
-###### Art. 6.º Os servidores com direito à assistência prevista neste diploma contribuirão para ela de harmonia com a respectiva remuneração ou pensão de aposentação, no cômputo das quais não se incluirão as gratificações de exercício, com as seguintes quotas mensais:
+Art. 6.º Os servidores com direito à assistência prevista neste diploma contribuirão para ela de harmonia com a respectiva remuneração ou pensão de aposentação, no cômputo das quais não se incluirão as gratificações de exercício, com as seguintes quotas mensais:
 
 Até 500$00 ... 2$00
 
@@ -193,7 +258,7 @@ Mais de 3000$00 até 5000$00 ... 25$00
 
 Superior a 5000$00 ... 30$00
 
-###### Art. 7.º As quotas para a A. F. C. T. são devidas a partir da admissão ao serviço, pagas por meio de desconto na remuneração ou pensão de aposentação, dependendo de o seu pagamento estar em dia o direito aos respectivos benefícios.
+Art. 7.º As quotas para a A. F. C. T. são devidas a partir da admissão ao serviço, pagas por meio de desconto na remuneração ou pensão de aposentação, dependendo de o seu pagamento estar em dia o direito aos respectivos benefícios.
 
 § 1.º Os servidores a que se refere o § 1.º do artigo 2.º só começam a descontar quotas decorrido o prazo que o mesmo parágrafo exige para que lhes seja reconhecido o direito à assistência.
 
@@ -205,7 +270,7 @@ Superior a 5000$00 ... 30$00
 
 ### CAPÍTULO V — Da concessão de assistência
 
-###### Art. 8.º Pela A. F. C. T. têm direito a ser assistidos:
+Art. 8.º Pela A. F. C. T. têm direito a ser assistidos:
 
 a) Os respectivos beneficiários;
 
@@ -249,7 +314,7 @@ c) Viúvas e filhos dos servidores falecidos, quando as suas condições económ
 
 § 2.º Quando na situação de assistidos, e sem ter obtido a cura, os descendentes do sexo masculino atinjam a idade limite para beneficiar da A. F. C. T., poderão continuar a usufruir de tal regalia durante o período que lhes faltar para atingir o tempo previsto na alínea b) do artigo 19.º, bem como das prorrogações indicadas no artigo 20.º, se tais lhes forem aplicáveis.
 
-###### Art. 9.º O servidor suspeito de haver contraído a tuberculose deverá requerer a concessão de assistência, se a ela tiver direito, nos termos deste diploma, sendo desde logo desligado do serviço.
+Art. 9.º O servidor suspeito de haver contraído a tuberculose deverá requerer a concessão de assistência, se a ela tiver direito, nos termos deste diploma, sendo desde logo desligado do serviço.
 
 O requerente será considerado em regime de faltas dadas por motivo de doença, de harmonia com a legislação vigente, até que seja conhecido o resultado do exame médico a que se sujeitar, beneficiando do disposto na parte final do § 2.º deste artigo no caso de vir a confirmar-se a doença por aquele exame.
 
@@ -259,17 +324,17 @@ O requerente será considerado em regime de faltas dadas por motivo de doença, 
 
 § 3.º O resultado do exame deverá ser dado a conhecer aos serviços a que o interessado pertencer no prazo de oito dias, a contar da sua conclusão.
 
-###### Art. 10.º A concessão de assistência para os familiares deverá ser requerida pelo respectivo beneficiário, com excepção dos casos previstos na alínea c) do artigo 8.º, em que será pedida pelo próprio interessado, ou, em caso de menoridade, pela pessoa a cargo de quem se encontre.
+Art. 10.º A concessão de assistência para os familiares deverá ser requerida pelo respectivo beneficiário, com excepção dos casos previstos na alínea c) do artigo 8.º, em que será pedida pelo próprio interessado, ou, em caso de menoridade, pela pessoa a cargo de quem se encontre.
 
-###### Art. 11.º A data do inicio da assistência será a do exame clinico comprovativo da doença, feito por médico do Instituto de Assistência Nacional aos Tuberculosos ou de serviço dele tècnicamente dependente.
+Art. 11.º A data do inicio da assistência será a do exame clinico comprovativo da doença, feito por médico do Instituto de Assistência Nacional aos Tuberculosos ou de serviço dele tècnicamente dependente.
 
 § único. Poderá considerar-se o início da assistência a partir da data em que foi requerida ou em que o servidor foi afastado do serviço nos termos do artigo 9.º, sempre que o exame médico previsto no corpo deste artigo confirme a doença.
 
-###### Art. 12.º Quando um servidor haja contraído a tuberculose, deverão os serviços a que pertence solicitar do Instituto de Assistência Nacional aos Tuberculosos o exame do pessoal que tenha estado em contacto directo com aquele.
+Art. 12.º Quando um servidor haja contraído a tuberculose, deverão os serviços a que pertence solicitar do Instituto de Assistência Nacional aos Tuberculosos o exame do pessoal que tenha estado em contacto directo com aquele.
 
 ### CAPÍTULO VI — Dos direitos
 
-###### Art. 13.º A A. F. C. T. abrange:
+Art. 13.º A A. F. C. T. abrange:
 
 a) Para o beneficiário: a dispensa total ou parcial do serviço, quando exigida pelo tratamento ou pelo perigo de contágio;
 
@@ -285,7 +350,7 @@ b) Para o beneficiário e seus familiares:
 
 § único. O tratamento em regime ambulatório ou no domicílio será efectuado desde que, assegurada uma eficiente acção terapêutica, não haja contra-indicação clínica de natureza profiláctica e o permitam as condições económicas do doente e a salubridade da habitação.
 
-###### Art. 14.º Mediante autorização do director do Instituto de Assistência Nacional aos Tuberculosos, podem os assistidos ser tratados por médico particular da sua livre escolha, correndo por sua conta todas as despesas com a assistência feita nestas condições.
+Art. 14.º Mediante autorização do director do Instituto de Assistência Nacional aos Tuberculosos, podem os assistidos ser tratados por médico particular da sua livre escolha, correndo por sua conta todas as despesas com a assistência feita nestas condições.
 
 § 1.º Os assistidos ao abrigo desta disposição comprometem-se a comparecer nas juntas médicas da A. F. C. T. sempre que convocados, fazendo-se acompanhar dos relatórios clínicos passados pelos respectivos médicos assistentes.
 
@@ -297,7 +362,7 @@ b) Para o beneficiário e seus familiares:
 
 3.º O assistido falte, por motivos não justificados, à junta médica da A. F. C. T.
 
-###### Art. 15.º Os servidores, quando assistidos, mantêm o direito à remuneração ou pensão de aposentação.
+Art. 15.º Os servidores, quando assistidos, mantêm o direito à remuneração ou pensão de aposentação.
 
 § 1.º As remunerações ou pensões de aposentação dos assistidos ser-lhes-ão pagas directamente pelos respectivos serviços ou pela Caixa Geral de Aposentações ou outra equiparada.
 
@@ -307,7 +372,7 @@ a) Os dias em que o servidor assistido se ausentar do sanatório ou estabelecime
 
 b) Os dias em que o servidor assistido não compareça na junta médica, servido dispensarial ou outro onde tenha sido mandado apresentar por escrito, sem motivo justificado.
 
-###### Art. 16.º Os funcionários assistidos mantêm os direitos inerentes ao serviço do cargo, salvo as seguintes restrições:
+Art. 16.º Os funcionários assistidos mantêm os direitos inerentes ao serviço do cargo, salvo as seguintes restrições:
 
 a) O tempo que estiverem totalmente dispensados do serviço não é contado para o efeito de antiguidade nas respectivas listas, nem como de «serviço efectivo» quando a lei o exija para efeitos de promoção ou de concurso;
 
@@ -315,11 +380,11 @@ b) Só terão direito à promoção que resultar de facto anterior ao seu afasta
 
 c) A prestação de provas em concurso dependerá de autorização do director do Instituto de Assistência Nacional aos Tuberculosos.
 
-###### Art. 17.º Quando a necessidade do serviço o imponha, poderão os serventuários ao abrigo da assistência ser substituídos interinamente no desempenho das suas funções por indivíduos que possuam as condições legais exigidas para o provimento dos respectivos lugares, se a remuneração puder ser processada pelos saldos de verbas orçamentais inscritas para pessoal do respectivo serviço.
+Art. 17.º Quando a necessidade do serviço o imponha, poderão os serventuários ao abrigo da assistência ser substituídos interinamente no desempenho das suas funções por indivíduos que possuam as condições legais exigidas para o provimento dos respectivos lugares, se a remuneração puder ser processada pelos saldos de verbas orçamentais inscritas para pessoal do respectivo serviço.
 
-###### Art. 18.º Os assistidos só poderão frequentar estabelecimentos de ensino, oficiais ou particulares, mediante autorização do director do Instituto de Assistência Nacional aos Tuberculosos.
+Art. 18.º Os assistidos só poderão frequentar estabelecimentos de ensino, oficiais ou particulares, mediante autorização do director do Instituto de Assistência Nacional aos Tuberculosos.
 
-###### Art. 19.º A assistência prevista neste diploma terminará quando o assistido:
+Art. 19.º A assistência prevista neste diploma terminará quando o assistido:
 
 a) For julgado clinicamente curado;
 
@@ -335,7 +400,7 @@ b) Haja fruído os benefícios durante quatro anos, seguidos ou interpolados.
 
 4.º A omissão do facto de ter direito próprio à assistência na tuberculose por outras entidades ou instituições.
 
-###### Art. 20.º Quando do estado do doente seja lícito esperar a cura em curto prazo, poderá o tempo indicado na alínea b) do artigo 19.º ser prorrogado até um ano, por períodos de seis meses, mediante despacho do director do Instituto de Assistência Nacional aos Tuberculosos, sob parecer favorável da junta médica da A. F. C. T.
+Art. 20.º Quando do estado do doente seja lícito esperar a cura em curto prazo, poderá o tempo indicado na alínea b) do artigo 19.º ser prorrogado até um ano, por períodos de seis meses, mediante despacho do director do Instituto de Assistência Nacional aos Tuberculosos, sob parecer favorável da junta médica da A. F. C. T.
 
 § 1.º O disposto no corpo deste artigo será aplicável aos beneficiários e seus familiares que, tendo sido dados como clìnicamente curados, adoeçam novamente, findo o prazo de quatro anos, previsto na alínea b) do artigo 19.º
 
@@ -347,31 +412,31 @@ b) Não tenham praticado, durante todo o tempo de assistência, acções ou omis
 
 c) Hajam cumprido correctamente as prescrições clínicas quando assistidos em regime sanatorial, ambulatório ou domiciliário, ou ainda, quando ao serviço, mas em tratamento, ao abrigo do disposto no § único do artigo 22.º
 
-###### Art. 21.º O servidor que, esgotado o tempo de assistência, não for julgado pela junta médica da A. F. C. T. em condições de permanecer ou retomar o serviço será aposentado com a pensão correspondente aos anos de serviço prestado.
+Art. 21.º O servidor que, esgotado o tempo de assistência, não for julgado pela junta médica da A. F. C. T. em condições de permanecer ou retomar o serviço será aposentado com a pensão correspondente aos anos de serviço prestado.
 
 § 1.º Se o servidor não tiver o mínimo de tempo de serviço legalmentte exigido para a aposentação, abrirá vaga, desde logo, nos serviços a que pertence e ser-lhe-á concedido, como subsídio de tratamento, o equivalente à pensão mínima de aposentação, até haver alcançado o direito a recebê-la.
 
 § 2.º O doente que, em regime de subsídio, se curar das suas lesões antes de passar à situação de aposentado deverá ser readmitido no seu lugar ou noutro equivalente, com prioridade absoluta sobre outros candidatos, logo que ocorra a primeira vaga no respectivo serviço.
 
-###### Art. 22.º As altas dos assistidos são determinadas pelo director do Instituto de Assistência Nacional aos Tuberculosos.
+Art. 22.º As altas dos assistidos são determinadas pelo director do Instituto de Assistência Nacional aos Tuberculosos.
 
 § único. Mediante proposta da junta médica da A. F. C. T., e durante o período determinado pela mesma, será concedido aos assistidos que tiverem alta em condições de retomar o serviço o necessário tratamento, cuja duração poderá prolongar-se para além do tempo de assistência previsto na alínea b) do artigo 19.º
 
-###### Art. 23.º Os servidores clinicamente curados poderão, gozar um período de convalescença até três meses, para consolidação da cura e gradual adaptação à vida profissional; quando regressarem ao serviço, ser-lhes-ão atribuídas funções compatíveis, quanto possível, com o seu estado de saúde, devendo sujeitar-se para este efeito a exames periódicos de revisão durante o tempo que for julgado conveniente.
+Art. 23.º Os servidores clinicamente curados poderão, gozar um período de convalescença até três meses, para consolidação da cura e gradual adaptação à vida profissional; quando regressarem ao serviço, ser-lhes-ão atribuídas funções compatíveis, quanto possível, com o seu estado de saúde, devendo sujeitar-se para este efeito a exames periódicos de revisão durante o tempo que for julgado conveniente.
 
 § único. Os servidores dos estabelecimentos de educação e assistência serão colocados, de preferência, nos serviços externos ou naqueles em que for menor o perigo de contágio.
 
 ### CAPÍTULO VII — Dos deveres
 
-###### Art. 24.º É obrigatória a apresentação dos beneficiários e respectivos familiares aos exames periódicos para rastreio radiológico que o Instituto de Assistência Nacional aos Tuberculosos levar a efeito, para o que os servidores serão convocados através dos respectivos serviços.
+Art. 24.º É obrigatória a apresentação dos beneficiários e respectivos familiares aos exames periódicos para rastreio radiológico que o Instituto de Assistência Nacional aos Tuberculosos levar a efeito, para o que os servidores serão convocados através dos respectivos serviços.
 
 § único. Os familiares dos beneficiários ficam ainda sujeitos a rasteio tuberculínico, com vista à vacinação pelo B. C. G.
 
-###### Art. 25.º O servidor assistido é, nessa qualidade, disciplinarmente responsável pelas acções ou omissões prejudiciais ao tratamento médico que lhe estiver prescrito ou contrárias às disposições regulamentares do estabelecimento onde estiver assistido.
+Art. 25.º O servidor assistido é, nessa qualidade, disciplinarmente responsável pelas acções ou omissões prejudiciais ao tratamento médico que lhe estiver prescrito ou contrárias às disposições regulamentares do estabelecimento onde estiver assistido.
 
 § único. As infracções disciplinares que transcendam o restrito domínio das indicadas neste artigo serão punidas nos termos da lei geral, sem prejuízo das sanções que lhe couberem por força do regulamento interno dos sanatórios ou estabelecimentos hospitalares onde o assistido, eventualmente, se encontre internado.
 
-###### Art. 26.º Às infracções disciplinares a que alude o corpo do artigo anterior são aplicáveis, exclusivamente, as seguintes penas:
+Art. 26.º Às infracções disciplinares a que alude o corpo do artigo anterior são aplicáveis, exclusivamente, as seguintes penas:
 
 1.º Advertência;
 
@@ -389,13 +454,13 @@ c) Hajam cumprido correctamente as prescrições clínicas quando assistidos em 
 
 § único. Na hipótese de o assistido se encontrar na situação de aposentado, a pena dos n.os 6.º e 7.º abrangerá a suspensão do pagamento da pensão respectiva.
 
-###### Art. 27.º A aplicação das penas dos n.os 1.º a 3.º do artigo anterior é da competência do director do Instituto de Assistência Nacional aos Tuberculosos e, do Ministro da Saúde e Assistência, a dos n.os 4.º a 7.º, sob proposta daquele, devidamente fundamentada.
+Art. 27.º A aplicação das penas dos n.os 1.º a 3.º do artigo anterior é da competência do director do Instituto de Assistência Nacional aos Tuberculosos e, do Ministro da Saúde e Assistência, a dos n.os 4.º a 7.º, sob proposta daquele, devidamente fundamentada.
 
 § único. O Ministro pode, porém, delegar a aplicação das penas dos n.os 4.º a 6.º no director do Instituto de Assistência Nacional aos Tuberculosos.
 
-###### Art. 28.º A aplicação das penas dos n.os 4.º a 7.º do artigo 26.º depende de processo disciplinar e será sempre comunicada aos serviços a que o assistido pertencer.
+Art. 28.º A aplicação das penas dos n.os 4.º a 7.º do artigo 26.º depende de processo disciplinar e será sempre comunicada aos serviços a que o assistido pertencer.
 
-###### Art. 29.º Na graduação das penas previstas no artigo 26.º observar-se-á o seguinte:
+Art. 29.º Na graduação das penas previstas no artigo 26.º observar-se-á o seguinte:
 
 1.º As penas dos n.os 1.º a 3.º serão aplicadas por faltas de pequena gravidade, prejudiciais ao tratamento da doença, da disciplina sanatorial ou dispensarial;
 
@@ -407,19 +472,19 @@ c) Hajam cumprido correctamente as prescrições clínicas quando assistidos em 
 
 Das juntas médicas da A. F. C. T.
 
-###### Art. 30.º Para os fins previstos no presente diploma, serão criadas juntas médicas nas zonas norte, centro e sul.
+Art. 30.º Para os fins previstos no presente diploma, serão criadas juntas médicas nas zonas norte, centro e sul.
 
-###### Art. 31.º As juntas serão constituídas por três médicos com a especialidade de pneumotisiologia, dos quadros do Instituto de Assistência Nacional aos Tuberculosos, um dos quais servirá de presidente, nomeados pelo Ministro da Saúde e Assistência, sob proposta daquele Instituto.
+Art. 31.º As juntas serão constituídas por três médicos com a especialidade de pneumotisiologia, dos quadros do Instituto de Assistência Nacional aos Tuberculosos, um dos quais servirá de presidente, nomeados pelo Ministro da Saúde e Assistência, sob proposta daquele Instituto.
 
 § 1.º Para cada zona serão nomeados três médicos suplentes com as habilitações e do modo previsto no corpo do artigo, que substituirão os clínicos respectivos nos seus impedimentos e faltas.
 
 § 2.º Em casos clínicos fora do âmbito da pneumotisiologia poderá o director do Instituto de Assistência Nacional aos Tuberculosos autorizar, sob proposta do presidente da junta, que à mesma seja adstrito, como consultor, sem direito a voto, um clínico da respectiva especialidade.
 
-###### Art. 32.º Pela assistência à reunião das juntas médicas da A. F. C. T. os respectivos membros, bem como os especialistas previstos no § 2.º do artigo anterior, têm direito a senhas de presença de valor a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
+Art. 32.º Pela assistência à reunião das juntas médicas da A. F. C. T. os respectivos membros, bem como os especialistas previstos no § 2.º do artigo anterior, têm direito a senhas de presença de valor a fixar por despacho dos Ministros das Finanças e da Saúde e Assistência.
 
 ### CAPÍTULO IX — Da administração
 
-###### Art. 33.º Ao Instituto de Assistência Nacional aos Tuberculosos, no qual a A. F. C. T. está integrada, compete ainda:
+Art. 33.º Ao Instituto de Assistência Nacional aos Tuberculosos, no qual a A. F. C. T. está integrada, compete ainda:
 
 a) Prestar aos respectivos beneficiários e seus familiares a assistência a que tiverem direito nos termos deste diploma, por intermédio dos seus próprios serviços e estabelecimentos ou utilizando, mediante a celebração de acordos homologados pelo Ministro da Saúde e Assistência, os de outras entidades oficiais ou particulares;
 
@@ -429,9 +494,9 @@ c) Fiscalizar o funcionamento dos estabelecimentos e serviços em que a assistê
 
 d) Tomar as providências necessárias para assegurar a observância dos acordos celebrados.
 
-###### Art. 34.º As quotizações mensais descontadas nas remunerações ou pensões dos beneficiários, bem como outras contribuições eventuais, serão entregues nos cofres do Estado para serem escrituradas em conta de depósito em operações de tesouraria, só passando para receita efectiva do Estado, sob a rubrica «Assistência na tuberculose aos funcionários civis e seus familiares», à medida que o levantamento de fundos para pagamento das despesas se realizar e por correspondente valor.
+Art. 34.º As quotizações mensais descontadas nas remunerações ou pensões dos beneficiários, bem como outras contribuições eventuais, serão entregues nos cofres do Estado para serem escrituradas em conta de depósito em operações de tesouraria, só passando para receita efectiva do Estado, sob a rubrica «Assistência na tuberculose aos funcionários civis e seus familiares», à medida que o levantamento de fundos para pagamento das despesas se realizar e por correspondente valor.
 
-###### Art. 35.º O subsídio inscrito no orçamento do Ministério da Saúde e Assistência sob a rubrica «Assistência na tuberculose aos funcionários civis e seus familiares» será, dentro do regime de duodécimos e mediante requisição de fundos, entregue ao Instituto de Assistência Nacional aos Tuberculosos, que procederá à liquidação dos seguintes encargos:
+Art. 35.º O subsídio inscrito no orçamento do Ministério da Saúde e Assistência sob a rubrica «Assistência na tuberculose aos funcionários civis e seus familiares» será, dentro do regime de duodécimos e mediante requisição de fundos, entregue ao Instituto de Assistência Nacional aos Tuberculosos, que procederá à liquidação dos seguintes encargos:
 
 a) Despesas com o pessoal contratado e outros encargos de administração, incluindo despesas com material e de expediente, que, em conformidade com discriminação aprovada pelo Ministro da Saúde e Assistência e com prévio acordo do Ministro das Finanças, estiverem atribuídas à assistência prevista neste diploma;
 
@@ -443,12 +508,12 @@ d) Despesas correspondentes aos subsídios de tratamento;
 
 e) Outras despesas relacionadas com a mesma assistência e que constam do plano prèviamente aprovado pelos Ministros da Saúde e Assistência e das Finanças.
 
-###### Art. 36.º O Instituto de Assistência Nacional aos Tuberculosos promoverá o apuramento anual do saldo que se verificar entre o total das importâncias recebidas e pagas, nos termos do artigo anterior, o qual transitará para o ano seguinte, consignado a iguais encargos.
+Art. 36.º O Instituto de Assistência Nacional aos Tuberculosos promoverá o apuramento anual do saldo que se verificar entre o total das importâncias recebidas e pagas, nos termos do artigo anterior, o qual transitará para o ano seguinte, consignado a iguais encargos.
 
 ### CAPÍTULO X — Disposição final
 
-###### Art. 37.º São revogados os Decretos-Leis n.os 40365, de 29 de Outubro de 1955, 42953, de 27 de Abril de 1960, e 45462, de 26 de Dezembro de 1963.
+Art. 37.º São revogados os Decretos-Leis n.os 40365, de 29 de Outubro de 1955, 42953, de 27 de Abril de 1960, e 45462, de 26 de Dezembro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

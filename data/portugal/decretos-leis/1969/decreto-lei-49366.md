@@ -48,36 +48,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49366-1969-215773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-11-08T00:00:00Z'
+  retrieved_at: '2026-10-22T22:11:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c70887339cc8eabf513cf2abbe13ae2b9e6bfe69f3f8a0e045bbc2b3b0baa932
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b1824cbebe4e2bb5ab7d8719377ad8dc88400f1ed1330775dc735e08e1dd3c3d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Gratificação
+- Marinha
+- Militar
+- Subsídio de Embarque
+relationships:
+- type: cites
+  target: pt:dre:534614:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653716:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:11:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +106,7 @@ Considerando, finalmente, que as gratificações do serviço de imersão actualm
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º As gratificações do serviço de imersão a que se refere o [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939, alterado pelo Decreto n.º 45856, de 6 de Agosto de 1964, são fixadas nos seguintes quantitativos:
+Artigo 1.º As gratificações do serviço de imersão a que se refere o [Decreto-Lei n.º 30249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30249-1939-534614), de 30 de Dezembro de 1939, alterado pelo Decreto n.º 45856, de 6 de Agosto de 1964, são fixadas nos seguintes quantitativos:
 
 Oficiais ... 1800$00
 
@@ -102,7 +114,7 @@ Sargentos ... 1500$00
 
 Praças ... 1000$00
 
-###### Art. 2.º - 1. O subsídio de embarque abonado actualmente ao pessoal da Armada será acrescido de um suplemento para o pessoal especializado em submersíveis quando embarcados nos submarinos e a ele tenham direito, fixado nos seguintes quantitativos:
+Art. 2.º - 1. O subsídio de embarque abonado actualmente ao pessoal da Armada será acrescido de um suplemento para o pessoal especializado em submersíveis quando embarcados nos submarinos e a ele tenham direito, fixado nos seguintes quantitativos:
 
 Oficiais:
 
@@ -116,12 +128,12 @@ Praças ... 30$00
 
 2. Estes quantitativos constituirão a col. 4.ª da tabela II anexa ao [Decreto n.º 41045](https://diariodarepublica.pt/dr/detalhe/decreto/41045-1957-653716), de 29 de Março de 1957, e não são acumuláveis com as restantes colunas da mesma tabela.
 
-###### Art. 3.º Este decreto-lei entra em vigor em 1 de Janeiro de 1970.
+Art. 3.º Este decreto-lei entra em vigor em 1 de Janeiro de 1970.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 29 de Outubro de 1969.**
+Promulgado em 29 de Outubro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

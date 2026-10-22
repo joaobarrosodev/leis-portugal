@@ -47,36 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46976-1966-487334
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-27T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4c45b67610f02d1d9cd2c8a69446740df862f2b3735b9633d51d4cd0d3708f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6db0b18d3525576c0ed935d49dd334a209ef8dcfd2c090746762caa96f56779a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Acção Financeira
+- Convenção
+- Portugal
+- Sociedade Financeira Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: RECTIFICADO PELA DECLARAÇÃO DA PRESIDÊNCIA DO CONSELHO DE 8 DE JULHO DE 1966, PUBLICADO NO DG.IS, 160, DE 660712.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1966-07-12'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "APROVADAS PARA RATIFICAÇÃO AS EMENDAS A ALÍNEA C), II) DA SECÇÃO 2 DO ARTIGO II E A ALÍNEA A) DO ARTIGO VII DO ACORDO\
+    \ RELATIVO A SOCIEDADE FINANCEIRA INTERNACIONAL PELA RESOLUÇÃO 17/94, DE 10 DE FEVEREIRO, PUBLICADA NO DR.IS-A, 77, DE\
+    \ 940402.\0, 77, DE 940402."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1994-04-02'
+- type: corrected_by
+  target: pt:dre:475116:por
+  label: Retificado pelo(a) Declaração - Diário do Governo n.º 160/1966, Série I de 1966-07-12
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1966-475116
+  date: '1966-07-12'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:54Z'
   warnings: []
   errors: []
 ---
@@ -103,23 +124,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado, para adesão, o Acordo relativo à Sociedade Financeira Internacional, cujo texto em inglês e respectiva tradução são os que se publicam em seguida e ficam fazendo parte integrante deste decreto-lei.
+Artigo 1.º É aprovado, para adesão, o Acordo relativo à Sociedade Financeira Internacional, cujo texto em inglês e respectiva tradução são os que se publicam em seguida e ficam fazendo parte integrante deste decreto-lei.
 
-###### Art. 2.º É o Governo autorizado a participar na Sociedade Financeira Internacional com uma quota no valor de $443000 dos Estados Unidos da América.
+Art. 2.º É o Governo autorizado a participar na Sociedade Financeira Internacional com uma quota no valor de $443000 dos Estados Unidos da América.
 
-###### Art. 3.º Compete ao Ministro das Finanças assegurar, por parte de Portugal, as relações com a Sociedade Financeira Internacional, em conformidade com o disposto na secção 10 do artigo IV do Acordo que criou a mesma Sociedade.
+Art. 3.º Compete ao Ministro das Finanças assegurar, por parte de Portugal, as relações com a Sociedade Financeira Internacional, em conformidade com o disposto na secção 10 do artigo IV do Acordo que criou a mesma Sociedade.
 
-###### Art. 4.º O Banco de Portugal será, em harmonia com a secção 9 do artigo IV do Acordo relativo à Sociedade Financeira Internacional, o depositário em Portugal dos haveres em escudos ou outros bens daquela instituição.
+Art. 4.º O Banco de Portugal será, em harmonia com a secção 9 do artigo IV do Acordo relativo à Sociedade Financeira Internacional, o depositário em Portugal dos haveres em escudos ou outros bens daquela instituição.
 
-###### Art. 5.º O governador e o governador suplente por parte do Estado no Banco Internacional de Reconstrução e Desenvolvimento desempenharão simultâneamente, de conformidade com a disposto na secção 2 do artigo IV do referido Acordo, as funções de governador e governador suplente da Sociedade Financeira Internacional:
+Art. 5.º O governador e o governador suplente por parte do Estado no Banco Internacional de Reconstrução e Desenvolvimento desempenharão simultâneamente, de conformidade com a disposto na secção 2 do artigo IV do referido Acordo, as funções de governador e governador suplente da Sociedade Financeira Internacional:
 
-###### Art. 6.º Em conformidade com o disposto no Acordo sobre a Sociedade Financeira Internacional, esta instituição terá, em todo o território da República Portuguesa, personalidade e capacidade jurídica e beneficiará, quando aos seus bens, arquivos e comunicações oficiais, das imunidades, isenções e privilégios previstos no Acordo que a criou.
+Art. 6.º Em conformidade com o disposto no Acordo sobre a Sociedade Financeira Internacional, esta instituição terá, em todo o território da República Portuguesa, personalidade e capacidade jurídica e beneficiará, quando aos seus bens, arquivos e comunicações oficiais, das imunidades, isenções e privilégios previstos no Acordo que a criou.
 
-###### Art. 7.º Os governadores, directores executivos, agentes e empregados da Sociedade Financeira Internacional gozarão em todo o território da República Portuguesa das imunidades, isenções e privilégios especificados no mesmo Acordo.
+Art. 7.º Os governadores, directores executivos, agentes e empregados da Sociedade Financeira Internacional gozarão em todo o território da República Portuguesa das imunidades, isenções e privilégios especificados no mesmo Acordo.
 
-###### Art. 8.º O presente decreto-lei entra imediatamente em vigor e é aplicável a todo o território da Republica Portuguesa.
+Art. 8.º O presente decreto-lei entra imediatamente em vigor e é aplicável a todo o território da Republica Portuguesa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da Republica, 27 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -635,19 +656,17 @@ SCHEDULE A
 
 Subscriptions to Capital Stock of the International Finance Corporation
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf))](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf)
 
 ACORDO RELATIVO A SOCIEDADE FINANCEIRA INTERNACIONAL
 
 Os Governos em cujo nome o presente Acordo é assinado acordam no seguinte:
 
-ARTIGO PRELIMINAR
+###### ARTIGO PRELIMINAR
 
 É instituída a Sociedade Financeira Internacional (adiante designada por «Sociedade»), que funcionará de acordo com as disposições seguintes:
 
-ARTIGO I
-
-Objectivos
+###### ARTIGO I — Objectivos
 
 A Sociedade tem por objectivo promover o desenvolvimento económico estimulando a expansão de empresas produtivas do sector privado nos países membros, especialmente nas regiões menos desenvolvidas, ampliando, deste modo, as actividades do Banco Internacional de Reconstrução e Desenvolvimento (adiante designado por «Banco»). Na prossecução deste objectivo, a Sociedade:
 
@@ -659,9 +678,7 @@ iii) Procurará estimular e ajudar a criar as condições que orientam o fluxo d
 
 Em todas as suas decisões, a Sociedade será orientada pelas disposições do presente artigo.
 
-ARTIGO II
-
-Membros e capital
+###### ARTIGO II — Membros e capital
 
 #### SECÇÃO 1 — Membros
 
@@ -705,9 +722,7 @@ Nenhum membro será responsável por obrigações da Sociedade pelo simples fact
 
 As acções não serão empenhadas nem oneradas por qualquer forma e só poderão ser transferidas para a Sociedade.
 
-ARTIGO III
-
-Operações
+###### ARTIGO III — Operações
 
 #### SECÇÃO 1 — Operações de financiamento
 
@@ -769,9 +784,7 @@ Será indicado visìvelmente na face de todos os títulos emitidos ou garantidos
 
 A Sociedade e os seus agentes não deverão interferir nos assuntos políticos de qualquer membro nem se deixarão influenciar, nas suas decisões, pelas características políticas do membro ou dos membros em questão. As suas decisões só poderão ser enformadas por considerações de ordem económica, as quais deverão ser objecto de exame imparcial para que possam atingir-se os objectivos enunciados neste Acordo.
 
-ARTIGO IV
-
-Organização e administração
+###### ARTIGO IV — Organização e administração
 
 #### SECÇÃO 1 — Estrutura da Sociedade
 
@@ -883,9 +896,7 @@ b) Os dividendos serão distribuídos pro rata em proporção ao capital social 
 
 c) Os dividendos serão pagos pela forma e na moeda ou moedas que a Sociedade determinar.
 
-ARTIGO V
-
-Retirada; suspensão de membros; suspensão de operações
+###### ARTIGO V — Retirada; suspensão de membros; suspensão de operações
 
 #### SECÇÃO 1 — Retirada dos membros
 
@@ -927,9 +938,7 @@ c) Com a reserva do que precede, a Saciedade distribuirá os seus valores pelos 
 
 d) Os membros que receberem valores distribuídos pela Sociedade, em conformidade com esta secção, terão, em relação a esses valores, os mesmos direitos de que a Sociedade gozava antes de se fazer a distribuição.
 
-ARTIGO VI
-
-Estatuto, imunidades e privilégios
+###### ARTIGO VI — Estatuto, imunidades e privilégios
 
 #### SECÇÃO 1 — Objectivos do presente artigo
 
@@ -1001,9 +1010,7 @@ Cada membro deverá adoptar, nos seus próprios territórios, todas as medidas n
 
 A Sociedade pode renunciar voluntàriamente a qualquer dos privilégios e imunidades conferidos ao abrigo deste artigo até ao limite e nas condições que determinar.
 
-ARTIGO VII
-
-Emendas
+###### ARTIGO VII — Emendas
 
 a) O presente Acordo pode ser alterado por decisão de três quintos dos governadores, dispondo de quatro quintos do total dos votos computáveis.
 
@@ -1017,9 +1024,7 @@ iii) A limitação de responsabilidade prevista no artigo II, secção, 4.
 
 c) Qualquer proposta de alteração do presente Acordo, quer seja feita por um membro, por um governador ou pelo conselho de directores, será comunicada ao presidente do conselho de governadores, que a apresentará ao conselho de governadores. Se a emenda for devidamente aprovada, a Sociedade confirmará a mesma por comunicação formal enviada a todos os membros. As emendas entrarão em vigor em relação a todos os membros três meses depois da data da comunicação formal, excepto se o conselho de governadores fixar um prazo mais curto.
 
-ARTIGO VIII
-
-Interpretação e arbitragem
+###### ARTIGO VIII — Interpretação e arbitragem
 
 a) Qualquer questão de interpretação das disposições do presente Acordo que surgir entre qualquer membro e a Sociedade ou entre quaisquer membros da Sociedade será submetida à decisão do conselho de directores. Se a questão afectar especialmente um membro da Sociedade que não possua o direito de nomear um director executivo do Banco, aquele terá o direito de fazer-se representar de harmonia com o artigo IV, secção 4, g).
 
@@ -1027,9 +1032,7 @@ b) Em qualquer caso em que o conselho de directores tiver tomado uma decisão ao
 
 c) Sempre que surja desacordo entre a Sociedade e um país que deixou de ser membro ou entre a Sociedade e qualquer membro durante a suspensão permanente das operações da Sociedade, esse desacordo será submetido à arbitragem de um tribunal constituído por três árbitros, um nomeado pela Sociedade, outro pelo país em questão e um árbitro de desempate nomeado, salvo acordo em contrário entre as partes, pelo presidente do Tribunal de Justiça Internacional ou qualquer outra autoridade indicada por regulamento adoptado pela Sociedade. O árbitro de desempate terá plenos poderes para resolver todas as questões de processo em qualquer caso em que as partes estiverem em desacordo a tal respeito.
 
-ARTIGO IX
-
-Disposições finais
+###### ARTIGO IX — Disposições finais
 
 #### SECÇÃO 1 — Entrada em vigor
 
@@ -1057,4 +1060,4 @@ Feito em Washington, num único exemplar, que ficará depositado nos arquivos do
 
 ## ANEXO A — Subscrição do capital social da Sociedade Financeira Internacional
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf))](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/09900/06090625.pdf)

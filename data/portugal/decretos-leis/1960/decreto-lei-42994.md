@@ -47,36 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1960-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78dbec4c599500a2dda8fddac46c7d0b6b1102ff3401beb5f82a507ceada6712
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 850d8a25bcd6b66a3ae116329d308ae2163c00c94ecf3bae5b89215f7527689e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Direcção Geral do Ensino Primário
+- Ensino Oficial
+- Ensino Primário
+- Pessoal Docente
+relationships:
+- type: cites
+  target: pt:dre:249177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:293489:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:355757:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:418637:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:29Z'
   warnings: []
   errors: []
 ---
@@ -105,25 +125,25 @@ Nestes termos, ouvida a Junta Nacional da Educação:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O ensino primário é constituído por quatro classes, formando um só ciclo, e termina com a aprovação no exame da 4.ª classe.
+Artigo 1.º O ensino primário é constituído por quatro classes, formando um só ciclo, e termina com a aprovação no exame da 4.ª classe.
 
-###### Art. 2.º A frequência do ensino primário é obrigatória, até aprovação no exame final, para os menores de ambos os sexos que tenham idade compreendida entre os 7 e os 12 anos, com referência a 31 de Dezembro do ano lectivo a que a matrícula respeita.
+Art. 2.º A frequência do ensino primário é obrigatória, até aprovação no exame final, para os menores de ambos os sexos que tenham idade compreendida entre os 7 e os 12 anos, com referência a 31 de Dezembro do ano lectivo a que a matrícula respeita.
 
 § 1.º Desde que não haja perturbação para o ensino poderá ser autorizada a matrícula na 1.ª classe dos menores que completem os 7 anos entre 1 de Janeiro e 7 de Outubro do ano seguinte.
 
 § 2.º Desde que, igualmente, não haja prejuízo para o ensino, poderão matricular-se no ensino primário oficial os menores que, excedendo o limite máximo de idade fixado no corpo deste artigo, não tenham completado 14 anos até ao acto da matrícula. Esta faculdade não poderá ser utilizada em estabelecimentos de ensino que funcionem em regime de coeducação de sexos.
 
-###### Art. 3.º O aproveitamento escolar nas três primeiras classes é verificado, no fim de cada ano lectivo, por meio de provas de passagem de classe orientadas segundo normas a estabelecer pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
+Art. 3.º O aproveitamento escolar nas três primeiras classes é verificado, no fim de cada ano lectivo, por meio de provas de passagem de classe orientadas segundo normas a estabelecer pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.
 
 § único. Poderá ser concedida, por uma só vez, passagem de classe em qualquer altura do ano aos alunos que não tenham sido matriculados na 1.ª classe ao abrigo do disposto no § 1.º do artigo 2.º deste decreto e que se reconheça terem atingido desenvolvimento e conhecimentos do programa que justifiquem essa concessão.
 
-###### Art. 4.º Os indivíduos a que se refere o disposto no artigo 20.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956, e os alunos que frequentam as classes especiais prestarão provas de exame da 3.ª classe, a regulamentar pelo Ministro da Educação Nacional, com base no parecer da Junta Nacional da Educação.
+Art. 4.º Os indivíduos a que se refere o disposto no artigo 20.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956, e os alunos que frequentam as classes especiais prestarão provas de exame da 3.ª classe, a regulamentar pelo Ministro da Educação Nacional, com base no parecer da Junta Nacional da Educação.
 
-###### Art. 5.º A partir do próximo ano lectivo adoptar-se-ão progressivamente em cada classe os programas que, assinados pelo Ministro da Educação Nacional, vão anexos a este decreto.
+Art. 5.º A partir do próximo ano lectivo adoptar-se-ão progressivamente em cada classe os programas que, assinados pelo Ministro da Educação Nacional, vão anexos a este decreto.
 
 § único. No ensino do Português, da Aritmética, da Geometria e das Ciências Geográfico-Naturais a terminologia específica a empregar deve ser apenas a dos programas. Os livros e os cadernos necessários ao ensino serão indicados por portaria do Ministro da Educação Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
@@ -197,7 +217,7 @@ Desenvolvimento do vocabulário pelo uso de sinónimos e antónimos de vocábulo
 
 Determinação de famílias de palavras. Exercícios frequentes de exposição oral.
 
-##### Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, o nome predicativo do sujeito e o complemento directo. Distinção prática dos tempos dos verbos.
+Divisão dos períodos em proposições. Ideia de oração principal. Análise da proposição: o sujeito, o predicado, o nome predicativo do sujeito e o complemento directo. Distinção prática dos tempos dos verbos.
 
 Noções elementares de morfologia: substantivo, adjectivo, artigo, pronome, numeral, verbo, advérbio; substantivo próprio, comum e colectivo. Verificação prática dos graus dos adjectivos. O singular e o plural, o masculino e o feminino dos substantivos e dos adjectivos. Numerais: cardinais e ordinais.
 
@@ -417,7 +437,7 @@ Círculo e circunferência. O raio.
 
 Ângulos formados por dois raios.
 
-##### Divisão do círculo e da circunferência em graus. Medição de ângulos com o transferidor.
+Divisão do círculo e da circunferência em graus. Medição de ângulos com o transferidor.
 
 Noções de horizontal e vertical. Uso do nível e do fio de prumo.
 
@@ -919,7 +939,7 @@ Portugal:
 
 Territórios e populações de que se compõe. Comparação das grandezas desses territórios; comunicação entre eles por terra, mar e ar.
 
-##### Divisão dos territórios continental, insular e ultramarino em distritos e províncias; suas capitais. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Sava, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água; centrais hidroeléctricas; comunicações).
+Divisão dos territórios continental, insular e ultramarino em distritos e províncias; suas capitais. Razões especiais da importância de algumas cidades (função administrativa; actividade cultural ou económica; carácter turístico). Nomes e localização dos principais rios portugueses (Minho, Douro, Mondego, Tejo, Guadiana; Cacheu, Geba; Zaire, Cuanza, Cunene; Rovuma, Zambeze, Sava, Limpopo, Incomati; Mandovi); sua importância na delimitação de fronteiras e na vida económica nacional (agricultura, pesca, indústrias baseadas na força motriz da água; centrais hidroeléctricas; comunicações).
 
 Os acidentes orográficos mais importantes e sua localização (serras do Gerês, Barroso, Marão, Montemuro, Caramulo, Estrela; Pico; Pico do Fogo; Pico de S. Tomé, Canganza, Tala-Mugongo e Chela; Namuli, Gorongosa; Gates; Ramelau; planície alentejana; planaltos de Malanje, Lunda, Benguela, Bié e Huíla; planalto de Manica). Ideia sumária da relação entre a orografia e a riqueza agro-pecuária e florestal.
 

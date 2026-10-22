@@ -47,36 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-governo/9-1985-152373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:29:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00f5c1f82df8692af417b10be50f4373aa76818f41c2874e44f5838ed4e0d125
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 55caff3fe0b73f963c01f2bd0b1d1126763ae78ecd623388ac102abc4ca8642c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:29:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Avaliação de Conhecimentos
+- Ensino Profissional
+- Ensino Superior
+- Equivalência de Habilitações Literárias
+- Farmácia
+- Licenciatura
+- Plano de Estudos
+relationships:
+- type: cites
+  target: pt:dre:266124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:328026:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:596566:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:29:37Z'
   warnings: []
   errors: []
 ---
@@ -99,38 +122,38 @@ Ponderado o proposto:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-###### Artigo 1.º É facultada até ao dia 31 de Dezembro de 1985 e nos termos do presente diploma a conclusão dos cursos profissional de Farmácia e de licenciatura em Farmácia, regulados pelo [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro de 1932.
+Artigo 1.º É facultada até ao dia 31 de Dezembro de 1985 e nos termos do presente diploma a conclusão dos cursos profissional de Farmácia e de licenciatura em Farmácia, regulados pelo [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566), de 8 de Novembro de 1932.
 
-###### Art. 2.º Tendo em vista o objectivo fixado no artigo 1.º, cada faculdade de farmácia organizará um calendário de exames ad hoc com o número de épocas e chamadas que entenda mais adequado.
+Art. 2.º Tendo em vista o objectivo fixado no artigo 1.º, cada faculdade de farmácia organizará um calendário de exames ad hoc com o número de épocas e chamadas que entenda mais adequado.
 
-###### Art. 3.º Podem beneficiar do disposto no presente diploma:
+Art. 3.º Podem beneficiar do disposto no presente diploma:
 
 a) Para a conclusão do curso profissional de Farmácia, os estudantes a quem não faltem mais de 3 disciplinas anuais ou equivalentes semestrais do respectivo plano de estudos;
 
 b) Para a conclusão do curso de licenciatura em Farmácia, os estudantes a quem não faltem mais de 4 disciplinas anuais ou equivalentes semestrais do respectivo plano de estudos.
 
-###### Art. 4.º - 1 - Os alunos inscrever-se-ão e prestarão provas em disciplinas dos antigos planos de estudos ou em disciplinas do novo plano de estudos equivalentes àquelas, conforme for considerado, em cada caso, mais adequado pelo conselho científico de cada faculdade.
+Art. 4.º - 1 - Os alunos inscrever-se-ão e prestarão provas em disciplinas dos antigos planos de estudos ou em disciplinas do novo plano de estudos equivalentes àquelas, conforme for considerado, em cada caso, mais adequado pelo conselho científico de cada faculdade.
 
 2 - A inscrição deverá ser requerida, por cada interessado, até 30 dias após a data da publicação do presente diploma.
 
-###### Art. 5.º - 1 - A inscrição em cada disciplina está sujeita ao pagamento da propina a que se refere o n.º 4 do n.º 1.º da [Portaria n.º 320/74](https://diariodarepublica.pt/dr/detalhe/portaria/320-1974-266124), de 24 de Abril.
+Art. 5.º - 1 - A inscrição em cada disciplina está sujeita ao pagamento da propina a que se refere o n.º 4 do n.º 1.º da [Portaria n.º 320/74](https://diariodarepublica.pt/dr/detalhe/portaria/320-1974-266124), de 24 de Abril.
 
 2 - Por cada chamada ou época adicional que pretendam realizar, os requerentes pagarão igual propina.
 
-###### Art. 6.º O disposto neste diploma é aplicável aos alunos que dele possam beneficiar, quer estejam ou não inscritos no curso de licenciatura em Ciências Farmacêuticas no ano lectivo de 1984-1985.
+Art. 6.º O disposto neste diploma é aplicável aos alunos que dele possam beneficiar, quer estejam ou não inscritos no curso de licenciatura em Ciências Farmacêuticas no ano lectivo de 1984-1985.
 
-###### Art. 7.º Até à data indicada no artigo 1.º poderão igualmente ser aceites pedidos de equivalência de habilitações superiores estrangeiras ao diploma do curso profissional de Farmácia e ao diploma do curso de licenciatura em Farmácia, segundo os planos do [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566).
+Art. 7.º Até à data indicada no artigo 1.º poderão igualmente ser aceites pedidos de equivalência de habilitações superiores estrangeiras ao diploma do curso profissional de Farmácia e ao diploma do curso de licenciatura em Farmácia, segundo os planos do [Decreto n.º 21853](https://diariodarepublica.pt/dr/detalhe/decreto/21853-1932-596566).
 
-###### Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 8.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - João de Deus Rogado Salvador Pinheiro.
 
-**Assinado em 22 de Abril de 1985.**
+Assinado em 22 de Abril de 1985.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.
 
-**Referendado em 24 de Abril de 1985.**
+Referendado em 24 de Abril de 1985.
 
-**O Primeiro-Ministro, Mário Soares.**
+O Primeiro-Ministro, Mário Soares.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/07/15800/07960796.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1974-476328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T22:32:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab237902ce4f003898693debf4c0fa0a836eb5a46b5ea47ef982b821ed0ed0d9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 00491ebe8c65fefb9ecef1eca0c23c32821d5155282155c4f820c286e90e63b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:32:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Comissão
+- Diploma Legal
+- Lei Eleitoral
+- Remuneração Acessória
+- Senha de Presença
+- Subsídio
 relationships:
 - type: amended_by
   target: pt:dre:670001:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:32:28Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +103,7 @@ de 9 de Julho
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os membros da comissão para elaboração do projecto de lei eleitoral, criada por resolução do Conselho de Ministros de 24 de Maio de 1974, têm direito, desde 3 de Junho de 1974 até 15 de Novembro de 1974, ao subsídio mensal de 6500$00 e a uma senha de presença por dia de sessão da importância de 500$00.
+Artigo 1.º - 1. Os membros da comissão para elaboração do projecto de lei eleitoral, criada por resolução do Conselho de Ministros de 24 de Maio de 1974, têm direito, desde 3 de Junho de 1974 até 15 de Novembro de 1974, ao subsídio mensal de 6500$00 e a uma senha de presença por dia de sessão da importância de 500$00.
 
 2. O subsídio referido no número anterior será, nos meses de Junho e Novembro, proporcional ao período de trabalho prestado.
 
@@ -98,16 +111,16 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 4. Os membros da comissão terão direito às despesas de transporte quando residam fora dos concelhos a que se refere o n.º 1.º do artigo 195.º do Código Administrativo e sempre que tenham de deslocar-se do local da sua residência permanente para Lisboa.
 
-###### Art. 2.º Os abonos referidos no artigo 1.º serão liquidados por verba inscrita no Orçamento Geral do Estado, no capítulo respeitante à Representação Nacional - Encargos Gerais da Nação.
+Art. 2.º Os abonos referidos no artigo 1.º serão liquidados por verba inscrita no Orçamento Geral do Estado, no capítulo respeitante à Representação Nacional - Encargos Gerais da Nação.
 
-###### Art. 3.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Administração Interna.
+Art. 3.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Administração Interna.
 
-###### Art. 4.º Este decreto-lei entra imediatamente em vigor.
+Art. 4.º Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Francisco Sá Carneiro - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 29 de Junho de 1974.**
+Promulgado em 29 de Junho de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.

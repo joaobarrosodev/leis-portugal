@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17700/15901592.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1978-296850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T23:12:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dac4a863cffde068e49950a896e476ee164c9a99804297661c35cebdc9a53ec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa4dfd03669a53098f4ca822ec096f12ce22fd7b93d070ec47c53d0f281d7fd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Exploração Florestal
+- Montado de Sobro
 relationships:
 - type: amended_by
   target: pt:dre:374809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:374809:por
+  label: "Revogado pelo DEC LEI.172/88.16.05.1988.MAPA, DR.IS [113] de 16.05.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/172-1988-374809
+  date: '1988-05-16'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:12:37Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +109,7 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Com a excepção do n.º 1 do artigo 2.º, é proibido o corte ou arranque de sobreiros, em criação ou adultos, isolados ou em povoamento, que não se encontrem secos, doentes, decrépitos ou dominados, salvo os que devam sair em desbastes.
+Artigo 1.º - 1 - Com a excepção do n.º 1 do artigo 2.º, é proibido o corte ou arranque de sobreiros, em criação ou adultos, isolados ou em povoamento, que não se encontrem secos, doentes, decrépitos ou dominados, salvo os que devam sair em desbastes.
 
 2 - No último caso considerado no número anterior, o derrube só deve ser efectuado durante os três anos imediatos ao descortiçamento total ou à extracção da maior parte da cortiça com idade legal, tratando-se de exploração em «meças».
 
@@ -112,7 +119,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - A Direcção-Geral de Ordenamento e Gestão Florestal, através dos seus serviços regionais, poderá alterar o critério e a intensidade dos desbastes marcados ou até adiar ou proibir a sua realização.
 
-###### Art. 2.º - 1 - Os cortes rasos de montados de sobro só podem efectuar-se quando visem a posterior ocupação do solo com obras imprescindíveis de utilidade pública ou uma conversão de cultura de comprovada vantagem para a economia nacional, necessitando, porém, de prévia autorização da Direcção-Geral de Ordenamento e Gestão Florestal, que decidirá após ponderação das implicações de natureza ecológica e sócio-económica.
+Art. 2.º - 1 - Os cortes rasos de montados de sobro só podem efectuar-se quando visem a posterior ocupação do solo com obras imprescindíveis de utilidade pública ou uma conversão de cultura de comprovada vantagem para a economia nacional, necessitando, porém, de prévia autorização da Direcção-Geral de Ordenamento e Gestão Florestal, que decidirá após ponderação das implicações de natureza ecológica e sócio-económica.
 
 2 - Quando um corte raso deva ter lugar para permitir a realização de obras de utilidade pública, a entidade responsável pelo empreendimento terá de apresentar à Direcção-Geral de Ordenamento e Gestão Florestal prova fundamentada da imprescindibilidade dessas obras e da inexistência de alternativas válidas quanto à respectiva localização.
 
@@ -120,17 +127,17 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - O formalismo constante do número anterior poderá ser dispensado por despacho do responsável pelos serviços regionais da Direcção-Geral de Ordenamento e Gestão Florestal, quando a área a sujeitar à conversão cultural seja de pequena dimensão.
 
-###### Art. 3.º - 1 - A poda dos sobreiros, em criação ou adultos, é permitida apenas na estrita medida em que vise dar às árvores a conformação mais adequada à exploração da cortiça e manter ou restabelecer a sua sanidade e equilíbrio vegetativo, sem afectar a sua capacidade produtiva e normal desenvolvimento, sempre de harmonia com as limitações e preceitos técnicos estabelecidos.
+Art. 3.º - 1 - A poda dos sobreiros, em criação ou adultos, é permitida apenas na estrita medida em que vise dar às árvores a conformação mais adequada à exploração da cortiça e manter ou restabelecer a sua sanidade e equilíbrio vegetativo, sem afectar a sua capacidade produtiva e normal desenvolvimento, sempre de harmonia com as limitações e preceitos técnicos estabelecidos.
 
 2 - A prática considerada no número anterior só é permitida na época que decorre entre o princípio de Novembro e o final da segunda semana de Abril, sendo, porém, vedada, nos montados explorados em pau batido, nos dois anos que antecedem o ano de extracção da cortiça, bem como nos dois seguintes, salvo, neste último caso, quando autorizada pelos serviços regionais da Direcção-Geral de Ordenamento e Gestão Florestal.
 
 3 - É obrigatória a participação à Direcção-Geral de Ordenamento e Gestão Florestal da realização da poda dos sobreiros com a antecedência mínima de trinta dias relativamente à data de início do trabalho, indicando a entidade gestora da exploração a identificação do prédio e a localização e área aproximada da parcela onde a operação se vai efectuar.
 
-###### Art. 4.º - 1 - Não é permitida a desboia de chaparros cujo perímetro do tronco, medido sobre a cortiça e à altura do peito (a 1,30 m do solo), seja inferior a 60 cm.
+Art. 4.º - 1 - Não é permitida a desboia de chaparros cujo perímetro do tronco, medido sobre a cortiça e à altura do peito (a 1,30 m do solo), seja inferior a 60 cm.
 
 2 - Não são também permitidos aumentos de descortiçamento em sobreiros em zonas do tronco, pernadas ou braças cujo perímetro não atinja 70 cm, medidos sobre a cortiça, no limite superior do mesmo aumento.
 
-###### Art. 5.º A intensidade de descortiçamento não pode exceder os limites de altura representados pelos seguintes múltiplos do perímetro do tronco, medido sobre a cortiça e à altura do peito (a 1,30 m do solo):
+Art. 5.º A intensidade de descortiçamento não pode exceder os limites de altura representados pelos seguintes múltiplos do perímetro do tronco, medido sobre a cortiça e à altura do peito (a 1,30 m do solo):
 
 a) Duas vezes, tratando-se de desboia de chaparros;
 
@@ -138,7 +145,7 @@ b) Duas vezes e meia, em sobreiros com cortiça secundeira;
 
 c) Três vezes, nas árvores produtoras de cortiça amadia.
 
-###### Art. 6.º - 1 - Não é permitida a extracção de cortiça amadia e secundeira com menos de nove anos de criação.
+Art. 6.º - 1 - Não é permitida a extracção de cortiça amadia e secundeira com menos de nove anos de criação.
 
 2 - A Direcção-Geral de Ordenamento e Gestão Florestal poderá propor e o Secretário de Estado das Florestas determinar, mediante despacho, que a idade mínima de extracção da cortiça em manchas suberícolas definidas no interior de zonas consideradas por aquela Direcção-Geral como produtoras de qualidade seja fixada acima do limite imposto pelo número precedente.
 
@@ -148,13 +155,13 @@ c) Três vezes, nas árvores produtoras de cortiça amadia.
 
 5 - É obrigatória a marcação, no próprio ano da despela, do algarismo das unidades desse mesmo ano: no descortiçamento salteado, em todos os sobreiros explorados; na exploração por folhas, nas árvores que delimitam as respectivas parcelas.
 
-###### Art. 7.º - 1 - Nos solos ocupados por montado de sobro cujas classes de capacidade de uso sejam D(índice e) e E(índice e) (classificação do SROA), bem como nos pertencentes à classe C que, possuindo declive igual ou superior a 20%, se encontram sujeitos a riscos de erosão e se não destinem a ser objectos de trabalhos de defesa para fins de utilização agrícola, apenas são permitidas mobilizações para enterramento do mato ou instalação de pastagens permanentes sob coberto.
+Art. 7.º - 1 - Nos solos ocupados por montado de sobro cujas classes de capacidade de uso sejam D(índice e) e E(índice e) (classificação do SROA), bem como nos pertencentes à classe C que, possuindo declive igual ou superior a 20%, se encontram sujeitos a riscos de erosão e se não destinem a ser objectos de trabalhos de defesa para fins de utilização agrícola, apenas são permitidas mobilizações para enterramento do mato ou instalação de pastagens permanentes sob coberto.
 
 2 - Em montados de sobro situados em zonas suberícolas consideradas pela Direcção-Geral de Ordenamento e Gestão Florestal como produtoras de qualidade, o Secretário de Estado das Florestas poderá ordenar, mediante despacho, a interdição da cultura arvense intercalar ou das lavouras que afectem o sistema radicular dos sobreiros, a regeneração natural e a própria qualidade da cortiça.
 
-###### Art. 8.º A Direcção-Geral de Ordenamento e Gestão Florestal poderá suspender quaisquer acções em curso em montados de sobro que estejam a ser efectuadas com inobservância das determinações expressas neste diploma.
+Art. 8.º A Direcção-Geral de Ordenamento e Gestão Florestal poderá suspender quaisquer acções em curso em montados de sobro que estejam a ser efectuadas com inobservância das determinações expressas neste diploma.
 
-###### Art. 9.º - 1 - A inobservância das determinações expressas neste diploma é punível, como transgressão, com as seguintes multas:
+Art. 9.º - 1 - A inobservância das determinações expressas neste diploma é punível, como transgressão, com as seguintes multas:
 
 a) Por arranque ou corte ilegal de sobreiros:
 
@@ -180,26 +187,26 @@ e) Por falta de marcação dos sobreiros no ano em que foram descortiçados - 10
 
 3 - No caso de reincidência em qualquer das transgressões previstas neste diploma, as multas fixadas no n.º 1 deste artigo serão aplicadas no dobro do respectivo valor.
 
-###### Art. 10.º - 1 - Ao pagamento das multas fixadas no artigo anterior estão solidariamente sujeitas a entidade gestora do prédio onde as transgressões foram cometidas e as que por qualquer outra forma tenham responsabilidade nas mesmas transgressões.
+Art. 10.º - 1 - Ao pagamento das multas fixadas no artigo anterior estão solidariamente sujeitas a entidade gestora do prédio onde as transgressões foram cometidas e as que por qualquer outra forma tenham responsabilidade nas mesmas transgressões.
 
 2 - Na penalização fixada na alínea c) do n.º 1 do artigo anterior e na contingência de apreensão prevista no n.º 2 do mesmo artigo, ficam igualmente sujeitos os compradores de cortiça extraída em condições ilegais quanto à idade de criação, quando, encontrada em sua posse, não tenha sido previamente objecto de processamento na pessoa do responsável pelo descortiçamento, como é determinado no número anterior deste artigo.
 
-###### Art. 11.º Os serviços da Direcção-Geral de Ordenamento e Gestão Florestal e os de qualquer outro departamento especialmente designado farão a fiscalização, calcularão as multas e procederão à sua cobrança, revertendo o respectivo produto para os cofres do Estado e podendo ser utilizado como contrapartida para reforço do orçamento do serviço responsável pela fiscalização.
+Art. 11.º Os serviços da Direcção-Geral de Ordenamento e Gestão Florestal e os de qualquer outro departamento especialmente designado farão a fiscalização, calcularão as multas e procederão à sua cobrança, revertendo o respectivo produto para os cofres do Estado e podendo ser utilizado como contrapartida para reforço do orçamento do serviço responsável pela fiscalização.
 
-###### Art. 12.º - 1 - As operações culturais (em particular desbastes e podas) e de exploração (extracção de cortiça) dos montados, para além de obedecerem às disposições ora promulgadas, devem ser executadas em condições tecnicamente correctas, a definir em regulamento interno da Direcção-Geral de Ordenamento e Gestão Florestal - com vista ao respectivo serviço de fiscalização - e a divulgar entre os produtores interessados.
+Art. 12.º - 1 - As operações culturais (em particular desbastes e podas) e de exploração (extracção de cortiça) dos montados, para além de obedecerem às disposições ora promulgadas, devem ser executadas em condições tecnicamente correctas, a definir em regulamento interno da Direcção-Geral de Ordenamento e Gestão Florestal - com vista ao respectivo serviço de fiscalização - e a divulgar entre os produtores interessados.
 
 2 - Para os efeitos do n.º 1, os serviços regionais da Direcção-Geral de Ordenamento e Gestão Florestal organizar-se-ão com vista a gradualmente virem a prestar todo o apoio solicitado pelos produtores de cortiça, esclarecendo-os, a priori, sobre as normas regulamentares a respeitar na cultura e na exploração dos montados de sobro.
 
-###### Art. 13.º Ficam revogadas todas as disposições legais que contrariem os preceitos deste decreto-lei.
+Art. 13.º Ficam revogadas todas as disposições legais que contrariem os preceitos deste decreto-lei.
 
-###### Art. 14.º As dúvidas que ocorram na interpretação ou execução deste diploma serão resolvidas mediante despacho do Secretário de Estado das Florestas.
+Art. 14.º As dúvidas que ocorram na interpretação ou execução deste diploma serão resolvidas mediante despacho do Secretário de Estado das Florestas.
 
-###### Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+Art. 15.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Luís Silvério Gonçalves Saias.
 
-**Promulgado em 20 de Julho de 1978.**
+Promulgado em 20 de Julho de 1978.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

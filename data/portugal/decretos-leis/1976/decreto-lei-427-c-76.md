@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 128/1976, 2º Suplemento, Série I de 1976-06-01
   number: '128'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 1232-(3) a 1232-(4)
   pdf_url: https://files.diariodarepublica.pt/1s/1976/06/12802/00030004.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-c-1976-310618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T22:53:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 61bdae0bd269f66b2fe91e20eb8d9ed09dee55090a38aa5d2f42c2d2c3d9ce43
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a343ba0b9cf024e9460e2beb445d9d2b96fac1db4b074a235148d2d34fb1373d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carne de AVES de Capoeira
+- OVO
+- Preço Máximo
 relationships:
 - type: amended_by
   target: pt:dre:509052:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:295653:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:509052:por
+  label: "Revogado pelo DEC LEI.75-S/77.1977.02.28.MCT, DR.IS [49]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-s-1977-509052
+  date: '1977-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:53:54Z'
   warnings: []
   errors: []
 ---
@@ -103,21 +115,21 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. São sujeitos ao regime de preços máximos de venda ao público o frango preparado segundo o tipo «carcaça pronta a cozinhar», as miudezas comestíveis do frango e os ovos.
+Artigo 1.º - 1. São sujeitos ao regime de preços máximos de venda ao público o frango preparado segundo o tipo «carcaça pronta a cozinhar», as miudezas comestíveis do frango e os ovos.
 
 2. Os preços máximos referidos no número anterior são os constantes nas tabelas I e II, anexas ao presente diploma.
 
-###### Art. 2.º Mantém-se em vigor a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 Junho de 1965, em tudo o que não contraria o presente diploma.
+Art. 2.º Mantém-se em vigor a [Portaria n.º 21362](https://diariodarepublica.pt/dr/detalhe/portaria/21362-1965-295653), de 30 Junho de 1965, em tudo o que não contraria o presente diploma.
 
-###### Art. 3.º O presente decreto-lei entra em vigor na data da sua publicação.
+Art. 3.º O presente decreto-lei entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 26 de Maio de 1976.**
+Promulgado em 26 de Maio de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.
 
 TABELA I
 
@@ -133,6 +145,6 @@ TABELA II
 
 Preços máximos de venda ao público a praticar por dúzia de ovos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1976/06/12802/00030004.pdf))](https://files.diariodarepublica.pt/1s/1976/06/12802/00030004.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1976/06/12802/00030004.pdf)
 
-**O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.**
+O Ministro do Comércio Interno, Joaquim Jorge Magalhães Mota.

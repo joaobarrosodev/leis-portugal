@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1977/05/12500/12721272.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1977-252999
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1e7aff0d98ae9e4ce7682ae17f8ba44b38575dfeb36592384fd152857135a3fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 275ff750e0997f6e3f06fa6a67f91717c3d0de89d4f6d0ee8f0e9e7c17137b49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Pessoal
+- Ministério das Obras Públicas
+- Pessoal Eventual
+- Pessoal Tarefeiro
+- Recrutamento de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:03:28Z'
   warnings: []
   errors: []
 ---
@@ -96,18 +119,18 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º As direcções-gerais e organismos equiparados do Ministério das Obras Públicas, bem como as suas comissões administrativas e delegações de obras, poderão contratar ou ajustar com entidades ou indívduos a eles estranhos a realização de estudos, pareceres, anteprojectos, projectos e outros trabalhos de carácter técnico ou administrativo, em regime de prestação eventual de serviços ou de tarefa, quando o Ministro assim o tiver por conveniente em face das necessidades dos organismos interessados.
+Artigo 1.º As direcções-gerais e organismos equiparados do Ministério das Obras Públicas, bem como as suas comissões administrativas e delegações de obras, poderão contratar ou ajustar com entidades ou indívduos a eles estranhos a realização de estudos, pareceres, anteprojectos, projectos e outros trabalhos de carácter técnico ou administrativo, em regime de prestação eventual de serviços ou de tarefa, quando o Ministro assim o tiver por conveniente em face das necessidades dos organismos interessados.
 
-###### Art. 2.º - 1 Nos casos em que o recrutamento seja feito em regime de tarefa, deverá o ajuste ser reduzido a escrito, em que se mencionem concretamente a natureza dos trabalhos, o seu montante e o prazo previsto para a sua execução.
+Art. 2.º - 1 Nos casos em que o recrutamento seja feito em regime de tarefa, deverá o ajuste ser reduzido a escrito, em que se mencionem concretamente a natureza dos trabalhos, o seu montante e o prazo previsto para a sua execução.
 
 2. Os indivíduos recrutados nos termos deste artigo não adquirem a qualidade de agentes administrativos nem ficam submetidos ao Estatuto Disciplinar dos Funcionários Civis do Estado.
 
-###### Art. 3.º O recrutamento dos indivíduos a que se referem os artigos anteriores far-se-á sem prejuízo do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
+Art. 3.º O recrutamento dos indivíduos a que se referem os artigos anteriores far-se-á sem prejuízo do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - João Orlindo de Almeida Pina.
 
-**Promulgado em 19 de Maio de 1977.**
+Promulgado em 19 de Maio de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

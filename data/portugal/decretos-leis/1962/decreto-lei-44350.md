@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 109/1962, 1º Suplemento, Série I de 1962-05-14
   number: '109'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 729 - 729
   pdf_url: https://files.diariodarepublica.pt/1s/1962/05/10901/07290729.pdf
 entry_into_force_dates: []
@@ -46,40 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44350-1962-293563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbaca7b4f53b64d5c5719a6276a39831766caa29c2daf03bfc3d35e5539ea1bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c246d90ce02fc6f0cc26e0218ccf046df6dd8a327e539fb7a8dc3a346bd8491
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Código Comercial
+- Comércio
 relationships:
 - type: amended_by
   target: pt:dre:411158:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:411158:por
+  label: "Alterado o § 2.º e adita o § 3.º ao art. 196.º do Código Comercial, aprovado pela Carta de Lei DD4, de 06-Set 1888,\
+    \ na redacção dada pelo presente diploma, pelo DEC LEI.679/73.21.12.1973.MJ, DG.IS [296] de 21.12.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/679-1973-411158
+  date: '1973-12-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:51Z'
   warnings: []
   errors: []
 ---
@@ -96,12 +104,12 @@ Considerando pois que a margem de permissão daquele artigo 196.º pode ampliar-
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O § único do artigo 196.º do Código Comercial, aplicável às sociedades anónimas, passa a § 1.º, adicionando-se-lhe, para todos os efeitos de direito, designadamente os de quaisquer disposições de lei que remetam para esse artigo, um novo § 2.º, assim redigido:
+Artigo 1.º O § único do artigo 196.º do Código Comercial, aplicável às sociedades anónimas, passa a § 1.º, adicionando-se-lhe, para todos os efeitos de direito, designadamente os de quaisquer disposições de lei que remetam para esse artigo, um novo § 2.º, assim redigido:
 
 § 2.º Ponderada a situação financeira da sociedade, o limite estabelecido no corpo do artigo pode ser ampliado até ao máximo da quinta parte do capital social, mas não além do fundo de reserva existente, a que alude o artigo 191.º
 
-###### Art. 2.º Este decreto-lei entra imediatamente em vigor.
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Maio de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

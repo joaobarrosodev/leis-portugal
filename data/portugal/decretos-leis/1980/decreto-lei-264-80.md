@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18100/20792082.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1980-470439
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T23:30:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c07c12d6e096051246ab11092f26a22a8f306e6afa58e3ab0c653cf3c48c9c71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f18fb0792d3a30bcc5dc7181b19c27e55817f12ff2be21c5b609ab8e36c1bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:30:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Administrativa
+- Instituto Coordenador de Estudos Graduados
+- Política de Educação
+- Universidade de Aveiro
+- Universidade de Coimbra
+- Universidade de Évora
+- Universidade de Lisboa
+- Universidade do Minho
+- Universidade do Porto
+- Universidade NOVA de Lisboa
+- Universidade Técnica de Lisboa
 relationships:
 - type: amended_by
   target: pt:dre:225809:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:367673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419197:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225809:por
+  label: "Revogado pelo DEC LEI.216/92.13.10.1992.ME, DR.IS-A [236] de 13.10.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1992-225809
+  date: '1992-10-13'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:30:06Z'
   warnings: []
   errors: []
 ---
@@ -117,13 +141,13 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - São criados os Institutos Coordenadores de Estudos Graduados das Universidades de Coimbra, Lisboa, Porto, Técnica de Lisboa, Nova de Lisboa, Aveiro, Minho e Évora.
+Artigo 1.º - 1 - São criados os Institutos Coordenadores de Estudos Graduados das Universidades de Coimbra, Lisboa, Porto, Técnica de Lisboa, Nova de Lisboa, Aveiro, Minho e Évora.
 
 2 - Aos Institutos Coordenadores de Estudos Graduados aplica-se o regime de instalação previsto no [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, em tudo o que não contrarie o disposto no presente diploma.
 
-###### Art. 2.º Os Institutos Coordenadores de Estudos Graduados têm por fim organizar, orientar e garantir as actividades de ensino e investigação destinadas à obtenção dos graus de mestre e de doutor pelos alunos das respectivas Universidades.
+Art. 2.º Os Institutos Coordenadores de Estudos Graduados têm por fim organizar, orientar e garantir as actividades de ensino e investigação destinadas à obtenção dos graus de mestre e de doutor pelos alunos das respectivas Universidades.
 
-###### Art. 3.º - 1 - As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados serão constituídas por um presidente e quatro vogais.
+Art. 3.º - 1 - As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados serão constituídas por um presidente e quatro vogais.
 
 2 - O presidente da comissão instaladora será, obrigatoriamente, um vice-reitor, nomeado, para o efeito, pelo Ministro da Educação e Ciência, ouvido o reitor da respectiva Universidade.
 
@@ -133,9 +157,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - As comissões instaladoras ficarão na dependência hierárquica do reitor da respectiva Universidade.
 
-###### Art. 4.º As comissões instaladoras apenas poderão ser nomeadas desde que, pelo menos, cinco comissões de grupos dos conselhos científicos e ou conselhos de departamento tenham já procedido à indicação de elementos, nos termos do n.º 4 do artigo 3.º do presente diploma.
+Art. 4.º As comissões instaladoras apenas poderão ser nomeadas desde que, pelo menos, cinco comissões de grupos dos conselhos científicos e ou conselhos de departamento tenham já procedido à indicação de elementos, nos termos do n.º 4 do artigo 3.º do presente diploma.
 
-###### Art. 5.º - 1 - Compete à comissão instaladora:
+Art. 5.º - 1 - Compete à comissão instaladora:
 
 a) Elaborar e propor os programas globais de acção e desenvolvimento do Instituto;
 
@@ -155,7 +179,7 @@ h) Realizar os estudos e tomar as medidas necessários para a adopção de siste
 
 2 - Os cursos a que se refere a alínea b) do número anterior serão criados por portaria.
 
-###### Art. 6.º Compete ao vice-reitor para os estudos graduados dirigir, orientar e coordenar as actividades e serviços do Instituto Coordenador de Estudos Graduados, por forma a imprimir-lhes unidade, continuidade e eficiência, e, designadamente:
+Art. 6.º Compete ao vice-reitor para os estudos graduados dirigir, orientar e coordenar as actividades e serviços do Instituto Coordenador de Estudos Graduados, por forma a imprimir-lhes unidade, continuidade e eficiência, e, designadamente:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -167,7 +191,7 @@ d) Submeter ao Ministro da Educação e Ciência todas as questões que careçam
 
 e) Assegurar a execução das deliberações dos órgãos do Instituto.
 
-###### Art. 7.º - 1 - Em cada Instituto Coordenador de Estudos Graduados, a gestão administrativa, financeira e patrimonial será assegurada, durante o período de instalação, por um conselho administrativo.
+Art. 7.º - 1 - Em cada Instituto Coordenador de Estudos Graduados, a gestão administrativa, financeira e patrimonial será assegurada, durante o período de instalação, por um conselho administrativo.
 
 2 - O conselho administrativo é constituído pelo vice-reitor para os estudos graduados, que preside, pelo administrador da respectiva Universidade e por dois vogais a designar por despacho do Ministro da Educação e Ciência, sob proposta da comissão instaladora.
 
@@ -181,7 +205,7 @@ e) Assegurar a execução das deliberações dos órgãos do Instituto.
 
 7 - As requisições de fundos, as ordens de pagamento e os recibos serão assinados por dois membros do conselho administrativo, sendo um deles, sempre que possível, o presidente, devendo os recibos respeitantes a valores que tenham de entrar na tesouraria da Universidade conter também a assinatura do respectivo tesoureiro ou seu substituto.
 
-###### Art. 8.º - 1 - Cada Instituto Coordenador de Estudos Graduados disporá de um conselho científico, composto pelo vice-reitor para os estudos graduados, que preside, e pelos elementos integrantes das diferentes comissões científicas constituídas nos termos do n.º 4 do presente artigo.
+Art. 8.º - 1 - Cada Instituto Coordenador de Estudos Graduados disporá de um conselho científico, composto pelo vice-reitor para os estudos graduados, que preside, e pelos elementos integrantes das diferentes comissões científicas constituídas nos termos do n.º 4 do presente artigo.
 
 2 - Ao conselho científico compete a definição, orientação e coordenação de todas as actividades de investigação e ensino no âmbito do respectivo Instituto Coordenador de Estudos Graduados e, nomeadamente:
 
@@ -207,9 +231,9 @@ g) Pronunciar-se sobre as condições de admissão dos candidatos às provas de 
 
 6 - O conselho científico elaborará regulamento da sua organização e funcionamento, a publicar no Diário da República, após homologação do Ministro da Educação e Ciência.
 
-###### Art. 9.º Os Institutos Coordenadores de Estudos Graduados interessados poderão propor ao Ministro da Educação e Ciência a organização de cursos de mestrado e doutoramento em regime de colaboração, precedendo parecer favorável dos reitores das respectivas Universidades.
+Art. 9.º Os Institutos Coordenadores de Estudos Graduados interessados poderão propor ao Ministro da Educação e Ciência a organização de cursos de mestrado e doutoramento em regime de colaboração, precedendo parecer favorável dos reitores das respectivas Universidades.
 
-###### Art. 10.º - 1 - Os professores de cada Universidade poderão ser convidados a exercer funções no respectivo Instituto Coordenador de Estudos Graduados, mediante autorização do Ministro da Educação e Ciência, sob proposta da comissão instaladora.
+Art. 10.º - 1 - Os professores de cada Universidade poderão ser convidados a exercer funções no respectivo Instituto Coordenador de Estudos Graduados, mediante autorização do Ministro da Educação e Ciência, sob proposta da comissão instaladora.
 
 2 - O exercício de funções nos termos do número anterior far-se-á por períodos de um a três anos, renováveis.
 
@@ -217,11 +241,11 @@ g) Pronunciar-se sobre as condições de admissão dos candidatos às provas de 
 
 4 - Poderão ainda ser convidados a exercer funções, por períodos anuais, nos Institutos Coordenadores de Estudos Graduados professores de outras Universidades, nos termos do disposto no artigo 79.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro.
 
-###### Art. 11.º Excepcionalmente, e sempre que não seja exequível o recurso ao disposto no artigo anterior, poderão ser contratados, por despacho do Ministro da Educação e Ciência, sob proposta da comissão instaladora, professores catedráticos, associados e auxiliares, bem como individualidades, nacionais ou estrangeiras, nos termos dos Decretos-Leis n.os [448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, e [402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, e tendo em conta os princípios constitucionais sobre o exercício de funções públicas por estrangeiros.
+Art. 11.º Excepcionalmente, e sempre que não seja exequível o recurso ao disposto no artigo anterior, poderão ser contratados, por despacho do Ministro da Educação e Ciência, sob proposta da comissão instaladora, professores catedráticos, associados e auxiliares, bem como individualidades, nacionais ou estrangeiras, nos termos dos Decretos-Leis n.os [448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, e [402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto, e tendo em conta os princípios constitucionais sobre o exercício de funções públicas por estrangeiros.
 
-###### Art. 12.º As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados poderão requerer ao reitor da respectiva Universidade o destacamento do pessoal não docente indispensável à prossecução das suas actividades.
+Art. 12.º As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados poderão requerer ao reitor da respectiva Universidade o destacamento do pessoal não docente indispensável à prossecução das suas actividades.
 
-###### Art. 13.º - 1 - As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados poderão requisitar a quaisquer serviços públicos o pessoal indispensável ao seu funcionamento, mediante despacho do Ministro da Educação e Ciência e acordo do Ministro a que estão sujeitos os serviços, bem como do interessado.
+Art. 13.º - 1 - As comissões instaladoras dos Institutos Coordenadores de Estudos Graduados poderão requisitar a quaisquer serviços públicos o pessoal indispensável ao seu funcionamento, mediante despacho do Ministro da Educação e Ciência e acordo do Ministro a que estão sujeitos os serviços, bem como do interessado.
 
 2 - A requisição prevista no número anterior não dará lugar à abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.
 
@@ -229,32 +253,32 @@ g) Pronunciar-se sobre as condições de admissão dos candidatos às provas de 
 
 4 - O pessoal requisitado será remunerado através das dotações globais atribuídas ao respectivo Instituto.
 
-###### Art. 14.º - 1 - Poderão inscrever-se nos Institutos Coordenadores de Estudos Graduados os licenciados por Universidades portuguesas ou estrangeiras, desde que tenham obtido a respectiva equivalência nos termos legais, e os bacharéis dos Institutos Universitários Politécnicos, desde que habilitados com um diploma de estudos graduados.
+Art. 14.º - 1 - Poderão inscrever-se nos Institutos Coordenadores de Estudos Graduados os licenciados por Universidades portuguesas ou estrangeiras, desde que tenham obtido a respectiva equivalência nos termos legais, e os bacharéis dos Institutos Universitários Politécnicos, desde que habilitados com um diploma de estudos graduados.
 
 2 - Os critérios de admissão dos alunos aos Institutos Coordenadores de Estudos Graduados serão fixados por despacho ministerial, sob proposta do conselho científico, tendo em conta, quanto aos assistentes estagiários e assistentes, o disposto no [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro.
 
-###### Art. 15.º - 1 - Os alunos dos Institutos Coordenadores de Estudos Graduados estão sujeitos à matrícula em termos idênticos aos dos restantes alunos das Universidades e pagarão propina anual de montante a fixar por despacho do Ministro da Educação e Ciência.
+Art. 15.º - 1 - Os alunos dos Institutos Coordenadores de Estudos Graduados estão sujeitos à matrícula em termos idênticos aos dos restantes alunos das Universidades e pagarão propina anual de montante a fixar por despacho do Ministro da Educação e Ciência.
 
 2 - Os assistentes estagiários, assistentes, estagiários de investigação e assistentes de investigação ficarão isentos do pagamento de propinas.
 
-###### Art. 16.º Os Institutos Coordenadores de Estudos Graduados poderão atribuir bolsas de estudo aos seus alunos, nos termos e quantitativos a fixar por despacho do Ministro da Educação e Ciência.
+Art. 16.º Os Institutos Coordenadores de Estudos Graduados poderão atribuir bolsas de estudo aos seus alunos, nos termos e quantitativos a fixar por despacho do Ministro da Educação e Ciência.
 
-###### Art. 17.º Os alunos dos Institutos Coordenadores de Estudos Graduados poderão, eventualmente, colaborar no ensino das aulas práticas e trabalhos de campo dos cursos de licenciatura, em condições a fixar por despacho ministerial.
+Art. 17.º Os alunos dos Institutos Coordenadores de Estudos Graduados poderão, eventualmente, colaborar no ensino das aulas práticas e trabalhos de campo dos cursos de licenciatura, em condições a fixar por despacho ministerial.
 
-###### Art. 18.º - 1 - Os Institutos Coordenadores de Estudos Graduados terão a sua sede administrativa em instalações postas à sua disposição pelo reitor da respectiva Universidade.
+Art. 18.º - 1 - Os Institutos Coordenadores de Estudos Graduados terão a sua sede administrativa em instalações postas à sua disposição pelo reitor da respectiva Universidade.
 
 2 - As actividades de docência e investigação dos Institutos Coordenadores de Estudos Graduados desenvolver-se-ão nas instalações das Faculdades, escolas ou departamentos da respectiva Universidade, em articulação com as actividades a estes inerentes.
 
-###### Art. 19.º Os encargos resultantes da execução do presente diploma durante o ano de 1980 serão satisfeitos por conta das disponibilidades ou dos reforços necessários das dotações orçamentais atribuídas às Universidades e estabelecimentos de ensino superior em regime de instalação.
+Art. 19.º Os encargos resultantes da execução do presente diploma durante o ano de 1980 serão satisfeitos por conta das disponibilidades ou dos reforços necessários das dotações orçamentais atribuídas às Universidades e estabelecimentos de ensino superior em regime de instalação.
 
-###### Art. 20.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo responsável pela função pública, de acordo com as respectivas competências.
+Art. 20.º As dúvidas que se suscitarem na interpretação e aplicação do presente diploma serão resolvidas por despacho dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo responsável pela função pública, de acordo com as respectivas competências.
 
-###### Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 21.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Junho de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 17 de Julho de 1980.**
+Promulgado em 17 de Julho de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

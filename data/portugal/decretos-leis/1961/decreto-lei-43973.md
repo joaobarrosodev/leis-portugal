@@ -47,40 +47,79 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43973-1961-182647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-10-03T00:00:00Z'
+  retrieved_at: '2026-10-22T21:38:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d36c1c7d26db2631356ef63dce10c528edc616426579fa4a3a75e69701ae4066
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3059ffbe837cac3efa7a4c00ae7078211c4d368a8039b7422257632997a32f2a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CASA do Estado
+- Habitação Social
 relationships:
 - type: amended_by
   target: pt:dre:312231:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:280033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:642202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675629:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312231:por
+  label: "Revogado o art. 13º pelo DEC LEI.566/75.1975.10.03.MESA DG.IS [229]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/566-1975-312231
+  date: '1975-10-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:38:40Z'
   warnings: []
   errors: []
 ---
@@ -125,13 +164,13 @@ Inserem-se ainda no diploma outras disposições de menor interesse, mas nem por
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os concursos para distribuição de casas económicas são válidos pelo período de dois anos, a contar da data em que for homologada a primeira relação de candidatos efectivos, à qual será dada publicidade pelos meios convenientes.
+Artigo 1.º Os concursos para distribuição de casas económicas são válidos pelo período de dois anos, a contar da data em que for homologada a primeira relação de candidatos efectivos, à qual será dada publicidade pelos meios convenientes.
 
 § 1.º Sempre que as circunstâncias o aconselhem, pode o Ministro das Corporações e Previdência Social ampliar o prazo de validade do concurso até ao limite de dois anos sobre o prazo normal.
 
 § 2.º É permitida a atribuição de casas económicas sem dependência de concurso quando for requerida dentro do período de validade do último concurso efectuado, ao qual não tenham acorrido candidatos em número suficiente para ocupar todas as casas.
 
-###### Art. 2.º Podem concorrer à distribuição de casas económicas os chefes de família que tenham pelo menos 21 anos de idade e não tenham ainda completado 45 anos na data da abertura do concurso, quanto a bairros em primeira distribuição ou, tratando-se de concurso para redistribuição de casas vagas, na data do termo da validade do último concurso efectuado para distribuição de casas económicas da mesma localidade ou área de influência habitacional.
+Art. 2.º Podem concorrer à distribuição de casas económicas os chefes de família que tenham pelo menos 21 anos de idade e não tenham ainda completado 45 anos na data da abertura do concurso, quanto a bairros em primeira distribuição ou, tratando-se de concurso para redistribuição de casas vagas, na data do termo da validade do último concurso efectuado para distribuição de casas económicas da mesma localidade ou área de influência habitacional.
 
 § 1.º Haverá lugar ao pagamento de sobreprémio respeitante ao seguro de vida e invalidez se na data da entrega da casa o candidato tiver mais de 40 anos e seis meses.
 
@@ -141,21 +180,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Se na data da entrega da moradia o concorrente já tiver completado 45 anos, a amortização da casa far-se-á no período que decorrer até o candidato atingir 70 anos de idade, sendo as respectivas prestações calculadas de conformidade.
 
-###### Art. 3.º Os moradores-adquirentes de casas económicas podem habilitar-se a outros concursos nos termos gerais, mas a atribuição de nova casa importará sempre para o adquirente a desistência da anterior.
+Art. 3.º Os moradores-adquirentes de casas económicas podem habilitar-se a outros concursos nos termos gerais, mas a atribuição de nova casa importará sempre para o adquirente a desistência da anterior.
 
-###### Art. 4.º Na distribuição de casas económicas situadas em Lisboa e Porto e respectivas zonas suburbanas, têm preferência os candidatos que trabalhem, por forma efectiva, há mais de dois anos nestas cidades ou em localidade compreendida na área de influência habitacional dos bairros a que pertençam as casas.
+Art. 4.º Na distribuição de casas económicas situadas em Lisboa e Porto e respectivas zonas suburbanas, têm preferência os candidatos que trabalhem, por forma efectiva, há mais de dois anos nestas cidades ou em localidade compreendida na área de influência habitacional dos bairros a que pertençam as casas.
 
 § 1.º O Ministro das Corporações e Previdência Social poderá, sempre que as circunstâncias o aconselhem, determinar que a preferência e área previstas neste artigo sejam aplicadas à distribuição de casas económicas situadas noutras localidades.
 
 § 2.º A área de influência habitacional será fixada pelo despacho que determinar a abertura do concurso para a distribuição das casas e abrangerá, obrigatòriamente, as cidades de Lisboa e Porto quando se trate de bairros construídos nas zonas suburbanas destas cidades.
 
-###### Art. 5.º A distribuição das casas económicas das diversas classes far-se-á em conformidade com o rendimento ,do agregado familiar dos pretendentes, dando-se preferência aos que tiverem rendimento não inferior a três vezes e meia nem superior a seis vezes a prestação mensal fixada para o tipo III da respectiva classe ou não excedente ao produto daquela prestação pelo número de pessoas do agregado familiar, quando deste façam parte mais de três filhos a cargo do chefe de família.
+Art. 5.º A distribuição das casas económicas das diversas classes far-se-á em conformidade com o rendimento ,do agregado familiar dos pretendentes, dando-se preferência aos que tiverem rendimento não inferior a três vezes e meia nem superior a seis vezes a prestação mensal fixada para o tipo III da respectiva classe ou não excedente ao produto daquela prestação pelo número de pessoas do agregado familiar, quando deste façam parte mais de três filhos a cargo do chefe de família.
 
 § 1.º Constituem rendimento do agregado familiar os vencimentos ou salários, abonos, subvenções ou suplementos do chefe de família e dos demais componentes do agregado e bem assim quaisquer outros rendimentos de carácter não eventual, exceptuando ùnicamente o abono de família.
 
 § 2.º Sempre que da aplicação do disposto neste artigo resulte haver rendimentos cujos valores não estejam compreendidos nos limites correspondentes a duas classes consecutivas, repartir-se-á igualmente por ambas elas a diferença encontrada, fazendo coincidir o limite máximo de uma classe com o mínimo da seguinte.
 
-###### Art. 6.º Para efeito de aplicação das condições de preferência a observar na classificação dos concorrentes à distribuição de casas económicas, atende-se à situação existente à data do encerramento do prazo para a recepção dos documentos de habilitação ao concurso, quanto aos candidatos a incluir nas primeiras relações de concorrentes a homologar.
+Art. 6.º Para efeito de aplicação das condições de preferência a observar na classificação dos concorrentes à distribuição de casas económicas, atende-se à situação existente à data do encerramento do prazo para a recepção dos documentos de habilitação ao concurso, quanto aos candidatos a incluir nas primeiras relações de concorrentes a homologar.
 
 Quanto aos restantes candidatos, atende-se à situação existente na data da respectiva homologação.
 
@@ -163,11 +202,11 @@ Quanto aos restantes candidatos, atende-se à situação existente na data da re
 
 § 2.º Os concorrentes devem comunicar, em tempo útil, por meio de carta registada, todas as alterações à situação existente na data em que concorreram, sob pena de serem excluídos do concurso.
 
-###### Art. 7.º Serão excluídos do mapa da classificação prèviamente homologada os concorrentes que, na data da entrega das chaves ou da efectiva ocupação da casa, se verifique terem rendimento superior ao limite máximo estabelecido como preferência para atribuição de casas do respectivo concurso, sempre que, na mesma lata, houver concorrentes que, beneficiando daquela preferência, possam ser classificados.
+Art. 7.º Serão excluídos do mapa da classificação prèviamente homologada os concorrentes que, na data da entrega das chaves ou da efectiva ocupação da casa, se verifique terem rendimento superior ao limite máximo estabelecido como preferência para atribuição de casas do respectivo concurso, sempre que, na mesma lata, houver concorrentes que, beneficiando daquela preferência, possam ser classificados.
 
-###### Art. 8.º Serão excluídos da classificação os concorrentes que, pela composição dos respectivos agregados familiares, não possam instalar-se sem promiscuidade em qualquer dos fogos a distribuir, quando se trate de habitações em regime de propriedade horizontal ou de moradias insusceptíveis de ampliação adequada.
+Art. 8.º Serão excluídos da classificação os concorrentes que, pela composição dos respectivos agregados familiares, não possam instalar-se sem promiscuidade em qualquer dos fogos a distribuir, quando se trate de habitações em regime de propriedade horizontal ou de moradias insusceptíveis de ampliação adequada.
 
-###### Art. 9.º Serão excluídos do concurso para atribuição de casas económicas os concorrentes que, na data da abertura do concurso ou da entrega das chaves da moradia, se encontrem em algumas das seguintes condições:
+Art. 9.º Serão excluídos do concurso para atribuição de casas económicas os concorrentes que, na data da abertura do concurso ou da entrega das chaves da moradia, se encontrem em algumas das seguintes condições:
 
 a) Tenham, na localidade da situação do bairro ou na respectiva área de influência habitacional, habitação própria adequada à composição do seu agregado familiar, ou a possam ter, por serem proprietários urbanos;
 
@@ -175,17 +214,17 @@ b) Hajam adquirido a propriedade plena de casas económicas ou sejam, segundo as
 
 § único. Consideram-se sempre abrangidas nas áreas das cidades de Lisboa e Porto, para efeitos da alínea a), as zonas suburbanas destas cidades.
 
-###### Art. 10.º As prestações das casas que vaguem serão as que à data da nova atribuição vigorarem para as respectivas classes e tipos em bairros da mesma localidade, sem prejuízo das correcções expressamente previstas no presente diploma.
+Art. 10.º As prestações das casas que vaguem serão as que à data da nova atribuição vigorarem para as respectivas classes e tipos em bairros da mesma localidade, sem prejuízo das correcções expressamente previstas no presente diploma.
 
-###### Art. 11.º Quando nas casas vagas por efeito de resgate ou rescisão de contrato hajam sido feitas benfeitorias traduzidas na construção de anexos ou ampliação da moradia, poderá o Fundo das Casas Económicas indemnizar o ex-adquirente das despesas por ele efectuadas, até ao limite de 2/3 do valor estimado e desde que o facto não importe acréscimo da prestação normal, a pagar pelo novo adquirente, em termos que excedam o valor da prestação fixada para casas da classe imediatamente superior.
+Art. 11.º Quando nas casas vagas por efeito de resgate ou rescisão de contrato hajam sido feitas benfeitorias traduzidas na construção de anexos ou ampliação da moradia, poderá o Fundo das Casas Económicas indemnizar o ex-adquirente das despesas por ele efectuadas, até ao limite de 2/3 do valor estimado e desde que o facto não importe acréscimo da prestação normal, a pagar pelo novo adquirente, em termos que excedam o valor da prestação fixada para casas da classe imediatamente superior.
 
 § 1.º O valor da indemnização que, nos termos deste artigo, houver sido pago pelo Fundo das Casas Económicas ao ex-adquirente, será reembolsado pelo novo adquirente mediante correcção da prestação normal para amortização da moradia, salvo se, nos termos do artigo 20.º, aquela se tornar desnecessária;
 
 § 2.º O quantitativo da indemnização a pagar por benfeitorias será fixado por despacho do Ministro das Corporações e Previdência Social, ouvida a comissão de fiscalização do bairro ou, na sua falta, outros serviços técnicos para isso designados.
 
-###### Art. 12.º O artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passa a ter a seguinte redacção:
+Art. 12.º O artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, passa a ter a seguinte redacção:
 
-###### Art. 37.º As prestações para amortização das casas económicas e os respectivos prémios de seguros deverão ser pagos, mensalmente, as duas primeiras nos oito dias após a entrega das chaves da moradia e as seguintes até ao dia 8 do mês anterior àquele a que respeitam, salvo nos casos seguintes:
+Art. 37.º As prestações para amortização das casas económicas e os respectivos prémios de seguros deverão ser pagos, mensalmente, as duas primeiras nos oito dias após a entrega das chaves da moradia e as seguintes até ao dia 8 do mês anterior àquele a que respeitam, salvo nos casos seguintes:
 
 a) Morte casual do morador-adquirente;
 
@@ -203,45 +242,45 @@ As prestações pagas anteriormente à rescisão revertem a favor do Fundo das C
 
 § 3.º A rescisão do contrato, nos termos do parágrafo anterior, e a caducidade da apólice de seguro de vida, no caso previsto no § 1.º, serão comunicadas à respectiva entidade seguradora para o efeito de ser cancelada a sua responsabilidade e cessar a obrigação, por parte da Repartição das Casas Económicas, do pagamento do respectivo prémio.
 
-###### Art. 13.º Sem prejuízo do disposto no § 2.º do artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, na nova redacção dada pelo presente diploma, de futuro, as prestações pagas pelos moradores-adquirentes fora do prazo estabelecido no corpo do mesmo artigo não contam para amortização das moradias.
+Art. 13.º Sem prejuízo do disposto no § 2.º do artigo 37.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, na nova redacção dada pelo presente diploma, de futuro, as prestações pagas pelos moradores-adquirentes fora do prazo estabelecido no corpo do mesmo artigo não contam para amortização das moradias.
 
 § único. As parcelas respeitantes à amortização do capital e aos juros constituem receita do Fundo das Casas Económicas, que tomará os seguros estabelecidos por lei na parte correspondente à ampliação do período de amortização das moradias.
 
-###### Art. 14.º O custo das ampliações das moradias efectuadas nos termos do artigo 4.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, constituirá encargo do morador-adquirente, que reembolsará o Fundo das Casas Económicas da quantia despendida, nos termos estabelecidos pelo artigo 15.º
+Art. 14.º O custo das ampliações das moradias efectuadas nos termos do artigo 4.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, constituirá encargo do morador-adquirente, que reembolsará o Fundo das Casas Económicas da quantia despendida, nos termos estabelecidos pelo artigo 15.º
 
-###### Art. 15.º Em casos devidamente justificados, pode o Ministro das Corporações e Previdência Social autorizar que os moradores-adquirentes procedam à ampliação das moradias com auxílio financeiro do Fundo das Casas Económicas.
+Art. 15.º Em casos devidamente justificados, pode o Ministro das Corporações e Previdência Social autorizar que os moradores-adquirentes procedam à ampliação das moradias com auxílio financeiro do Fundo das Casas Económicas.
 
 § 1.º A quantia que, nos termos deste artigo, for despendida pelo Fundo das Casas Económicas e, bem assim, os respectivos juros serão tomados em consideração no cálculo do valor da nova prestação mensal para amortização da moradia.
 
 § 2.º O disposto na legislação sobre casas económicas, designadamente quanto a seguros de vida e invalidez, doença, desemprego e incêndio, aplicar-se-á às ampliações efectuadas nos termos deste artigo.
 
-###### Art. 16.º As casas sobrantes em cada concurso poderão ser dadas de arrendamento, mediante despacho do Ministro das Corporações e Previdência Social e nas condições por ele estabelecidas.
+Art. 16.º As casas sobrantes em cada concurso poderão ser dadas de arrendamento, mediante despacho do Ministro das Corporações e Previdência Social e nas condições por ele estabelecidas.
 
-###### Art. 17.º Quando as casas económicas, por efeito de rescisão ou resgate, regressarem ao património do Estado, pode o Ministro das Corporações e Previdência Social, excepcionalmente e desde que as circunstâncias o justifiquem, autorizar que a casa do ex-morador, adquirente, ou outra que melhor realize o fim social a obter, seja ocupada, em regime de arrendamento, pelos familiares que forem autorizados a habitar a casa.
+Art. 17.º Quando as casas económicas, por efeito de rescisão ou resgate, regressarem ao património do Estado, pode o Ministro das Corporações e Previdência Social, excepcionalmente e desde que as circunstâncias o justifiquem, autorizar que a casa do ex-morador, adquirente, ou outra que melhor realize o fim social a obter, seja ocupada, em regime de arrendamento, pelos familiares que forem autorizados a habitar a casa.
 
 § único. O arrendamento terá o regime estabelecido pelo [Decreto-Lei n.º 23465](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23465-1934-675400), de 18 de Janeiro de 1934, e não pode subsistir para além da morte do arrendatário, salvo se houver filhos legítimos menores que habitem a casa, pois, nesta hipótese, o arrendamento poderá prolongar-se até à maioridade destes.
 
-###### Art. 18.º O artigo 2.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, passa a ter a seguinte redacção:
+Art. 18.º O artigo 2.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, passa a ter a seguinte redacção:
 
-###### Art. 2.º Além das classes A, B, C e D, já estabelecidas por lei, será considerada, sempre em função do rendimento do agregado familiar, uma nova classe de casas económicas - classe «a» -, destinada a famílias de recursos mais modestos.
+Art. 2.º Além das classes A, B, C e D, já estabelecidas por lei, será considerada, sempre em função do rendimento do agregado familiar, uma nova classe de casas económicas - classe «a» -, destinada a famílias de recursos mais modestos.
 
-###### Art. 19.º Sempre que as circunstâncias o justifiquem, pode o Ministro das Corporações e Previdência Social, mediante proposta fundamentada dos serviços, determinar que as casas económicas de certas classes ou tipos sejam reclassificadas em classes ou tipos diferentes.
+Art. 19.º Sempre que as circunstâncias o justifiquem, pode o Ministro das Corporações e Previdência Social, mediante proposta fundamentada dos serviços, determinar que as casas económicas de certas classes ou tipos sejam reclassificadas em classes ou tipos diferentes.
 
-###### Art. 20.º Mediante despacho do Ministro das Corporações e Previdência Social, nos acordos sobre terrenos entre as câmaras municipais e as instituições de previdência social para o efeito da construção de casas prevista na alínea a) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), podem ser destinados alguns fogos ao realojamento de famílias atingidas por obras de urbanização até ao limite de 10 por cento da totalidade das casas abrangidas por cada acordo, desde que, para esse efeito, outra percentagem superior não esteja estabelecida por lei.
+Art. 20.º Mediante despacho do Ministro das Corporações e Previdência Social, nos acordos sobre terrenos entre as câmaras municipais e as instituições de previdência social para o efeito da construção de casas prevista na alínea a) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), podem ser destinados alguns fogos ao realojamento de famílias atingidas por obras de urbanização até ao limite de 10 por cento da totalidade das casas abrangidas por cada acordo, desde que, para esse efeito, outra percentagem superior não esteja estabelecida por lei.
 
 § único. Se o número de famílias a realojar for inferior ao número de fogos a que se refere este artigo, a distribuição das casas sobrantes far-se-á nos termos gerais, salvo se outras condições forem estabelecidas por acordo entre as instituições de previdência e as câmaras municipais interessadas.
 
-###### Art. 21.º Sempre que o julgue conveniente, pode o Ministro das Corporações e Previdência Social determinar que as casas de renda económica ainda não habitadas sejam transformadas em prédios em regime de propriedade horizontal.
+Art. 21.º Sempre que o julgue conveniente, pode o Ministro das Corporações e Previdência Social determinar que as casas de renda económica ainda não habitadas sejam transformadas em prédios em regime de propriedade horizontal.
 
-###### Art. 22.º As casas que, nos termos dos artigos 21.º e 23.º ou da base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), passarem ao regime da propriedade horizontal ficam em tudo sujeitas, bem como os respectivos moradores-adquirentes, à legislação sobre casas económicas.
+Art. 22.º As casas que, nos termos dos artigos 21.º e 23.º ou da base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), passarem ao regime da propriedade horizontal ficam em tudo sujeitas, bem como os respectivos moradores-adquirentes, à legislação sobre casas económicas.
 
 § 1.º A classificação dos fogos por classes e tipos far-se-á mediante despacho do Ministro das Corporações e Previdência Social, segundo o critério que entender mais conveniente.
 
 § 2.º Na determinação das prestações mensais para amortização das casas que forem atribuídas nos termos da base VII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) observar-se-á o disposto no artigo 3.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956.
 
-###### Art. 23.º As casas de renda económica constituídas por um único fogo podem ser transformadas em casas económicas, observando-se em tudo o disposto na base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e nos artigos 21.º, 22.º e 24.º deste decreto-lei, salvo no que for específico da propriedade horizontal.
+Art. 23.º As casas de renda económica constituídas por um único fogo podem ser transformadas em casas económicas, observando-se em tudo o disposto na base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997) e nos artigos 21.º, 22.º e 24.º deste decreto-lei, salvo no que for específico da propriedade horizontal.
 
-###### Art. 24.º As casas de renda económica que passem ao regime de propriedade resolúvel e respectivos logradouros serão entregues ao Instituto Nacional do Trabalho e Previdência (Fundo das Casas Económicas), sendo as instituições proprietárias ou financiadoras da construção reembolsadas de conformidade com o quadro de amortizações que for aprovado pelo Ministro das Corporações e Previdência Social, no qual se indicarão as datas do início e do termo do reembolso.
+Art. 24.º As casas de renda económica que passem ao regime de propriedade resolúvel e respectivos logradouros serão entregues ao Instituto Nacional do Trabalho e Previdência (Fundo das Casas Económicas), sendo as instituições proprietárias ou financiadoras da construção reembolsadas de conformidade com o quadro de amortizações que for aprovado pelo Ministro das Corporações e Previdência Social, no qual se indicarão as datas do início e do termo do reembolso.
 
 § único. Na determinação do quantitativo do reembolso a que se refere o corpo deste artigo observar-se-á o seguinte:
 
@@ -249,10 +288,10 @@ a) Tratando-se de casas de renda económica ainda não entregues às instituiç�
 
 b) Se as casas de renda económica já tiverem sido entregues às instituições de previdência, o valor a reembolsar, tendo por base o capital investido, será o equivalente à despesa que teria de ser efectuada nesse momento para a construção de casa idêntica no mesmo local.
 
-###### Art. 25.º Nos actos relacionados com a entrega a que se refere o artigo anterior intervirá, sempre que necessário, em representação do Instituto Nacional do Trabalho e Previdência (Fundo das Casas Económicas), o director-geral da Previdência e Habitações Económicas ou, por sua delegação, um funcionário superior dos serviços de casas económicas da respectiva Direcção-Geral, para o efeito designado.
+Art. 25.º Nos actos relacionados com a entrega a que se refere o artigo anterior intervirá, sempre que necessário, em representação do Instituto Nacional do Trabalho e Previdência (Fundo das Casas Económicas), o director-geral da Previdência e Habitações Económicas ou, por sua delegação, um funcionário superior dos serviços de casas económicas da respectiva Direcção-Geral, para o efeito designado.
 
-###### Art. 26.º Ficam expressamente revogadas as seguintes disposições: artigo 26.º do [Decreto-Lei n.º 33278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33278-1943-405974), de 24 de Novembro de 1943; artigos 7.º, 8.º, 9.º e 12.º do [Decreto-Lei n.º 39288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39288-1953-642202), de 21 de Junho de 1953; §§ 1.º e 2.º do artigo 3.º e artigo 6.º do [Decreto-Lei n.º 39978](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39978-1954-675629), de 20 de Dezembro de 1954; §§ 1.º, 2.º, 3.º e 4.º do artigo 2.º e §§ 2.º, 3.º e 4.º do artigo 3.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956; [Decreto-Lei n.º 41211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41211-1957-280033), de 2 de Agosto de 1957.
+Art. 26.º Ficam expressamente revogadas as seguintes disposições: artigo 26.º do [Decreto-Lei n.º 33278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33278-1943-405974), de 24 de Novembro de 1943; artigos 7.º, 8.º, 9.º e 12.º do [Decreto-Lei n.º 39288](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39288-1953-642202), de 21 de Junho de 1953; §§ 1.º e 2.º do artigo 3.º e artigo 6.º do [Decreto-Lei n.º 39978](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39978-1954-675629), de 20 de Dezembro de 1954; §§ 1.º, 2.º, 3.º e 4.º do artigo 2.º e §§ 2.º, 3.º e 4.º do artigo 3.º do [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956; [Decreto-Lei n.º 41211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41211-1957-280033), de 2 de Agosto de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

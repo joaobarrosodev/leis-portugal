@@ -20,12 +20,12 @@ publication:
   reference: Diário da República n.º 302/1977, 2º Suplemento, Série I de 1977-12-31
   number: '302'
   series: I
-  supplement: 2º Suplemento
+  supplement: null
   pages: 3178-(17) a 3178-(18)
   pdf_url: https://files.diariodarepublica.pt/1s/1977/12/30202/00170018.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/551-1977-404481
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2018-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T23:09:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fbe5df9a7d174312e165e45b411f2a6368e8207ee17d3ab136a1be1e0060e1fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9e61cd057c29944edea179c1e8be7ceb2201463011c96b4585eff3d56e1c0a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:09:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- EPAC
+- Estatuto
+- Extinção de Serviços
+- Instituto dos Cereais
 relationships:
 - type: amended_by
   target: pt:dre:115235757:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:240847:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429776:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:09:21Z'
   warnings: []
   errors: []
 ---
@@ -109,13 +131,13 @@ Num sistema concorrencial entre a actividade pública, privada e cooperativa, s�
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:
 
-###### Artigo 1.º É extinto o Instituto dos Cereais, com efeitos a partir de 1 de Dezembro de 1977.
+Artigo 1.º É extinto o Instituto dos Cereais, com efeitos a partir de 1 de Dezembro de 1977.
 
-###### Art. 2.º A Empresa Pública de Abastecimento de Cereais (EPAC), criada pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto, iniciará a sua actividade na data de extinção do Instituto dos Cereais.
+Art. 2.º A Empresa Pública de Abastecimento de Cereais (EPAC), criada pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de 4 de Agosto, iniciará a sua actividade na data de extinção do Instituto dos Cereais.
 
-###### Art. 3.º É extinto o Instituto dos Cereais, E. P. (ICEP), criado pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776).
+Art. 3.º É extinto o Instituto dos Cereais, E. P. (ICEP), criado pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776).
 
-###### Art. 4.º Constituem objectivos da EPAC:
+Art. 4.º Constituem objectivos da EPAC:
 
 a) Dar concretização às medidas definidas pelo Governo relativamente à regularização do mercado dos cereais e sementes;
 
@@ -129,7 +151,7 @@ e) Dar parecer sobre a importação de cereais e produtos afins e derivados, ten
 
 f) Promover, como complemento da sua acção comercial, actividades de apoio técnico, junto da indústria utilizadora das matérias-primas fornecidas, por iniciativa própria ou em colaboração com outras entidades.
 
-###### Art. 5.º O conselho de gerência da EPAC deverá, no prazo de trinta dias, a contar da data do início da actividade:
+Art. 5.º O conselho de gerência da EPAC deverá, no prazo de trinta dias, a contar da data do início da actividade:
 
 a) Proceder à revisão dos estatutos definidos pelo [Decreto-Lei n.º 663/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1976-429776), de acordo com as disposições deste diploma e com o [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril;
 
@@ -137,22 +159,22 @@ b) Apresentar o balanço de abertura da actividade da empresa, referido a 1 de D
 
 c) Elaborar o quadro de pessoal da empresa.
 
-###### Art. 6.º Transitam para a EPAC todo o pessoal, património, direitos e obrigações do Instituto dos Cereais.
+Art. 6.º Transitam para a EPAC todo o pessoal, património, direitos e obrigações do Instituto dos Cereais.
 
-###### Art. 7.º O capital estatutário inicial da empresa será representado pelo valor do activo imobilizado, depois da reavaliação referida na alínea b) do artigo 5.º deste diploma.
+Art. 7.º O capital estatutário inicial da empresa será representado pelo valor do activo imobilizado, depois da reavaliação referida na alínea b) do artigo 5.º deste diploma.
 
-###### Art. 8.º O balanço de abertura da actividade e o quadro do pessoal da EPAC serão aprovados pelo Ministro da Tutela após parecer, quanto ao primeiro, da comissão de fiscalização.
+Art. 8.º O balanço de abertura da actividade e o quadro do pessoal da EPAC serão aprovados pelo Ministro da Tutela após parecer, quanto ao primeiro, da comissão de fiscalização.
 
-###### Art. 9.º Os estatutos da EPAC, revistos nos termos da alínea a) do artigo 5.º deste diploma, serão aprovados por decreto referendado pelo Primeiro-Ministro e pelos Ministros das Finanças, do Planeamento e Coordenação Económica e da Agricultura e Pescas.
+Art. 9.º Os estatutos da EPAC, revistos nos termos da alínea a) do artigo 5.º deste diploma, serão aprovados por decreto referendado pelo Primeiro-Ministro e pelos Ministros das Finanças, do Planeamento e Coordenação Económica e da Agricultura e Pescas.
 
-###### Art. 10.º Os poderes de tutela do Governo sobre a EPAC serão exercidos através do Ministério da Agricultura e Pescas.
+Art. 10.º Os poderes de tutela do Governo sobre a EPAC serão exercidos através do Ministério da Agricultura e Pescas.
 
-###### Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Miguel Morais Barreto.
 
-**Promulgado em 22 de Dezembro de 1977.**
+Promulgado em 22 de Dezembro de 1977.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

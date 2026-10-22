@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1971-644282
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T22:18:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0d51e75ce6f12f68cea1ec2d7a3247ded1646d4d85aa56262b492b33c3e9cd0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3b3bf800ad61a53d5c261c7dc5bcb875cd2986021ac6e5af2861dfea10893fc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Instituto de Acção Social Escolar
+- Ministério da Educação Nacional
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:18:28Z'
   warnings: []
   errors: []
 ---
@@ -106,15 +115,15 @@ I
 
 Criação, atribuições, competências e objecto
 
-###### Artigo 1.º - 1. É criado no Ministério da Educação Nacional, sob a dependência directa do Ministro, o Instituto de Acção Social Escolar, que terá por fim possibilitar os estudos, para além da escolaridade obrigatória, a quem tenha capacidade intelectual para os prosseguir, bem como proporcionar aos estudantes em geral condições propícias para tirarem dos estudos o máximo rendimento.
+Artigo 1.º - 1. É criado no Ministério da Educação Nacional, sob a dependência directa do Ministro, o Instituto de Acção Social Escolar, que terá por fim possibilitar os estudos, para além da escolaridade obrigatória, a quem tenha capacidade intelectual para os prosseguir, bem como proporcionar aos estudantes em geral condições propícias para tirarem dos estudos o máximo rendimento.
 
 2. A acção social escolar será orientada para a formação moral e cívica da juventude, tendo sempre em vista a integração dos jovens na comunidade nacional e o afervoramento do seu amor à Pátria.
 
-###### Art. 2.º - 1. Na realização da finalidade referida no artigo anterior, são atribuições do Instituto de Acção Social Escolar o estudo da problemática global da acção social escolar e a execução, no âmbito do Ministério da Educação Nacional, da política de acção social escolar definida pelo Governo.
+Art. 2.º - 1. Na realização da finalidade referida no artigo anterior, são atribuições do Instituto de Acção Social Escolar o estudo da problemática global da acção social escolar e a execução, no âmbito do Ministério da Educação Nacional, da política de acção social escolar definida pelo Governo.
 
 2. Para tanto, compete ao Instituto de Acção Social Escolar praticar todos os actos necessários ou convenientes à integral prossecução das suas atribuições e, em especial, exercer os poderes de administração, de cooperação, de superintendência e de prestação enumerados nos artigos seguintes.
 
-###### Art. 3.º No exercício da sua competência de administração, pertence nomeadamente ao Instituto:
+Art. 3.º No exercício da sua competência de administração, pertence nomeadamente ao Instituto:
 
 a) Realizar os estudos necessários à definição, pelo Governo, da política de acção social escolar;
 
@@ -130,7 +139,7 @@ f) Elaborar e manter actualizado o inventário de todas as entidades de acção 
 
 g) Promover a divulgação, ampla e permanente, de informações relativas às suas próprias actividades e, em geral, aos meios de acção social escolar postos à disposição da população estudantil.
 
-###### Art. 4.º No exercício da sua competência de cooperação, pertence nomeadamente ao Instituto:
+Art. 4.º No exercício da sua competência de cooperação, pertence nomeadamente ao Instituto:
 
 a) Cooperar com todos os outros Ministérios que possuam ou administrem estabelecimentos escolares de qualquer natureza, de modo a trocar informações, confrontar experiências e, quando possível, uniformizar procedimentos;
 
@@ -140,13 +149,13 @@ c) Estabelecer relações de colaboração e de assistência técnica e financei
 
 d) Cooperar e fomentar a cooperação com organizações internacionais de fim idêntico e com organismos estrangeiros congéneres, e bem assim assegurar a participação de representantes portugueses em congressos internacionais sobre a matéria.
 
-###### Art. 5.º No exercício da sua competência de superintendência, pertence ao Instituto:
+Art. 5.º No exercício da sua competência de superintendência, pertence ao Instituto:
 
 a) Orientar a actividade desenvolvida em matéria de acção social escolar, em colaboração com outras entidades públicas ou particulares;
 
 b) Expedir instruções sobre a execução das leis e regulamentos respeitantes a acção social escolar, que serão obrigatórias para todos os serviços que hajam de aplicar tais leis e regulamentos.
 
-###### Art. 6.º No exercício da sua competência de prestação, pertence ao Instituto:
+Art. 6.º No exercício da sua competência de prestação, pertence ao Instituto:
 
 a) Criar os serviços necessários à realização, em benefício da população estudantil, das prestações de acção social escolar;
 
@@ -156,7 +165,7 @@ c) Fomentar iniciativas não estaduais, públicas ou privadas, mediante concess�
 
 d) Conceder ou delegar a exploração dos serviços e instalações que administrar, sempre que se revele menos conveniente a exploração directa.
 
-###### Art. 7.º - 1. A acção social escolar tem por objecto quer a concessão de auxílios económicos aos alunos carecidos de recursos, quer a prestação de serviços aos alunos em geral.
+Art. 7.º - 1. A acção social escolar tem por objecto quer a concessão de auxílios económicos aos alunos carecidos de recursos, quer a prestação de serviços aos alunos em geral.
 
 2. A concessão de auxílios económicos aos alunos carecidos de recursos abrangerá, entre outras, as seguintes modalidades:
 
@@ -196,19 +205,19 @@ II
 
 Natureza, organização e funcionamento
 
-###### Art. 8.º O Instituto de Acção Social Escolar tem personalidade jurídica e goza de autonomia administrativa e financeira.
+Art. 8.º O Instituto de Acção Social Escolar tem personalidade jurídica e goza de autonomia administrativa e financeira.
 
-###### Art. 9.º São transferidas para o Instituto de Acção Social Escolar as funções actualmente desempenhadas, em matéria de acção social escolar, por todas as direcções-gerais do Ministério da Educação Nacional.
+Art. 9.º São transferidas para o Instituto de Acção Social Escolar as funções actualmente desempenhadas, em matéria de acção social escolar, por todas as direcções-gerais do Ministério da Educação Nacional.
 
-###### Art. 10.º - 1. À medida que se for mostrando conveniente, pode o Ministro da Educação Nacional, por decreto referendado pelo Ministro da Finanças, incorporar no Instituto de Acção Social Escolar quaisquer outros organismos, serviços ou fundos do seu Ministério.
+Art. 10.º - 1. À medida que se for mostrando conveniente, pode o Ministro da Educação Nacional, por decreto referendado pelo Ministro da Finanças, incorporar no Instituto de Acção Social Escolar quaisquer outros organismos, serviços ou fundos do seu Ministério.
 
 2. Pode também o Ministro da Educação Nacional, pela mesma forma, determinar a transferência para o Instituto de Acção Social Escolar das funções de acção social escolar desempenhadas, cumulativamente com outras, por organismos autónomos que actuem no âmbito do seu Ministério.
 
-###### Art. 11.º - 1. Todos os organismos autónomos que, no âmbito do Ministério da Educação Nacional, exerçam exclusivamente funções de acção social escolar, e não sejam incorporados no Instituto de Acção Social Escolar, passam a depender deste Instituto e a encaminhar por ele os assuntos que careçam de despacho ministerial.
+Art. 11.º - 1. Todos os organismos autónomos que, no âmbito do Ministério da Educação Nacional, exerçam exclusivamente funções de acção social escolar, e não sejam incorporados no Instituto de Acção Social Escolar, passam a depender deste Instituto e a encaminhar por ele os assuntos que careçam de despacho ministerial.
 
 2. Quanto aos organismos autónomos que, no âmbito do mesmo Ministério, exerçam, cumulativamente com outras, funções de acção social escolar, enquanto estas não forem transferidas para o Instituto de Acção Social Escolar estabelecerão com este as relações de colaboração e coordenação que o Ministro da Educação Nacional definir.
 
-###### Art. 12.º São órgãos do Instituto de Acção Social Escolar:
+Art. 12.º São órgãos do Instituto de Acção Social Escolar:
 
 a) O presidente;
 
@@ -216,11 +225,11 @@ b) O conselho geral;
 
 c) O conselho administrativo.
 
-###### Art. 13.º - 1. O presidente será nomeado livremente por despacho conjunto do Presidente do Conselho e do Ministro da Educação Nacional, por períodos de três anos renováveis.
+Art. 13.º - 1. O presidente será nomeado livremente por despacho conjunto do Presidente do Conselho e do Ministro da Educação Nacional, por períodos de três anos renováveis.
 
 2. Compete ao presidente presidir às reuniões do conselho geral e do conselho administrativo, chefiar a acção do Instituto de Acção Social Escolar e dirigir os serviços, autorizar despesas nos termos e até aos limites estabelecidos para os dirigentes dos organismos dotados de autonomia administrativa e financeira e representar o Instituto de Acção Social Escolar em juízo e fora dele.
 
-###### Art. 14.º - 1. O conselho geral é composto, além do presidente, pelos seguintes vogais:
+Art. 14.º - 1. O conselho geral é composto, além do presidente, pelos seguintes vogais:
 
 a) Um representante do Ministério das Finanças;
 
@@ -250,11 +259,11 @@ l) Um representante das direcções-gerais do Ministério.
 
 4. O conselho geral reunirá ordinàriamente duas vezes por ano, competindo-lhe aprovar o orçamento e o plano de actividades referentes ao ano escolar seguinte, aprovar o relatório anual e a conta de gerência referentes ao ano escolar anterior e, em geral, fiscalizar a actuação do conselho administrativo e pronunciar-se acerca da orientação das actividades do Instituto de Acção Social Escolar.
 
-###### Art. 15.º - 1. O conselho administrativo é composto, além do presidente, por quatro vogais, nomeados pelo Ministro da Educação Nacional, de entre individualidades de reconhecida competência, por períodos de três anos, renováveis, podendo, contudo, ser livremente exonerados em qualquer momento.
+Art. 15.º - 1. O conselho administrativo é composto, além do presidente, por quatro vogais, nomeados pelo Ministro da Educação Nacional, de entre individualidades de reconhecida competência, por períodos de três anos, renováveis, podendo, contudo, ser livremente exonerados em qualquer momento.
 
 2. O conselho administrativo reúne ordinàriamente uma vez por semana, competindo-lhe praticar todos os actos necessários ao desempenho regular das funções atribuídas ao Instituto de Acção Social Escolar e, nomeadamente, preparar o orçamento e o plano de actividades referentes ao ano escolar seguinte, elaborar o relatório anual e a conta de gerência referentes ao ano escolar anterior, arrecadar as receitas e autorizar as despesas do Instituto de Acção Social Escolar nos termos da lei, instalar os serviços e assegurar as condições do seu funcionamento e elaborar os regulamentos internos do Instituto.
 
-###### Art. 16.º - 1. O presidente do Instituto de Acção Social Escolar terá a categoria de director-geral, cabendo-lhe vencimento correspondente á letra B do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+Art. 16.º - 1. O presidente do Instituto de Acção Social Escolar terá a categoria de director-geral, cabendo-lhe vencimento correspondente á letra B do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
 2. Os vogais do conselho geral terão direito ao abono de uma senha de presença por cada sessão a que assistirem.
 
@@ -262,7 +271,7 @@ l) Um representante das direcções-gerais do Ministério.
 
 4. O presidente e os vogais do conselho administrativo, quando tenham de se deslocar no exercício das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente.
 
-###### Art. 17.º - 1. Compete ao Ministro da Educação Nacional definir a política de acção social escolar do seu departamento, traduzi-la em directivas e instruções a observar pelos órgãos do Instituto de Acção Social Escolar.
+Art. 17.º - 1. Compete ao Ministro da Educação Nacional definir a política de acção social escolar do seu departamento, traduzi-la em directivas e instruções a observar pelos órgãos do Instituto de Acção Social Escolar.
 
 2. O Ministro da Educação Nacional poderá participar nas reuniões do conselho geral e do conselho administrativo, pertencendo-lhe então a presidência.
 
@@ -274,7 +283,7 @@ III
 
 Receitas e despesas
 
-###### Art. 18.º - 1. Constituem receitas do Instituto de Acção Social Escolar:
+Art. 18.º - 1. Constituem receitas do Instituto de Acção Social Escolar:
 
 a) As verbas que lhe forem destinadas anualmente pelo Governo;
 
@@ -306,13 +315,13 @@ m) Quaisquer outras receitas não proibidas por lei.
 
 4. Os valores e condições de aplicação das vinhetas escolares, referidas na alínea d) do n.º 1 deste artigo, bem como a consignação de quaisquer outros rendimentos, tributos ou adicionais ao Instituto de Acção Social Escolar, constarão de diploma especial.
 
-###### Art. 19.º - 1. O Instituto arrecadará e administrará as suas receitas e satisfará por meio delas as despesas necessárias à prossecução das suas atribuições.
+Art. 19.º - 1. O Instituto arrecadará e administrará as suas receitas e satisfará por meio delas as despesas necessárias à prossecução das suas atribuições.
 
 2. Para tanto organizará o orçamento anual das suas receitas e despesas, o qual será sujeito à aprovação do conselho geral, à do Ministro da Educação Nacional e a visto do Ministro das Finanças.
 
 3. Os saldos apurados no fim de cada ano financeiro serão transferidos para a gerência do ano seguinte e inscritos como receita do Instituto.
 
-###### Art. 20.º - 1. O numerário do Instituto será depositado na Caixa Geral de Depósitos, podendo, contudo, o conselho administrativo manter em cofre um fundo de maneio para satisfação das despesas correntes, até um máximo de dois duodécimos da dotação anual.
+Art. 20.º - 1. O numerário do Instituto será depositado na Caixa Geral de Depósitos, podendo, contudo, o conselho administrativo manter em cofre um fundo de maneio para satisfação das despesas correntes, até um máximo de dois duodécimos da dotação anual.
 
 2. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão assinados e visados pelo presidente, ou quem suas vezes fizer, e por um vogal do conselho administrativo.
 
@@ -320,15 +329,15 @@ IV
 
 Pessoal
 
-###### Art. 21.º - 1. O quadro e os vencimentos do pessoal vitalício do Instituto serão os constantes do mapa a publicar, nos termos gerais, e após um período de funcionamento experimental, até 31 de Dezembro de 1971.
+Art. 21.º - 1. O quadro e os vencimentos do pessoal vitalício do Instituto serão os constantes do mapa a publicar, nos termos gerais, e após um período de funcionamento experimental, até 31 de Dezembro de 1971.
 
 2. Igualmente se publicarão, então, as normas aplicáveis ao recrutamento, provimento e aposentação desse pessoal.
 
-###### Art. 22.º - 1. Além do pessoal do quadro referido no n.º 1 do artigo anterior, ou, em seu lugar, enquanto durar o período de funcionamento experimental, poderá ser livremente contratado ou assalariado, mediante despacho do Ministro da Educação Nacional, o pessoal técnico, administrativo e auxiliar que for necessário aos serviços do Instituto.
+Art. 22.º - 1. Além do pessoal do quadro referido no n.º 1 do artigo anterior, ou, em seu lugar, enquanto durar o período de funcionamento experimental, poderá ser livremente contratado ou assalariado, mediante despacho do Ministro da Educação Nacional, o pessoal técnico, administrativo e auxiliar que for necessário aos serviços do Instituto.
 
 2. As remunerações do pessoal referido no n.º 1 deste artigo, que sejam atribuídas quer a título de vencimento, quer a título de gratificação, serão fixadas pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças, sempre que não se trate de categorias correspondentes às previstas na lei geral.
 
-###### Art. 23.º - 1. Os funcionários públicos ou equiparados chamados a prestar serviço de carácter permanente no instituto ficarão sujeitos ao regime legal de comissão de serviço.
+Art. 23.º - 1. Os funcionários públicos ou equiparados chamados a prestar serviço de carácter permanente no instituto ficarão sujeitos ao regime legal de comissão de serviço.
 
 2. Só excepcionalmente os funcionários referidos no número anterior prestarão serviço no regime legal de acumulação, podendo o Ministro da Educação Nacional, com o acordo do Ministro das Finanças, atribuir-lhes, sem prejuízo de vencimento, uma gratificação pelo ónus especial do cargo.
 
@@ -344,26 +353,26 @@ V
 
 Disposições complementares
 
-###### Art. 24.º O Instituto de Acção Social Escolar e os organismos por ele subsidiados ou dele dependentes beneficiam de vantagens idênticas àquelas de que goza a Manutenção Militar na aquisição de géneros alimentícios e outros produtos.
+Art. 24.º O Instituto de Acção Social Escolar e os organismos por ele subsidiados ou dele dependentes beneficiam de vantagens idênticas àquelas de que goza a Manutenção Militar na aquisição de géneros alimentícios e outros produtos.
 
-###### Art. 25.º - 1. Os lucros dos serviços de acção social escolar mantidos por estabelecimentos de ensino particular são isentos de todos os impostos ordinários devidos ao Estado e às autarquias locais, desde que integralmente reinvestidos até 30 de Junho do ano seguinte àquele a que respeitam em instalações ou equipamentos de exclusivo interesse para aqueles serviços.
+Art. 25.º - 1. Os lucros dos serviços de acção social escolar mantidos por estabelecimentos de ensino particular são isentos de todos os impostos ordinários devidos ao Estado e às autarquias locais, desde que integralmente reinvestidos até 30 de Junho do ano seguinte àquele a que respeitam em instalações ou equipamentos de exclusivo interesse para aqueles serviços.
 
 2. Para o efeito do disposto no número anterior, devem os interessados apresentar até 31 de Julho na repartição de finanças competente, para liquidação da contribuição industrial, relação dos investimentos efectuados.
 
-###### Art. 26.º - 1. O regime jurídico de cada uma das modalidades de acção social escolar referidos neste diploma será objecto de legislação especial.
+Art. 26.º - 1. O regime jurídico de cada uma das modalidades de acção social escolar referidos neste diploma será objecto de legislação especial.
 
 2. O regulamento do Instituto de Acção Social Escolar será aprovado por decreto dos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 27.º - 1. A concessão de auxílio e a prestação de serviços de acção social escolar podem ser condicionados segundo as normas aplicáveis a cada modalidade, ao bom aproveitamento ou ao bom comportamento dos alunos.
+Art. 27.º - 1. A concessão de auxílio e a prestação de serviços de acção social escolar podem ser condicionados segundo as normas aplicáveis a cada modalidade, ao bom aproveitamento ou ao bom comportamento dos alunos.
 
 2. O regulamento do Instituto de Acção Social Escolar definirá os critérios de prioridade a aplicar na atribuição de benefícios.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 
-**Promulgado em 19 de Abril de 1971.**
+Promulgado em 19 de Abril de 1971.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser presente à Assembleia Nacional.

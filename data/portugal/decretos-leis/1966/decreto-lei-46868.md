@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/02/03400/02190222.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,100 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46868-1966-488850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fa12d2f9e5832cc8d42a124dc06ec28b7b1a31bc158fdedbf6f012e18e13c908
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c368be0b2cdb5f1005bd96bee6ff996a5e73fa887d3c55bd03f4555cb5696239
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aguardente
+- Armazenista
+- Bebida Alcoólica
+- Câmara Municipal
+- Comércio
+- Comércio por Grosso
+- Comissão
+- Comissão de Viticultura da Região dos Vinhos Verdes
+- Conservatória do Registo Comercial
+- Contribuição Industrial
+- Criação de Serviços
+- Definição de Competências
+- Direção
+- Direito de Voto
+- Federação dos Vinicultores da Região do Douro
+- Federação dos Vinicultores do DÃO
+- Fiscalização
+- Grémio dos Armazenistas de Vinhos
+- Instituto do Vinho do Porto
+- Junta Nacional dos Vinhos
+- Licores
+- Pagamento
+- Pessoa Coletiva
+- Pessoa Singular
+- Porto
+- Prazo
+- Presidente
+- Processo Disciplinar
+- Produtor
+- Prova
+- Recurso
+- Região Demarcada
+- Retalhista
+- Secretário de Estado do Comércio
+- Venda
+- Vinagre
+- Vinho
+- Vitivinicultor
 relationships:
 - type: amended_by
   target: pt:dre:321573:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363709:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:379277:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:539210:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:321573:por
+  label: "Revogado pelo DEC LEI.178/99.1999.05.21.MADRP DR.IS-A [118], a partir da data da entrada em vigor da Portaria a\
+    \ que se refere o art. 5º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/178-1999-321573
+  date: '1999-05-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:10Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +156,7 @@ Assim:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O Grémio dos Armazenistas de Vinhos abrange todas as pessoas singulares ou colectivas que exerçam o comércio por grosso de vinhos e derivados, aguardentes diversas e licores.
+Artigo 1.º O Grémio dos Armazenistas de Vinhos abrange todas as pessoas singulares ou colectivas que exerçam o comércio por grosso de vinhos e derivados, aguardentes diversas e licores.
 
 § 1.º Na área de acção do Grémio dos Armazenistas de Vinhos, o exercício do comércio referido neste artigo só é permitido aos sócios do Grémio.
 
@@ -104,7 +164,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 3.º Nas disposições legais respeitantes ao Grémio dos Armazenistas de Vinhos ou com este relacionadas, a expressão «vinhos é seus derivados» deve considerar-se substituída pela de «vinhos e derivados, aguardentes diversas e licores».
 
-###### Art. 2.º A inscrição como sócio do Grémio ou armazenista registado far-se-á em diferentes modalidades e categorias, de acordo com o ramo de comércio exercido e o volume do negócio.
+Art. 2.º A inscrição como sócio do Grémio ou armazenista registado far-se-á em diferentes modalidades e categorias, de acordo com o ramo de comércio exercido e o volume do negócio.
 
 § 1.º Os pedidos de inscrição serão dirigidos ao presidente da direcção do Grémio dos Armazenistas de Vinhos, instruídos com os elementos de prova dos requisitos fixados neste diploma para o exercício da actividade e devem conter a indicação da modalidade ou modalidades de comércio que exercem ou pretendem exercer e da categoria em que desejam inscrever-se.
 
@@ -114,7 +174,7 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 4.º Os armazenistas, cuja inscrição no Grémio tenha sido cancelada ou a quem tenha sido aplicada a pena de eliminação em processo disciplinar, só podem ser readmitidos passados dois anos da data do cancelamento.
 
-###### Art. 3.º As modalidades de comércio a que se refere o artigo anterior são as seguintes:
+Art. 3.º As modalidades de comércio a que se refere o artigo anterior são as seguintes:
 
 a) Armazenista de vinhos e derivados, aguardentes diversas e licores, comercializados em vasilhas de qualquer natureza e capacidade;
 
@@ -144,7 +204,7 @@ n) Armazenista distribuidor de vinhos e derivados, aguardentes diversas e licore
 
 o) Armazenista distribuidor de vinhos e derivados, aguardentes diversas e licores, adquiridos a uma só entidade, engarrafados em vasilhas de capacidade até 5,3 l, com marca registada e vendidos nas mesmas condições.
 
-###### Art. 4.º Para o exercício da actividade de armazenista de vinhos e derivados, aguardentes diversas e licores é necessário o preenchimento dos seguintes requisitos:
+Art. 4.º Para o exercício da actividade de armazenista de vinhos e derivados, aguardentes diversas e licores é necessário o preenchimento dos seguintes requisitos:
 
 a) Possuir armazéns privativos que reúnam as indispensáveis condições de capacidade, arejamento e higiene;
 
@@ -162,17 +222,17 @@ f) Possuir a organização comercial indispensável ao exercício da actividade 
 
 § 2.º Os armazéns privativos, mencionados na alínea a), não podem justificar mais de uma inscrição no Grémio dos Armazenistas de Vinhos.
 
-###### Art. 5.º As existências mínimas obrigatórias correspondentes às modalidades previstas no artigo 3.º constam do mapa anexo, com excepção do que se refere aos armazenistas preparadores de vinhos espumantes naturais e de vinhos espumosos gasificados, aos quais se aplica o disposto no [Decreto-Lei n.º 44778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44778-1962-155187), de 7 de Dezembro de 1962.
+Art. 5.º As existências mínimas obrigatórias correspondentes às modalidades previstas no artigo 3.º constam do mapa anexo, com excepção do que se refere aos armazenistas preparadores de vinhos espumantes naturais e de vinhos espumosos gasificados, aos quais se aplica o disposto no [Decreto-Lei n.º 44778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44778-1962-155187), de 7 de Dezembro de 1962.
 
 § 1.º O mapa anexo a este diploma poderá ser alterado mediante portaria do Secretário de Estado do Comércio, ouvida a Junta Nacional do Vinho.
 
 § 2.º Nos casos em que for julgado conveniente, o Secretário de Estado do Comércio, ouvida a Junta Nacional do Vinho, determinará, em despacho, a forma de constituição das existências mínimas, tendo em atenção a variedade e volume dos produtos comercializados.
 
-###### Art. 6.º Sempre que as circunstâncias o aconselharem, as existências mínimas constantes do mapa anexo podem ser alteradas, transitòriamente, em qualquer período do ano, por despacho do Secretário de Estado do Comércio, sob proposta da Junta Nacional do Vinho.
+Art. 6.º Sempre que as circunstâncias o aconselharem, as existências mínimas constantes do mapa anexo podem ser alteradas, transitòriamente, em qualquer período do ano, por despacho do Secretário de Estado do Comércio, sob proposta da Junta Nacional do Vinho.
 
 § único. Para os armazenistas que negoceiem exclusivamente em vinhos verdes, as existências mínimas serão reduzidas de 50 por cento, entre 1 de Agosto e 31 de Dezembro, nos termos seguintes: 20 por cento em Agosto, 20 por cento em Setembro e 10 por cento de Outubro a Dezembro.
 
-###### Art. 7.º Os armazenistas devem possuir, pelo menos, 50 por cento da existência mínima obrigatória no seu armazém principal, assim se considerando aquele donde são feitas as expedições para venda.
+Art. 7.º Os armazenistas devem possuir, pelo menos, 50 por cento da existência mínima obrigatória no seu armazém principal, assim se considerando aquele donde são feitas as expedições para venda.
 
 § 1.º O armazém principal dos sócios inscritos depois da entrada em vigor deste diploma deve situar-se dentro da área de acção do Grémio dos Armazenistas de Vinhos.
 
@@ -192,7 +252,7 @@ c) Aos armazenistas que negoceiem em vinhos típicos regionais, relativamente ao
 
 § 6.º As sociedades que vierem a constituir-se e resultem da fusão ou associação de armazenistas já existentes não ficam abrangidas pelas excepções previstas nas alíneas a) e b) do parágrafo anterior.
 
-###### Art. 8.º O § 2.º do artigo 2.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277), de 23 de Março de 1935, passa a ter a seguinte redacção:
+Art. 8.º O § 2.º do artigo 2.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277), de 23 de Março de 1935, passa a ter a seguinte redacção:
 
 § 2.º São considerados retalhistas de vinhos e derivados, aguardentes diversas e licores:
 
@@ -210,7 +270,7 @@ f) Os vendedores ambulantes;
 
 g) Os produtores que, nas suas adegas, vendam vinho a retalho, directamente ao público.
 
-###### Art. 9.º É dada nova redacção aos n.os 1.º e 2.º do artigo 9.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277) e acrescentado um parágrafo ao referido artigo, nos seguintes termos:
+Art. 9.º É dada nova redacção aos n.os 1.º e 2.º do artigo 9.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277) e acrescentado um parágrafo ao referido artigo, nos seguintes termos:
 
 1.º Pagar, por uma só vez, uma jóia de inscrição da importância de 20000$00, para os inscritos da modalidade correspondente à alínea a) do artigo 3.º deste decreto-lei, de 10000$00 para as outras modalidades previstas no mesmo artigo 3.º, exceptuadas as correspondentes às alíneas l), m), n ) e o), para as quais a jóia é de 2500$00;
 
@@ -218,11 +278,11 @@ g) Os produtores que, nas suas adegas, vendam vinho a retalho, directamente ao p
 
 § único. As sociedades que vierem a constituir-se em resultado da fusão ou associação de armazenistas já estabelecidos ficam isentas do pagamento da jóia.
 
-###### Art. 10.º Os §§ 1.º e 2.º do artigo 26.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277) são substituídos pela seguinte parágrafo:
+Art. 10.º Os §§ 1.º e 2.º do artigo 26.º da [Lei n.º 1889](https://diariodarepublica.pt/dr/detalhe/lei/1889-1935-379277) são substituídos pela seguinte parágrafo:
 
 § único. Os votos dos sócios do Grémio dos Armazenistas de Vinhos serão determinados em função das existências mínimas obrigatórias, cabendo um voto aos que possuam existências até 100000 l, acrescido de um voto por cada 100000 l a mais.
 
-###### Art. 11.º Os §§ 1.º e 5.º do artigo 15.º do [Decreto-Lei n.º 27002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27002-1936-363709), de 12 de Setembro de 1936, passam a ter a seguinte redacção:
+Art. 11.º Os §§ 1.º e 5.º do artigo 15.º do [Decreto-Lei n.º 27002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27002-1936-363709), de 12 de Setembro de 1936, passam a ter a seguinte redacção:
 
 § 1.º A comissão será constituída por um presidente e por um representante de cada uma das seguintes entidades:
 
@@ -244,19 +304,19 @@ g) Os produtores que, nas suas adegas, vendam vinho a retalho, directamente ao p
 
 § 5.º O presidente da comissão será nomeado pelo Secretário de Estado do Comércio, podendo a escolha recair em pessoa estranha ao comércio de vinhos e outros produtos vínicos, aguardentes diversas e licores.
 
-###### Art. 12.º Os §§ 1.º e 2.º do artigo 17.º do [Decreto-Lei n.º 27002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27002-1936-363709) são substituídos pelo seguinte parágrafo:
+Art. 12.º Os §§ 1.º e 2.º do artigo 17.º do [Decreto-Lei n.º 27002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27002-1936-363709) são substituídos pelo seguinte parágrafo:
 
 § único. Os membros da direcção da delegação serão escolhidos, pela direcção do Grémio, de entre seis sócios eleitos por uma assembleia regional constituída por agremiados adstritos à mesma delegação.
 
-###### Art. 13.º Ao artigo 2.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210), de 18 de Janeiro de 1955, é acrescentado o seguinte parágrafo:
+Art. 13.º Ao artigo 2.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210), de 18 de Janeiro de 1955, é acrescentado o seguinte parágrafo:
 
 § único. Consideram-se mandatários as pessoas que, em nome e no interesse do mandante, adquiram os produtos na origem ou promovam a sua venda junto dos retalhistas legalmente reconhecidos como tais, sem qualquer intervenção de terceiros.
 
-###### Art. 14.º É alterada a redacção da artigo 12.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210) nos termos a seguir indicados e o seu 2.º passa a § único:
+Art. 14.º É alterada a redacção da artigo 12.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210) nos termos a seguir indicados e o seu 2.º passa a § único:
 
-###### Art. 12.º O engarrafamento de vinhos e derivados, aguardentes diversas e licores em vasilhas de capacidade até 5,3 l, sob marcas comercias e industriais, só é permitida aos produtores e aos armazenistas.
+Art. 12.º O engarrafamento de vinhos e derivados, aguardentes diversas e licores em vasilhas de capacidade até 5,3 l, sob marcas comercias e industriais, só é permitida aos produtores e aos armazenistas.
 
-###### Art. 15.º Os armazenistas que, à data da publicação deste diploma, estejam inscritos no Grémio dos Armazenistas de Vinhos, como sócios ou registados, terão de preencher as novas condições exigidas para o exercício da actividade, no prazo de seis meses, contados a partir da publicação do presente decreto-lei.
+Art. 15.º Os armazenistas que, à data da publicação deste diploma, estejam inscritos no Grémio dos Armazenistas de Vinhos, como sócios ou registados, terão de preencher as novas condições exigidas para o exercício da actividade, no prazo de seis meses, contados a partir da publicação do presente decreto-lei.
 
 § 1.º A constituição das existências mínimas deverá efectuar-se no prazo de 30 dias, a contar da data da publicação do presente decreto-lei, para o que poderão utilizar-se armazéns não privativos autorizados, a título precário, pelo Grémio, ouvido o organismo vitivinícola que superintender na respectiva região.
 
@@ -264,13 +324,13 @@ g) Os produtores que, nas suas adegas, vendam vinho a retalho, directamente ao p
 
 § 3.º Para os armazenistas registados, o prazo de constituição das existências mínimas é de um ano, a partir da publicação deste diploma.
 
-###### Art. 16.º As pessoas singulares ou colectivas que, à data da publicação deste diploma, exerçam o comércio por grosso dos produtos referidos no artigo 1.º e que ainda não se encontrem inscritas no Grémio das Armazenistas de Vinhos, como sócios ou registados, ficam obrigadas a inscrever-se no prazo de 60 dias, a partir da publicação do presente decreto-lei.
+Art. 16.º As pessoas singulares ou colectivas que, à data da publicação deste diploma, exerçam o comércio por grosso dos produtos referidos no artigo 1.º e que ainda não se encontrem inscritas no Grémio das Armazenistas de Vinhos, como sócios ou registados, ficam obrigadas a inscrever-se no prazo de 60 dias, a partir da publicação do presente decreto-lei.
 
 § único. Será concedida o prazo de dois anos, após a inscrição, para o preenchimento das condições exigidas para o exercício da actividade, salvo no que respeita às existências mínimas, cuja constituição, peio menos em relação a 50 por cento, deverá verificar-se ao fim do 1.º semestre, em armazéns privativos ou noutros autorizados, a título precário, pelo Grémio, nos termos referidos na parte final do § 1.º do artigo anterior.
 
-###### Art. 17.º Ficam revogados os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 7.º, bem como o § 1.º do artigo 12.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210), de 18 de Janeiro de 1955.
+Art. 17.º Ficam revogados os artigos 1.º, 3.º, 4.º, 5.º, 6.º e 7.º, bem como o § 1.º do artigo 12.º do [Decreto-Lei n.º 40036](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40036-1955-539210), de 18 de Janeiro de 1955.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Fevereiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado.
 

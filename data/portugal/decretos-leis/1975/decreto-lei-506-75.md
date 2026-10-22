@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21600/14201421.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:44:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c1c667a595c16f709eebf9ec6d083e044cc29cb99274d4e5b9f1a6d4c16713e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0e463f8cc68b50072a916a7308a10fa140067c52e327b723f4e7a152da6f3757
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:44:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Função Pública
+- Funcionário Público
+- Rectificação de TIPO de Diploma
+- Remuneração
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:500935:por
+  label: "Suspensa transitoriamente a execução dos aumentos de vencimentos derivados da publicação do presente diploma pelo\
+    \ DEC LEI.216/76.25.03.1976.MAI, DG.IS [72] de 25.03.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1976-500935
+  date: '1976-03-25'
+- type: amended_by
+  target: pt:dre:391209:por
+  label: "Alterados, a partir de 01.01.1977, os vencimentos que integram a tabela aprovada no presente diploma, pelo DEC LEI.923/76.31.12.1976.MAI,\
+    \ DR.IS [303]3ºSupl de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/923-1976-391209
+  date: '1976-12-31'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:305469:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:336981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475688:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:312829:por
+  label: "Rectificado pela RECT.DD159.16.10.1975.PCM, DG.IS [240] de 16.10.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1975-312829
+  date: '1975-10-16'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:44:44Z'
   warnings: []
   errors: []
 ---
@@ -100,7 +146,7 @@ Nestes termos, ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º - 1. Os trabalhadores civis do Estado, da Administração Central, Local e Regional, na efectividade de serviço, cujos ordenados mensais se integrem numa das categorias da tabela salarial aprovada pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, passam a ser abonados, a partir de 1 de Maio de 1975, dos seguintes vencimentos:
+Artigo 1.º - 1. Os trabalhadores civis do Estado, da Administração Central, Local e Regional, na efectividade de serviço, cujos ordenados mensais se integrem numa das categorias da tabela salarial aprovada pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, passam a ser abonados, a partir de 1 de Maio de 1975, dos seguintes vencimentos:
 
 A - 18900$00.
 
@@ -160,34 +206,34 @@ c) A letra Y corresponderá à letra U.
 
 5. O tempo de serviço prestado até à data da entrada em vigor do presente diploma pelos trabalhadores a que se refere o número anterior conta para efeitos do cômputo neste estabelecido.
 
-###### Art. 2.º Os vencimentos dos paquetes, aprendizes e praticantes com menos de 20 anos de idade são actualizados, com efeitos desde 1 de Maio de 1975, de harmonia com os seguintes critérios:
+Art. 2.º Os vencimentos dos paquetes, aprendizes e praticantes com menos de 20 anos de idade são actualizados, com efeitos desde 1 de Maio de 1975, de harmonia com os seguintes critérios:
 
 a) Os que usufruem de remuneração igual ou inferior a 3000$00 mensais terão um aumento de 30%, garantindo-se-lhes um mínimo de 3500$00;
 
 b) Os que têm remunerações iguais ou superiores a 3300$00 beneficiarão de um aumento de 25%.
 
-###### Art. 3.º Os vencimentos mensais correspondentes a cargos ou funções exercidos em regime de tempo completo cujo valor seja superior ao fixado para a letra Y pelo [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), mas não coincida com os de qualquer das categorias estabelecidas no n.º 1 do seu artigo 1.º, passarão a corresponder ao da categoria mais próxima, actualizada de harmonia com o disposto no artigo 1.º deste diploma, salvo se aquele vencimento se situar exactamente entre duas categorias, caso em que se inserirá na imediatamente superior.
+Art. 3.º Os vencimentos mensais correspondentes a cargos ou funções exercidos em regime de tempo completo cujo valor seja superior ao fixado para a letra Y pelo [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), mas não coincida com os de qualquer das categorias estabelecidas no n.º 1 do seu artigo 1.º, passarão a corresponder ao da categoria mais próxima, actualizada de harmonia com o disposto no artigo 1.º deste diploma, salvo se aquele vencimento se situar exactamente entre duas categorias, caso em que se inserirá na imediatamente superior.
 
-###### Art. 4.º As gratificações que constituam única forma de remuneração do exercício de determinados cargos ou funções serão actualizadas, com efeitos a partir de 1 de Maio de 1975, de harmonia com os critérios que vierem a ser definidos pela comissão a que se refere o artigo 4.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Junho.
+Art. 4.º As gratificações que constituam única forma de remuneração do exercício de determinados cargos ou funções serão actualizadas, com efeitos a partir de 1 de Maio de 1975, de harmonia com os critérios que vierem a ser definidos pela comissão a que se refere o artigo 4.º do [Decreto-Lei n.º 362/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/362-1975-336981), de 10 de Junho.
 
-###### Art. 5.º Sempre que se verifique que da aplicação do disposto no n.º 2 do artigo 1.º do presente diploma e nos n.os 2 e 3 do artigo 2.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, resultam situações que se mostre indispensável corrigir em matéria de remunerações, poderão as categorias ser reclassificadas ou as designações alteradas, mediante decreto do Ministro competente, precedendo parecer da Secretaria de Estado da Administração Pública.
+Art. 5.º Sempre que se verifique que da aplicação do disposto no n.º 2 do artigo 1.º do presente diploma e nos n.os 2 e 3 do artigo 2.º do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto, resultam situações que se mostre indispensável corrigir em matéria de remunerações, poderão as categorias ser reclassificadas ou as designações alteradas, mediante decreto do Ministro competente, precedendo parecer da Secretaria de Estado da Administração Pública.
 
-###### Art. 6.º É eliminada a distribuição por classes das categorias gerais constantes dos mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, que se enumeram de harmonia com as designações que se passarão a adoptar: escriturário-dactilógrafo, motorista, contínuo, porteiro, guarda e guarda-nocturno.
+Art. 6.º É eliminada a distribuição por classes das categorias gerais constantes dos mapas anexos ao [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, que se enumeram de harmonia com as designações que se passarão a adoptar: escriturário-dactilógrafo, motorista, contínuo, porteiro, guarda e guarda-nocturno.
 
-###### Art. 7.º As actualizações dos vencimentos fixadas no presente diploma serão objecto de arredondamento, de acordo com os critérios estabelecidos pelo [Decreto-Lei n.º 615/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1973-178988), de 15 de Novembro.
+Art. 7.º As actualizações dos vencimentos fixadas no presente diploma serão objecto de arredondamento, de acordo com os critérios estabelecidos pelo [Decreto-Lei n.º 615/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1973-178988), de 15 de Novembro.
 
-###### Art. 8.º As diferenças a pagar desde 1 de Maio de 1975 aos trabalhadores da função pública, por força desta revisão da tabela salarial, serão liquidadas em partes iguais, arredondadas, nos meses de Setembro, Outubro e Novembro.
+Art. 8.º As diferenças a pagar desde 1 de Maio de 1975 aos trabalhadores da função pública, por força desta revisão da tabela salarial, serão liquidadas em partes iguais, arredondadas, nos meses de Setembro, Outubro e Novembro.
 
-###### Art. 9.º O montante das remunerações acessórias, deduzido nos termos do artigo 6.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho, fica cativo de transferência no Orçamento Geral do Estado.
+Art. 9.º O montante das remunerações acessórias, deduzido nos termos do artigo 6.º do [Decreto-Lei n.º 294/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1975-305469), de 16 de Junho, fica cativo de transferência no Orçamento Geral do Estado.
 
-###### Art. 10.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
+Art. 10.º As dúvidas e lacunas resultantes da aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministros da Administração Interna e das Finanças, sob parecer das Direcções-Gerais da Função Pública e da Contabilidade Pública.
 
-###### Art. 11.º Este diploma entra imediatamente em vigor.
+Art. 11.º Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso.
 
-**Promulgado em 13 de Setembro de 1975.**
+Promulgado em 13 de Setembro de 1975.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

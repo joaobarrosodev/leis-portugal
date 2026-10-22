@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1974/09/21300/10611062.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1974-473736
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2011-08-12T00:00:00Z'
+  retrieved_at: '2026-10-22T22:33:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d6f133a25657f8a907f2e81f9f6da5e62c6db50dec1339eb41ca1812c66c1ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ef3eb278ef31d4c4e8c735b67d299f0010cf1e290da8946757fa809d20504aa7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:33:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Direcção Geral dos Serviços Industriais
+- Farinha
+- Indústria da Moagem
+- Regulamento da Peneiração das Farinhas em RAMA
 relationships:
 - type: amended_by
   target: pt:dre:671474:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:337183:por
+  label: "Alterados os arts. 1º, 4º, 5º e 8º do Regulamento, aprovado pelo presente diploma, pelo DEC LEI.312/75.26.06.1975.MIT,\
+    \ DG.IS [145] de 26.06.1975\05\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/312-1975-337183
+  date: '1975-06-26'
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:261929:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:380929:por
+  label: Revogado, a partir de 01.01.1985, pelo(a) Decreto-Lei n.º 288/84 - Diário da República n.º 196/1984, Série I de 1984-08-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/288-1984-380929
+  date: '1984-08-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:33:44Z'
   warnings: []
   errors: []
 ---
@@ -100,37 +129,37 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento da Peneiração das Farinhas em Rama, anexo a este decreto-lei.
+Artigo 1.º É aprovado o Regulamento da Peneiração das Farinhas em Rama, anexo a este decreto-lei.
 
-###### Art. 2.º - 1. A faculdade de peneirar fica dependente de prévia autorização, a qual será concedida aos interessados que preencham as condições definidas no citado Regulamento.
+Art. 2.º - 1. A faculdade de peneirar fica dependente de prévia autorização, a qual será concedida aos interessados que preencham as condições definidas no citado Regulamento.
 
 2. A autorização referida no número anterior deve ser expressa e a sua concessão é da competência da Direcção-Geral dos Serviços Industriais, ouvido o Instituto dos Cereais.
 
-###### Art. 3.º A concessão da autorização para peneirar não impede:
+Art. 3.º A concessão da autorização para peneirar não impede:
 
 a) O fornecimento de farinhas não peneiradas pelas moagens de ramas;
 
 b) A peneiração pelas padarias, nos termos da lei em vigor, das farinhas não peneiradas que lhes sejam fornecidas pelas moagens.
 
-###### Art. 4.º Às moagens de ramas autorizadas a peneirar não são aplicáveis as disposições legais referentes à indústria de moagem com peneiração, nomeadamente o Regulamento do Exercício da Indústria de Moagem de Trigo com Peneiração, aprovado pelo Decreto-Lei n.º 43834, de 29 de Julho de 1961, com a alteração introduzida pelo artigo 57.º do [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), de 28 de Fevereiro.
+Art. 4.º Às moagens de ramas autorizadas a peneirar não são aplicáveis as disposições legais referentes à indústria de moagem com peneiração, nomeadamente o Regulamento do Exercício da Indústria de Moagem de Trigo com Peneiração, aprovado pelo Decreto-Lei n.º 43834, de 29 de Julho de 1961, com a alteração introduzida pelo artigo 57.º do [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), de 28 de Fevereiro.
 
-###### Art. 5.º Os limites, condições e características referidas nos artigos 3.º e 4.º do Regulamento anexo podem ser alterados por portaria conjunta dos Secretários de Estado da Indústria e Energia e do Abastecimento e Preços.
+Art. 5.º Os limites, condições e características referidas nos artigos 3.º e 4.º do Regulamento anexo podem ser alterados por portaria conjunta dos Secretários de Estado da Indústria e Energia e do Abastecimento e Preços.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Emílio Rui da Veiga Peixoto Vilar.
 
-**Promulgado em 2 de Setembro de 1974.**
+Promulgado em 2 de Setembro de 1974.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO DE SPÍNOLA.**
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
 
 Regulamento da Peneiração das Farinhas em Rama
 
-###### Artigo 1.º É concedida às moagens de ramas que, durante, pelo menos, um ano, laborem trigos distribuídos através do Instituto dos Cereais a faculdade de, nos termos e condições estabelecidos neste Regulamento, procederem à peneiração da sua farinha de trigo em rama com incorporação destinada à indústria de panificação.
+Artigo 1.º É concedida às moagens de ramas que, durante, pelo menos, um ano, laborem trigos distribuídos através do Instituto dos Cereais a faculdade de, nos termos e condições estabelecidos neste Regulamento, procederem à peneiração da sua farinha de trigo em rama com incorporação destinada à indústria de panificação.
 
-###### Art. 2.º O pedido de autorização para peneirar deve ser solicitado ao director-geral dos Serviços Industriais, em requerimento apresentado em triplicado, sendo o original em papel selado, e acompanhado dos esclarecimentos necessários à verificação das condições referidas no artigo 3.º
+Art. 2.º O pedido de autorização para peneirar deve ser solicitado ao director-geral dos Serviços Industriais, em requerimento apresentado em triplicado, sendo o original em papel selado, e acompanhado dos esclarecimentos necessários à verificação das condições referidas no artigo 3.º
 
-###### Art. 3.º As moagens referidas no artigo 1.º que forem autorizadas a peneirar ficam obrigadas a satisfazer as seguintes condições:
+Art. 3.º As moagens referidas no artigo 1.º que forem autorizadas a peneirar ficam obrigadas a satisfazer as seguintes condições:
 
 1.ª Preencherem os requisitos de salubridade, higiene, segurança e comodidade a que se referem o [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317), de 28 de Março de 1966, e seus diplomas regulamentares;
 
@@ -138,9 +167,9 @@ Regulamento da Peneiração das Farinhas em Rama
 
 3.ª Utilizarem um sistema eficaz de limpeza do cereal composto pelos seguintes aparelhos: tarara com separador de partículas metálicas, separador de sementes (trieur), despedregadora, escovadora de cereais e lavadora com coluna secadora.
 
-###### Art. 4.º A peneiração nas moagens de farinha de trigo em rama com incorporação será efectuada por meio de tela que não exceda o n.º 44 (17 (mais ou menos) 1 malhas por centímetro linear).
+Art. 4.º A peneiração nas moagens de farinha de trigo em rama com incorporação será efectuada por meio de tela que não exceda o n.º 44 (17 (mais ou menos) 1 malhas por centímetro linear).
 
-###### Art. 5.º - 1. Os limites máximos das características da farinha de trigo em rama com incorporação, após a peneiração, são os seguintes:
+Art. 5.º - 1. Os limites máximos das características da farinha de trigo em rama com incorporação, após a peneiração, são os seguintes:
 
 ... Percentagens
 
@@ -152,11 +181,11 @@ Cinza ... 1,1
 
 2. A mesma farinha deve ter um mínimo de 7% de glúten seco e o resíduo insolúvel do ácido clorídrico não pode exceder 0,1%.
 
-###### Art. 6.º É proibida a existência ou utilização nas moagens de ramas de peneiros com malha mais apertada do que a referida no artigo 4.º ou quaisquer outros aparelhos que possam servir para alterar os tipos e características legais das farinhas.
+Art. 6.º É proibida a existência ou utilização nas moagens de ramas de peneiros com malha mais apertada do que a referida no artigo 4.º ou quaisquer outros aparelhos que possam servir para alterar os tipos e características legais das farinhas.
 
-###### Art. 7.º É proibida a alteração do ciclo normal do fabrico da farinha, nomeadamente a realização de mais do que um acto de moenda e de peneiração.
+Art. 7.º É proibida a alteração do ciclo normal do fabrico da farinha, nomeadamente a realização de mais do que um acto de moenda e de peneiração.
 
-###### Art. 8.º - 1. É punida com a multa de 20000$00 a 100000$00, se outra pena mais grave lhe não couber, a prática dos seguintes actos:
+Art. 8.º - 1. É punida com a multa de 20000$00 a 100000$00, se outra pena mais grave lhe não couber, a prática dos seguintes actos:
 
 a) Existência ou utilização de peneiros nas moagens de ramas não autorizadas a peneirar;
 
@@ -170,6 +199,6 @@ e) Alteração do ciclo normal de fabrico de farinha.
 
 2. Às penas mencionadas no número anterior acrescerá sempre a apreensão dos peneiros ou outros aparelhos não autorizados e dos produtos objecto de infracção.
 
-###### Art. 9.º As dúvidas que surjam na aplicação do presente Regulamento serão esclarecidas por despacho dos Secretários de Estado da Indústria e Energia e do Abastecimento e Preços.
+Art. 9.º As dúvidas que surjam na aplicação do presente Regulamento serão esclarecidas por despacho dos Secretários de Estado da Indústria e Energia e do Abastecimento e Preços.
 
-**O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.**
+O Ministro da Economia, Emílio Rui da Veiga Peixoto Vilar.

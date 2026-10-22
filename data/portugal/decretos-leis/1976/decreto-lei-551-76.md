@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16200/15411543.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/551-1976-430425
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:55:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ede8ade9ce4d7c4ce30a27d4502a63f30de24854e7e482563315940cb8655fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 31667f6729e4387396c2461d4162344a5106ea9a7ff5c3640cfb4e728695fe4d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:55:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimentação
+- Extinção de Serviços
+- Fiscalização
+- Ministério da Justiça
+- Produto Alimentar
+- Transferência de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:122434535:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:409128:por
+  label: "Alterados os nºs. 1 e 4 do art. 6º e o art. 9º pelo DEC LEI.689/76.20.09.1976.MJ, DR.IS [221] de 20.09.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/689-1976-409128
+  date: '1976-09-20'
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:55:55Z'
   warnings: []
   errors: []
 ---
@@ -120,9 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É extinto o Tribunal Colectivo dos Géneros Alimentícios, e as suas atribuições passam para os tribunais comuns de jurisdição ordinária.
+Artigo 1.º É extinto o Tribunal Colectivo dos Géneros Alimentícios, e as suas atribuições passam para os tribunais comuns de jurisdição ordinária.
 
-###### Art. 2.º - 1. Mantém-se em vigor a legislação referente à instrução dos processos relativos a infracções que eram da competência do Tribunal extinto, sem prejuízo do disposto nos números seguintes.
+Art. 2.º - 1. Mantém-se em vigor a legislação referente à instrução dos processos relativos a infracções que eram da competência do Tribunal extinto, sem prejuízo do disposto nos números seguintes.
 
 2. A instrução preparatória será realizada, sob a direcção do juiz de instrução, pelas entidades a quem competia, até 4 de Maio de 1976, a direcção da mesma.
 
@@ -136,7 +152,7 @@ c) Determinar a realização de quaisquer diligências ou proceder directamente 
 
 4. Finda a instrução preparatória, serão os autos remetidos ao tribunal territorialmente competente para conhecer da infracção segundo as regras do Código de Processo Penal.
 
-###### Art. 3.º - 1. Remetido o processo a juízo, observar-se-ão as normas relativas ao processo correccional em tudo o que não for regulado pelos números seguintes.
+Art. 3.º - 1. Remetido o processo a juízo, observar-se-ão as normas relativas ao processo correccional em tudo o que não for regulado pelos números seguintes.
 
 2. O número de testemunhas a oferecer pela acusação e pela defesa não poderá exceder a oito, por cada infracção, quando haja lugar a pena de prisão, e a três, por cada infracção, se a pena aplicável for apenas a de multa.
 
@@ -144,19 +160,19 @@ c) Determinar a realização de quaisquer diligências ou proceder directamente 
 
 4. É obrigatóra a comparência do arguido a julgamento quando ao mesmo seja aplicável pena de prisão e, tratando-se de pena de multa, sempre que o juiz o determine.
 
-###### Art. 4.º - 1. A matéria de tributação regular-se-á pelas normas estabelecidas no Código das Custas Judiciais para o processo correccional.
+Art. 4.º - 1. A matéria de tributação regular-se-á pelas normas estabelecidas no Código das Custas Judiciais para o processo correccional.
 
 2. As receitas cobradas em juízo terão o destino fixado na lei geral, salvo qualquer destinação fixada em lei especial.
 
 3. As multas e as custas, quando não pagas no prazo legal, serão cobradas através do processo de execução por custas.
 
-###### Art. 5.º - 1. O actual promotor de Justiça junto do Tribunal extinto será colocado, se o requerer, no Ministério da Administração Interna ou no Ministério do Comércio Interno, em lugar compatível com as suas habilitações literárias, a sua categoria, actual vencimento e tempo de serviço.
+Art. 5.º - 1. O actual promotor de Justiça junto do Tribunal extinto será colocado, se o requerer, no Ministério da Administração Interna ou no Ministério do Comércio Interno, em lugar compatível com as suas habilitações literárias, a sua categoria, actual vencimento e tempo de serviço.
 
 2. Quando a colocação se efectue no Ministério do Comércio Interno, serão, ainda, factores atendíveis a experiência e preparação especializadas, decorrentes do desempenho do actual cargo.
 
 3. Na falta de requerimento, o promotor de Justiça ficará na situação de adido no Ministério da Administração Interna.
 
-###### Art. 6.º - 1. Os actuais funcionários do Tribunal extinto serão colocados no Ministério da Justiça, em efectividade de serviço, atendendo-se à sua actual categoria, vencimentos e tempo de serviço.
+Art. 6.º - 1. Os actuais funcionários do Tribunal extinto serão colocados no Ministério da Justiça, em efectividade de serviço, atendendo-se à sua actual categoria, vencimentos e tempo de serviço.
 
 2. Os terceiros-oficiais do mesmo Tribunal serão equiparados, para todos os efeitos, a ajudantes de escrivão.
 
@@ -164,19 +180,19 @@ c) Determinar a realização de quaisquer diligências ou proceder directamente 
 
 4. Os funcionários judiciais que, em comissão de serviço, desempenhem funções no Tribunal extinto regressam ao seu quadro de origem e terão preferência no preenchimento de lugares da sua categoria na comarca de Lisboa.
 
-###### Art. 7.º - 1. No prazo de vinte dias, a contar da entrada em vigor deste diploma, os processos pendentes no Tribunal extinto serão remetidos ao tribunal que for competente nos termos do n.º 4 do artigo 2.º
+Art. 7.º - 1. No prazo de vinte dias, a contar da entrada em vigor deste diploma, os processos pendentes no Tribunal extinto serão remetidos ao tribunal que for competente nos termos do n.º 4 do artigo 2.º
 
 2. Os processos relativos a réus presos ou em cumprimento da pena serão, porém, remetidos no prazo de dez dias.
 
-###### Art. 8.º Os valores das cauções, ou de outra natureza, respeitantes a processos do Tribunal extinto serão transferidos ou remetidos para ou ao tribunal que for competente, nos termos do n.º 4 do artigo 2.º, e nos prazos referidos no artigo anterior.
+Art. 8.º Os valores das cauções, ou de outra natureza, respeitantes a processos do Tribunal extinto serão transferidos ou remetidos para ou ao tribunal que for competente, nos termos do n.º 4 do artigo 2.º, e nos prazos referidos no artigo anterior.
 
-###### Art. 9.º - 1. Os processos e livros arquivados, instaurados ou iniciados há mais de trinta anos serão remetidos ao Arquivo Distrital de Lisboa.
+Art. 9.º - 1. Os processos e livros arquivados, instaurados ou iniciados há mais de trinta anos serão remetidos ao Arquivo Distrital de Lisboa.
 
 2. Os demais processos e livros em arquivo serão remetidos aos tribunais que forem competentes, nos termos do n.º 4 do artigo 2.º
 
 3. No cumprimento do estabelecido neste preceito observar-se-á o prazo fixado no n.º 1 do artigo 7.º
 
-###### Art. 10.º - 1. O cadastro individual dos antigos funcionários do Tribunal extinto e da antiga Inspecção-Geral dos Serviços de Fiscalização dos Géneros Alimentícios serão remetidos ao Comando-Geral da Polícia de Segurança Pública.
+Art. 10.º - 1. O cadastro individual dos antigos funcionários do Tribunal extinto e da antiga Inspecção-Geral dos Serviços de Fiscalização dos Géneros Alimentícios serão remetidos ao Comando-Geral da Polícia de Segurança Pública.
 
 2. Os processos individuais dos actuais funcionários do mesmo Tribunal serão remetidos à entidade que superintender nos serviços em que os funcionários venham a ser colocados, de harmonia com o presente diploma.
 
@@ -184,8 +200,8 @@ c) Determinar a realização de quaisquer diligências ou proceder directamente 
 
 Visto e aprovado em Conselho de Ministros. - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Joaquim Jorge Magalhães Mota.
 
-**Promulgado em 1 de Julho de 1976.**
+Promulgado em 1 de Julho de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+O Presidente da República, FRANCISCO DA COSTA GOMES.

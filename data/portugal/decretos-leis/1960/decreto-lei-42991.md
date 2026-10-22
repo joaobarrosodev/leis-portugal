@@ -47,40 +47,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42991-1960-504545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-07-08T00:00:00Z'
+  retrieved_at: '2026-10-22T21:32:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fb2e6ce7d72f0d7b2095d63ff96e5216768e40a2102171a175ff300e5424b86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f1ebc8074e8c717343153bfb4f95210ebfe8da19b10b8cbb1a1e621333484e1e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajuda Humanitária
+- Assistência Médica
+- Convenção
+- CRUZ Vermelha Internacional
+- Forças Armadas
+- Genebra
+- Guerra
+- Náufrago
+- Portugal
+- Prisioneiro de Guerra
+- Vítima Civil
+- Vítima de Guerra
 relationships:
 - type: amended_by
   target: pt:dre:374992:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:189078:por
+  label: "Aprovados para ratificação os Protocolos Adicionais I e II às Convenções de Genebra aprovadas para ratificação pelo\
+    \ presente diploma, pela RES.10/92.1992.04.01.AR DR.IS-A [77]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/10-1992-189078
+  date: '1992-04-01'
+- type: amended_by
+  target: pt:dre:374992:por
+  label: "Estendida ao Território de Macau a Convenção aprovada para ratificação pelo presente diploma, pelo DEC.158/99.1999.07.08.PR\
+    \ DR.IS-A [157]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/158-1999-374992
+  date: '1999-07-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 68
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:32:25Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +113,7 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovadas, para ratificação, as Convenções de Genebra para a protecção das vítimas de guerra, assinadas em Genebra em 12 de Agosto de 1949, cujos textos em francês e respectiva tradução abaixo se transcrevem:
+Artigo 1.º São aprovadas, para ratificação, as Convenções de Genebra para a protecção das vítimas de guerra, assinadas em Genebra em 12 de Agosto de 1949, cujos textos em francês e respectiva tradução abaixo se transcrevem:
 
 I) Convenção de Genebra para melhorar a situação dos feridos e doentes das forças armadas em campanha;
 
@@ -99,13 +123,13 @@ III) Convenção de Genebra relativa ao tratamento dos prisioneiros de guerra;
 
 IV) Convenção de Genebra relativa à protecção das pessoas civis em tempo de guerra.
 
-###### Art. 2.º O Governo Português só aceita a doutrina do artigo 10.º das Convenções I, II e III e do artigo 11.º da Convenção IV sob reserva de que os pedidos dirigidos pela potência detentora a um Estado neutro ou a um organismo humanitário, para assumir as funções que normalmente competem às potências protectoras, tenham o assentimento ou a concordância do Governo do país de que as pessoas a proteger sejam provenientes (potências de origem).
+Art. 2.º O Governo Português só aceita a doutrina do artigo 10.º das Convenções I, II e III e do artigo 11.º da Convenção IV sob reserva de que os pedidos dirigidos pela potência detentora a um Estado neutro ou a um organismo humanitário, para assumir as funções que normalmente competem às potências protectoras, tenham o assentimento ou a concordância do Governo do país de que as pessoas a proteger sejam provenientes (potências de origem).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Convenção de Genebra para melhorar a situação dos feridos e doentes das forças armadas em campanha, de 12 de Agosto de 1949
 
@@ -637,7 +661,7 @@ Maurice Bourquin.
 
 Pela República Socialista Soviética da Bielorrússia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela Bolívia:
 
@@ -869,11 +893,11 @@ Rana Tarhan.
 
 Pela República Socialista Soviética da Ucrânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela União das Repúblicas Socialistas Soviéticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pelo Uruguai:
 
@@ -959,9 +983,9 @@ No caso de ocupação de um território, as zonas sanitárias que nele se encont
 
 O presente acordo aplicar-se-á igualmente às localidades que as Potências destinarem ao mesmo fim que as zonas sanitárias.
 
-## ANEXO II — [([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Convenção de Genebra para melhorar a situação dos feridos, doentes e náufragos das forças armadas no mar, de 12 de Agosto de 1949
 
@@ -1473,7 +1497,7 @@ Maurice Bourquin.
 
 Pela República Socialista Soviética da Bielorrússia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela Bolívia:
 
@@ -1701,11 +1725,11 @@ Rana Tarhan.
 
 Pela República Socialista Soviética da Ucrânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela União das Repúblicas Socialistas Soviéticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pelo Uruguai:
 
@@ -1719,9 +1743,9 @@ Pela República Federativa Popular da Jugoslávia:
 
 Milan Ristic.
 
-## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Convenção de Genebra relativa ao tratamento dos prisioneiros de guerra de 12 de Agosto de 1949
 
@@ -2809,7 +2833,7 @@ a) Quando estas duas Potências forem limítrofes, a Potência de que dependem o
 
 b) Quando estas duas Potências não forem limítrofes, a Potência detentora suportará os encargos do transporte dos prisioneiros de guerra no seu território até à sua fronteira ou ao seu ponto de embarque mais próximo da Potência de que eles dependem. Quanto às outras despesas resultantes do repatriamento, as Partes interessadas pôr-se-ão de acordo para as repartir equitativamente entre si. A conclusão de um tal acordo não poderá em caso algum justificar a menor demora no repatriamento dos prisioneiros de guerra.
 
-###### ARTIGO 119.ºOs repatriamentos serão efectuados em condições análogas às previstas nos artigos 46.º a 48.º, inclusive, desta Convenção para a transferência dos prisioneiros de guerra, tendo em conta as disposições do artigo 118.º, assim como as que se seguem.
+ARTIGO 119.ºOs repatriamentos serão efectuados em condições análogas às previstas nos artigos 46.º a 48.º, inclusive, desta Convenção para a transferência dos prisioneiros de guerra, tendo em conta as disposições do artigo 118.º, assim como as que se seguem.
 
 Quando do repatriamento, os objectos de valor retirados aos prisioneiros de guerra, conforme as disposições do artigo 18.º e as quantias em moeda estrangeira que não tenham sido convertidas na moeda da Potência detentora ser-lhes-ão restituídas. Os objectos de valor e as quantias em moeda estrangeira que, por qualquer motivo, não tenham sido restituídos aos prisioneiros de guerra na altura do repatriamento serão enviados ao Departamento de informações previsto pelo artigo 122.º
 
@@ -3035,7 +3059,7 @@ Maurice Bourquin.
 
 Pela República Socialista Soviética da Bielorrússia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela Bolívia:
 
@@ -3263,11 +3287,11 @@ Rana Tarhan.
 
 Pela República Socialista Soviética da Ucrânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela União das Repúblicas Socialistas Soviéticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pelo Uruguai:
 
@@ -3517,7 +3541,7 @@ As disposições precedentes não constituem obstáculo ao direito de os prision
 
 (Ver artigo 4.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Nota. - Este bilhete deverá ser impresso de preferência em duas ou três línguas, uma das quais de uso internacional. Dimensões reais do bilhete, que se dobra segundo a linha tracejada: 13 cm x 10 cm.
 
@@ -3525,7 +3549,7 @@ B) Bilhete de captura
 
 (Ver artigo 70.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Nota. - Este modelo deverá ser impresso em duas ou três línguas, principalmente na língua do prisioneiro e na da potência detentora. Dimensões reais: 15 em x 10,5 cm.
 
@@ -3535,13 +3559,13 @@ C) Postal e carta de correspondência
 
 1) Postal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Nota. - Este modelo deverá ser impresso em duas ou três línguas, principalmente na língua do prisioneiro e na da potência detentora. As dimensões são: 15 cm x 10 cm.
 
 2) Carta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Nota. - Este modelo deverá ser impresso em duas ou três línguas, principalmente na língua do prisioneiro e na da potência detentora. Ele pode dobrar-se pela linha tracejada e parte superior entrando na fenda (marcada por ***), ficando então com a forma de envelope. O verso, pautado como o verso do postal que figura no anexo IV anterior, é reservado à correspondência do prisioneiro e pode conter cerca de 250 palavras. As dimensões quando desdobrado são: 29 cm x 15 cm.
 
@@ -3549,7 +3573,7 @@ D) Aviso de óbito
 
 (Ver artigo 120.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Nota. - Este modelo deverá estar impresso em duas línguas ou três, principalmente na língua do prisioneiro de guerra e na da potência detentora. As dimensões do modelo são: 21 cm x 30 cm.
 
@@ -3557,7 +3581,7 @@ E) Certificado de repatriamento
 
 (Ver anexo II, artigo 11.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 ## ANEXO V
 
@@ -3579,7 +3603,7 @@ c) A quantia que deve ser paga expressa na moeda da Potência detentora.
 
 4) Estas notas poderão fazer-se sob a forma de relações. Cada folha destas relações será testemunhada pelo representante dos prisioneiros de guerra e certificada pelo comandante do campo.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Convenção de Genebra relativa à protecção das pessoas civis em tempo de guerra, de 12 de Agosto de 1949
 
@@ -4847,7 +4871,7 @@ Maurice Bourquin.
 
 Pela República Socialista Soviética da Bielorrússia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela Bolívia:
 
@@ -5071,11 +5095,11 @@ Rana Tarhan.
 
 Pela República Socialista Soviética da Ucrânia:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pela União das Repúblicas Socialistas Soviéticas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 Pelo Uruguai:
 
@@ -5207,18 +5231,18 @@ As precedentes disposições não deverão prejudicar o direito de os internados
 
 ## ANEXO III — Cartão de internamento
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 (Dimensões da carta de internamento: 10 cm x 15 cm)
 
 Carta
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 (Dimensões da carta: 29 cm x 15 cm)
 
 Bilhete de correspondência
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf))](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/12300/11091263.pdf)
 
 (Dimensões do bilhete de correspondência: 10 cm x 15 cm)

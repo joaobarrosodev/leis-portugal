@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/05/12000/11621163.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,62 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1980-474512
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T23:27:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f4ae81ac2ba0e5ec8612d283a367fd852fea987bbd817226d1bf59047ed8535f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2901dee951c6d6aa787438255e01457b37cbff78e892d71bf4f49d0295af8186
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:27:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fazenda Pública
+- Tesouraria da Fazenda Pública
 relationships:
 - type: amended_by
   target: pt:dre:686384:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:374599:por
+  label: "Dada nova redacção aos nºs. 3 e 5 do art. 2.º do Dec Lei 475/77, de 14-Nov, na redacção do presente diploma, pelo\
+    \ DEC LEI.350/82.03.09.1982.MFP, DR.IS [204] de 03.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/350-1982-374599
+  date: '1982-09-03'
+- type: cites
+  target: pt:dre:280685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:434040:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:686384:por
+  label: Revogado o presente diploma, pelo(a) Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento,
+    Série I-A de 1993-08-09, salvo o disposto no art. 52.º daquele diploma
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/275-a-1993-686384
+  date: '1993-08-09'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:27:56Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +119,11 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 2.º, 3.º e 7.º do [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Nas sedes dos concelhos ou em outras localidades onde houver agências ou dependências de quaisquer instituições de crédito o actual regime de passagens de fundos em dinheiro das tesourarias da Fazenda Pública, quer em moeda corrente, quer em cheque, passará a ser feito através do movimento de contas bancárias, abertas para este efeito à ordem da Direcção-Geral do Tesouro.
+Artigo 1.º Nas sedes dos concelhos ou em outras localidades onde houver agências ou dependências de quaisquer instituições de crédito o actual regime de passagens de fundos em dinheiro das tesourarias da Fazenda Pública, quer em moeda corrente, quer em cheque, passará a ser feito através do movimento de contas bancárias, abertas para este efeito à ordem da Direcção-Geral do Tesouro.
 
-###### Art. 2.º - 1 - Os tesoureiros da Fazenda Pública depositarão diariamente na agência ou dependência da instituição de crédito mais próxima das respectivas tesourarias as disponibilidades que excedam a importância fixada nos termos do artigo 6.º
+Art. 2.º - 1 - Os tesoureiros da Fazenda Pública depositarão diariamente na agência ou dependência da instituição de crédito mais próxima das respectivas tesourarias as disponibilidades que excedam a importância fixada nos termos do artigo 6.º
 
 2 - No mesmo dia, e se as circunstâncias o aconselharem, poderá ser efectuado mais de um depósito.
 
@@ -115,7 +137,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 7 - Os cheques depositados na conta bancária, que serão imediatamente creditados na referida conta, devem ser mencionados no impresso de depósito pela sua importância global e relacionados em impressos próprios das tesourarias, de modelo a aprovar pela Direcção-Geral do Tesouro, devendo a instituição bancária autenticar um duplicado da relação entregue.
 
-###### Art. 3.º - 1 - Sempre que o saldo das contas de depósito exceda a importância que vier a ser fixada por despacho do Ministro das finanças e do Plano, os tesoureiros da Fazenda Pública promoverão, por meio de cheque sacado sobre essas contas, a transferência dos fundos excedentes para crédito da Caixa Geral do Tesouro no Banco de Portugal.
+Art. 3.º - 1 - Sempre que o saldo das contas de depósito exceda a importância que vier a ser fixada por despacho do Ministro das finanças e do Plano, os tesoureiros da Fazenda Pública promoverão, por meio de cheque sacado sobre essas contas, a transferência dos fundos excedentes para crédito da Caixa Geral do Tesouro no Banco de Portugal.
 
 2 - Quando a importância referida no número anterior se mostrar insuficiente para assegurar os pagamentos pelos tesoureiros da Fazenda Pública, as requisições de fundos solicitadas deverão ser satisfeitas por transferência bancária, creditando-se correspondentemente a conta aberta na respectiva instituição de crédito.
 
@@ -125,7 +147,7 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 5 - Até ao oitavo dia útil de cada mês, as agências ou dependências das instituições de crédito onde tenham sido abertas contas do Tesouro nos termos do presente diploma, enviarão aos tesoureiros da Fazenda Pública o extracto da conta, cujo original será por eles remetido, nos cinco dias úteis seguintes, à Direcção-Geral do Tesouro, devidamente assinado e autenticado e com a declaração de que confere.
 
-###### Art. 7.º - 1 - A emissão de cheques pelos tesoureiros da Fazenda Pública, que serão sempre nominativos, terá lugar:
+Art. 7.º - 1 - A emissão de cheques pelos tesoureiros da Fazenda Pública, que serão sempre nominativos, terá lugar:
 
 a) Quando não existam na tesouraria disponibilidades suficientes para liquidar um documento apresentado a pagamento;
 
@@ -135,9 +157,9 @@ c) Para efeitos de pagamentos respeitantes a quantias de montante superior a 500
 
 2 - Os cheques serão emitidos pelos tesoureiros da Fazenda Pública a favor de terceiros ou a seu favor, quando, neste caso, houver pagamentos a fazer e o exijam as necessidades da tesouraria.
 
-###### Art. 2.º É aditado ao [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, um novo artigo 4.º-A com a seguinte redacção:
+Art. 2.º É aditado ao [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro, um novo artigo 4.º-A com a seguinte redacção:
 
-###### Art. 4.º-A - 1 - Os cheques depositados na conta bancária e que posteriormente se verifique não terem provisão ou terem sido aceites com preterição de requisitos essenciais ou inobservância de outras condições legais serão devolvidos à tesouraria da Fazenda Pública respectiva, que reembolsará no próprio dia a instituição de crédito, valendo como dinheiro até à sua regularização.
+Art. 4.º-A - 1 - Os cheques depositados na conta bancária e que posteriormente se verifique não terem provisão ou terem sido aceites com preterição de requisitos essenciais ou inobservância de outras condições legais serão devolvidos à tesouraria da Fazenda Pública respectiva, que reembolsará no próprio dia a instituição de crédito, valendo como dinheiro até à sua regularização.
 
 2 - Se a operação não for regularizada nos prazos legais, os pagamentos serão considerados nulos, extraindo-se novos títulos de cobrança, no caso de receita virtual, e promovendo-se, nos restantes casos, o necessário para a respectiva cobrança, em conformidade com a lei aplicável.
 
@@ -147,14 +169,14 @@ c) Para efeitos de pagamentos respeitantes a quantias de montante superior a 500
 
 5 - Todos os cheques devolvidos que não devam ser remetidos ao tribunal territorialmente competente ficarão arquivados na tesouraria respectiva durante cinco anos, após o que serão inutilizados.
 
-###### Art. 3.º Deverá continuar a seguir-se o anterior esquema de movimentação de fundos nos concelhos onde não exista agência ou dependência da instituição de crédito, ou quando, por razões de segurança, a Direcção-Geral do Tesouro entenda, ouvido o Banco de Portugal ou sob proposta deste, não dever aplicar-se o regime de movimentação de fundos estabelecido no [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro.
+Art. 3.º Deverá continuar a seguir-se o anterior esquema de movimentação de fundos nos concelhos onde não exista agência ou dependência da instituição de crédito, ou quando, por razões de segurança, a Direcção-Geral do Tesouro entenda, ouvido o Banco de Portugal ou sob proposta deste, não dever aplicar-se o regime de movimentação de fundos estabelecido no [Decreto-Lei n.º 475/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/475-1977-280685), de 14 de Novembro.
 
-###### Art. 4.º O presente decreto-lei entra em vigor no prazo de dez dias, após a sua publicação.
+Art. 4.º O presente decreto-lei entra em vigor no prazo de dez dias, após a sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 2 de Maio de 1980. - Francisco Sá Carneiro.
 
-**Promulgado em 13 de Maio de 1980.**
+Promulgado em 13 de Maio de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

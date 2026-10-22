@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23800/33823383.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1980-462018
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-02-03T00:00:00Z'
+  retrieved_at: '2026-10-22T23:33:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d9e9296f3b9d177cb8d907d4ea8b1dbb1f579e366b0fff134937c75440adcd11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a324350f7fd37a70d59b6871c2d5e7917063383a845780accd7878cb8fc2b890
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:33:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estabelecimento de Ensino
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:367855:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:381374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678041:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367855:por
+  label: "Revogado pelo DEC LEI.41/84.1984.02.03.PCM, DR.IS [29]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/41-1984-367855
+  date: '1984-02-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:33:20Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +120,7 @@ Considerando que nesses serviços se incluem os dependentes do Ministério da Ed
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Sem prejuízo do estabelecido nas alíneas a), b) e c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041) poderão ser criados ou alterados os quadros do pessoal docente e não docente dos estabelecimentos oficiais de ensino, com excepção dos do ensino superior, sempre que se verifique uma das seguintes condições:
+Artigo 1.º - 1 - Sem prejuízo do estabelecido nas alíneas a), b) e c) do n.º 1 do artigo 2.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041) poderão ser criados ou alterados os quadros do pessoal docente e não docente dos estabelecimentos oficiais de ensino, com excepção dos do ensino superior, sempre que se verifique uma das seguintes condições:
 
 a) Criação de estabelecimentos de ensino oficial;
 
@@ -113,7 +136,7 @@ d) Modificações curriculares que, justificadamente, determinem a alteração d
 
 4 - Sempre que as criações ou as alterações referidas no n.º 1 deste artigo originarem aumento de encargos orçamentais, fica o Ministério das Finanças e do Plano autorizado a proceder ao competente reforço das respectivas dotações orçamentais.
 
-###### Art. 2.º - 1 - Sempre que se verifiquem as condições referidas em qualquer das alíneas do n.º 1 do artigo anterior e enquanto não forem providos os lugares criados nos termos do n.º 2 do mesmo artigo, poderá o Ministério da Educação e Ciência realizar contratos de prestação eventual de serviços nos termos do artigo 4.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), com as seguintes adaptações:
+Art. 2.º - 1 - Sempre que se verifiquem as condições referidas em qualquer das alíneas do n.º 1 do artigo anterior e enquanto não forem providos os lugares criados nos termos do n.º 2 do mesmo artigo, poderá o Ministério da Educação e Ciência realizar contratos de prestação eventual de serviços nos termos do artigo 4.º do [Decreto-Lei n.º 35/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1980-678041), com as seguintes adaptações:
 
 a) Os contratos de pessoal docente poderão efectuar-se, no máximo, por um período de um ano escolar;
 
@@ -121,14 +144,14 @@ b) Os contratos de pessoal não docente realizar-se-ão, para o pessoal administ
 
 2 - Para efeitos de execução do disposto no número anterior, é aplicável o n.º 4 do artigo 1.º do presente diploma.
 
-###### Art. 3.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
+Art. 3.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e Ciência e do membro do Governo que tiver a seu cargo a função pública.
 
-###### Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1980. - Francisco Sá Carneiro - Vítor Pereira Crespo.
 
-**Promulgado em 6 de Outubro de 1980.**
+Promulgado em 6 de Outubro de 1980.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

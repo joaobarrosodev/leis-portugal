@@ -46,36 +46,38 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/734-1976-409561
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T22:58:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 364ce5d06f006e0247b208a7b15481be13337eed7fa023b87853919f2f948d0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a4810dcf8ca1f17f521fe554f4d83a4dc7c2281003e5fd3559be325da0d7f858
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:58:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Freguesia
+- PESO da Régua
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:58:17Z'
   warnings: []
   errors: []
 ---
@@ -92,16 +94,16 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º São transferidas, com efeitos a partir de 15 de Setembro do corrente ano, para a freguesia de Sedielos, do concelho de Peso da Régua, as povoações de Ferraria e da parte da Ponte da Fraga, na margem esquerda do rio Sermanha, da freguesia de Vinhós, do mesmo concelho.
+Artigo 1.º São transferidas, com efeitos a partir de 15 de Setembro do corrente ano, para a freguesia de Sedielos, do concelho de Peso da Régua, as povoações de Ferraria e da parte da Ponte da Fraga, na margem esquerda do rio Sermanha, da freguesia de Vinhós, do mesmo concelho.
 
-###### Art. 2.º A delimitação entre as duas freguesias passa a ser definida por uma linha que, partindo do marco divisório M. F. 11, localizado no Cabeço da Loisa, segue pelo cume do monte que divide os baldios entre Ferraria e Ermida até ao local conhecido por Lameira das Covas, daqui seguindo para sul pelos limites do mesmo monte; flecte em seguida para nascente pela linha de água do Vale da Cruz, onde vai entroncar com o caminho vicinal Ermida-Ferraria, prossegue por este para sul até ao sítio do Amadinho, donde continua para nascente pela linha de água da Sabugueira até encontrar o caminho do Lameirão; segue depois por este caminho até se encontrar com o caminho vicinal Ferraria-Vinhós e prossegue por este para nascente e, em seguida, para sul até passar a acompanhar, sucessivamente, a estrema poente dos prédios matriciais n.os 701, 719, 715, 738, 739, 740 e 741, a estrema sul dos prédios matriciais n.os 741, 730 e 732 e a estrema poente dos prédios matriciais n.os 702, 705 e 706; daqui continua para nascente, pela estrema sul do prédio matricial n.º 706, vindo a alcançar, a cerca de 200 m do marco divisório M. F. 22, a actual linha divisória entre as freguesias de Sedielos e Vinhós, que se manterá, a partir daqui, sem qualquer alteração.
+Art. 2.º A delimitação entre as duas freguesias passa a ser definida por uma linha que, partindo do marco divisório M. F. 11, localizado no Cabeço da Loisa, segue pelo cume do monte que divide os baldios entre Ferraria e Ermida até ao local conhecido por Lameira das Covas, daqui seguindo para sul pelos limites do mesmo monte; flecte em seguida para nascente pela linha de água do Vale da Cruz, onde vai entroncar com o caminho vicinal Ermida-Ferraria, prossegue por este para sul até ao sítio do Amadinho, donde continua para nascente pela linha de água da Sabugueira até encontrar o caminho do Lameirão; segue depois por este caminho até se encontrar com o caminho vicinal Ferraria-Vinhós e prossegue por este para nascente e, em seguida, para sul até passar a acompanhar, sucessivamente, a estrema poente dos prédios matriciais n.os 701, 719, 715, 738, 739, 740 e 741, a estrema sul dos prédios matriciais n.os 741, 730 e 732 e a estrema poente dos prédios matriciais n.os 702, 705 e 706; daqui continua para nascente, pela estrema sul do prédio matricial n.º 706, vindo a alcançar, a cerca de 200 m do marco divisório M. F. 22, a actual linha divisória entre as freguesias de Sedielos e Vinhós, que se manterá, a partir daqui, sem qualquer alteração.
 
-###### Art. 3.º A Comissão Administrativa do Município de Peso da Régua procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
+Art. 3.º A Comissão Administrativa do Município de Peso da Régua procederá, no prazo de noventa dias, a contar da publicação do presente decreto-lei, à colocação de marcos, onde se tornem necessários, por forma que fiquem bem patentes os limites fixados no artigo 2.º
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás.
 
-**Promulgado em 8 de Outubro de 1976.**
+Promulgado em 8 de Outubro de 1976.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+O Presidente da República, ANTÓNIO RAMALHO EANES.

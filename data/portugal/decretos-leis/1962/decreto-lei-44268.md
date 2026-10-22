@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44268-1962-516495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1962-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T21:40:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5787ffe0215f684f76d23453f595ab5e1e9139fb3e79b9e88ce8604876ce59c5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b0f8e8a36c02daf1a20e0e028d07b052d1e2d35b35a8fa6b0e6b38c278b32fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:40:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Associação Internacional
+- Comissão
+- Congresso
+- Lisboa
+- Semente
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:40:17Z'
   warnings: []
   errors: []
 ---
@@ -89,24 +94,24 @@ Considerando que se torna conveniente estabelecer as normas administrativas que 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os trabalhos de organização do XIII Congresso da Associação Internacional de Ensaio de Sementes incumbirão a uma comissão organizadora, cujos membros serão designados pelo Ministro dos Negócios Estrangeiros e pelo Secretário de Estado da Agricultura.
+Artigo 1.º Os trabalhos de organização do XIII Congresso da Associação Internacional de Ensaio de Sementes incumbirão a uma comissão organizadora, cujos membros serão designados pelo Ministro dos Negócios Estrangeiros e pelo Secretário de Estado da Agricultura.
 
 § único. Da aludida comissão fará parte um delegado da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 2.º As despesas a efectuar com a preparação e realização do Congresso, incluindo as relativas ao pessoal técnico e administrativo considerado necessário, serão satisfeitas nas condições que forem aprovadas pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças, em conta de dotação a inscrever no orçamento do Ministério da Economia.
+Art. 2.º As despesas a efectuar com a preparação e realização do Congresso, incluindo as relativas ao pessoal técnico e administrativo considerado necessário, serão satisfeitas nas condições que forem aprovadas pelo Secretário de Estado da Agricultura, com a concordância do Ministro das Finanças, em conta de dotação a inscrever no orçamento do Ministério da Economia.
 
-###### Art. 3.º A comissão organizadora procederá ao levantamento das importâncias necessárias mediante requisições de fundos a enviar à 11.ª Repartição da Direcção-Geral da Contabilidade Pública.
+Art. 3.º A comissão organizadora procederá ao levantamento das importâncias necessárias mediante requisições de fundos a enviar à 11.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
 § 1.º As importâncias que não forem imediatamente aplicadas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a movimentação posterior por meio de cheques.
 
 § 2.º As requisições de fundos e os cheques serão assinados pelo presidente da comissão e pelo delegado da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 4.º As despesas realizar-se-ão sem dependência de quaisquer formalidades, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública.
+Art. 4.º As despesas realizar-se-ão sem dependência de quaisquer formalidades, carecendo apenas do visto do delegado da Direcção-Geral da Contabilidade Pública.
 
 Findos os trabalhos do Congresso, serão as contas respectivas encerradas no prazo de 60 dias e sujeitas aos vistos do Ministro das Finanças e do Secretário de Estado da Agricultura, que, a serem concedidos, legitimam a competente prestação de contas.
 
-###### Art. 5.º Mediante decreto assinado pelo Ministro das Finanças e pelo Secretário de Estado da Agricultura, serão promulgadas as alterações que se reconheçam necessárias para execução do presente diploma.
+Art. 5.º Mediante decreto assinado pelo Ministro das Finanças e pelo Secretário de Estado da Agricultura, serão promulgadas as alterações que se reconheçam necessárias para execução do presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho - João Mota Pereira de Campos.

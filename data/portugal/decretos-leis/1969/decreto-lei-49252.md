@@ -49,36 +49,55 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49252-1969-214504
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-20T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfcc99446b9274e78011f6431b3ade65e161ec55e0e016413e5bad1882ebea0e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 116d778e3c35d4e080e3a212eff64613d76fc0909810dff215df2dddeac01601
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Hospital Militar
+- Hospital Militar Principal
+- Instituto de Odivelas
+- Pessoal de Enfermagem
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+relationships:
+- type: cites
+  target: pt:dre:401512:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520003:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636693:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:51Z'
   warnings: []
   errors: []
 ---
@@ -99,30 +118,30 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º Os vencimentos do pessoal de enfermagem civil contratado para serviço no Hospital Militar Principal, nos hospitais militares regionais e no Instituto de Odivelas passam a ser os constantes dos quadros anexos ao presente diploma.
+Artigo 1.º Os vencimentos do pessoal de enfermagem civil contratado para serviço no Hospital Militar Principal, nos hospitais militares regionais e no Instituto de Odivelas passam a ser os constantes dos quadros anexos ao presente diploma.
 
-###### Art. 2.º No quadro orgânico do Hospital Militar Principal, posto em vigor pelo [Decreto-Lei n.º 44166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44166-1962-520003), de 26 de Janeiro de 1962, é feita a seguinte alteração: onde consta uma ajudante de enfermeira de 1.ª classe, deve passar a constar uma auxiliar de enfermagem de 1.ª classe.
+Art. 2.º No quadro orgânico do Hospital Militar Principal, posto em vigor pelo [Decreto-Lei n.º 44166](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44166-1962-520003), de 26 de Janeiro de 1962, é feita a seguinte alteração: onde consta uma ajudante de enfermeira de 1.ª classe, deve passar a constar uma auxiliar de enfermagem de 1.ª classe.
 
-###### Art. 3.º No quadro orgânico do Instituto de Odivelas, posto em vigor pelo [Decreto-Lei n.º 36613](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36613-1947-636693), de 24 de Novembro de 1947, são feitas as seguintes alterações: onde consta um chefe de enfermaria, deve passar a constar uma enfermeira-subchefe; onde consta uma auxiliar de enfermagem, deve passar a constar uma auxiliar de enfermagem de 1.ª classe; onde consta uma enfermeira, deve passar a constar uma enfermeira de 1.ª classe.
+Art. 3.º No quadro orgânico do Instituto de Odivelas, posto em vigor pelo [Decreto-Lei n.º 36613](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36613-1947-636693), de 24 de Novembro de 1947, são feitas as seguintes alterações: onde consta um chefe de enfermaria, deve passar a constar uma enfermeira-subchefe; onde consta uma auxiliar de enfermagem, deve passar a constar uma auxiliar de enfermagem de 1.ª classe; onde consta uma enfermeira, deve passar a constar uma enfermeira de 1.ª classe.
 
-###### Art. 4.º Por despacho dos Ministros das Finanças e do Exército podem ser contratadas auxiliares de enfermagem de 1.ª classe, até ao número máximo de vinte, para preenchimento de vagas existentes no quadro das enfermeiras de 1.ª classe do Hospital Militar Principal, desde que, por dificuldades de recrutamento, não seja possível recrutar pessoal desta categoria e as necessidades de serviço o imponham.
+Art. 4.º Por despacho dos Ministros das Finanças e do Exército podem ser contratadas auxiliares de enfermagem de 1.ª classe, até ao número máximo de vinte, para preenchimento de vagas existentes no quadro das enfermeiras de 1.ª classe do Hospital Militar Principal, desde que, por dificuldades de recrutamento, não seja possível recrutar pessoal desta categoria e as necessidades de serviço o imponham.
 
-###### Art. 5.º O preceituado no artigo 1.º deste diploma considera-se em vigor a partir do dia 1 do mês seguinte ao da sua publicação.
+Art. 5.º O preceituado no artigo 1.º deste diploma considera-se em vigor a partir do dia 1 do mês seguinte ao da sua publicação.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto- Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 5 de Setembro de 1969.**
+Promulgado em 5 de Setembro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
 ## ANEXO I — Vencimento do pessoal de enfermagem civil em serviço no Hospital Militar Principal e nos hospitais militares regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf)
 
 ## ANEXO II — Vencimento do pessoal de enfermagem civil em serviço no Instituto de Odivelas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf))](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/22100/12781279.pdf)
 
 Ministério do Exército, 5 de Setembro de 1969. - O Ministro do Exército, José Manuel Bethencourt Conceição Rodrigues.

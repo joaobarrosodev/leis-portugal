@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1981/12/27900/31763177.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,97 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1981-567888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2019-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T23:39:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d56d8114bc5ba573a299d2a39be43e745deec15aa7ed398565700ef52818095a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bafa8e9c37c2b8f5ef2a13054c29561c49bf0e80ec089fbee299c4d56fa61fef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Contratação de Pessoal
+- Ensino Agrícola
+- Equiparação de Cargos
+- Estabelecimento de Ensino
+- Gestão Administrativa
+- Gestão Financeira
+- Habitação
+- Integração de Serviços
+- Integração de Trabalhadores
+- Odivelas
+- Quadro de Pessoal
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:122091532:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:217107:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:283355:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389865:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390006:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:526218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570320:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:677442:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T23:39:43Z'
   warnings: []
   errors: []
 ---
@@ -105,17 +162,17 @@ Não sendo possível manter por mais tempo a situação da Escola:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### Artigo 1.º - 1 - Os encargos com o pessoal docente e não docente em serviço na Escola Secundária de D. Dinis (Paiã), bem como os decorrentes do seu funcionamento, que vêm sendo suportados por verbas da Assembleia Distrital de Lisboa, passam a ser suportados por verbas do orçamento do Ministério da Educação e das Universidades a partir da data da entrada em vigor deste diploma.
+Artigo 1.º - 1 - Os encargos com o pessoal docente e não docente em serviço na Escola Secundária de D. Dinis (Paiã), bem como os decorrentes do seu funcionamento, que vêm sendo suportados por verbas da Assembleia Distrital de Lisboa, passam a ser suportados por verbas do orçamento do Ministério da Educação e das Universidades a partir da data da entrada em vigor deste diploma.
 
 2 - Mantêm-se os quadros de pessoal docente e não docente fixados pelo [Decreto-Lei n.º 260-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-a-1975-526218), de 26 de Maio, com as alterações introduzidas pela [Portaria n.º 27-A/80](https://diariodarepublica.pt/dr/detalhe/portaria/27-a-1980-283355), de 10 de Janeiro, pelo Despacho n.º 457/80, de 31 de Dezembro, publicado no Diário da República, 2.ª série, de 20 de Fevereiro de 1981, pelo [Decreto-Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1981-389865), de 27 de Janeiro, pelo [Decreto-Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1981-390006), de 29 de Janeiro, pela [Portaria n.º 317/80](https://diariodarepublica.pt/dr/detalhe/portaria/317-1980-473099), de 6 de Junho, e pela [Portaria n.º 15/81](https://diariodarepublica.pt/dr/detalhe/portaria/15-1981-570320), de 8 de Janeiro.
 
-###### Art. 2.º Para efeitos do disposto no artigo anterior, e excepto no que se refere ao artigo 11.º, o Ministério da Educação e das Universidades dotará a Escola Secundária de D. Dinis de orçamento privativo.
+Art. 2.º Para efeitos do disposto no artigo anterior, e excepto no que se refere ao artigo 11.º, o Ministério da Educação e das Universidades dotará a Escola Secundária de D. Dinis de orçamento privativo.
 
-###### Art. 3.º - 1 - Os funcionários e agentes que exercem funções nas áreas de pessoal não docente consideram-se integrados nos quadros referidos no artigo anterior, com dispensa de todas as formalidades legais, à excepção do visto do Tribunal de Contas, de acordo com as normas constantes dos artigos seguintes e com respeito pelas habilitações literárias legalmente exigidas.
+Art. 3.º - 1 - Os funcionários e agentes que exercem funções nas áreas de pessoal não docente consideram-se integrados nos quadros referidos no artigo anterior, com dispensa de todas as formalidades legais, à excepção do visto do Tribunal de Contas, de acordo com as normas constantes dos artigos seguintes e com respeito pelas habilitações literárias legalmente exigidas.
 
 2 - Os lugares necessários para as integrações previstas neste diploma serão criados por portaria conjunta dos Ministros da Administração Interna, de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa.
 
-###### Art. 4.º - 1 - Os regentes de trabalhos não pertencentes aos quadros manter-se-ão na sua actual situação até ao termo do contrato que celebraram com a Assembleia Distrital de Lisboa.
+Art. 4.º - 1 - Os regentes de trabalhos não pertencentes aos quadros manter-se-ão na sua actual situação até ao termo do contrato que celebraram com a Assembleia Distrital de Lisboa.
 
 2 - O contrato referido no número anterior considerar-se-á, no seu termo, automaticamente renovado com o Ministério da Educação e das Universidades por um único período de 3 anos, findo o qual cessará o vínculo que os liga àquele Ministério.
 
@@ -123,42 +180,42 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 4 - Para efeitos de provimento na função pública, os regentes de trabalhos a que se refere este artigo são considerados equiparados, para todos os efeitos, a engenheiros técnicos agrários.
 
-###### Art. 5.º - 1 - Os actuais monitores, até agora considerados equiparados a técnicos auxiliares de ensino agrícola, não pertencentes aos quadros, consideram-se integrados na carreira de agente técnico agrícola, criada pelo artigo 1.º do [Decreto-Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1981-390006), de 29 de Janeiro, na categoria de agente técnico agrícola de 2.ª classe.
+Art. 5.º - 1 - Os actuais monitores, até agora considerados equiparados a técnicos auxiliares de ensino agrícola, não pertencentes aos quadros, consideram-se integrados na carreira de agente técnico agrícola, criada pelo artigo 1.º do [Decreto-Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1981-390006), de 29 de Janeiro, na categoria de agente técnico agrícola de 2.ª classe.
 
 2 - Para efeitos do disposto no número anterior, são aditados 2 lugares ao quadro da Escola Secundária de D. Dinis (Paiã), anexo ao [Decreto-Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1981-390006), de 29 de Janeiro.
 
-###### Art. 6.º Os escriturários-dactilógrafos consideram-se integrados no quadro criado pela [Portaria n.º 317/80](https://diariodarepublica.pt/dr/detalhe/portaria/317-1980-473099), de 6 de Junho, na respectiva carreira.
+Art. 6.º Os escriturários-dactilógrafos consideram-se integrados no quadro criado pela [Portaria n.º 317/80](https://diariodarepublica.pt/dr/detalhe/portaria/317-1980-473099), de 6 de Junho, na respectiva carreira.
 
-###### Art. 7.º Os contínuos, motoristas, pedreiros, carpinteiros, electricistas, cozinheiros e ajudantes de cozinha consideram-se integrados no quadro criado pela [Portaria n.º 15/81](https://diariodarepublica.pt/dr/detalhe/portaria/15-1981-570320), de 8 de Janeiro, nas respectivas carreiras.
+Art. 7.º Os contínuos, motoristas, pedreiros, carpinteiros, electricistas, cozinheiros e ajudantes de cozinha consideram-se integrados no quadro criado pela [Portaria n.º 15/81](https://diariodarepublica.pt/dr/detalhe/portaria/15-1981-570320), de 8 de Janeiro, nas respectivas carreiras.
 
-###### Art. 8.º - 1 - O pessoal que possua categorias profissionais não previstas no mapa anexo ao [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março, considera-se contratado ao abrigo do disposto no artigo 260.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, com direito ao vencimento que vem percebendo.
+Art. 8.º - 1 - O pessoal que possua categorias profissionais não previstas no mapa anexo ao [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março, considera-se contratado ao abrigo do disposto no artigo 260.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612), de 21 de Novembro de 1957, com direito ao vencimento que vem percebendo.
 
 2 - Aos contratos referidos no número anterior é aplicável a legislação especial sobre estabelecimentos de ensino secundário agrícola e, subsidiariamente, o disposto no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969.
 
 3 - Aos contratos a que se refere este artigo não é aplicável o disposto no n.º 1 do artigo 265.º do [Decreto n.º 41382](https://diariodarepublica.pt/dr/detalhe/decreto/41382-1957-251612).
 
-###### Art. 9.º O pessoal que não possua as habilitações literárias legalmente exigidas considera-se na situação de servente contratado, ao abrigo do disposto no artigo 36.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março, a que corresponde a letra U da tabela de vencimentos do funcionalismo público, sendo, de acordo com o disposto naquela disposição legal, provido como contínuo logo que adquira as necessárias habilitações.
+Art. 9.º O pessoal que não possua as habilitações literárias legalmente exigidas considera-se na situação de servente contratado, ao abrigo do disposto no artigo 36.º do [Decreto-Lei n.º 57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março, a que corresponde a letra U da tabela de vencimentos do funcionalismo público, sendo, de acordo com o disposto naquela disposição legal, provido como contínuo logo que adquira as necessárias habilitações.
 
-###### Art. 10.º Ao pessoal integrado nos quadros ou contratado, ao abrigo do disposto neste diploma, é contado, para todos os efeitos legais, o tempo de serviço prestado na qualidade de vinculado à então Junta Distrital de Lisboa, actual Assembleia Distrital de Lisboa.
+Art. 10.º Ao pessoal integrado nos quadros ou contratado, ao abrigo do disposto neste diploma, é contado, para todos os efeitos legais, o tempo de serviço prestado na qualidade de vinculado à então Junta Distrital de Lisboa, actual Assembleia Distrital de Lisboa.
 
-###### Art. 11.º O pessoal que à data da entrada em vigor deste diploma se encontre a receber subsídio vitalício ou aguardando a sua concessão, aguardando aposentação ou que tenha 65 ou mais anos de idade manter-se-á, na sua actual situação, na dependência, para todos os efeitos legais, da Assembleia Distrital de Lisboa.
+Art. 11.º O pessoal que à data da entrada em vigor deste diploma se encontre a receber subsídio vitalício ou aguardando a sua concessão, aguardando aposentação ou que tenha 65 ou mais anos de idade manter-se-á, na sua actual situação, na dependência, para todos os efeitos legais, da Assembleia Distrital de Lisboa.
 
-###### Art. 12.º - 1 - Sem prejuízo das formalidades legais exigidas para o respectivo provimento, o pessoal a que se referem os artigos 3.º a 8.º será o constante de lista nominativa, homologada pelo Ministro da Educação e das Universidades e a publicar no Diário da República.
+Art. 12.º - 1 - Sem prejuízo das formalidades legais exigidas para o respectivo provimento, o pessoal a que se referem os artigos 3.º a 8.º será o constante de lista nominativa, homologada pelo Ministro da Educação e das Universidades e a publicar no Diário da República.
 
 2 - O pessoal a que se refere o artigo 11.º constará de lista nominativa, a homologar pelo Ministro da Administração Interna e a publicar no Diário da República.
 
-###### Art. 13.º - 1 - As casas de habitação existentes na Quinta da Paiã só podem ser utilizadas pelos funcionários da Escola Secundária de D. Dinis e a sua atribuição passa a ser da competência do seu conselho directivo ou de quem as suas vezes fizer.
+Art. 13.º - 1 - As casas de habitação existentes na Quinta da Paiã só podem ser utilizadas pelos funcionários da Escola Secundária de D. Dinis e a sua atribuição passa a ser da competência do seu conselho directivo ou de quem as suas vezes fizer.
 
 2 - As rendas das casas referidas no número anterior serão fixadas pelo director-geral de Pessoal, mediante prévio parecer da Direcção de Serviços de Finanças, e constituem receita da Escola.
 
-###### Art. 14.º O médico escolar que actualmente presta serviço na Escola Secundária de D. Dinis em regime eventual passa à situação de contratado além do quadro, sendo automaticamente integrado no quadro logo que se verifique vaga na respectiva categoria, independentemente de todas as formalidades legais, à excepção do visto do Tribunal de Contas.
+Art. 14.º O médico escolar que actualmente presta serviço na Escola Secundária de D. Dinis em regime eventual passa à situação de contratado além do quadro, sendo automaticamente integrado no quadro logo que se verifique vaga na respectiva categoria, independentemente de todas as formalidades legais, à excepção do visto do Tribunal de Contas.
 
-###### Art. 15.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros da Administração Interna, de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
+Art. 15.º As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e das Universidades ou por despacho conjunto dos Ministros da Administração Interna, de Estado e das Finanças e do Plano, da Educação e das Universidades e da Reforma Administrativa, consoante a sua natureza.
 
 Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1981. - Francisco José Pereira Pinto Balsemão - Vítor Pereira Crespo.
 
-**Promulgado em 25 de Novembro de 1981.**
+Promulgado em 25 de Novembro de 1981.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.**
+O Presidente da República Interino, FRANCISCO MANUEL LOPES VIEIRA DE OLIVEIRA DIAS.

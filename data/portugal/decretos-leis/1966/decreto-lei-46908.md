@@ -48,36 +48,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46908-1966-486910
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T21:56:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866c4de6bb6e8238a8842e4d1122be5b3f4f5c12c585954376f8d5f676377d68
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 670b8b425bdf9acc970b26329b200d1b549cc279e6cf819517bee6e762959d12
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:56:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Caixa de Previdência
+- Caixa Nacional de Pensões
+- Caixa Sindical de Previdência
+- Contribuições da Segurança Social
+- Impresso
+- Pagamento
+- Previdência Social
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T21:56:26Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +119,11 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º São aprovados os modelos de guias anexos ao presente decreto-lei para o efeito do pagamento de contribuições devidas à Caixa Nacional de Pensões, ao abrigo do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
+Artigo 1.º São aprovados os modelos de guias anexos ao presente decreto-lei para o efeito do pagamento de contribuições devidas à Caixa Nacional de Pensões, ao abrigo do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
 
-###### Art. 2.º - 1. É alterado o § 3.º do artigo 4.º do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, que passa a ter a seguinte redacção:
+Art. 2.º - 1. É alterado o § 3.º do artigo 4.º do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, que passa a ter a seguinte redacção:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 § 1.º ...
 
@@ -116,14 +139,14 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 § 6.º Para o efeito do disposto neste decreto-lei, consideram-se delegações da Caixa Nacional de Pensões as caixas de previdência e abono de família.
 
-###### Art. 3.º Mantêm-se em vigor os actuais modelos de guias aprovados pelo [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, para as instituições constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, enquanto não se verificar a sua integração no regime do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
+Art. 3.º Mantêm-se em vigor os actuais modelos de guias aprovados pelo [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, para as instituições constituídas ao abrigo da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, enquanto não se verificar a sua integração no regime do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
 Para ser presente à Assembleia Nacional.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/06500/03800382.pdf))](https://files.diariodarepublica.pt/1s/1966/03/06500/03800382.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/06500/03800382.pdf)
 
 Ministério das Corporações e Previdência Social, 18 de Março de 1966. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

@@ -48,36 +48,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/508-1970-147809
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T22:15:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7831123a7b3441be0f244a6d0811f74b75a737b9b1be6fdab7ac05399da8915a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c3380c12d7992bb4a17438bfe4737520b7182164670ebdff31ff5390033161e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:15:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Conselho Coordenador
+- Conselho Coordenador de Saúde Pública
+- Criação de Serviços
+- Definição de Competências
+- Escola Nacional de Saúde Pública e de Medicina Tropical
+- Instituto Provincial de Saúde Pública
+- Investigação Científica e Tecnológica
+- Medicina Tropical
+- Moçambique.Colónia Portuguesa
+- Saúde Pública
+relationships:
+- type: cites
+  target: pt:dre:541460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:15:48Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +111,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º É criado o Conselho Coordenador de Saúde Pública para funcionar como órgão de coordenação geral, no campo da investigação da saúde pública e nos ligados à medicina tropical, das actividades da Escola Nacional de Saúde Pública e de Medicina Tropical com a dos Institutos Provinciais de Saúde Pública.
+Artigo 1.º É criado o Conselho Coordenador de Saúde Pública para funcionar como órgão de coordenação geral, no campo da investigação da saúde pública e nos ligados à medicina tropical, das actividades da Escola Nacional de Saúde Pública e de Medicina Tropical com a dos Institutos Provinciais de Saúde Pública.
 
-###### Art. 2.º O Conselho Coordenador terá as seguintes atribuições:
+Art. 2.º O Conselho Coordenador terá as seguintes atribuições:
 
 a) Aconselhar e assistir os Institutos Provinciais de Saúde Pública no sentido de se obterem maiores benefícios da sua colaboração com a Escola Nacional de Saúde Pública e de Medicina Tropical;
 
@@ -106,27 +121,27 @@ b) Emitir parecer sobre todos os assuntos que lhe sejam submetidos por força da
 
 c) Apreciar os relatórios anuais e os planos de actividade dos Institutos, que, para o efeito, os respectivos directores lhe deverão submeter.
 
-###### Art. 3.º - 1. O Conselho Coordenador de Saúde Pública terá como membros permanentes o director da Escola Nacional de Saúde Pública e de Medicina Tropical, que presidirá, dois professores da mesma Escola, um representante do Gabinete de Estudos Médico-Sociais da Direcção-Geral de Saúde e Assistência, os directores dos Institutos Provinciais de Saúde Pública de Angola e Moçambique e os directores dos Serviços de Saúde e Assistência das mesmas províncias.
+Art. 3.º - 1. O Conselho Coordenador de Saúde Pública terá como membros permanentes o director da Escola Nacional de Saúde Pública e de Medicina Tropical, que presidirá, dois professores da mesma Escola, um representante do Gabinete de Estudos Médico-Sociais da Direcção-Geral de Saúde e Assistência, os directores dos Institutos Provinciais de Saúde Pública de Angola e Moçambique e os directores dos Serviços de Saúde e Assistência das mesmas províncias.
 
 2. Além dos membros permanentes, poderão, por proposta do presidente, tomar parte nas reuniões do Conselho um representante de cada um dos Institutos e, ainda, um representante de cada uma das Faculdades de Medicina das Universidades de Luanda e de Lourenço Marques.
 
-###### Art. 4.º - 1. O secretariado permanente do Conselho será assegurado pela Escola Nacional de Saúde Pública e de Medicina Tropical.
+Art. 4.º - 1. O secretariado permanente do Conselho será assegurado pela Escola Nacional de Saúde Pública e de Medicina Tropical.
 
 2. O secretariado das reuniões será assegurado pela mesma Escola, quando o Conselho reúna na metrópole, ou pelos respectivos Institutos Provinciais, quando o Conselho reúna em Angola ou em Moçambique.
 
-###### Art. 5.º - 1. O Conselho terá uma reunião ordinária anual, em Lisboa, Luanda ou Lourenço Marques, e as reuniões extraordinárias que forem convocadas pelo seu presidente.
+Art. 5.º - 1. O Conselho terá uma reunião ordinária anual, em Lisboa, Luanda ou Lourenço Marques, e as reuniões extraordinárias que forem convocadas pelo seu presidente.
 
 2. As despesas com o secretariado permanente serão suportadas pelo orçamento privativo da Escola Nacional de Saúde Pública e de Medicina Tropical.
 
 3. As despesas com a deslocação dos membros do Conselho constituirão encargos das províncias ultramarinas de Angola e Moçambique.
 
-###### Art. 6.º - 1. As reuniões ordinárias do Conselho terão lugar, em regra, no período de 15 de Outubro a 15 de Novembro, devendo o presidente fixar a data da primeira reunião.
+Art. 6.º - 1. As reuniões ordinárias do Conselho terão lugar, em regra, no período de 15 de Outubro a 15 de Novembro, devendo o presidente fixar a data da primeira reunião.
 
 2. Em cada reunião será fixado o local e a data aproximada em que deverá ter lugar a reunião seguinte.
 
 3. A data de cada reunião extraordinária será fixada pelo presidente com três meses de antecedência.
 
-###### Art. 7.º - 1. A agenda provisória de cada reunião do Conselho, após ter sido aprovada pelo Ministro do Ultramar, será enviado a todos os membros que nela participarão com antecedência não inferior a um mês. Será elaborada a partir das propostas recebidas dos membros permanentes, que as deverão enviar ao secretariado permanente com a antecedência de, pelo menos, dois meses.
+Art. 7.º - 1. A agenda provisória de cada reunião do Conselho, após ter sido aprovada pelo Ministro do Ultramar, será enviado a todos os membros que nela participarão com antecedência não inferior a um mês. Será elaborada a partir das propostas recebidas dos membros permanentes, que as deverão enviar ao secretariado permanente com a antecedência de, pelo menos, dois meses.
 
 2. Na primeira sessão da reunião será adoptada a agenda definitiva.
 
@@ -134,7 +149,7 @@ c) Apreciar os relatórios anuais e os planos de actividade dos Institutos, que,
 
 4. O presidente dará a conhecer ao secretariado permanente, com a possível antecedência, o número de vogais que venham a tomar parte nas reuniões.
 
-###### Art. 8.º - 1. As deliberações do Conselho serão tomadas por maioria de votos dos membros presentes em cada sessão.
+Art. 8.º - 1. As deliberações do Conselho serão tomadas por maioria de votos dos membros presentes em cada sessão.
 
 2. As votações são nominais e obrigatórias.
 
@@ -142,18 +157,18 @@ c) Apreciar os relatórios anuais e os planos de actividade dos Institutos, que,
 
 4. Qualquer membro vencido pode, se o desejar, justificar, por escrito, o seu voto.
 
-###### Art. 9.º De cada reunião do Conselho será lavrada acta, que, após leitura e aprovação, será assinada pelos membros permanentes.
+Art. 9.º De cada reunião do Conselho será lavrada acta, que, após leitura e aprovação, será assinada pelos membros permanentes.
 
-###### Art. 10.º O director da Escola Nacional de Saúde Pública e de Medicina Tropical, na sua qualidade de presidente do Conselho, levará ao conhecimento do Ministro do Ultramar as actas das reuniões e submeterá à sua apreciação ou despacho, conforme os casos, as conclusões, propostas e pareceres do mesmo Conselho.
+Art. 10.º O director da Escola Nacional de Saúde Pública e de Medicina Tropical, na sua qualidade de presidente do Conselho, levará ao conhecimento do Ministro do Ultramar as actas das reuniões e submeterá à sua apreciação ou despacho, conforme os casos, as conclusões, propostas e pareceres do mesmo Conselho.
 
-###### Art. 11.º O Conselho é representado e dirigido pelo presidente, e, nos seus impedimentos, pelo seu substituto legal na direcção da Escola Nacional de Saúde Pública e de Medicina Tropical.
+Art. 11.º O Conselho é representado e dirigido pelo presidente, e, nos seus impedimentos, pelo seu substituto legal na direcção da Escola Nacional de Saúde Pública e de Medicina Tropical.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Peneira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa
 
-**Promulgado em 10 de Outubro de 1970.**
+Promulgado em 10 de Outubro de 1970.
 
-**Publique-se.**
+Publique-se.
 
-**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
 
 Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

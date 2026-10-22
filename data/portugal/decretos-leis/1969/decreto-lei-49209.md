@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 199/1969, 1º Suplemento, Série I de 1969-08-26
   number: '199'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1079 - 1141
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf
 entry_into_force_dates: []
@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49209-1969-300465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1999-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T22:10:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfe6e59b405c93bc8cd4148c4db576ea0503ebd559b1fcbc0e2e6b5f2b6d5bb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6225464bcb1194bdfd3c1fedab8797dd6b91c8a1d1e4ef03e1bc7073b79b9ed7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Técnico
+- Convenção
+- Embalagem
+- Embarcação
+- Embarcação de Pesca
+- Fiscalização
+- Londres
+- Marinha Mercante
+- Normas de Segurança
+- Portugal
+- Segurança Marítima
+- Transporte de Carga
+- Transporte Marítimo
 relationships:
 - type: amended_by
   target: pt:dre:682873:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:683068:por
+  label: "Estendida a convenção ao território de Macau pelo DEC.204/99.1999.11.09.PR DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/204-1999-683068
+  date: '1999-11-09'
+- type: amended_by
+  target: pt:dre:682873:por
+  label: "Aprovado para assinatura o Protocolo de 1988 à Convenção Internacional das Linhas de carga (aprovada para adesão\
+    \ pelo presente diploma), pelo DEC.49/99.1999.11.11.MNE, DR.IS-A [263]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49-1999-682873
+  date: '1999-11-11'
 article_structure:
-  article_count: 1
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T22:10:32Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +112,13 @@ validation:
 
 Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. É aprovada, para adesão, a Convenção Internacional das Linhas de Carga, concluída em Londres em 5 de Abril de 1966, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto-lei.
+Artigo único. É aprovada, para adesão, a Convenção Internacional das Linhas de Carga, concluída em Londres em 5 de Abril de 1966, cujo texto em inglês e a respectiva tradução para português vão anexos ao presente decreto-lei.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 27 de Novembro de 1968.**
+Promulgado em 27 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -658,7 +682,7 @@ Lines to be used with the load line mark
 
 Da Fig. 1 à Fig. 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 2) The following load lines shall be used:
 
@@ -938,7 +962,7 @@ If the bulwark is more than 3,9' in average height the required area shall be in
 
 3) Where a ship is fitted with a trunk which does not comply with the requirements of regulation 36, paragraph 1), e), or where continuous or substantially continuous hatchway side coamings are fitted between detached superstructures the minimum area of the freeing port openings shall be calculated from the following table:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 The area of freeing ports at intermediate breadths shall be obtained by linear interpolation.
 
@@ -1056,7 +1080,7 @@ The height of the centre of gravity above the base line is assessed allowing for
 
 Freeboard increase over tabular freeboard for type «B» ships, for ships with hatch covers not complying with regulation 15, paragraph 7), or 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboards at intermediate lengths of ship shall be obtained by linear interpolation.
 
@@ -1064,7 +1088,7 @@ Ships above 200 m in length shall be dealt with by the administration.
 
 Freeboard increase over tabular freeboard for type «B» ships, for ships with hatch covers not complying with regulation 15, paragraph 7), or 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboards at intermediate lengths of ship shall be obtained by linear interpolation.
 
@@ -1084,7 +1108,7 @@ Table A
 
 Freeboard table for type «A» ships
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboards at intermediate lengths of ship shall be obtained by linear interpolation.
 
@@ -1094,7 +1118,7 @@ Table A
 
 Freeboard table for type «A» ships
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboards at intermediate lengths of ship shall be obtained by linear interpolation.
 
@@ -1108,7 +1132,7 @@ Table B
 
 Freeboard table for type «B» ships
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboards at intermediate lengths of ship shall be obtained by linear interpolation.
 
@@ -1176,11 +1200,11 @@ The standard height of a superstructure shall be as given in the following table
 
 Standard height (in metres)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Standard height (in feet)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 The standard heights at intermediate lengths of the ship shall be obtained by linear interpolation.
 
@@ -1244,13 +1268,13 @@ Deduction for superstructures and trunks
 
 Percentage of deduction for type «A» ships
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Percentages at intermediate lengths of superstructures shall be obtained by linear interpolation.
 
 Percentage of deduction for type «B» ships
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Percentages at intermediate lengths of superstructures shall be obtained by linear interpolation.
 
@@ -1294,13 +1318,13 @@ Standard sheer profile
 
 (Where L is in metres)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Standard sheer profile
 
 (Where L is in feet)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Measurement of variation from standard sheer profile:
 
@@ -1488,7 +1512,7 @@ Computation for freeboard
 
 1) The minimum summer freeboards are computed in accordance with regulations 27, paragraph 5), 27, paragraphs 6) and 11), 28, 29, 30, 31, 32, 37 and 38, except that regulation 37 is modified by substituting the following percentages for those given in regulation 37:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Percentages at intermediate lengths of superstructures shall be obtained by linear interpolation.
 
@@ -1772,7 +1796,7 @@ a) That part of the North Atlantic winter seasonal zone II which lies between th
 
 b) The whole of the North Atlantic winter seasonal zone I, the Shetland islands to be considered as being on the boundary.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 ANNEX III
 
@@ -1784,7 +1808,7 @@ INTERNATIONAL LOAD LINE CERTIFICATE, 1966
 
 Issued under the provisions of the International Convention on Load Lines, 1966, under the authority of the Government of ... (Full official designation of the country) by ... (Full official designation of the competent person or organization recognized under the provisions of the International Convention on Load Lines, 1966).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Freeboard from deck line
 
@@ -1826,7 +1850,7 @@ Note. - Freeboards and load lines which are not applicable need not be entered o
 
 The upper edge of the deck line from which these freeboards are measured is ... mm (inches) ... deck at side.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Date of initial or periodical survey ...
 
@@ -1892,7 +1916,7 @@ INTERNATIONAL LOAD LINE EXEMPTION CERTIFICATE
 
 Issued under the provisions of the International Convention on Load Lines, 1966, under the authority of the Government of ... (Full official designation of the country) by ... (Full official designation of the competent person or organization recognized under the provisions of the International Convention on Load Lines, 1966).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 This is to certify that the above-mentioned ship is exempted from the provisions of the 1966 Convention, under the authority conferred by article 6, paragraph 2)(ver nota *), article 6, paragraph 4)(ver nota *), of the Convention referred to above.
 
@@ -1982,13 +2006,17 @@ Considerando que o melhor meio de atingir este fim é a conclusão de uma Conven
 
 Acordam nas disposições seguintes:
 
-###### ARTIGO 1 — Obrigações gerais derivadas da Convenção
+ARTIGO 1
+
+Obrigações gerais derivadas da Convenção
 
 1) Os Governos contratantes comprometem-se a dar efeito às disposições da presente Convenção e seus Anexos, os quais constituem parte integrante da mesma. Qualquer referência à presente Convenção constitui referência simultânea aos Anexos.
 
 2) Os Governos contratantes comprometem-se a tomar todas as medidas que forem necessárias para dar efeito às disposições da presente Convenção.
 
-###### ARTIGO 2 — Definições
+ARTIGO 2
+
+Definições
 
 Para os fins da presente Convenção, salva indicação expressa em contrário:
 
@@ -2008,13 +2036,17 @@ Para os fins da presente Convenção, salva indicação expressa em contrário:
 
 8) «Comprimento» significa 96 por cento de todo o comprimento, medido sobre uma linha de água situada a uma altura acima da quilha igual a 85 por cento do menor dos pontais, medidos a partir da face superior da quilha ou o comprimento medido da face de vante da roda de proa até ao eixo da madre do leme naquela linha de água, se este comprimento for maior. Nos navios projectados com diferença de imersão a linha de água na qual é medido este comprimento será paralela à linha de água carregada de projecto.
 
-###### ARTIGO 3 — Disposições gerais
+ARTIGO 3
+
+Disposições gerais
 
 1) Nenhum navio sujeito às prescrições da presente Convenção poderá iniciar uma viagem internacional em data posterior à da entrada em vigor da presente Convenção sem que tenha sido vistoriado, marcado e provido de um Certificado Internacional das Linhas de Carga, 1966, ou de um Certificado Internacional de Isenção das Linhas de Carga, de acordo com as disposições da presente Convenção.
 
 2) Nenhuma disposição da presente Convenção impedirá que uma administração permita a um navio um bordo livre superior ao mínimo bordo livre determinado em conformidade com as disposições do Anexo I.
 
-###### ARTIGO 4 — Aplicação
+ARTIGO 4
+
+Aplicação
 
 1) A presente Convenção aplica-se aos navios seguintes:
 
@@ -2032,7 +2064,9 @@ c) Navios não registados que arvorem a bandeira de um Estado cujo Governo for u
 
 5) As regras contidas no Anexo II aplicam-se a navios novos e aos navios existentes abrangidos pela presente Convenção.
 
-###### ARTIGO 5 — Excepções
+ARTIGO 5
+
+Excepções
 
 1) A presente Convenção não se aplica a:
 
@@ -2054,7 +2088,9 @@ b) No mar Cáspio;
 
 c) No rio da Prata, no Paraná e no Uruguai para ocidente da loxodromia que vai de Punta Norte, na Argentina, até Punta del Este, no Uruguai.
 
-###### ARTIGO 6 — Isenções
+ARTIGO 6
+
+Isenções
 
 1) Os navios que efectuem viagens internacionais entre portos próximos de dois ou mais Estados podem ser isentos pela administração, das disposições da presente Convenção, enquanto se mantiverem nesse tráfego, se os Governos dos Estados onde estiverem situados esses portos reconhecerem que as viagens são efectuadas em rota abrigada e em condições tais que seria pouco razoável ou inviável a aplicação das disposições da presente Convenção a navios que efectuem tais viagens.
 
@@ -2064,37 +2100,49 @@ c) No rio da Prata, no Paraná e no Uruguai para ocidente da loxodromia que vai 
 
 4) Um navio que não esteja normalmente afecto a viagens internacionais, mas que, em circunstâncias excepcionais, necessite de fazer uma só viagem internacional, pode ser isento pela administração de qualquer das disposições da presente Convenção desde que satisfaça a condições de segurança que, na opinião da administração, são adequadas à viagem a empreender pelo navio.
 
-###### ARTIGO 7 — Força maior
+ARTIGO 7
+
+Força maior
 
 1) Um navio que, no momento de partir para uma viagem, não estiver sujeito às prescrições da presente Convenção não pode ser obrigado a submeter-se a elas por motivo de desvio da rota inicial devido a mau tempo ou qualquer outra causa de força maior.
 
 2) Na aplicação das disposições da presente Convenção os Governos contratantes terão em consideração todos os desvios de rota ou atrasos ocasionados pelo mau tempo ou por qualquer outro motivo de força maior.
 
-###### ARTIGO 8 — Equivalências
+ARTIGO 8
+
+Equivalências
 
 1) A administração pode autorizar que num navio sejam instalados equipamentos, materiais, dispositivos ou aparelhagem, ou adoptadas quaisquer outras disposições particulares que não sejam as exigidas pela presente Convenção, se se tiver assegurado, por meio de provas, ou por qualquer outra forma, que esses equipamentos, materiais, dispositivos, aparelhagem ou disposições são pelo menos tão eficientes como as exigidas pela presente Convenção.
 
 2) A administração que autorizar, nestas condições, quaisquer equipamentos, materiais, dispositivos, aparelhagem ou disposições particulares diferentes das prescritas pela presente Convenção deve comunicar os pormenores respectivos à Organização juntamente com um relatório sobre as provas efectuadas, para ser levado ao conhecimento dos Governos contratantes.
 
-###### ARTIGO 9 — Aprovação para fins experimentais
+ARTIGO 9
+
+Aprovação para fins experimentais
 
 1) Nenhuma das prescrições da presente Convenção impede uma administração de aprovar disposições especiais para fins experimentais, em relação a um navio ao qual se aplique esta Convenção.
 
 2) A administração que aprove uma disposição deste género deve comunicar os seus pormenores à Organização, para esta os levar ao conhecimento dos Governos contratantes.
 
-###### ARTIGO 10 — Reparações, alterações e modificações
+ARTIGO 10
+
+Reparações, alterações e modificações
 
 1) Um navio que sofrer reparações, alterações, modificações e o respectivo apetrechamento deve continuar a satisfazer, pelo menos, às disposições que lhe eram aplicáveis anteriormente. Em tal caso um navio existente não deve, em regra, deixar de satisfazer em menor grau do que até então aos requisitos aplicáveis a um navio novo.
 
 2) As reparações, alterações, modificações de maior importância e o respectivo apetrechamento devem satisfazer às disposições aplicáveis a um navio novo tanto quanto a administração o julgue possível e razoável.
 
-###### ARTIGO 11 — Zonas e regiões
+ARTIGO 11
+
+Zonas e regiões
 
 1) Um navio sujeito à presente Convenção deve satisfazer às disposições que lhe são aplicáveis nas zonas e regiões definidas no Anexo II.
 
 2) Um porto que se encontrar na linha de separação de duas zonas e regiões adjacentes será considerado como estando na zona ou região donde o navio vem ou como estando naquela para onde o navio se dirige.
 
-###### ARTIGO 12 — Imersão
+ARTIGO 12
+
+Imersão
 
 1) Excepto nos casos previstos nos parágrafos 2) e 3) deste artigo, as linhas de carga próprias, marcadas no costado de um navio e que correspondem à estação do ano e à zona ou região na qual o navio se pode encontrar, nunca devem estar submersas quando o navio sai para o mar, durante a viagem ou à chegada.
 
@@ -2102,11 +2150,15 @@ c) No rio da Prata, no Paraná e no Uruguai para ocidente da loxodromia que vai 
 
 3) Quando um navio parte de um porto fluvial ou de um porto situado em águas interiores, será permitido aumentar o carregamento do navio de uma quantidade correspondente ao peso do combustível e de quaisquer outros materiais de consumo entre o ponto de partida e o mar.
 
-###### ARTIGO 13 — Vitorias, inspecções e marcações
+ARTIGO 13
+
+Vitorias, inspecções e marcações
 
 As vistorias, inspecções e marcações dos navios para aplicação das disposições da presente Convenção são efectuadas, e as isenções concedidas, por funcionários da administração. Todavia, a administração pode confiar as vistorias, as inspecções e as marcações, quer a inspectores nomeados para o efeito, quer a organismos por ela reconhecidos. Em qualquer caso, a administração interessada garante em absoluto a execução completa e eficaz das vistorias, das inspecções e das marcações.
 
-###### ARTIGO 14 — Vistorias e inspecções iniciais e periódicas dos navios
+ARTIGO 14
+
+Vistorias e inspecções iniciais e periódicas dos navios
 
 1) Um navio será submetido às vistorias e inspecções a seguir especificadas:
 
@@ -2128,11 +2180,15 @@ iv) Meios de acesso aos alojamentos da tripulação.
 
 ou no Certificado Internacional de Isenção das Linhas de Carga passado aos navios isentos ao abrigo das disposições do parágrafo 2) do artigo 6 da presente Convenção.
 
-###### ARTIGO 15 — Manutenção das condições após as vitorias
+ARTIGO 15
+
+Manutenção das condições após as vitorias
 
 Depois de qualquer das vistorias previstas no artigo 14, nenhuma modificação deverá ser feita, sem autorização da administração, na estrutura do navio, no seu equipamento, nas disposições, no material ou nos escantilhões objecto dessa vistoria.
 
-###### ARTIGO 16 — Passagem de certificados
+ARTIGO 16
+
+Passagem de certificados
 
 1) Aos navios que tenham sido vistoriados e marcados de acordo com as disposições da presente Convenção será passado um Certificado Internacional das Linhas de Carga, 1966.
 
@@ -2142,7 +2198,9 @@ Depois de qualquer das vistorias previstas no artigo 14, nenhuma modificação d
 
 4) Sem prejuízo de qualquer outra disposição da presente Convenção, qualquer certificado internacional das linhas de carga que tenha validade quando a presente Convenção entrar em vigor para o Governo do Estado cuja bandeira o navio arvore continua válido por dois anos, ou até que expire, se o seu prazo de validade terminar antes desse tempo. Terminado esse prazo, torna-se exigível um Certificado Internacional das Linhas de Carga, 1966.
 
-###### ARTIGO 17 — Certificado passado por outro Governo
+ARTIGO 17
+
+Certificado passado por outro Governo
 
 1) Um Governo contratante pode pedir a outro Governo contratante que mande vistoriar um navio e que, se verificar que satisfaz às disposições da presente Convenção, passe ou autorize a passagem de um Certificado Internacional das Linhas de Carga, 1966, de acordo com a presente Convenção.
 
@@ -2152,13 +2210,17 @@ Depois de qualquer das vistorias previstas no artigo 14, nenhuma modificação d
 
 4) Nenhum Certificado Internacional das Linhas de Carga, 1966, será passado a um navio que arvore a bandeira de um Estado cujo Governo não é um Governo contratante.
 
-###### ARTIGO 18 — Modelos dos certificados
+ARTIGO 18
+
+Modelos dos certificados
 
 1) Os certificados serão redigidos na língua ou línguas ficiais do país que os passa. Se a língua utilizada não for o inglês, nem o francês, o texto incluirá uma tradução numa destas línguas.
 
 2) Os certificados obedecerão aos modelos do impresso que constam do Anexo III. O arranjo gráfico de cada modelo será reproduzido exactamente em todos os certificados passados ou nas cópias autênticas dos mesmos.
 
-###### ARTIGO 19 — Prazo de validade dos certificados
+ARTIGO 19
+
+Prazo de validade dos certificados
 
 1) Um Certificado Internacional das Linhas de Carga, 1966, é passado por um período de tempo cuja duração é fixada pela administração, mas não poderá exceder cinco anos, contados a partir da data do certificado.
 
@@ -2182,11 +2244,15 @@ b) O prazo de validade de um certificado internacional de isenção das linhas d
 
 5) Um certificado passado a um navio por uma administração perde a validade se esse navio mudar de bandeira.
 
-###### ARTIGO 20 — Aceitação dos certificados
+ARTIGO 20
+
+Aceitação dos certificados
 
 Os certificados passados sob a responsabilidade de um Governo contratante em conformidade com as disposições da presente Convenção serão aceitos pelos outros Governos contratantes e considerados, para todos os fins da presente Convenção, como tendo o mesmo valor que os certificados por eles passados.
 
-###### ARTIGO 21 — Fiscalização
+ARTIGO 21
+
+Fiscalização
 
 1) Os navios portadores de um certificado que foi passado em virtude das disposições do artigo 16 ou das do artigo 17 estão sujeitos, quando se encontram em portos de outros Governos contratantes, a fiscalização exercida por funcionários, para tal devidamente autorizados por esses Governos. Os Governos contratantes devem procurar que essa fiscalização se exerça, tanto quanto for razoável e possível, com vista a verificar que existe a bordo um certificado válido segundo as disposições da presente Convenção. Se o navio possuir um Certificado Internacional das Linhas de Carga, 1966, válido, a fiscalização limitar-se-á a verificar que:
 
@@ -2202,17 +2268,23 @@ Quando existir a bordo um certificado internacional de isenção das linhas de c
 
 3) No caso de a fiscalização prevista no presente artigo originar qualquer espécie de intervenção, o funcionário que a exercer deve imediatamente e por escrito informar desta decisão o cônsul ou o representante diplomático do Estado cuja bandeira o navio arvora, bem como de todas as circunstâncias que motivarem essa intervenção.
 
-###### ARTIGO 22 — Benefícios
+ARTIGO 22
+
+Benefícios
 
 Os benefícios da presente Convenção não podem ser reivindicados a favor de um navio que não possua um certificado válido passado ao abrigo da presente Convenção.
 
-###### ARTIGO 23 — Acidentes
+ARTIGO 23
+
+Acidentes
 
 1) Cada administração compromete-se a efectuar inquéritos sobre quaisquer acidentes sucedidos a navios pelos quais for responsável e que estejam sujeitos às disposições da presente Convenção sempre que julgar que esses inquéritos podem auxiliar a determinar as alterações que será desejável introduzir na Convenção.
 
 2) Cada Governo contratante compromete-se a fornecer à Organização todas as informações pertinentes relativas aos resultados desses inquéritos. Os relatórios ou recomendações da Organização baseados nessas informações não devem revelar a identidade ou a nacionalidade dos navios a que disserem respeito, nem de qualquer modo atribuir a responsabilidade desse acidente a qualquer navio ou pessoa, nem tão-pouco dar a entender a quem atribuir.
 
-###### ARTIGO 24 — Tratados e convenções anteriores
+ARTIGO 24
+
+Tratados e convenções anteriores
 
 1) Todos os outros tratados, convenções e acordos relacionados com as linhas de carga actualmente em vigor entre Governos que sejam partes na presente Convenção continuam a vigorar durante o prazo que lhes estiver atribuído, pelo que respeita a:
 
@@ -2222,11 +2294,15 @@ b) Navios aos quais se aplica a presente Convenção em assuntos nela não expre
 
 2) Todavia, na medida em que tais tratados, convenções ou acordos estiverem em contradição com as disposições da presente Convenção, são estas que devem prevalecer.
 
-###### ARTIGO 25 — Regras especiais resultantes de acordos
+ARTIGO 25
+
+Regras especiais resultantes de acordos
 
 Quando, em conformidade com a presente Convenção, forem estabelecidas regras especiais, por acordo, entre todos ou entre alguns dos Governos contratantes, essas regras deverão ser comunicadas à Organização para esta as levar ao conhecimento de todos os Governos contratantes.
 
-###### ARTIGO 26 — Comunicação de informações
+ARTIGO 26
+
+Comunicação de informações
 
 1) Os Governos contratantes comprometem-se a comunicar e a fornecer à Organização:
 
@@ -2238,7 +2314,9 @@ c) Uma lista das entidades não governamentais que forem autorizadas a actuar em
 
 2) Cada Governo contratante compromete-se a pôr à disposição de qualquer outro Governo contratante, que lhas peça, as normas de resistência que utiliza.
 
-###### ARTIGO 27 — Assinatura, aceitação e adesão
+ARTIGO 27
+
+Assinatura, aceitação e adesão
 
 1) A presente Convenção ficará aberta para assinatura durante três meses a partir de 5 de Abril de 1966 e, em seguida, aberta para adesão. Os Governos dos Estados membros das Nações Unidas ou de qualquer das agências especializadas ou da Agência Internacional da Energia Atómica ou partes no Estatuto do Tribunal Internacional de Justiça podem tornar-se partes na Convenção por:
 
@@ -2250,7 +2328,9 @@ c) Adesão.
 
 2) A aceitação ou a adesão deverá ser efectuada por depósito de um instrumento de aceitação ou de adesão na Organização, que informará todos os Governos que assinaram a Convenção, ou a ela aderiram, de cada nova aceitação ou adesão e da data do respectivo depósito.
 
-###### ARTIGO 28 — Entrada em vigor
+ARTIGO 28
+
+Entrada em vigor
 
 1) A presente Convenção entrará em vigor doze meses após a data na qual pelo menos quinze Governos (dos quais sete possuam, cada um, uma frota de pelo menos 1 milhão de toneladas brutas de arqueação), tenham assinado sem reservas de aceitação ou depositado instrumentos de aceitação ou de adesão em conformidade com as disposições do artigo 27. A Organização informará todos os Governos que assinaram a presente Convenção ou a ela aderiram da data da sua entrada em vigor.
 
@@ -2260,7 +2340,9 @@ c) Adesão.
 
 4) Depois da data na qual estiverem tomadas todas as disposições exigidas para a entrada em vigor de qualquer emenda à presente Convenção, ou após a data na qual todas as necessárias aceitações forem consideradas como recolhidas ao abrigo da alínea b) do parágrafo 2) do artigo 29, no caso de emenda aceite por unanimidade, qualquer instrumento de aceitação ou de adesão depositado é considerado como respeitante à Convenção com emendas.
 
-###### ARTIGO 29 — Alterações
+ARTIGO 29
+
+Alterações
 
 1) A presente Convenção pode ser alterada por proposta de um Governo contratante por meio de um dos processos previstos no presente artigo.
 
@@ -2302,7 +2384,9 @@ d) Pela maioria de 2/3 dos membros presentes que tenham direito a voto, uma conf
 
 7) Qualquer aprovação ou declaração feita em conformidade com o presente artigo será notificada, por escrito, à Organização, que por sua vez notificará todos os Governos contratantes da recepção dessa aprovação ou declaração.
 
-###### ARTIGO 30 — Denúncia
+ARTIGO 30
+
+Denúncia
 
 1) A presente Convenção pode ser denunciada em qualquer momento por qualquer dos Governos contratantes depois de decorrido um período de cinco anos contados a partir da data em que a Convenção entrou em vigor para esse Governo.
 
@@ -2310,7 +2394,9 @@ d) Pela maioria de 2/3 dos membros presentes que tenham direito a voto, uma conf
 
 3) A denúncia produzirá efeitos um ano após a data em que a sua notificação tiver sido recebida pela Organização ou decorrido prazo maior que seja indicado nessa notificação.
 
-###### ARTIGO 31 — Suspensão
+ARTIGO 31
+
+Suspensão
 
 1) No caso de hostilidade ou de outras circunstâncias extraordinárias que afectem os interesses vitais de um Estado cujo Governo for um Governo contratante, pode esse Governo suspender, no todo ou em parte, a execução da Convenção. O Governo que usar dessa faculdade deve imediatamente avisar a Organização dessa suspensão.
 
@@ -2320,7 +2406,9 @@ d) Pela maioria de 2/3 dos membros presentes que tenham direito a voto, uma conf
 
 4) A Organização notificará todos os Governos contratantes de qualquer suspensão ou do termo de suspensão resolvida ao abrigo deste artigo.
 
-###### ARTIGO 32 — Territórios
+ARTIGO 32
+
+Territórios
 
 1):
 
@@ -2336,13 +2424,17 @@ b) A presente Convenção deixa de ser extensiva a qualquer território menciona
 
 3) A Organização informará todos os Governos contratantes da extensão da presente Convenção a qualquer território em conformidade com o parágrafo 1) do presente artigo, ou da cessação dessa extensão, conforme as disposições do parágrafo 2), indicando, em cada um dos casos, a data em que a presente Convenção passará a ser, ou deixará de ser, aplicável.
 
-###### ARTIGO 33 — Registo
+ARTIGO 33
+
+Registo
 
 1) A presente Convenção será depositada na Organização e o seu secretário-geral. enviará cópias autênticas a todos os Governos signatários, assim como a todos os Governos que a ela aderirem.
 
 2) Logo que a presente Convenção entrar em vigor será registada pela Organização em conformidade com o artigo 102 da Carta das Nações Unidas.
 
-###### ARTIGO 34 — Línguas
+ARTIGO 34
+
+Línguas
 
 A presente Convenção é feita num só exemplar, nas línguas inglesa e francesa, sendo ambos os textos igualmente autênticos. Serão preparadas e depositadas com o original assinado as traduções oficiais na línguas russa e espanhola.
 
@@ -2350,9 +2442,13 @@ Em fé do que os abaixo assinados, devidamente autorizados pelos seus Governos r
 
 Feita em Londres aos 5 de Abril de 1966.
 
-## ANEXO I — Regras para determinação das linhas de carga
+ANEXO I
 
-### CAPÍTULO I — Generalidades
+Regras para determinação das linhas de carga
+
+CAPÍTULO I
+
+Generalidades
 
 As regras pressupõem que a natureza e estiva da carga, o lastro, etc., são tais que asseguram ao navio estabilidade suficiente e evitam a fadiga excessiva da estrutura.
 
@@ -2410,9 +2506,9 @@ S é o comprimento total das superstruturas como está definido no parágrafo 10
 
 b) O pontal de bordo livre (P) de um navio que tenha trincaniz arredondado com um raio superior a 4 por cento da boca (B) ou que tenha obras mortas de forma não habitual, é o pontal de bordo livre de um navio que tenha amuradas verticais e a flecha e área transversal da parte alta igual à da secção mestra do navio real.
 
-7) Coeficiente de finura total. - O coeficiente de finura total (C(índice b)) é dado pela fórmula [([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf) na qual:
+7) Coeficiente de finura total. - O coeficiente de finura total (C(índice b)) é dado pela fórmula [(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf) na qual:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 8) Bordo livre. - O bordo livre fixado é a distância medida verticalmente a meio navio desde o bordo superior da linha do pavimento de bordo livre até ao bordo superior da faixa horizontal que representa a linha de carga adequada.
 
@@ -2460,11 +2556,11 @@ Linhas usadas com a marca do bordo livre
 
 (9") de comprimento e 25 mm (1") de largura, dispostas perpendicularmente a uma faixa vertical de 25 mm de largura, situada à distância de 540 mm (21") para vante do centro do disco. Salvas as disposições expressas em contrário, a seguir mencionadas, as faixas são traçadas para vante desta faixa vertical (fig. 2).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Da Fig. 1 à Fig. 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 2) As linhas utilizadas são as seguintes:
 
@@ -2524,7 +2620,9 @@ Verificação das marcas
 
 Só depois de o funcionário ou inspector que actua por força das disposições do artigo 13 da presente Convenção ter verificado que as marcas estão colocadas correctamente e de forma permanente no costado do navio é que deve ser entregue o Certificado Internacional das Linhas de Carga, 1966.
 
-### CAPÍTULO II — Condições para a atribuição do bordo livre
+CAPÍTULO II
+
+Condições para a atribuição do bordo livre
 
 Regra 10
 
@@ -2738,7 +2836,7 @@ Nestas fórmulas não é necessário dar a c um valor superior a 0,7 C. Se a bor
 
 3) Nos navios providos de tronco que não satisfaça os requisitos da regra 36, parágrafo 1), e), ou nos navios em que as braçolas laterais da escotilha se prolongam de modo contínuo ou quase contínuo entre superstruturas separadas, a área mínima das aberturas dos resbordos de descarga deve ser determinada pela tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para as larguras intermédias, a secção das braçolas de descarga obtém-se por interpolação linear.
 
@@ -2786,7 +2884,9 @@ Disposições para a saída da água do mar:
 
 6) Quando as superstruturas forem ligadas por troncos, devem ser previstas balaustradas a todo o comprimento das zonas expostas do pavimento do bordo livre.
 
-### CAPÍTULO III — Bordos livres
+CAPÍTULO III
+
+Bordos livres
 
 Regra 27
 
@@ -2852,7 +2952,7 @@ A altura do centro de gravidade acima da linha de água zero é avaliada admitin
 
 Aumento do bordo livre em relação ao bordo livre tabular para os navios de tipo «B» cujas coberturas das escotilhas não satisfazem às disposições das regras 15, parágrafo 7), ou 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os comprimentos intermédios, os valores obtêm-se por interpolação linear.
 
@@ -2860,7 +2960,7 @@ O bordo livre dos navios de comprimento superior a 200 m será fixado pela admin
 
 Aumento do bordo livre em relação ao bordo livre tabular para os navios de tipo «B» cujas coberturas das escotilhas não satisfazem às disposições das regras 15, parágrafo 7), ou 16.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os comprimentos intermédios, os valores obtêm-se por interpolação linear.
 
@@ -2880,7 +2980,7 @@ Tabela A
 
 Tabela do bordo livre dos navios do tipo «A»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os navios de comprimento intermédio, o bordo livre obtém-se por interpolação linear.
 
@@ -2890,7 +2990,7 @@ Tabela A
 
 Tabela do bordo livre dos navios do tipo «A»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os comprimentos intermédios, o bordo livre obtém-se por interpolação linear.
 
@@ -2904,13 +3004,13 @@ Tabela B
 
 Tabela do bordo livre dos navios do tipo «B»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os comprimentos intermédios, o bordo livre obtém-se por interpolação linear.
 
 O bordo livre dos navios de comprimento superior a 365 m será fixado pela administração.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Tabela B
 
@@ -2970,11 +3070,11 @@ A altura normal de uma superstrutura é a que figura na tabela seguinte:
 
 Altura normal (em metros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Altura normal (em pés)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para comprimentos intermédios do navio, as alturas normais obtêm-se por interpolação linear.
 
@@ -3034,7 +3134,7 @@ Deduções para superstruturas e troncos
 
 1) Quando o comprimento efectivo das superstruturas e dos troncos for igual a C, a redução do bordo livre deve ser a da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para comprimentos intermédios os valores obtêm-se por interpolação linear.
 
@@ -3042,13 +3142,13 @@ Para comprimentos intermédios os valores obtêm-se por interpolação linear.
 
 Percentagem de redução para os navios do tipo «A»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para comprimentos intermédios de superstruturas, os valores obtêm-se por interpolação linear.
 
 Percentagem de redução para os navios do tipo «B»
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para comprimentos intermédios de superstruturas, os valores obtêm-se por interpolação linear.
 
@@ -3092,13 +3192,13 @@ Tosado normal
 
 (C em metros)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Tosado normal
 
 (C em pés)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Medida das variações do tosado relativamente ao que é considerado normal:
 
@@ -3210,7 +3310,9 @@ T é o número de toneladas por centímetro (por polegada) de imersão em água 
 
 8) Se o deslocamento na linha de carga de Verão não puder ser determinado de maneira certa, a dedução deve ser igual a 1/48 da imersão de Verão, medida da face superior da quilha até ao centro do disco da marca do bordo livre.
 
-### CAPÍTULO IV — Disposições especiais para navios com bordo livre para transporte de madeira no convés
+CAPÍTULO IV
+
+Disposições especiais para navios com bordo livre para transporte de madeira no convés
 
 Regra 41
 
@@ -3288,7 +3390,7 @@ Cálculo do bordo livre
 
 1) Os bordos livres mínimos de Verão são calculados segundo as disposições das regras 27, parágrafos 5), 6) e 11), 28, 29, 30, 31, 32, 37 e 38, substituindo-se as percentagens dadas pela regra 37 pelas seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Para os comprimentos intermédios das superstruturas, as percentagens obtêm-se por interpolação linear.
 
@@ -3300,7 +3402,9 @@ Para os comprimentos intermédios das superstruturas, as percentagens obtêm-se 
 
 5) O bordo livre de água doce para carregamentos de madeira obtém-se por aplicação da regra 40, parágrafo 7), com base na linha de água carregada com madeira no Verão.
 
-## ANEXO II — Zonas, áreas e regiões periódicas
+ANEXO II
+
+Zonas, áreas e regiões periódicas
 
 As zonas e regiões do presente Anexo baseiam-se, em geral, nos seguintes critérios:
 
@@ -3568,9 +3672,11 @@ a) A parte da zona periódica de Inverno II do Norte do Atlântico situada entre
 
 b) O conjunto da zona periódica de Inverno I do Norte do Atlântico. As ilhas Shetland consideram-se situadas no limite.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
-## ANEXO III — CERTIFICADOS
+ANEXO III
+
+CERTIFICADOS
 
 CERTIFICADO INTERNACIONAL DAS LINHAS DE CARGA, 1966
 
@@ -3578,7 +3684,7 @@ CERTIFICADO INTERNACIONAL DAS LINHAS DE CARGA, 1966
 
 Passado nos termos da Convenção Internacional das Linhas de Carga, 1966, sob a autoridade do Governo de ... (Designação oficial, por extenso, do país) por ... (Designação oficial por extenso da pessoa competente ou organização autorizada, conforme as disposições da Convenção Internacional das Linhas de Carga, 1966).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Riscar o que não for aplicável.
 
@@ -3622,7 +3728,7 @@ Nota. - Não necessitam de ser registados no certificado os bordos livres e as l
 
 O limite superior da faixa a partir da qual estão medidos os bordos livres está a ... mm (polegadas) da intersecção do prolongamento da superfície superior do pavimento do bordo livre com a superfície exterior do costado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Data da vistoria inicial ou da periódica ...
 
@@ -3700,7 +3806,7 @@ CERTIFICADO INTERNACIONAL DE ISENÇÃO DO BORDO LIVRE
 
 Passado em virtude das disposições da Convenção Internacional das Linhas de Carga, 1966, em nome do Governo de ... (Nome oficial completo do país) ... por ... (Título oficial completo do funcionário ou da entidade autorizada em virtude das disposições da Convenção acima mencionada).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf))](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/08/19901/10791141.pdf)
 
 Certifica-se que o navio acima mencionado está isento, por aplicação das disposições do artigo 6, parágrafo 2)(ver nota *), artigo 6, parágrafo 4)(ver nota *), da Convenção Internacional das Linhas de Carga, 1966, das disposições desta Convenção.
 
